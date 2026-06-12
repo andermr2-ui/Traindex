@@ -3350,9 +3350,7 @@ function renderLocalCatalog() {
         });
       });
     });
-    var isCountryCollapsed = state.collapsedCatalogs[countryKey];
-    
-    return '<details class="catalog-group" ' + (!isCountryCollapsed ? 'open' : '') + 
+    return '<details class="catalog-group"' + 
       ' ontoggle="state.collapsedCatalogs[\'' + countryKey + '\'] = !this.open">' +
       '<summary style="font-size:14px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.12);padding:10px 14px;border-radius:8px;margin-bottom:4px;">\ud83c\udf0d ' + countryKey + ' <span class="group-count">' + countryCount + '</span></summary>' +
       '<div style="margin-left:4px;">' +
@@ -3374,9 +3372,7 @@ function renderLocalCatalog() {
             });
           });
         });
-        var isCCollapsed = state.collapsedProvince[countryKey + '_' + ccaaKey];
-        
-        return '<details class="catalog-group" ' + (!isCCollapsed ? 'open' : '') + 
+        return '<details class="catalog-group"' + 
           ' ontoggle="state.collapsedProvince[\'' + countryKey + '_' + ccaaKey + '\'] = !this.open" style="margin:4px 0 4px 8px;">' +
           '<summary style="font-size:12px;font-weight:700;color:#e2e8f0;padding:6px 8px;cursor:pointer;">\ud83d\uddfa\ufe0f ' + ccaaKey + ' <span class="group-count">' + ccaaCount + '</span></summary>' +
           '<div style="margin-left:8px;">' +
@@ -3388,8 +3384,7 @@ function renderLocalCatalog() {
                 provCount += provNode.byOp[ok].byNet[nk].length;
               });
             });
-            var isPCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey];
-            return '<details class="catalog-group" ' + (!isPCollapsed ? 'open' : '') + 
+            return '<details class="catalog-group"' + 
               ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '\'] = !this.open" style="margin:2px 0 2px 8px;">' +
               '<summary style="font-size:11px;font-weight:700;color:#cbd5e1;padding:4px 6px;cursor:pointer;">\ud83d\udccd ' + provKey + ' <span class="group-count">' + provCount + '</span></summary>' +
               '<div style="margin-left:8px;">' +
@@ -3402,7 +3397,7 @@ function renderLocalCatalog() {
                   '<div style="padding:6px 0 6px 6px;border-left:1.5px dashed var(--border);margin-left:8px;display:flex;flex-direction:column;gap:6px;">' +
                   Object.keys(opNode.byNet).sort(function(a, b) { return a.localeCompare(b); }).map(function(netKey) {
                     var netLines = opNode.byNet[netKey];
-                    return '<details class="catalog-group" style="margin:2px 0 2px 8px;" open>' +
+                    return '<details class="catalog-group" style="margin:2px 0 2px 8px;">' +
                       '<summary style="font-size:10px;font-weight:500;color:#7aa2e7;padding:3px 6px;cursor:pointer;letter-spacing:0.3px;">\u2699\ufe0f ' + netKey + ' <span class="group-count" style="margin-left:auto;font-size:10px;background:rgba(255,255,255,0.08);padding:2px 6px;border-radius:999px;">' + netLines.length + '</span></summary>' +
                       '<div style="padding:4px 0 4px 6px;border-left:1px dotted rgba(122,162,231,0.25);margin-left:6px;display:flex;flex-direction:column;gap:4px;">' +
                       netLines.sort(function(a, b) { return (a.name || '').localeCompare(b.name || ''); }).map(function(line) { return createCatalogLineHtml(line); }).join('') +
