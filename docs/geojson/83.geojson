@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "83",
+        "name": "MD 51 Mérida - Ciudad Real",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.34305,
+            38.92159
+          ],
+          [
+            -5.89129,
+            39.08594
+          ],
+          [
+            -5.7965,
+            38.96868
+          ],
+          [
+            -5.63343,
+            38.76423
+          ],
+          [
+            -5.22708,
+            38.72394
+          ],
+          [
+            -4.73031,
+            38.74053
+          ],
+          [
+            -4.11194,
+            38.69129
+          ],
+          [
+            -3.91314,
+            38.98487
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERIDA",
+        "name": "Mérida",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34305,
+          38.92159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DONBENITO",
+        "name": "Don Benito",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.89129,
+          39.08594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADELASERENA",
+        "name": "Villanueva de la Serena",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7965,
+          38.96868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTUERA",
+        "name": "Castuera",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.63343,
+          38.76423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABEZADELBUEY",
+        "name": "Cabeza del Buey",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.22708,
+          38.72394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMADENALMADENEJOS",
+        "name": "Almadén-Almadenejos",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.73031,
+          38.74053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLLANO",
+        "name": "Puertollano",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11194,
+          38.69129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "MD 51 Mérida - Ciudad Real"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    }
+  ]
+}

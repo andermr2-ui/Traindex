@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "245",
+        "name": "C-3 Llamaquique - San Juan de Nieva",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.85738,
+            43.3588
+          ],
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.82714,
+            43.38817
+          ],
+          [
+            -5.81212,
+            43.40437
+          ],
+          [
+            -5.81581,
+            43.44238
+          ],
+          [
+            -5.82634,
+            43.46151
+          ],
+          [
+            -5.86148,
+            43.47606
+          ],
+          [
+            -5.60145,
+            43.37753
+          ],
+          [
+            -5.86995,
+            43.52344
+          ],
+          [
+            -5.87422,
+            43.55187
+          ],
+          [
+            -5.89657,
+            43.5543
+          ],
+          [
+            -5.92296,
+            43.56148
+          ],
+          [
+            -5.92296,
+            43.56148
+          ],
+          [
+            -5.94569,
+            37.01852
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLAMAQUIQUE",
+        "name": "Llamaquique",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85738,
+          43.3588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACORREDORIA",
+        "name": "La Corredoria",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82714,
+          43.38817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUGONES",
+        "name": "Lugones",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81212,
+          43.40437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUGODELLANERA",
+        "name": "Lugo de Llanera",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81581,
+          43.44238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLABONADEASTURIAS",
+        "name": "Villabona de Asturias",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82634,
+          43.46151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FERRONES",
+        "name": "Ferroñes",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86148,
+          43.47606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSCORROS",
+        "name": "Los Corros",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.60145,
+          43.37753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUBLEDO",
+        "name": "Nubledo",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86995,
+          43.52344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRASONA",
+        "name": "Trasona",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87422,
+          43.55187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLARANES",
+        "name": "Llaranes",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.89657,
+          43.5543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVILES",
+        "name": "Avilés",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92296,
+          43.56148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVILESAPEADERO",
+        "name": "Avilés Apeadero",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92296,
+          43.56148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANJUANDENIEVA",
+        "name": "San Juan de Nieva",
+        "line": "C-3 Llamaquique - San Juan de Nieva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94569,
+          37.01852
+        ]
+      }
+    }
+  ]
+}

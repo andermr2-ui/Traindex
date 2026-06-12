@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "389",
+        "name": "MD 65 Sevilla - Cádiz[3]",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.97911,
+            37.37821
+          ],
+          [
+            -5.97582,
+            37.36281
+          ],
+          [
+            -5.92332,
+            37.28722
+          ],
+          [
+            -5.79024,
+            37.18334
+          ],
+          [
+            -5.94541,
+            37.01851
+          ],
+          [
+            -6.0952,
+            36.91154
+          ],
+          [
+            -6.06645,
+            36.75123
+          ],
+          [
+            -6.1261,
+            36.67981
+          ],
+          [
+            -6.217,
+            36.6042
+          ],
+          [
+            -6.1853,
+            36.53083
+          ],
+          [
+            -6.20688,
+            36.46792
+          ],
+          [
+            -6.27205,
+            36.50292
+          ],
+          [
+            -6.27696,
+            36.5135
+          ],
+          [
+            -5.98418,
+            37.38296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANBERNARDO",
+        "name": "Sevilla-San Bernardo",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97911,
+          37.37821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRGENDELROCIO",
+        "name": "Virgen del Rocío",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97582,
+          37.36281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOSHERMANAS",
+        "name": "Dos Hermanas",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92332,
+          37.28722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTRERA",
+        "name": "Utrera",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.79024,
+          37.18334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASCABEZASDESANJUAN",
+        "name": "Las Cabezas de San Juan",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94541,
+          37.01851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEBRIJA",
+        "name": "Lebrija",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0952,
+          36.91154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTODEJEREZ",
+        "name": "Aeropuerto de Jerez",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.06645,
+          36.75123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JEREZDELAFRONTERA",
+        "name": "Jerez de la Frontera",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1261,
+          36.67981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUERTODESANTAMARIA",
+        "name": "El Puerto de Santa María",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.217,
+          36.6042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOREAL",
+        "name": "Puerto Real",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1853,
+          36.53083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOBAHIASUR",
+        "name": "San Fernando-Bahía Sur",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20688,
+          36.46792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTADIO",
+        "name": "Estadio",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27205,
+          36.50292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGUNDAAGUADA",
+        "name": "Segunda Aguada",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27696,
+          36.5135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CADIZ",
+        "name": "Cádiz",
+        "line": "MD 65 Sevilla - Cádiz[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98418,
+          37.38296
+        ]
+      }
+    }
+  ]
+}

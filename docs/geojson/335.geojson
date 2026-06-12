@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "335",
+        "name": "Alvia Madrid - Badajoz",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.77236,
+            40.32809
+          ],
+          [
+            -4.28316,
+            39.97881
+          ],
+          [
+            -4.82654,
+            39.97063
+          ],
+          [
+            -5.18621,
+            39.92185
+          ],
+          [
+            -5.54565,
+            39.89496
+          ],
+          [
+            -6.09963,
+            40.02226
+          ],
+          [
+            -6.09963,
+            40.02226
+          ],
+          [
+            -6.38572,
+            39.46118
+          ],
+          [
+            -6.34305,
+            38.92159
+          ],
+          [
+            -6.59867,
+            38.91358
+          ],
+          [
+            -6.98162,
+            38.89073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGANES",
+        "name": "Leganés",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77236,
+          40.32809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRIJOS",
+        "name": "Torrijos",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28316,
+          39.97881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TALAVERADELAREINA",
+        "name": "Talavera de la Reina",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.82654,
+          39.97063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OROPESADETOLEDO",
+        "name": "Oropesa de Toledo",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.18621,
+          39.92185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVALMORALDELAMATA",
+        "name": "Navalmoral de la Mata",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54565,
+          39.89496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFRAGUEPLASENCIA",
+        "name": "Monfragüe-Plasencia",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.09963,
+          40.02226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLASENCIA",
+        "name": "Plasencia",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.09963,
+          40.02226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CACERES",
+        "name": "Cáceres",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.38572,
+          39.46118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERIDA",
+        "name": "Mérida",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34305,
+          38.92159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTIJO",
+        "name": "Montijo",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.59867,
+          38.91358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADAJOZ",
+        "name": "Badajoz",
+        "line": "Alvia Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98162,
+          38.89073
+        ]
+      }
+    }
+  ]
+}

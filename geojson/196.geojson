@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "196",
+        "name": "Funicular de Gelida",
+        "line_type": "Funicular",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.86474,
+            41.44816
+          ],
+          [
+            1.86459,
+            41.44059
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GELIDAINAFERIOR",
+        "name": "Gelida Inferior",
+        "line": "Funicular de Gelida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86474,
+          41.44816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GELIDASUPERIOR",
+        "name": "Gelida Superior",
+        "line": "Funicular de Gelida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86459,
+          41.44059
+        ]
+      }
+    }
+  ]
+}

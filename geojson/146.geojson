@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "146",
+        "name": "ML3 Colonia Jardín - Boadilla",
+        "line_type": "Tranvía",
+        "operator": "Metro Ligero Oeste"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.7748,
+            40.39686
+          ],
+          [
+            -3.78399,
+            40.39709
+          ],
+          [
+            -3.78992,
+            40.39526
+          ],
+          [
+            -3.79568,
+            40.39454
+          ],
+          [
+            -5.95041,
+            37.36777
+          ],
+          [
+            -3.81674,
+            40.39872
+          ],
+          [
+            -3.83579,
+            40.39794
+          ],
+          [
+            -3.83807,
+            40.3942
+          ],
+          [
+            -3.84769,
+            40.39502
+          ],
+          [
+            -3.86433,
+            40.39529
+          ],
+          [
+            -3.87938,
+            40.40197
+          ],
+          [
+            -3.88008,
+            40.40717
+          ],
+          [
+            -3.88569,
+            40.40564
+          ],
+          [
+            -3.89264,
+            40.40513
+          ],
+          [
+            -3.89741,
+            40.40594
+          ],
+          [
+            -3.90401,
+            40.40785
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLONIAJARDIN",
+        "name": "Colonia Jardín",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7748,
+          40.39686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADDELAIMAGEN",
+        "name": "Ciudad de la Imagen",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78399,
+          40.39709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JOSEISBERT",
+        "name": "José Isbert",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78992,
+          40.39526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADDELCINE",
+        "name": "Ciudad del Cine",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79568,
+          40.39454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COCHERAS-Sevilla-Sevilla",
+        "name": "Cocheras",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.95041,
+          37.36777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RETAMARES",
+        "name": "Retamares",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81674,
+          40.39872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEPRINCIPE",
+        "name": "Montepríncipe",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83579,
+          40.39794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTORRODELCANO",
+        "name": "Ventorro del Cano",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83807,
+          40.3942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADODELESPINO",
+        "name": "Prado del Espino",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84769,
+          40.39502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANTABRIA",
+        "name": "Cantabria",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86433,
+          40.39529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FERIALDEBOADILLA",
+        "name": "Ferial de Boadilla",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.87938,
+          40.40197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOADILLACENTRO",
+        "name": "Boadilla Centro",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.88008,
+          40.40717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOMUNDO",
+        "name": "Nuevo Mundo",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.88569,
+          40.40564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SIGLOXXI",
+        "name": "Siglo XXI",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.89264,
+          40.40513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INFANTEDONLUIS",
+        "name": "Infante Don Luis",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.89741,
+          40.40594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTADEBOADILLA",
+        "name": "Puerta de Boadilla",
+        "line": "ML3 Colonia Jardín - Boadilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.90401,
+          40.40785
+        ]
+      }
+    }
+  ]
+}

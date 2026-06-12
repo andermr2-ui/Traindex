@@ -1,0 +1,570 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "273",
+        "name": "C-1 Irun - Brinkola",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.80058,
+            43.33921
+          ],
+          [
+            -1.81706,
+            43.33036
+          ],
+          [
+            -1.89869,
+            43.31101
+          ],
+          [
+            -1.91707,
+            43.31898
+          ],
+          [
+            -1.93671,
+            43.31962
+          ],
+          [
+            -1.95487,
+            43.31423
+          ],
+          [
+            -1.95892,
+            43.32033
+          ],
+          [
+            -1.9733,
+            43.32194
+          ],
+          [
+            -2.00642,
+            43.31915
+          ],
+          [
+            -1.96796,
+            43.31049
+          ],
+          [
+            -1.95628,
+            43.29908
+          ],
+          [
+            -1.96379,
+            43.2724
+          ],
+          [
+            -1.96379,
+            43.2724
+          ],
+          [
+            -1.97412,
+            43.22169
+          ],
+          [
+            -2.01562,
+            43.22214
+          ],
+          [
+            -2.01562,
+            43.22214
+          ],
+          [
+            -2.07,
+            43.2
+          ],
+          [
+            -1.97481,
+            43.30226
+          ],
+          [
+            -2.07914,
+            43.13564
+          ],
+          [
+            -2.07914,
+            43.13564
+          ],
+          [
+            -2.09722,
+            43.10188
+          ],
+          [
+            -2.1255,
+            43.09396
+          ],
+          [
+            -2.14096,
+            43.0858
+          ],
+          [
+            -2.16253,
+            43.06837
+          ],
+          [
+            -2.17922,
+            43.05261
+          ],
+          [
+            -2.20234,
+            43.0461
+          ],
+          [
+            -2.31988,
+            43.08701
+          ],
+          [
+            -3.69496,
+            40.39144
+          ],
+          [
+            -2.33447,
+            43.0188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IRUN",
+        "name": "Irún",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.80058,
+          43.33921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENTAK",
+        "name": "Bentak",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81706,
+          43.33036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEZOERRENTERIA",
+        "name": "Lezo-Errenteria",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89869,
+          43.31101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASAIA",
+        "name": "Pasaia",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.91707,
+          43.31898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRERA",
+        "name": "Herrera",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93671,
+          43.31962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INTXAURRONDO",
+        "name": "Intxaurrondo",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95487,
+          43.31423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATEGORRIETA",
+        "name": "Ategorrieta",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95892,
+          43.32033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GROS",
+        "name": "Gros",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9733,
+          43.32194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DONOSTIA",
+        "name": "Donostia",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00642,
+          43.31915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOIOLA",
+        "name": "Loiola",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.96796,
+          43.31049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARTUTENE",
+        "name": "Martutene",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95628,
+          43.29908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERNANI",
+        "name": "Hernani",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.96379,
+          43.2724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERNANIERDIA",
+        "name": "Hernani-Erdia",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.96379,
+          43.2724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URNIETA",
+        "name": "Urnieta",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97412,
+          43.22169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANDOAIN",
+        "name": "Andoain",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01562,
+          43.22214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANDOAINERDIA",
+        "name": "Andoain-Erdia",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01562,
+          43.22214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BILLABONAZIZURKIL",
+        "name": "Billabona-Zizurkil",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07,
+          43.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANOETADONOSTIA-Gipuzkoa-Anoeta",
+        "name": "Anoeta",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97481,
+          43.30226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOLOSAERDIA",
+        "name": "Tolosa-Erdia",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07914,
+          43.13564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOLOSA",
+        "name": "Tolosa",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07914,
+          43.13564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALEGIA",
+        "name": "Alegia",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.09722,
+          43.10188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IKAZTEGIETA",
+        "name": "Ikaztegieta",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1255,
+          43.09396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGORRETA",
+        "name": "Legorreta",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14096,
+          43.0858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ITSASONDO",
+        "name": "Itsasondo",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16253,
+          43.06837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORDIZIA",
+        "name": "Ordizia",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17922,
+          43.05261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEASAIN",
+        "name": "Beasain",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.20234,
+          43.0461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUMARRAGA",
+        "name": "Zumárraga",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.31988,
+          43.08701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGAZPI-Madrid-Madrid",
+        "name": "Legazpi",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69496,
+          40.39144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BRINKOLA",
+        "name": "Brinkola",
+        "line": "C-1 Irun - Brinkola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33447,
+          43.0188
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "260",
+        "name": "E1 Bilbao Matiko - Donostia Amara",
+        "line_type": "Suburbano",
+        "operator": "Euskotren"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.92546,
+            43.26903
+          ],
+          [
+            -2.91995,
+            43.26684
+          ],
+          [
+            -3.70193,
+            40.42927
+          ],
+          [
+            -2.91372,
+            43.26373
+          ],
+          [
+            -2.90643,
+            43.25916
+          ],
+          [
+            -2.89869,
+            43.25869
+          ],
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.87587,
+            43.22762
+          ],
+          [
+            -2.85419,
+            43.22878
+          ],
+          [
+            -2.82176,
+            43.21774
+          ],
+          [
+            -2.79761,
+            43.20612
+          ],
+          [
+            -2.77541,
+            43.20714
+          ],
+          [
+            -2.73646,
+            43.21676
+          ],
+          [
+            -2.73646,
+            43.21676
+          ],
+          [
+            -2.63455,
+            43.1694
+          ],
+          [
+            -2.61256,
+            43.16527
+          ],
+          [
+            -2.57443,
+            43.16846
+          ],
+          [
+            -2.54802,
+            43.17163
+          ],
+          [
+            -2.50117,
+            43.18483
+          ],
+          [
+            -2.50117,
+            43.18483
+          ],
+          [
+            -2.50117,
+            43.18483
+          ],
+          [
+            -2.48727,
+            43.18069
+          ],
+          [
+            -2.48026,
+            43.18456
+          ],
+          [
+            -2.46567,
+            43.18711
+          ],
+          [
+            -2.46567,
+            43.18711
+          ],
+          [
+            -2.45502,
+            43.19039
+          ],
+          [
+            -2.41583,
+            43.2136
+          ],
+          [
+            -2.41583,
+            43.2136
+          ],
+          [
+            -2.41583,
+            43.2136
+          ],
+          [
+            -2.3879,
+            43.2522
+          ],
+          [
+            -2.35555,
+            43.29364
+          ],
+          [
+            -2.26718,
+            43.27895
+          ],
+          [
+            -2.2518,
+            43.29154
+          ],
+          [
+            -2.17106,
+            43.28421
+          ],
+          [
+            -2.17106,
+            43.28421
+          ],
+          [
+            -2.12646,
+            43.27421
+          ],
+          [
+            -2.0354,
+            43.2774
+          ],
+          [
+            -2.00743,
+            43.27876
+          ],
+          [
+            -1.99463,
+            43.29182
+          ],
+          [
+            -2.0007,
+            43.30243
+          ],
+          [
+            -1.98153,
+            43.31268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATIKOBILBAO",
+        "name": "Matiko-Bilbao",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92546,
+          43.26903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URIBARRIBILBAO",
+        "name": "Uribarri-Bilbao",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91995,
+          43.26684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAZPIKALEAKBILBAO",
+        "name": "Zazpikaleak-Bilbao",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70193,
+          40.42927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZURBARANBARRIBILBAO",
+        "name": "Zurbaranbarri-Bilbao",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91372,
+          43.26373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TXURDINAGABILBAO",
+        "name": "Txurdinaga-Bilbao",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90643,
+          43.25916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OTXARKOAGABILBAO",
+        "name": "Otxarkoaga-Bilbao",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89869,
+          43.25869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KUKULLAGAETXEBARRI",
+        "name": "Kukullaga-Etxebarri",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ETXEBARRI",
+        "name": "Etxebarri",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARIZBASAURI",
+        "name": "Ariz-Basauri",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.87587,
+          43.22762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUHATZUGALDAKAO",
+        "name": "Zuhatzu-Galdakao",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.85419,
+          43.22878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-USANSOLO",
+        "name": "Usansolo",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.82176,
+          43.21774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEDIA",
+        "name": "Bedia",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.79761,
+          43.20612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEMOA",
+        "name": "Lemoa",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.77541,
+          43.20714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMOREBIETA",
+        "name": "Amorebieta",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73646,
+          43.21676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUBAAMOREBIETA",
+        "name": "Euba-Amorebieta",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73646,
+          43.21676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DURANGO",
+        "name": "Durango",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.63455,
+          43.1694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRANAABADINO",
+        "name": "Traña-Abadiño",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.61256,
+          43.16527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BERRIZ",
+        "name": "Berriz",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.57443,
+          43.16846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZALDIBAR",
+        "name": "Zaldibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.54802,
+          43.17163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ERMUA",
+        "name": "Ermua",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.50117,
+          43.18483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ERROTABARRIERMUA",
+        "name": "Errotabarri-Ermua",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.50117,
+          43.18483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANLORENTZOERMUA",
+        "name": "San Lorentzo-Ermua",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.50117,
+          43.18483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIBERTSITATEAEIBAR",
+        "name": "Unibertsitatea-Eibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48727,
+          43.18069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMANAEIBAR",
+        "name": "Amaña-Eibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48026,
+          43.18456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARDANTZAEIBAR",
+        "name": "Ardantza-Eibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.46567,
+          43.18711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EIBAR",
+        "name": "Eibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.46567,
+          43.18711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AZITAINEIBAR",
+        "name": "Azitain-Eibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.45502,
+          43.19039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELGOIBAR",
+        "name": "Elgoibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.41583,
+          43.2136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOLETXEGAINELGOIBAR",
+        "name": "Toletxegain-Elgoibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.41583,
+          43.2136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALTZOLAELGOIBAR",
+        "name": "Altzola-Elgoibar",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.41583,
+          43.2136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MENDARO",
+        "name": "Mendaro",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3879,
+          43.2522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DEBA",
+        "name": "Deba",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.35555,
+          43.29364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARROAZESTOA",
+        "name": "Arroa-Zestoa",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.26718,
+          43.27895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUMAIA",
+        "name": "Zumaia",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.2518,
+          43.29154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAUTZ",
+        "name": "Zarautz",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17106,
+          43.28421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPELAIOZARAUTZ",
+        "name": "San Pelaio-Zarautz",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17106,
+          43.28421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AIAORIO",
+        "name": "Aia-Orio",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.12646,
+          43.27421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-USURBIL",
+        "name": "Usurbil",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0354,
+          43.2774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ERREKALDEDONOSTIA",
+        "name": "Errekalde-Donostia",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00743,
+          43.27876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANORGADONOSTIA",
+        "name": "Añorga-Donostia",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.99463,
+          43.29182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUGARITZDONOSTIA",
+        "name": "Lugaritz-Donostia",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0007,
+          43.30243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMARADONOSTIA",
+        "name": "Amara-Donostia",
+        "line": "E1 Bilbao Matiko - Donostia Amara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98153,
+          43.31268
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "365",
+        "name": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.80058,
+            43.33921
+          ],
+          [
+            -1.89869,
+            43.31101
+          ],
+          [
+            -1.91707,
+            43.31898
+          ],
+          [
+            -1.93671,
+            43.31962
+          ],
+          [
+            -1.95487,
+            43.31423
+          ],
+          [
+            -1.95892,
+            43.32033
+          ],
+          [
+            -1.9733,
+            43.32194
+          ],
+          [
+            -3.6346,
+            40.54675
+          ],
+          [
+            -1.96379,
+            43.2724
+          ],
+          [
+            -2.01562,
+            43.22214
+          ],
+          [
+            -2.07,
+            43.2
+          ],
+          [
+            -2.07914,
+            43.13564
+          ],
+          [
+            -2.17922,
+            43.05261
+          ],
+          [
+            -2.20234,
+            43.0461
+          ],
+          [
+            -2.31988,
+            43.08701
+          ],
+          [
+            -2.33048,
+            43.05101
+          ],
+          [
+            -2.18131,
+            42.89541
+          ],
+          [
+            -2.38889,
+            42.84631
+          ],
+          [
+            -2.51463,
+            42.84904
+          ],
+          [
+            -2.6727,
+            42.8413
+          ],
+          [
+            -0.94395,
+            40.21239
+          ],
+          [
+            -2.94114,
+            42.6908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IRUN",
+        "name": "Irún",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.80058,
+          43.33921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEZOERRENTERIA",
+        "name": "Lezo-Errenteria",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89869,
+          43.31101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASAIA",
+        "name": "Pasaia",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.91707,
+          43.31898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRERA",
+        "name": "Herrera",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93671,
+          43.31962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INTXAURRONDO",
+        "name": "Intxaurrondo",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95487,
+          43.31423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATEGORRIETA",
+        "name": "Ategorrieta",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95892,
+          43.32033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GROS",
+        "name": "Gros",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9733,
+          43.32194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANSEBASTIAN",
+        "name": "San Sebastián",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6346,
+          40.54675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERNANI",
+        "name": "Hernani",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.96379,
+          43.2724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANDOAIN",
+        "name": "Andoain",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01562,
+          43.22214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BILLABONAZIZURKIL",
+        "name": "Billabona-Zizurkil",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07,
+          43.2
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOLOSA",
+        "name": "Tolosa",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07914,
+          43.13564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORDIZIA",
+        "name": "Ordizia",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17922,
+          43.05261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEASAIN",
+        "name": "Beasain",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.20234,
+          43.0461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUMARRAGA",
+        "name": "Zumárraga",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.31988,
+          43.08701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGAZPI-Gipuzkoa-Legazpi",
+        "name": "Legazpi",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.33048,
+          43.05101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALSASUA",
+        "name": "Alsasua",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.18131,
+          42.89541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGURAINSALVATIERRA",
+        "name": "Agurain-Salvatierra",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.38889,
+          42.84631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALEGRIADULANTZI",
+        "name": "Alegría-Dulantzi",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.51463,
+          42.84904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUEBLADEVALVERDE",
+        "name": "Puebla de Valverde",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94395,
+          40.21239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRANDADEEBRO",
+        "name": "Miranda de Ebro",
+        "line": "MD Regional Exprés 25 Irún - Vitoria - Miranda de Ebro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94114,
+          42.6908
+        ]
+      }
+    }
+  ]
+}

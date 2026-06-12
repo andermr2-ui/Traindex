@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "190",
+        "name": "T4 Ciutadella - Estació de Sant Adrià",
+        "line_type": "Tranvía",
+        "operator": "Tram"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.19348,
+            41.38785
+          ],
+          [
+            -6.81817,
+            40.60161
+          ],
+          [
+            2.18627,
+            41.395
+          ],
+          [
+            2.1869,
+            41.39755
+          ],
+          [
+            2.18752,
+            41.40221
+          ],
+          [
+            2.19151,
+            41.40439
+          ],
+          [
+            2.19826,
+            41.40621
+          ],
+          [
+            2.98933,
+            42.17229
+          ],
+          [
+            2.20911,
+            41.40801
+          ],
+          [
+            2.43625,
+            41.52955
+          ],
+          [
+            2.21668,
+            41.41178
+          ],
+          [
+            2.15996,
+            41.39596
+          ],
+          [
+            2.22621,
+            41.41886
+          ],
+          [
+            2.23055,
+            41.42433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUTADELLAVILAOLIMPICA",
+        "name": "Ciutadella | Vila Olímpica",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19348,
+          41.38785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-WELLINGTONVITORIA",
+        "name": "Wellington",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81817,
+          40.60161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARINA",
+        "name": "Marina",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18627,
+          41.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AUDITORITEATRENACIONAL",
+        "name": "Auditori | Teatre Nacional",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1869,
+          41.39755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GLORIES",
+        "name": "Glòries",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18752,
+          41.40221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALARANYO",
+        "name": "Ca l'Aranyó",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19151,
+          41.40439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PEREIV",
+        "name": "Pere IV",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19826,
+          41.40621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLUVIA",
+        "name": "Fluvià",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.98933,
+          42.17229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SELVADEMAR",
+        "name": "Selva de Mar",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20911,
+          41.40801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELMARESME",
+        "name": "El Maresme",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43625,
+          41.52955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FORUM",
+        "name": "Fòrum",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21668,
+          41.41178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPUSDIAGONALBESOS",
+        "name": "Campus Diagonal-Besòs",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15996,
+          41.39596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTFORUM",
+        "name": "Port Fòrum",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.22621,
+          41.41886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTACIODESANTADRIA",
+        "name": "Estació de Sant Adrià",
+        "line": "T4 Ciutadella - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23055,
+          41.42433
+        ]
+      }
+    }
+  ]
+}

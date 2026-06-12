@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "144",
+        "name": "ML1 Pinar de Chamartín - Las Tablas",
+        "line_type": "Tranvía",
+        "operator": "Metro Ligero de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.66705,
+            40.48005
+          ],
+          [
+            -3.66306,
+            40.48468
+          ],
+          [
+            -3.66122,
+            40.48724
+          ],
+          [
+            -3.65373,
+            40.48536
+          ],
+          [
+            -3.65138,
+            40.48917
+          ],
+          [
+            -3.65584,
+            40.49367
+          ],
+          [
+            -3.65844,
+            40.4976
+          ],
+          [
+            -3.6651,
+            40.50546
+          ],
+          [
+            -3.66943,
+            40.50834
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINARDECHAMARTIN",
+        "name": "Pinar de Chamartín",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66705,
+          40.48005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTEDELAMORA",
+        "name": "Fuente de la Mora",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66306,
+          40.48468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRGENDELCORTIJO",
+        "name": "Virgen del Cortijo",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66122,
+          40.48724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTONIOSAURA",
+        "name": "Antonio Saura",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65373,
+          40.48536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALVAREZDEVILLAAMIL",
+        "name": "Álvarez de Villaamil",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65138,
+          40.48917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BLASCOIBANEZ",
+        "name": "Blasco Ibáñez",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65584,
+          40.49367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARIATUDOR",
+        "name": "María Tudor",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65844,
+          40.4976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALASDEREY",
+        "name": "Palas de Rey",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6651,
+          40.50546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASTABLAS",
+        "name": "Las Tablas",
+        "line": "ML1 Pinar de Chamartín - Las Tablas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66943,
+          40.50834
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "139",
+        "name": "Línea 9 Paco de Lucía - Arganda del Rey",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.70916,
+            40.49962
+          ],
+          [
+            -3.70801,
+            40.4846
+          ],
+          [
+            -3.67653,
+            40.4618
+          ],
+          [
+            -3.67696,
+            40.45712
+          ],
+          [
+            -3.66705,
+            40.48005
+          ],
+          [
+            -3.67761,
+            40.45133
+          ],
+          [
+            -3.67846,
+            40.44448
+          ],
+          [
+            -3.6773,
+            40.43765
+          ],
+          [
+            -3.66906,
+            40.4222
+          ],
+          [
+            -3.67012,
+            40.40781
+          ],
+          [
+            -3.66967,
+            40.4144
+          ],
+          [
+            -3.67488,
+            40.4014
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.70339,
+            40.41694
+          ],
+          [
+            -3.70596,
+            40.40407
+          ],
+          [
+            -3.7164,
+            40.39745
+          ],
+          [
+            -3.72536,
+            40.39253
+          ],
+          [
+            -3.76549,
+            40.39073
+          ],
+          [
+            -3.75106,
+            40.38442
+          ],
+          [
+            -3.59573,
+            40.40124
+          ],
+          [
+            -3.44752,
+            40.30368
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PACODELUCIA",
+        "name": "Paco de Lucía",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70916,
+          40.49962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRERAORIA",
+        "name": "Herrera Oria",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70801,
+          40.4846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIOXII",
+        "name": "Pío XII",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67653,
+          40.4618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLOMBIA",
+        "name": "Colombia",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67696,
+          40.45712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINARDECHAMARTIN",
+        "name": "Pinar de Chamartín",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66705,
+          40.48005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONCHAESPINA",
+        "name": "Concha Espina",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67761,
+          40.45133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CRUZDELRAYO",
+        "name": "Cruz del Rayo",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67846,
+          40.44448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVENIDADEAMERICA",
+        "name": "Avenida de América",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6773,
+          40.43765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ODONNELL",
+        "name": "O'Donnell",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66906,
+          40.4222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDEDECASAL",
+        "name": "Conde de Casal",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67012,
+          40.40781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAINZDEBARANDA",
+        "name": "Sainz de Baranda",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66967,
+          40.4144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PACIFICO",
+        "name": "Pacífico",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67488,
+          40.4014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHARENFE",
+        "name": "Atocha Renfe",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOL",
+        "name": "Sol",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70339,
+          40.41694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACACIAS",
+        "name": "Acacias",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70596,
+          40.40407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARQUESDEVADILLO",
+        "name": "Marqués de Vadillo",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7164,
+          40.39745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URGEL",
+        "name": "Urgel",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72536,
+          40.39253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EMPALME-Madrid-Madrid",
+        "name": "Empalme",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76549,
+          40.39073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUGENIADEMONTIJO",
+        "name": "Eugenia de Montijo",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75106,
+          40.38442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTADEARGANDA",
+        "name": "Puerta de Arganda",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59573,
+          40.40124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARGANDADELREY",
+        "name": "Arganda del Rey",
+        "line": "Línea 9 Paco de Lucía - Arganda del Rey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.44752,
+          40.30368
+        ]
+      }
+    }
+  ]
+}

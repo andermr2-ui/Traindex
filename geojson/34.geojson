@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "34",
+        "name": "Intercity Valencia - Zaragoza",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.27141,
+            39.67567
+          ],
+          [
+            -1.11042,
+            40.34099
+          ],
+          [
+            -1.22909,
+            41.3358
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.86832,
+            41.63319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGUNT",
+        "name": "Sagunt",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27141,
+          39.67567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERUEL",
+        "name": "Teruel",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11042,
+          40.34099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARINENA",
+        "name": "Cariñena",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.22909,
+          41.3358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "Intercity Valencia - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    }
+  ]
+}

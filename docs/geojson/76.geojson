@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "76",
+        "name": "Regional Palencia - Santander",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            -4.40239,
+            42.26487
+          ],
+          [
+            -4.35728,
+            42.41418
+          ],
+          [
+            -4.31647,
+            42.59868
+          ],
+          [
+            -4.31123,
+            42.65682
+          ],
+          [
+            -4.23375,
+            42.78527
+          ],
+          [
+            -4.14103,
+            42.99434
+          ],
+          [
+            -4.06397,
+            43.25507
+          ],
+          [
+            -4.04246,
+            43.32744
+          ],
+          [
+            -3.81102,
+            43.4583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FROMISTA",
+        "name": "Frómista",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40239,
+          42.26487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OSORNO",
+        "name": "Osorno",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.35728,
+          42.41418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRERADEPISUERGA",
+        "name": "Herrera de Pisuerga",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31647,
+          42.59868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALARDELREY",
+        "name": "Alar del Rey",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31123,
+          42.65682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGUILARDECAMPOO",
+        "name": "Aguilar de Campoo",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23375,
+          42.78527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REINOSA",
+        "name": "Reinosa",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.14103,
+          42.99434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSCORRALESDEBUELNA",
+        "name": "Los Corrales de Buelna",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06397,
+          43.25507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELAVEGA",
+        "name": "Torrelavega",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04246,
+          43.32744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDER",
+        "name": "Santander",
+        "line": "Regional Palencia - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81102,
+          43.4583
+        ]
+      }
+    }
+  ]
+}

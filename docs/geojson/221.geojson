@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "221",
+        "name": "C-2 Murcia del Carmen - Águilas",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -1.20816,
+            37.9665
+          ],
+          [
+            -1.34728,
+            37.88705
+          ],
+          [
+            -1.41449,
+            37.84935
+          ],
+          [
+            -1.57478,
+            37.86234
+          ],
+          [
+            -6.13908,
+            36.41124
+          ],
+          [
+            -1.68561,
+            37.6807
+          ],
+          [
+            -1.69632,
+            37.67193
+          ],
+          [
+            -1.7319,
+            37.58099
+          ],
+          [
+            -1.7495,
+            37.3992
+          ],
+          [
+            -1.6944,
+            37.39464
+          ],
+          [
+            -1.58607,
+            37.41182
+          ],
+          [
+            -3.78038,
+            40.38146
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCANTARILLALOSROMANOS",
+        "name": "Alcantarilla-Los Romanos",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.20816,
+          37.9665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LIBRILLA",
+        "name": "Librilla",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.34728,
+          37.88705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALHAMADEMURCIA",
+        "name": "Alhama de Murcia",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.41449,
+          37.84935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOTANA",
+        "name": "Totana",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.57478,
+          37.86234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAHOYA",
+        "name": "La Hoya",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13908,
+          36.41124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORCASANDIEGO",
+        "name": "Lorca San Diego",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.68561,
+          37.6807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORCASUTULLENA",
+        "name": "Lorca Sutullena",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69632,
+          37.67193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLUMBRERAS",
+        "name": "Puerto Lumbreras",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7319,
+          37.58099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PULPI",
+        "name": "Pulpí",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7495,
+          37.3992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JARAVIA",
+        "name": "Jaravía",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6944,
+          37.39464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGUILASELLABRADORCICO",
+        "name": "Águilas-El Labradorcico",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.58607,
+          37.41182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGUILAS",
+        "name": "Águilas",
+        "line": "C-2 Murcia del Carmen - Águilas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78038,
+          40.38146
+        ]
+      }
+    }
+  ]
+}

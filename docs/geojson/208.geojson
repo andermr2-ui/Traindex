@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "208",
+        "name": "L5 Marítim - Aeroport",
+        "line_type": "Metro",
+        "operator": "Metrovalencia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33863,
+            39.46486
+          ],
+          [
+            -0.34313,
+            39.46777
+          ],
+          [
+            -0.35049,
+            39.47033
+          ],
+          [
+            -0.35754,
+            39.47241
+          ],
+          [
+            -3.69204,
+            40.4258
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.38621,
+            39.47015
+          ],
+          [
+            -0.40687,
+            39.47076
+          ],
+          [
+            -0.41812,
+            39.47399
+          ],
+          [
+            -0.45906,
+            39.48962
+          ],
+          [
+            -0.47437,
+            39.49219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARITIM",
+        "name": "Marítim",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33863,
+          39.46486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AYORA",
+        "name": "Ayora",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34313,
+          39.46777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMISTAT",
+        "name": "Amistat",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35049,
+          39.47033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARAGON",
+        "name": "Aragón",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35754,
+          39.47241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLON",
+        "name": "Colón",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69204,
+          40.4258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANGELGUIMERA",
+        "name": "Àngel Guimerà",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38621,
+          39.47015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NOUDOCTUBRE",
+        "name": "Nou d'Octubre",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40687,
+          39.47076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MISLATA",
+        "name": "Mislata",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.41812,
+          39.47399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANISES",
+        "name": "Manises",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45906,
+          39.48962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPORTVALENCIA",
+        "name": "Aeroport",
+        "line": "L5 Marítim - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47437,
+          39.49219
+        ]
+      }
+    }
+  ]
+}

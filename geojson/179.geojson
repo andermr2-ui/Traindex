@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "179",
+        "name": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo",
+        "line_type": "Metro",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.15798,
+            41.39287
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.14744,
+            41.40133
+          ],
+          [
+            2.14304,
+            41.40331
+          ],
+          [
+            2.13914,
+            41.40581
+          ],
+          [
+            2.13716,
+            41.40966
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PROVENCA",
+        "name": "Provença",
+        "line": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15798,
+          41.39287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACAMOLINA",
+        "name": "Plaça Molina",
+        "line": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14744,
+          41.40133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PADUA",
+        "name": "Pàdua",
+        "line": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14304,
+          41.40331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUTXET",
+        "name": "El Putxet",
+        "line": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13914,
+          41.40581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVINGUDATIBIDABO",
+        "name": "Avinguda Tibidabo",
+        "line": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13716,
+          41.40966
+        ]
+      }
+    }
+  ]
+}

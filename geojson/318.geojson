@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "318",
+        "name": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38121,
+            39.46005
+          ],
+          [
+            -2.14369,
+            40.03396
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -4.11194,
+            38.69129
+          ],
+          [
+            -4.78952,
+            37.88851
+          ],
+          [
+            -3.69995,
+            40.41777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIAJOAQUINSOROLLA",
+        "name": "Valencia-Joaquín Sorolla",
+        "line": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38121,
+          39.46005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCAFERNANDOZOBEL",
+        "name": "Cuenca-Fernando Zóbel",
+        "line": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14369,
+          40.03396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLLANO",
+        "name": "Puertollano",
+        "line": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11194,
+          38.69129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBACENTRAL",
+        "name": "Córdoba-Central",
+        "line": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.78952,
+          37.88851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    }
+  ]
+}

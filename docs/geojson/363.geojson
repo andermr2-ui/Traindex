@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "363",
+        "name": "MD 23 León - Ponferrada - Monforte",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.52214,
+            42.4055
+          ],
+          [
+            -3.64815,
+            40.43311
+          ],
+          [
+            -5.83896,
+            42.46459
+          ],
+          [
+            -5.8875,
+            42.43347
+          ],
+          [
+            -5.96406,
+            42.41444
+          ],
+          [
+            -6.00803,
+            42.42439
+          ],
+          [
+            -6.04706,
+            42.4594
+          ],
+          [
+            -3.52496,
+            43.42303
+          ],
+          [
+            -3.26637,
+            39.50422
+          ],
+          [
+            -6.20097,
+            42.63278
+          ],
+          [
+            -3.65852,
+            40.52743
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -6.42221,
+            42.60954
+          ],
+          [
+            -4.54073,
+            41.87124
+          ],
+          [
+            -6.60249,
+            42.54566
+          ],
+          [
+            -6.75104,
+            42.53685
+          ],
+          [
+            -6.77683,
+            42.54116
+          ],
+          [
+            -6.83082,
+            42.47525
+          ],
+          [
+            -6.82946,
+            42.42064
+          ],
+          [
+            -6.91194,
+            42.41477
+          ],
+          [
+            -6.98505,
+            42.41826
+          ],
+          [
+            -6.98505,
+            42.41826
+          ],
+          [
+            -7.11325,
+            42.39261
+          ],
+          [
+            -7.19455,
+            42.3937
+          ],
+          [
+            -7.28721,
+            42.46517
+          ],
+          [
+            -0.94395,
+            40.21239
+          ],
+          [
+            -7.50314,
+            42.52952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUINTANA-Burgos-MerindaddeMontija",
+        "name": "Quintana",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64815,
+          40.43311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAVANTE2",
+        "name": "Villavante",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83896,
+          42.46459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VEGUELLINA2",
+        "name": "Veguellina",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8875,
+          42.43347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARRIENTOS2",
+        "name": "Barrientos",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.96406,
+          42.41444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NISTAL2",
+        "name": "Nistal",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00803,
+          42.42439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASTORGA",
+        "name": "Astorga",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04706,
+          42.4594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GAMA",
+        "name": "Gama",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.52496,
+          43.42303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERO",
+        "name": "Quero",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26637,
+          39.50422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BRANUELAS2",
+        "name": "Brañuelas",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20097,
+          42.63278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGRANJA",
+        "name": "La Granja",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65852,
+          40.52743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEMBIBRE",
+        "name": "Bembibre",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.42221,
+          42.60954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DUENAS",
+        "name": "Dueñas",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54073,
+          41.87124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONFERRADA",
+        "name": "Ponferrada",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.60249,
+          42.54566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLADEPALOS2",
+        "name": "Villadepalos",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.75104,
+          42.53685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VADOS",
+        "name": "Vados",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77683,
+          42.54116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COVAS3",
+        "name": "Covas",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.83082,
+          42.47525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERENO2",
+        "name": "Quereño",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.82946,
+          42.42064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOBRADELO2",
+        "name": "Sobradelo",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91194,
+          42.41477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELBARCODEVALDEORRAS",
+        "name": "El Barco de Valdeorras",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98505,
+          42.41826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OBARCODEVALDEORRAS",
+        "name": "O Barco de Valdeorras",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98505,
+          42.41826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARUAPETIN",
+        "name": "La Rúa-Petín",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.11325,
+          42.39261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEFURADO2",
+        "name": "Montefurado",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.19455,
+          42.3937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANCLODIOQUIROGA",
+        "name": "San Clodio-Quiroga",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.28721,
+          42.46517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUEBLADEVALVERDE",
+        "name": "Puebla de Valverde",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94395,
+          40.21239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFORTEDELEMOS",
+        "name": "Monforte de Lemos",
+        "line": "MD 23 León - Ponferrada - Monforte"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.50314,
+          42.52952
+        ]
+      }
+    }
+  ]
+}

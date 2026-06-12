@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "178",
+        "name": "L6 Barcelona Plaça Catalunya - Sarrià",
+        "line_type": "Metro",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.15798,
+            41.39287
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.14281,
+            41.39867
+          ],
+          [
+            2.13615,
+            41.39779
+          ],
+          [
+            2.13087,
+            41.39778
+          ],
+          [
+            -7.41365,
+            42.78262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PROVENCA",
+        "name": "Provença",
+        "line": "L6 Barcelona Plaça Catalunya - Sarrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15798,
+          41.39287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "L6 Barcelona Plaça Catalunya - Sarrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUNTANER",
+        "name": "Muntaner",
+        "line": "L6 Barcelona Plaça Catalunya - Sarrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14281,
+          41.39867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LABONANOVA",
+        "name": "La Bonanova",
+        "line": "L6 Barcelona Plaça Catalunya - Sarrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13615,
+          41.39779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESTRESTORRES",
+        "name": "Les Tres Torres",
+        "line": "L6 Barcelona Plaça Catalunya - Sarrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13087,
+          41.39778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRIA-Barcelona-Barcelona",
+        "name": "Sarrià",
+        "line": "L6 Barcelona Plaça Catalunya - Sarrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.41365,
+          42.78262
+        ]
+      }
+    }
+  ]
+}

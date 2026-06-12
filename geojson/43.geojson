@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "43",
+        "name": "Avant Barcelona - Tortosa",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            0.52288,
+            40.80712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "Avant Barcelona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "Avant Barcelona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    }
+  ]
+}

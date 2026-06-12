@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "14",
+        "name": "Alvia Madrid - Cádiz",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -4.11194,
+            38.69129
+          ],
+          [
+            -4.57142,
+            38.25524
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -6.1261,
+            36.67981
+          ],
+          [
+            -6.217,
+            36.6042
+          ],
+          [
+            -6.20688,
+            36.46792
+          ],
+          [
+            -5.98418,
+            37.38296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLLANO",
+        "name": "Puertollano",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11194,
+          38.69129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBA",
+        "name": "Córdoba",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57142,
+          38.25524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JEREZDELAFRONTERA",
+        "name": "Jerez de la Frontera",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1261,
+          36.67981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUERTODESANTAMARIA",
+        "name": "El Puerto de Santa María",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.217,
+          36.6042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOBAHIASUR",
+        "name": "San Fernando-Bahía Sur",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20688,
+          36.46792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CADIZ",
+        "name": "Cádiz",
+        "line": "Alvia Madrid - Cádiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98418,
+          37.38296
+        ]
+      }
+    }
+  ]
+}

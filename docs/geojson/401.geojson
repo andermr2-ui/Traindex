@@ -1,0 +1,912 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "401",
+        "name": "MD 6 Vigo - Orense - Monforte - Ponferrada - León",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.71188,
+            42.23952
+          ],
+          [
+            -8.60372,
+            42.28549
+          ],
+          [
+            -8.62217,
+            42.16414
+          ],
+          [
+            -8.62254,
+            42.06567
+          ],
+          [
+            -8.56641,
+            42.0557
+          ],
+          [
+            -8.49522,
+            42.08171
+          ],
+          [
+            -8.4201,
+            42.07542
+          ],
+          [
+            -8.35596,
+            42.09214
+          ],
+          [
+            -8.30008,
+            42.10694
+          ],
+          [
+            -8.23489,
+            42.13668
+          ],
+          [
+            -8.17,
+            42.16
+          ],
+          [
+            -8.1848,
+            42.21994
+          ],
+          [
+            -8.13902,
+            42.29304
+          ],
+          [
+            -7.87255,
+            42.35069
+          ],
+          [
+            -7.80252,
+            42.40104
+          ],
+          [
+            -7.73559,
+            42.45115
+          ],
+          [
+            -4.27108,
+            41.0746
+          ],
+          [
+            -6.19402,
+            36.47588
+          ],
+          [
+            -7.62927,
+            42.45791
+          ],
+          [
+            -7.25,
+            42.4
+          ],
+          [
+            -7.50314,
+            42.52952
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -7.28721,
+            42.46517
+          ],
+          [
+            -7.19455,
+            42.3937
+          ],
+          [
+            -7.11325,
+            42.39261
+          ],
+          [
+            -6.98505,
+            42.41826
+          ],
+          [
+            -6.98505,
+            42.41826
+          ],
+          [
+            -6.91194,
+            42.41477
+          ],
+          [
+            -6.82946,
+            42.42064
+          ],
+          [
+            -6.83082,
+            42.47525
+          ],
+          [
+            -6.77683,
+            42.54116
+          ],
+          [
+            -6.75104,
+            42.53685
+          ],
+          [
+            -6.60249,
+            42.54566
+          ],
+          [
+            -4.54073,
+            41.87124
+          ],
+          [
+            -6.42221,
+            42.60954
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -3.65852,
+            40.52743
+          ],
+          [
+            -6.20097,
+            42.63278
+          ],
+          [
+            -3.26637,
+            39.50422
+          ],
+          [
+            -3.52496,
+            43.42303
+          ],
+          [
+            -6.04706,
+            42.4594
+          ],
+          [
+            -6.00803,
+            42.42439
+          ],
+          [
+            -5.96406,
+            42.41444
+          ],
+          [
+            -5.8875,
+            42.43347
+          ],
+          [
+            -5.83896,
+            42.46459
+          ],
+          [
+            -3.64815,
+            40.43311
+          ],
+          [
+            -6.52214,
+            42.4055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOGUIXAR",
+        "name": "Vigo-Guixar",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.71188,
+          42.23952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REDONDELA",
+        "name": "Redondela",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.60372,
+          42.28549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OPORRINO",
+        "name": "O Porriño",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62217,
+          42.16414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUILLAREY",
+        "name": "Guillarey",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62254,
+          42.06567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALDELAS",
+        "name": "Caldelas",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.56641,
+          42.0557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALVATERRA",
+        "name": "Salvaterra",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.49522,
+          42.08171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASNEVES",
+        "name": "As Neves",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.4201,
+          42.07542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SELA",
+        "name": "Sela",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.35596,
+          42.09214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARBONERASDEGUADAZAON",
+        "name": "Carboneras de Guadazaón",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30008,
+          42.10694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POUSACRECENTE",
+        "name": "Pousa Crecente",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.23489,
+          42.13668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FRIEIRA",
+        "name": "Frieira",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17,
+          42.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FILGUEIRA",
+        "name": "Filgueira",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1848,
+          42.21994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBADAVIA",
+        "name": "Ribadavia",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.13902,
+          42.29304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARRADEMINO",
+        "name": "Barra de Miño",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.80252,
+          42.40104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OSPEARES",
+        "name": "Os Peares",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.73559,
+          42.45115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPEDRO",
+        "name": "San Pedro",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27108,
+          41.0746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOCENTRO",
+        "name": "San Fernando-Centro",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19402,
+          36.47588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AREAS",
+        "name": "Áreas",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.62927,
+          42.45791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANABAL",
+        "name": "Canabal",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.25,
+          42.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFORTEDELEMOS",
+        "name": "Monforte de Lemos",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.50314,
+          42.52952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANCLODIOQUIROGA",
+        "name": "San Clodio-Quiroga",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.28721,
+          42.46517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEFURADO",
+        "name": "Montefurado",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.19455,
+          42.3937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARUAPETIN",
+        "name": "La Rúa-Petín",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.11325,
+          42.39261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OBARCODEVALDEORRAS",
+        "name": "O Barco de Valdeorras",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98505,
+          42.41826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELBARCODEVALDEORRAS",
+        "name": "El Barco de Valdeorras",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98505,
+          42.41826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOBRADELO",
+        "name": "Sobradelo",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91194,
+          42.41477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERENO",
+        "name": "Quereño",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.82946,
+          42.42064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COVAS",
+        "name": "Covas",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.83082,
+          42.47525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VADOS",
+        "name": "Vados",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77683,
+          42.54116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLADEPALOS",
+        "name": "Villadepalos",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.75104,
+          42.53685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONFERRADA",
+        "name": "Ponferrada",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.60249,
+          42.54566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DUENAS",
+        "name": "Dueñas",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54073,
+          41.87124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEMBIBRE",
+        "name": "Bembibre",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.42221,
+          42.60954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGRANJA",
+        "name": "La Granja",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65852,
+          40.52743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BRANUELAS",
+        "name": "Brañuelas",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20097,
+          42.63278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERO",
+        "name": "Quero",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26637,
+          39.50422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GAMA",
+        "name": "Gama",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.52496,
+          43.42303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASTORGA",
+        "name": "Astorga",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04706,
+          42.4594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NISTAL",
+        "name": "Nistal",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00803,
+          42.42439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARRIENTOS",
+        "name": "Barrientos",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.96406,
+          42.41444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VEGUELLINA",
+        "name": "Veguellina",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8875,
+          42.43347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAVANTE",
+        "name": "Villavante",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83896,
+          42.46459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUINTANA-Burgos-MerindaddeMontija",
+        "name": "Quintana",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64815,
+          40.43311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "MD 6 Vigo - Orense - Monforte - Ponferrada - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    }
+  ]
+}

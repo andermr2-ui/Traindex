@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "212",
+        "name": "L11 Alacant - Canyamelar",
+        "line_type": "Tranvía",
+        "operator": "Metrovalencia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.37777,
+            39.46613
+          ],
+          [
+            -0.36431,
+            39.45784
+          ],
+          [
+            -0.37146,
+            39.44153
+          ],
+          [
+            -0.35255,
+            39.45576
+          ],
+          [
+            0.33786,
+            42.18822
+          ],
+          [
+            -0.33467,
+            39.47007
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALACANT",
+        "name": "Alacant",
+        "line": "L11 Alacant - Canyamelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RUSSAFA",
+        "name": "Russafa",
+        "line": "L11 Alacant - Canyamelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37777,
+          39.46613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMADOGRANELL",
+        "name": "Amado Granell",
+        "line": "L11 Alacant - Canyamelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36431,
+          39.45784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUATRECARRERES",
+        "name": "Quatre Carreres",
+        "line": "L11 Alacant - Canyamelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37146,
+          39.44153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUTATARTISICIENCIES",
+        "name": "Ciutat Arts i Ciències",
+        "line": "L11 Alacant - Canyamelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35255,
+          39.45576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRAUS",
+        "name": "Graus",
+        "line": "L11 Alacant - Canyamelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.33786,
+          42.18822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANYAMELAR",
+        "name": "Canyamelar",
+        "line": "L11 Alacant - Canyamelar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33467,
+          39.47007
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "114",
+        "name": "R17 Barcelona - Port Aventura",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.73082,
+            41.22018
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.1558,
+            41.0851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVAILAGELTRU",
+        "name": "Vilanova i la Geltrú",
+        "line": "R17 Barcelona - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73082,
+          41.22018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "R17 Barcelona - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALOUPORTAVENTURA",
+        "name": "Salou-PortAventura",
+        "line": "R17 Barcelona - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1558,
+          41.0851
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "75",
+        "name": "Regional Madrid - Segovia",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.71903,
+            40.4216
+          ],
+          [
+            -3.42436,
+            37.40025
+          ],
+          [
+            -4.00815,
+            40.62638
+          ],
+          [
+            -4.06603,
+            40.73766
+          ],
+          [
+            -4.12539,
+            40.70563
+          ],
+          [
+            -4.15774,
+            40.71689
+          ],
+          [
+            -4.1814,
+            40.71494
+          ],
+          [
+            -4.18952,
+            40.74084
+          ],
+          [
+            -3.6346,
+            40.54675
+          ],
+          [
+            -5.38997,
+            42.85959
+          ],
+          [
+            -4.11362,
+            40.93404
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPRINCIPEPIO",
+        "name": "Madrid-Príncipe Pío",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71903,
+          40.4216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINAR",
+        "name": "Pinar",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.42436,
+          37.40025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLALBA",
+        "name": "Villalba",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00815,
+          40.62638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERCEDILLA",
+        "name": "Cercedilla",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06603,
+          40.73766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TABLADA",
+        "name": "Tablada",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.12539,
+          40.70563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUDILLOS",
+        "name": "Gudillos",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15774,
+          40.71689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANRAFAEL",
+        "name": "San Rafael",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1814,
+          40.71494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELESPINAR",
+        "name": "El Espinar",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.18952,
+          40.74084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSANGELESDESANRAFAEL",
+        "name": "Los Ángeles de San Rafael",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6346,
+          40.54675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OTERODEHERREROS",
+        "name": "Otero de Herreros",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38997,
+          42.85959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGOVIA",
+        "name": "Segovia",
+        "line": "Regional Madrid - Segovia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11362,
+          40.93404
+        ]
+      }
+    }
+  ]
+}

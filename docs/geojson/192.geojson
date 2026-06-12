@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "192",
+        "name": "T6 Glòries - Estació de Sant Adrià",
+        "line_type": "Tranvía",
+        "operator": "Tram"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.18752,
+            41.40221
+          ],
+          [
+            2.20539,
+            41.53737
+          ],
+          [
+            2.19351,
+            41.40802
+          ],
+          [
+            -0.80013,
+            38.48341
+          ],
+          [
+            2.15798,
+            41.39287
+          ],
+          [
+            2.21354,
+            41.41715
+          ],
+          [
+            2.20971,
+            41.42037
+          ],
+          [
+            2.22195,
+            41.42265
+          ],
+          [
+            1.83336,
+            41.58876
+          ],
+          [
+            2.18252,
+            41.40707
+          ],
+          [
+            2.23369,
+            41.44044
+          ],
+          [
+            2.23055,
+            41.42433
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GLORIES",
+        "name": "Glòries",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18752,
+          41.40221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFARINERA",
+        "name": "La Farinera",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20539,
+          41.53737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANJAUMANDREU",
+        "name": "Can Jaumandreu",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19351,
+          41.40802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPRONCEDA",
+        "name": "Espronceda",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.80013,
+          38.48341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTMARTIDEPROVENCALS",
+        "name": "Sant Martí de Provençals",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15798,
+          41.39287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALFONSELMAGNANIM",
+        "name": "Alfons el Magnànim",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21354,
+          41.41715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARCDELBESOS",
+        "name": "Parc del Besòs",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20971,
+          41.42037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACATALANA",
+        "name": "La Catalana",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.22195,
+          41.42265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTJOANBAPTISTA",
+        "name": "Sant Joan Baptista",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.83336,
+          41.58876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ENCANTSDESANTADRIA",
+        "name": "Encants de Sant Adrià",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18252,
+          41.40707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GORG",
+        "name": "Gorg",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23369,
+          41.44044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTACIODESANTADRIA",
+        "name": "Estació de Sant Adrià",
+        "line": "T6 Glòries - Estació de Sant Adrià"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23055,
+          41.42433
+        ]
+      }
+    }
+  ]
+}

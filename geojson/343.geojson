@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "343",
+        "name": "Avant Alicante - Murcia",
+        "line_type": "Avant",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.76676,
+            38.24539
+          ],
+          [
+            -0.87556,
+            38.13675
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.99549,
+            38.04715
+          ],
+          [
+            -1.13346,
+            37.97658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "Avant Alicante - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEAV",
+        "name": "Elche AV",
+        "line": "Avant Alicante - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.76676,
+          38.24539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALLOSADESEGURACOX",
+        "name": "Callosa de Segura-Cox",
+        "line": "Avant Alicante - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87556,
+          38.13675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "Avant Alicante - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIEL",
+        "name": "Beniel",
+        "line": "Avant Alicante - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99549,
+          38.04715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Avant Alicante - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "201",
+        "name": "C-3 Valencia-Nord - Utiel",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.40262,
+            39.45107
+          ],
+          [
+            -0.43218,
+            39.46257
+          ],
+          [
+            -0.46374,
+            39.46096
+          ],
+          [
+            -0.56738,
+            39.48567
+          ],
+          [
+            -0.68627,
+            39.49078
+          ],
+          [
+            -0.72292,
+            39.47105
+          ],
+          [
+            -0.7874,
+            39.4271
+          ],
+          [
+            -1.13473,
+            39.52175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIASANTISIDRE",
+        "name": "València-Sant Isidre",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40262,
+          39.45107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XIRIVELLAALQUERIES",
+        "name": "Xirivella-Alqueries",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43218,
+          39.46257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALDAIA",
+        "name": "Aldaia",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46374,
+          39.46096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORIGUILLAREVA",
+        "name": "Loriguilla-Reva",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56738,
+          39.48567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHESTE",
+        "name": "Cheste",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.68627,
+          39.49078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHIVA",
+        "name": "Chiva",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.72292,
+          39.47105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BUNOL",
+        "name": "Buñol",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7874,
+          39.4271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTIEL",
+        "name": "Utiel",
+        "line": "C-3 Valencia-Nord - Utiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13473,
+          39.52175
+        ]
+      }
+    }
+  ]
+}

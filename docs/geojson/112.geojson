@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "112",
+        "name": "R15 Barcelona - Riba-roja d'Ebre",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.18556,
+            41.38439
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.09994,
+            41.1606
+          ],
+          [
+            0.65342,
+            41.10642
+          ],
+          [
+            0.54015,
+            41.22942
+          ],
+          [
+            0.48079,
+            41.24851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAESTACIODEFRANCA",
+        "name": "Barcelona-Estació de França",
+        "line": "R15 Barcelona - Riba-roja d'Ebre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18556,
+          41.38439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "R15 Barcelona - Riba-roja d'Ebre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REUS",
+        "name": "Reus",
+        "line": "R15 Barcelona - Riba-roja d'Ebre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09994,
+          41.1606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MORALANOVA",
+        "name": "Móra la Nova",
+        "line": "R15 Barcelona - Riba-roja d'Ebre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.65342,
+          41.10642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLIX",
+        "name": "Flix",
+        "line": "R15 Barcelona - Riba-roja d'Ebre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.54015,
+          41.22942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBAROJADEBRE",
+        "name": "Riba-roja d'Ebre",
+        "line": "R15 Barcelona - Riba-roja d'Ebre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.48079,
+          41.24851
+        ]
+      }
+    }
+  ]
+}

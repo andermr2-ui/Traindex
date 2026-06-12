@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "55",
+        "name": "MD 73 Sevilla - Málaga (por Zafra)",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.94485,
+            37.25262
+          ],
+          [
+            -6.96215,
+            37.36789
+          ],
+          [
+            -6.94763,
+            37.46184
+          ],
+          [
+            -6.95324,
+            37.51648
+          ],
+          [
+            -6.91977,
+            37.58618
+          ],
+          [
+            -6.87629,
+            37.65178
+          ],
+          [
+            -6.93068,
+            37.73345
+          ],
+          [
+            -6.87388,
+            37.78718
+          ],
+          [
+            -6.79735,
+            37.90102
+          ],
+          [
+            -6.77299,
+            37.92738
+          ],
+          [
+            -6.6309,
+            38.05308
+          ],
+          [
+            -6.63754,
+            38.16771
+          ],
+          [
+            -6.47005,
+            38.26474
+          ],
+          [
+            -1.23762,
+            38.03142
+          ],
+          [
+            -6.40518,
+            38.41395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUELVA",
+        "name": "Huelva",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.94485,
+          37.25262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GIBRALEON",
+        "name": "Gibraleón",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.96215,
+          37.36789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELMONTE",
+        "name": "Belmonte",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.94763,
+          37.46184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCOBUJON",
+        "name": "El Cobujón",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.95324,
+          37.51648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSMILANOS",
+        "name": "Los Milanos",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.91977,
+          37.58618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALANAS",
+        "name": "Calañas",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87629,
+          37.65178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCERRODEANDEVALO",
+        "name": "El Cerro de Andévalo",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.93068,
+          37.73345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDELAMUSA",
+        "name": "Valdelamusa",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.87388,
+          37.78718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMONASTERCORTEGANA",
+        "name": "Almonaster-Cortegana",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.79735,
+          37.90102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JABUGOGALAROZA",
+        "name": "Jabugo-Galaroza",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77299,
+          37.92738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUMBRESMAYORES",
+        "name": "Cumbres Mayores",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6309,
+          38.05308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FREGENALDELASIERRA",
+        "name": "Fregenal de la Sierra",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.63754,
+          38.16771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIADELVENTOSO",
+        "name": "Valencia del Ventoso",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47005,
+          38.26474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MEDINADELASTORRES",
+        "name": "Medina de las Torres",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23762,
+          38.03142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAFRA",
+        "name": "Zafra",
+        "line": "MD 73 Sevilla - Málaga (por Zafra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40518,
+          38.41395
+        ]
+      }
+    }
+  ]
+}

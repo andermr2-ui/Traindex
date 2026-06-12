@@ -1,0 +1,494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "239",
+        "name": "Línea 1 Albolote - Granada - Armilla",
+        "line_type": "Metro",
+        "operator": "Metro de Granada"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.65338,
+            37.22811
+          ],
+          [
+            -3.64573,
+            37.2224
+          ],
+          [
+            -3.63714,
+            37.21428
+          ],
+          [
+            -3.63416,
+            37.21101
+          ],
+          [
+            -3.63039,
+            37.20713
+          ],
+          [
+            -3.62441,
+            37.20152
+          ],
+          [
+            -3.79079,
+            37.77998
+          ],
+          [
+            -3.61322,
+            37.19999
+          ],
+          [
+            -3.61549,
+            37.19586
+          ],
+          [
+            -3.61504,
+            37.19201
+          ],
+          [
+            -3.61469,
+            37.18878
+          ],
+          [
+            -3.60903,
+            37.18641
+          ],
+          [
+            -3.60832,
+            37.18325
+          ],
+          [
+            -6.20598,
+            36.52948
+          ],
+          [
+            -3.60978,
+            37.17659
+          ],
+          [
+            -3.60587,
+            37.17015
+          ],
+          [
+            -3.60244,
+            37.16449
+          ],
+          [
+            -3.59654,
+            37.16073
+          ],
+          [
+            -3.59544,
+            37.15817
+          ],
+          [
+            -3.59616,
+            37.15114
+          ],
+          [
+            -3.60093,
+            37.14922
+          ],
+          [
+            -3.6069,
+            37.14901
+          ],
+          [
+            -3.61404,
+            37.14399
+          ],
+          [
+            -3.62085,
+            37.1475
+          ],
+          [
+            -3.62715,
+            37.14372
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBOLOTE",
+        "name": "Albolote",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65338,
+          37.22811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JUNCARIL",
+        "name": "Juncaril",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64573,
+          37.2224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICUNA",
+        "name": "Vicuña",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63714,
+          37.21428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANFITEATRO",
+        "name": "Anfiteatro",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63416,
+          37.21101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARACENA",
+        "name": "Maracena",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63039,
+          37.20713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERRILLOMARACENA",
+        "name": "Cerrillo Maracena",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62441,
+          37.20152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JAEN",
+        "name": "Jaén",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79079,
+          37.77998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTACIONDEAUTOBUSES",
+        "name": "Estación de Autobuses",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61322,
+          37.19999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARGENTINITA",
+        "name": "Argentinita",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61549,
+          37.19586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUISAMADOR",
+        "name": "Luis Amador",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61504,
+          37.19201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAREJO",
+        "name": "Villarejo",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61469,
+          37.18878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALETA",
+        "name": "Caleta",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60903,
+          37.18641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTACIONFERROCARRIL",
+        "name": "Estación Ferrocarril",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60832,
+          37.18325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSIDADCADIZ",
+        "name": "Universidad",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20598,
+          36.52948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MENDEZNUNEZ",
+        "name": "Méndez Núñez",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60978,
+          37.17659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RECOGIDAS",
+        "name": "Recogidas",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60587,
+          37.17015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCAZARGENIL",
+        "name": "Alcázar Genil",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60244,
+          37.16449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HIPICA",
+        "name": "Hípica",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59654,
+          37.16073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANDRESSEGOVIA",
+        "name": "Andrés Segovia",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59544,
+          37.15817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOLOSCARMENES",
+        "name": "Nuevo Los Cármenes",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59616,
+          37.15114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DILAR",
+        "name": "Dílar",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60093,
+          37.14922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUETECNOLOGICO",
+        "name": "Parque Tecnológico",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6069,
+          37.14901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SIERRANEVADA",
+        "name": "Sierra Nevada",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61404,
+          37.14399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FERNANDODELOSRIOS",
+        "name": "Fernando de los Ríos",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62085,
+          37.1475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARMILLA",
+        "name": "Armilla",
+        "line": "Línea 1 Albolote - Granada - Armilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62715,
+          37.14372
+        ]
+      }
+    }
+  ]
+}

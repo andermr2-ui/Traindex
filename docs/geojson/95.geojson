@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "95",
+        "name": "MD 43 Alicante - Cartagena",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.6951,
+            38.27179
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.99549,
+            38.04715
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -0.96706,
+            37.74694
+          ],
+          [
+            -0.97497,
+            37.60503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEPARQUE",
+        "name": "Elche-Parque",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6951,
+          38.27179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIEL",
+        "name": "Beniel",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99549,
+          38.04715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALSICASMARMENOR",
+        "name": "Balsicas-Mar Menor",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREPACHECO",
+        "name": "Torre-Pacheco",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.96706,
+          37.74694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARTAGENA",
+        "name": "Cartagena",
+        "line": "MD 43 Alicante - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.97497,
+          37.60503
+        ]
+      }
+    }
+  ]
+}

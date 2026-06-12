@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "325",
+        "name": "AVE Barcelona-Sants - Málaga-María Zambrano",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -1.63842,
+            41.34636
+          ],
+          [
+            -3.18225,
+            40.64408
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -4.11194,
+            38.69129
+          ],
+          [
+            -4.78952,
+            37.88851
+          ],
+          [
+            -4.82223,
+            37.35892
+          ],
+          [
+            -4.71971,
+            37.07017
+          ],
+          [
+            -4.01003,
+            43.3983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALATAYUD",
+        "name": "Calatayud",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63842,
+          41.34636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALAJARAYEBES",
+        "name": "Guadalajara-Yebes",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18225,
+          40.64408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLLANO",
+        "name": "Puertollano",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11194,
+          38.69129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBACENTRAL",
+        "name": "Córdoba-Central",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.78952,
+          37.88851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTEGENILHERRERA",
+        "name": "Puente Genil-Herrera",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.82223,
+          37.35892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERASANTAANA",
+        "name": "Antequera-Santa Ana",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71971,
+          37.07017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGAMARIAZAMBRANO",
+        "name": "Málaga-María Zambrano",
+        "line": "AVE Barcelona-Sants - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "173",
+        "name": "L1 Hospital de Bellvitge - Fondo",
+        "line_type": "Metro",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1072,
+            41.34465
+          ],
+          [
+            2.1072,
+            41.34465
+          ],
+          [
+            2.10248,
+            41.35891
+          ],
+          [
+            2.09987,
+            41.36397
+          ],
+          [
+            2.10274,
+            41.36768
+          ],
+          [
+            2.10983,
+            41.36832
+          ],
+          [
+            2.11663,
+            41.36841
+          ],
+          [
+            2.12861,
+            41.3688
+          ],
+          [
+            2.13333,
+            41.37279
+          ],
+          [
+            2.13791,
+            41.37538
+          ],
+          [
+            2.14952,
+            41.37557
+          ],
+          [
+            2.15457,
+            41.37924
+          ],
+          [
+            2.15889,
+            41.38249
+          ],
+          [
+            2.1643,
+            41.38569
+          ],
+          [
+            2.17008,
+            41.38655
+          ],
+          [
+            2.17331,
+            41.38809
+          ],
+          [
+            2.18091,
+            41.39211
+          ],
+          [
+            2.18627,
+            41.395
+          ],
+          [
+            2.18752,
+            41.40221
+          ],
+          [
+            2.18692,
+            41.41014
+          ],
+          [
+            2.18694,
+            41.41604
+          ],
+          [
+            2.18702,
+            41.42262
+          ],
+          [
+            2.18364,
+            41.42978
+          ],
+          [
+            2.19114,
+            41.43663
+          ],
+          [
+            2.19071,
+            41.44313
+          ],
+          [
+            2.19374,
+            41.44877
+          ],
+          [
+            2.19954,
+            41.44995
+          ],
+          [
+            2.20805,
+            41.45108
+          ],
+          [
+            2.21841,
+            41.45167
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALDEBELLVITGE",
+        "name": "Hospital de Bellvitge",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1072,
+          41.34465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELLVITGE",
+        "name": "Bellvitge",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1072,
+          41.34465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVCARRILET",
+        "name": "Av. Carrilet",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10248,
+          41.35891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RAMBLAJUSTOLIVERAS",
+        "name": "Rambla Just Oliveras",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09987,
+          41.36397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANSERRA",
+        "name": "Can Serra",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10274,
+          41.36768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLORIDA-Asturias-Siero",
+        "name": "Florida",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10983,
+          41.36832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRASSA",
+        "name": "Torrassa",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11663,
+          41.36841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAEULALIA",
+        "name": "Santa Eulàlia",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12861,
+          41.3688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERCATNOU",
+        "name": "Mercat Nou",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13333,
+          41.37279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACADESANTS",
+        "name": "Plaça de Sants",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13791,
+          41.37538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPANYA",
+        "name": "Espanya",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14952,
+          41.37557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROCAFORT",
+        "name": "Rocafort",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15457,
+          41.37924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URGELL",
+        "name": "Urgell",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15889,
+          41.38249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSITAT",
+        "name": "Universitat",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1643,
+          41.38569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CATALUNYA",
+        "name": "Catalunya",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17008,
+          41.38655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URQUINAONA",
+        "name": "Urquinaona",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17331,
+          41.38809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARCDETRIOMF",
+        "name": "Arc de Triomf",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18091,
+          41.39211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARINA",
+        "name": "Marina",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18627,
+          41.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GLORIES",
+        "name": "Glòries",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18752,
+          41.40221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CLOT",
+        "name": "Clot",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18692,
+          41.41014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVAS",
+        "name": "Navas",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18694,
+          41.41604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGRERA",
+        "name": "Sagrera",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18702,
+          41.42262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FABRAIPUIG",
+        "name": "Fabra i Puig",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18364,
+          41.42978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDREU",
+        "name": "Sant Andreu",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19114,
+          41.43663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRASIBAGES",
+        "name": "Torras i Bages",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19071,
+          41.44313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRINITATVELLA",
+        "name": "Trinitat Vella",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19374,
+          41.44877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARODEVIVER",
+        "name": "Baró de Viver",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19954,
+          41.44995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACOLOMA",
+        "name": "Santa Coloma",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20805,
+          41.45108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FONDO",
+        "name": "Fondo",
+        "line": "L1 Hospital de Bellvitge - Fondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21841,
+          41.45167
+        ]
+      }
+    }
+  ]
+}

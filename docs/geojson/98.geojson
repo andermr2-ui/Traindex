@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "98",
+        "name": "Regional Valencia - Murcia",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.75309,
+            38.87813
+          ],
+          [
+            -0.95385,
+            38.76545
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -0.8011,
+            38.4849
+          ],
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.6951,
+            38.27179
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.99549,
+            38.04715
+          ],
+          [
+            -1.13346,
+            37.97658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOIXENT",
+        "name": "Moixent",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75309,
+          38.87813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAENCINA",
+        "name": "La Encina",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.95385,
+          38.76545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENA",
+        "name": "Villena",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELDAPETRER",
+        "name": "Elda-Petrer",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8011,
+          38.4849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEPARQUE",
+        "name": "Elche-Parque",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6951,
+          38.27179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIEL",
+        "name": "Beniel",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99549,
+          38.04715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Regional Valencia - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    }
+  ]
+}

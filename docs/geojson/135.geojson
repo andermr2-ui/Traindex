@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "135",
+        "name": "Línea 5 Alameda de Osuna - Casa de Campo",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.58797,
+            40.45758
+          ],
+          [
+            -3.5942,
+            40.45338
+          ],
+          [
+            -3.60805,
+            40.44401
+          ],
+          [
+            -3.62953,
+            40.44637
+          ],
+          [
+            -3.61712,
+            40.44362
+          ],
+          [
+            -3.62702,
+            40.44088
+          ],
+          [
+            -3.63774,
+            40.43793
+          ],
+          [
+            -3.66354,
+            40.43106
+          ],
+          [
+            -3.66871,
+            40.42814
+          ],
+          [
+            -3.6762,
+            40.4247
+          ],
+          [
+            -3.70831,
+            40.41129
+          ],
+          [
+            -3.70596,
+            40.40407
+          ],
+          [
+            -3.73172,
+            40.38864
+          ],
+          [
+            -3.72536,
+            40.39253
+          ],
+          [
+            -3.76828,
+            40.39468
+          ],
+          [
+            -3.76549,
+            40.39073
+          ],
+          [
+            -3.75106,
+            40.38442
+          ],
+          [
+            -3.74498,
+            40.38782
+          ],
+          [
+            -3.74004,
+            40.38879
+          ],
+          [
+            -3.86483,
+            40.32171
+          ],
+          [
+            -3.75312,
+            40.40784
+          ],
+          [
+            -3.76093,
+            40.40349
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALAMEDADEOSUNA",
+        "name": "Alameda de Osuna",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58797,
+          40.45758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCAPRICHO",
+        "name": "El Capricho",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5942,
+          40.45338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANILLEJAS",
+        "name": "Canillejas",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60805,
+          40.44401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUINTADELOSMOLINOS",
+        "name": "Quinta de los Molinos",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62953,
+          40.44637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREARIAS",
+        "name": "Torre Arias",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61712,
+          40.44362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SUANZES",
+        "name": "Suanzes",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62702,
+          40.44088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADLINEAL",
+        "name": "Ciudad Lineal",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63774,
+          40.43793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTAS",
+        "name": "Ventas",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66354,
+          40.43106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANUELBECERRA",
+        "name": "Manuel Becerra",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66871,
+          40.42814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GOYA",
+        "name": "Goya",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6762,
+          40.4247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALATINA",
+        "name": "La Latina",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70831,
+          40.41129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACACIAS",
+        "name": "Acacias",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70596,
+          40.40407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OPORTO",
+        "name": "Oporto",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73172,
+          40.38864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URGEL",
+        "name": "Urgel",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72536,
+          40.39253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPAMENTO",
+        "name": "Campamento",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76828,
+          40.39468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EMPALME-Madrid-Madrid",
+        "name": "Empalme",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76549,
+          40.39073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUGENIADEMONTIJO",
+        "name": "Eugenia de Montijo",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75106,
+          40.38442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARABANCHEL",
+        "name": "Carabanchel",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74498,
+          40.38782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VISTAALEGRE",
+        "name": "Vista Alegre",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74004,
+          40.38879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADILLO",
+        "name": "Pradillo",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86483,
+          40.32171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BATAN",
+        "name": "Batán",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75312,
+          40.40784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASADECAMPO",
+        "name": "Casa de Campo",
+        "line": "Línea 5 Alameda de Osuna - Casa de Campo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76093,
+          40.40349
+        ]
+      }
+    }
+  ]
+}

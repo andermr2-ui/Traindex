@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "255",
+        "name": "C-3 Santander - Liérganes",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.84724,
+            43.4444
+          ],
+          [
+            -3.84041,
+            43.42746
+          ],
+          [
+            -3.84096,
+            43.41612
+          ],
+          [
+            -3.8209,
+            43.40396
+          ],
+          [
+            -3.81489,
+            43.39727
+          ],
+          [
+            -3.80377,
+            43.39373
+          ],
+          [
+            -3.76655,
+            43.40105
+          ],
+          [
+            -3.73816,
+            43.39942
+          ],
+          [
+            -3.73145,
+            43.38723
+          ],
+          [
+            -3.70717,
+            43.35061
+          ],
+          [
+            -3.7418,
+            43.34499
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVAMONTANA",
+        "name": "Nueva Montaña",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84724,
+          43.4444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLEREAL",
+        "name": "Valle Real",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84041,
+          43.42746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALIANO",
+        "name": "Maliaño",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84096,
+          43.41612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASTILLERO",
+        "name": "Astillero",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.8209,
+          43.40396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACANTABRICA",
+        "name": "La Cantábrica",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81489,
+          43.39727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANSALVADOR",
+        "name": "San Salvador",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80377,
+          43.39373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERAS",
+        "name": "Heras",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76655,
+          43.40105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OREJO",
+        "name": "Orejo",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73816,
+          43.39942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOLARES",
+        "name": "Solares",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73145,
+          43.38723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACAVADA",
+        "name": "La Cavada",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70717,
+          43.35061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LIERGANES",
+        "name": "Liérganes",
+        "line": "C-3 Santander - Liérganes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7418,
+          43.34499
+        ]
+      }
+    }
+  ]
+}

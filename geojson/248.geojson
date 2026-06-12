@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "248",
+        "name": "C-6 Oviedo - Infiesto",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.82714,
+            43.38817
+          ],
+          [
+            -5.80874,
+            43.38621
+          ],
+          [
+            -5.79207,
+            43.37949
+          ],
+          [
+            -5.74855,
+            43.38092
+          ],
+          [
+            -5.72969,
+            43.38174
+          ],
+          [
+            -5.70247,
+            43.38248
+          ],
+          [
+            -5.67464,
+            43.38669
+          ],
+          [
+            -2.92524,
+            43.29188
+          ],
+          [
+            -5.60145,
+            43.37753
+          ],
+          [
+            -5.58266,
+            43.38052
+          ],
+          [
+            -5.54614,
+            43.3751
+          ],
+          [
+            -5.52525,
+            43.3688
+          ],
+          [
+            -5.50899,
+            43.36119
+          ],
+          [
+            -2.52481,
+            37.04429
+          ],
+          [
+            -5.45111,
+            43.35617
+          ],
+          [
+            -5.43457,
+            43.35537
+          ],
+          [
+            -5.38416,
+            43.35988
+          ],
+          [
+            -5.36916,
+            43.35191
+          ],
+          [
+            -5.36066,
+            43.34401
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACORREDORIA",
+        "name": "La Corredoria",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82714,
+          43.38817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEPRINCIPADO",
+        "name": "Parque Principado",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80874,
+          43.38621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLLOTO",
+        "name": "Colloto",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.79207,
+          43.37949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERES",
+        "name": "Meres",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.74855,
+          43.38092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FONCIELLO",
+        "name": "Fonciello",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72969,
+          43.38174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELBERRON",
+        "name": "El Berrón",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.70247,
+          43.38248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACARRERA",
+        "name": "La Carrera",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67464,
+          43.38669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLADESIERO",
+        "name": "Pola de Siero",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92524,
+          43.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSCORROS",
+        "name": "Los Corros",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.60145,
+          43.37753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LIERES",
+        "name": "Lieres",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.58266,
+          43.38052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELREMEDIO",
+        "name": "El Remedio",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54614,
+          43.3751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLAMES",
+        "name": "Llames",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.52525,
+          43.3688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVA",
+        "name": "Nava",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.50899,
+          43.36119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTESANTA",
+        "name": "Fuente Santa",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.52481,
+          37.04429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CECEDA",
+        "name": "Ceceda",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45111,
+          43.35617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARANCOS",
+        "name": "Carancos",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43457,
+          43.35537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINTUELES",
+        "name": "Pintueles",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38416,
+          43.35988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INFIESTO",
+        "name": "Infiesto",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36916,
+          43.35191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INFIESTOAPEADERO",
+        "name": "Infiesto Apeadero",
+        "line": "C-6 Oviedo - Infiesto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36066,
+          43.34401
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "257",
+        "name": "C-2 Bilbao Abando - Muskiz",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9325,
+            43.25647
+          ],
+          [
+            -2.94313,
+            43.25454
+          ],
+          [
+            -2.94611,
+            43.2586
+          ],
+          [
+            -2.94928,
+            43.26211
+          ],
+          [
+            -2.95527,
+            43.26419
+          ],
+          [
+            -2.97203,
+            43.27771
+          ],
+          [
+            -2.96982,
+            43.29101
+          ],
+          [
+            -2.98467,
+            43.30053
+          ],
+          [
+            -3.01018,
+            43.3041
+          ],
+          [
+            -3.01691,
+            43.30298
+          ],
+          [
+            -3.02846,
+            43.30146
+          ],
+          [
+            -3.04094,
+            43.30752
+          ],
+          [
+            -3.05369,
+            43.30858
+          ],
+          [
+            -3.06041,
+            43.31149
+          ],
+          [
+            -3.06744,
+            43.31937
+          ],
+          [
+            -3.09114,
+            43.31559
+          ],
+          [
+            -3.11219,
+            43.32121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZABALBURU",
+        "name": "Zabalburu",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9325,
+          43.25647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMETZOLA",
+        "name": "Ametzola",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94313,
+          43.25454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AUTONOMIA",
+        "name": "Autonomía",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94611,
+          43.2586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANMAMES",
+        "name": "San Mamés",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94928,
+          43.26211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OLABEAGA",
+        "name": "Olabeaga",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95527,
+          43.26419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZORROTZA",
+        "name": "Zorrotza",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97203,
+          43.27771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUTXANA",
+        "name": "Lutxana",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96982,
+          43.29101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DESERTUBARAKALDO",
+        "name": "Desertu-Barakaldo",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98467,
+          43.30053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GALINDO",
+        "name": "Galindo",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01018,
+          43.3041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRAPAGA",
+        "name": "Trápaga",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01691,
+          43.30298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLEDETRAPAGATRAPAGARAN",
+        "name": "Valle de Trápaga-Trapagaran",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02846,
+          43.30146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URIOSTE",
+        "name": "Urioste",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.04094,
+          43.30752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGRADAFAMILIA-Bizkaia-Ortuella",
+        "name": "Sagrada Familia",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.05369,
+          43.30858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORTUELLA",
+        "name": "Ortuella",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.06041,
+          43.31149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GALLARTA",
+        "name": "Gallarta",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.06744,
+          43.31937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUTXETA",
+        "name": "Putxeta",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.09114,
+          43.31559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUSKIZ",
+        "name": "Muskiz",
+        "line": "C-2 Bilbao Abando - Muskiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.11219,
+          43.32121
+        ]
+      }
+    }
+  ]
+}

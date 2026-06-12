@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "93",
+        "name": "Regional Ourense - Lugo",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.87255,
+            42.35069
+          ],
+          [
+            -7.73559,
+            42.45115
+          ],
+          [
+            -7.50314,
+            42.52952
+          ],
+          [
+            -7.41365,
+            42.78262
+          ],
+          [
+            -5.81212,
+            43.40437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "Regional Ourense - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OSPEARES",
+        "name": "Os Peares",
+        "line": "Regional Ourense - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.73559,
+          42.45115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFORTEDELEMOS",
+        "name": "Monforte de Lemos",
+        "line": "Regional Ourense - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.50314,
+          42.52952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRIA-Lugo-Sarria",
+        "name": "Sarria",
+        "line": "Regional Ourense - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.41365,
+          42.78262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUGO",
+        "name": "Lugo",
+        "line": "Regional Ourense - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81212,
+          43.40437
+        ]
+      }
+    }
+  ]
+}

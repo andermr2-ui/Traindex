@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "195",
+        "name": "Funicular de Vallvidrera",
+        "line_type": "Funicular",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.11141,
+            41.40905
+          ],
+          [
+            2.10574,
+            41.41417
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PEUDELFUNICULAR",
+        "name": "Peu del Funicular",
+        "line": "Funicular de Vallvidrera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11141,
+          41.40905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLVIDRERASUPERIOR",
+        "name": "Vallvidrera Superior",
+        "line": "Funicular de Vallvidrera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10574,
+          41.41417
+        ]
+      }
+    }
+  ]
+}

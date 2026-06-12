@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "145",
+        "name": "ML2 Colonia Jardín - Aravaca",
+        "line_type": "Tranvía",
+        "operator": "Metro Ligero Oeste"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.7748,
+            40.39686
+          ],
+          [
+            -3.7813,
+            40.40228
+          ],
+          [
+            -3.7845,
+            40.40722
+          ],
+          [
+            -3.78755,
+            40.41043
+          ],
+          [
+            -3.79259,
+            40.41574
+          ],
+          [
+            -3.79875,
+            40.41929
+          ],
+          [
+            -3.80459,
+            40.42307
+          ],
+          [
+            -3.80753,
+            40.43059
+          ],
+          [
+            -3.80161,
+            40.43254
+          ],
+          [
+            -3.79514,
+            40.43344
+          ],
+          [
+            -3.79304,
+            40.43909
+          ],
+          [
+            -3.79117,
+            40.44482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLONIAJARDIN",
+        "name": "Colonia Jardín",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7748,
+          40.39686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADODELAVEGA",
+        "name": "Prado de la Vega",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7813,
+          40.40228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLONIADELOSANGELES",
+        "name": "Colonia de los Ángeles",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7845,
+          40.40722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADODELREY",
+        "name": "Prado del Rey",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78755,
+          40.41043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOMOSAGUASSUR",
+        "name": "Somosaguas Sur",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79259,
+          40.41574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOMOSAGUASCENTRO",
+        "name": "Somosaguas Centro",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79875,
+          40.41929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POZUELOOESTE",
+        "name": "Pozuelo Oeste",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80459,
+          40.42307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELGICA",
+        "name": "Bélgica",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80753,
+          40.43059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOSCASTILLAS",
+        "name": "Dos Castillas",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80161,
+          40.43254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPUSDESOMOSAGUAS",
+        "name": "Campus de Somosaguas",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79514,
+          40.43344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVENIDADEEUROPA",
+        "name": "Avenida de Europa",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79304,
+          40.43909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BERNA",
+        "name": "Berna",
+        "line": "ML2 Colonia Jardín - Aravaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79117,
+          40.44482
+        ]
+      }
+    }
+  ]
+}

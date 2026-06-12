@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "235",
+        "name": "L2 Palacio de los Deportes - Hospital Civil",
+        "line_type": "Metro",
+        "operator": "Metro de Málaga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.45831,
+            36.68456
+          ],
+          [
+            -4.45592,
+            36.6918
+          ],
+          [
+            -4.45131,
+            36.69542
+          ],
+          [
+            -4.44609,
+            36.69953
+          ],
+          [
+            -4.44031,
+            36.70407
+          ],
+          [
+            -1.69697,
+            37.67125
+          ],
+          [
+            -4.43243,
+            36.7128
+          ],
+          [
+            -4.4297,
+            36.71599
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALACIODELOSDEPORTES",
+        "name": "Palacio de los Deportes",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45831,
+          36.68456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTABLANCA",
+        "name": "Puerta Blanca",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45592,
+          36.6918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALUZLAPAZ",
+        "name": "La Luz-La Paz",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45131,
+          36.69542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELTORCAL",
+        "name": "El Torcal",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44609,
+          36.69953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRINCESAHUELIN",
+        "name": "Princesa-Huelin",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44031,
+          36.70407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAISLA",
+        "name": "La Isla",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69697,
+          37.67125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPERCHEL",
+        "name": "El Perchel",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.43243,
+          36.7128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALMEDINA",
+        "name": "Guadalmedina",
+        "line": "L2 Palacio de los Deportes - Hospital Civil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4297,
+          36.71599
+        ]
+      }
+    }
+  ]
+}

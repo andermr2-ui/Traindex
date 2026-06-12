@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "109",
+        "name": "R12 L'Hospitalet - Lleida",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.10094,
+            41.36424
+          ],
+          [
+            2.17008,
+            41.38655
+          ],
+          [
+            2.01426,
+            41.56987
+          ],
+          [
+            1.82663,
+            41.72026
+          ],
+          [
+            1.51519,
+            41.73015
+          ],
+          [
+            1.27472,
+            41.6737
+          ],
+          [
+            1.13883,
+            41.6503
+          ],
+          [
+            0.89688,
+            41.63195
+          ],
+          [
+            0.63304,
+            41.62073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LHOSPITALETDELLOBREGAT",
+        "name": "L'Hospitalet de Llobregat",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10094,
+          41.36424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACACATALUNYA",
+        "name": "Plaça Catalunya",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17008,
+          41.38655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERRASSA",
+        "name": "Terrassa",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01426,
+          41.56987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANRESA",
+        "name": "Manresa",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.82663,
+          41.72026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAF",
+        "name": "Calaf",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.51519,
+          41.73015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERVERA",
+        "name": "Cervera",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27472,
+          41.6737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARREGA",
+        "name": "Tàrrega",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.13883,
+          41.6503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLLERUSSA",
+        "name": "Mollerussa",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.89688,
+          41.63195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "R12 L'Hospitalet - Lleida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    }
+  ]
+}

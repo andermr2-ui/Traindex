@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "86",
+        "name": "MD 58 Madrid - Jaén",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -3.3706,
+            39.0059
+          ],
+          [
+            -3.39614,
+            38.76328
+          ],
+          [
+            -3.45135,
+            38.64459
+          ],
+          [
+            -3.5177,
+            38.21573
+          ],
+          [
+            -3.58914,
+            38.06908
+          ],
+          [
+            -3.35018,
+            37.91348
+          ],
+          [
+            -3.31075,
+            37.43113
+          ],
+          [
+            -3.52776,
+            37.39582
+          ],
+          [
+            -3.79079,
+            37.77998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTIN",
+        "name": "Madrid-Chamartín",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANZANARES",
+        "name": "Manzanares",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3706,
+          39.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEPENAS",
+        "name": "Valdepeñas",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.39614,
+          38.76328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACRUZDEMUDELA",
+        "name": "Santa Cruz de Mudela",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.45135,
+          38.64459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILCHES",
+        "name": "Vilches",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5177,
+          38.21573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LINARESBAEZA",
+        "name": "Linares-Baeza",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58914,
+          38.06908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JODARUBEDA",
+        "name": "Jódar-Úbeda",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.35018,
+          37.91348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOREDAASTURIAS",
+        "name": "Moreda",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.31075,
+          37.43113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IZNALLOZ",
+        "name": "Iznalloz",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.52776,
+          37.39582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JAEN",
+        "name": "Jaén",
+        "line": "MD 58 Madrid - Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79079,
+          37.77998
+        ]
+      }
+    }
+  ]
+}

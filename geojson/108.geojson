@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "108",
+        "name": "R11 Barcelona - Portbou",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.16828,
+            41.38944
+          ],
+          [
+            2.18692,
+            41.41014
+          ],
+          [
+            2.29161,
+            41.59965
+          ],
+          [
+            2.49097,
+            41.68565
+          ],
+          [
+            2.17096,
+            41.39502
+          ],
+          [
+            2.96897,
+            42.265
+          ],
+          [
+            3.15801,
+            42.4248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASSEIGDEGRACIA",
+        "name": "Passeig de Gràcia",
+        "line": "R11 Barcelona - Portbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16828,
+          41.38944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCLOT",
+        "name": "El Clot",
+        "line": "R11 Barcelona - Portbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18692,
+          41.41014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANOLLERSCENTRE",
+        "name": "Granollers Centre",
+        "line": "R11 Barcelona - Portbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29161,
+          41.59965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTCELONI",
+        "name": "Sant Celoni",
+        "line": "R11 Barcelona - Portbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.49097,
+          41.68565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GIRONABCN",
+        "name": "Girona",
+        "line": "R11 Barcelona - Portbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17096,
+          41.39502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FIGUERES",
+        "name": "Figueres",
+        "line": "R11 Barcelona - Portbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.96897,
+          42.265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTBOU",
+        "name": "Portbou",
+        "line": "R11 Barcelona - Portbou"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.15801,
+          42.4248
+        ]
+      }
+    }
+  ]
+}

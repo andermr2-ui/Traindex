@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "267",
+        "name": "TR Tranvía de Bilbao",
+        "line_type": "Tranvía",
+        "operator": "Euskotren Tranbia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.90564,
+            43.24695
+          ],
+          [
+            -2.89348,
+            43.23623
+          ],
+          [
+            -2.90564,
+            43.24695
+          ],
+          [
+            -2.92173,
+            43.25406
+          ],
+          [
+            -5.87524,
+            43.30856
+          ],
+          [
+            -2.68496,
+            42.85893
+          ],
+          [
+            -2.92862,
+            43.25984
+          ],
+          [
+            -2.92612,
+            43.26437
+          ],
+          [
+            -2.92873,
+            43.26631
+          ],
+          [
+            -2.93456,
+            43.26866
+          ],
+          [
+            -2.92744,
+            43.26136
+          ],
+          [
+            -2.94395,
+            43.26628
+          ],
+          [
+            -2.77762,
+            43.16402
+          ],
+          [
+            -2.94928,
+            43.26211
+          ],
+          [
+            -2.94611,
+            43.2586
+          ],
+          [
+            -0.41494,
+            39.36175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOLUETA",
+        "name": "Bolueta",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90564,
+          43.24695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BASAURIHOSPITALDEBASURTO",
+        "name": "Basauri-Hospital de Basurto",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89348,
+          43.23623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OTXARKOAGABOLUETA",
+        "name": "Otxarkoaga-Bolueta",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90564,
+          43.24695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATXURI",
+        "name": "Atxuri",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92173,
+          43.25406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBERA",
+        "name": "Ribera",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87524,
+          43.30856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARRIAGAVITORIA",
+        "name": "Arriaga",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68496,
+          42.85893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABANDO",
+        "name": "Abando",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92862,
+          43.25984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIOBAROJA",
+        "name": "Pío Baroja",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92612,
+          43.26437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URIBITARTE",
+        "name": "Uribitarte",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92873,
+          43.26631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUGGENHEIM",
+        "name": "Guggenheim",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93456,
+          43.26866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABANDOIBARRA",
+        "name": "Abandoibarra",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92744,
+          43.26136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUSKALDUNA",
+        "name": "Euskalduna",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94395,
+          43.26628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABINOARANA",
+        "name": "Sabino Arana",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.77762,
+          43.16402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANMAMES",
+        "name": "San Mamés",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94928,
+          43.26211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AUTONOMIA",
+        "name": "Autonomía",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94611,
+          43.2586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACASILLA",
+        "name": "La Casilla",
+        "line": "TR Tranvía de Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.41494,
+          39.36175
+        ]
+      }
+    }
+  ]
+}

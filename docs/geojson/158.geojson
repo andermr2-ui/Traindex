@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "158",
+        "name": "R7 Barcelona Sant Andreu - Cerdanyola Universitat",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.19114,
+            41.43663
+          ],
+          [
+            2.17994,
+            41.45922
+          ],
+          [
+            2.18003,
+            41.46993
+          ],
+          [
+            2.18538,
+            41.4839
+          ],
+          [
+            2.14762,
+            41.49263
+          ],
+          [
+            2.1643,
+            41.38569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDREUARENAL",
+        "name": "Sant Andreu Arenal",
+        "line": "R7 Barcelona Sant Andreu - Cerdanyola Universitat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19114,
+          41.43663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREBARO",
+        "name": "Torre Baró",
+        "line": "R7 Barcelona Sant Andreu - Cerdanyola Universitat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17994,
+          41.45922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTCADABIFURCACIO",
+        "name": "Montcada Bifurcació",
+        "line": "R7 Barcelona Sant Andreu - Cerdanyola Universitat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18003,
+          41.46993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTCADAIREIXACMANRESA",
+        "name": "Montcada i Reixac-Manresa",
+        "line": "R7 Barcelona Sant Andreu - Cerdanyola Universitat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18538,
+          41.4839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERDANYOLADELVALLES",
+        "name": "Cerdanyola del Vallès",
+        "line": "R7 Barcelona Sant Andreu - Cerdanyola Universitat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14762,
+          41.49263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERDANYOLAUNIVERSITAT",
+        "name": "Cerdanyola Universitat",
+        "line": "R7 Barcelona Sant Andreu - Cerdanyola Universitat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1643,
+          41.38569
+        ]
+      }
+    }
+  ]
+}

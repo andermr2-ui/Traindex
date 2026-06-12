@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "346",
+        "name": "Proximidad Málaga - El Chorro",
+        "line_type": "Proximidad",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36602,
+            39.47311
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -4.45505,
+            36.7009
+          ],
+          [
+            -4.47831,
+            36.69851
+          ],
+          [
+            -4.54554,
+            36.70509
+          ],
+          [
+            -4.60857,
+            36.73386
+          ],
+          [
+            -4.66477,
+            36.7329
+          ],
+          [
+            -4.712,
+            36.76431
+          ],
+          [
+            -4.6994,
+            36.81971
+          ],
+          [
+            -4.7192,
+            36.87322
+          ],
+          [
+            -4.75913,
+            36.90707
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGACENTROALAMEDA",
+        "name": "Málaga Centro-Alameda",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36602,
+          39.47311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGAMARIAZAMBRANO",
+        "name": "Málaga-María Zambrano",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICTORIAKENT",
+        "name": "Victoria Kent",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45505,
+          36.7009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSPRADOS",
+        "name": "Los Prados",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47831,
+          36.69851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPANILLAS",
+        "name": "Campanillas",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54554,
+          36.70509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARTAMA",
+        "name": "Cártama",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60857,
+          36.73386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALJAIMA",
+        "name": "Aljaima",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.66477,
+          36.7329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIZARRA",
+        "name": "Pizarra",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.712,
+          36.76431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALORA",
+        "name": "Álora",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6994,
+          36.81971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASMELLIZAS",
+        "name": "Las Mellizas",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7192,
+          36.87322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHORROCAMINITODELREY",
+        "name": "El Chorro-Caminito del Rey",
+        "line": "Proximidad Málaga - El Chorro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75913,
+          36.90707
+        ]
+      }
+    }
+  ]
+}

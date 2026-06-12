@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "280",
+        "name": "Ferrocarril de Sóller",
+        "line_type": "Regional Histórico",
+        "operator": "Tren de Sóller S.A."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.65387,
+            39.5768
+          ],
+          [
+            2.66095,
+            39.6203
+          ],
+          [
+            2.69415,
+            39.69745
+          ],
+          [
+            2.71512,
+            39.76468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALMA",
+        "name": "Palma",
+        "line": "Ferrocarril de Sóller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65387,
+          39.5768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONSARDINA",
+        "name": "Son Sardina",
+        "line": "Ferrocarril de Sóller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66095,
+          39.6203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BUNYOLA",
+        "name": "Bunyola",
+        "line": "Ferrocarril de Sóller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.69415,
+          39.69745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOLLER",
+        "name": "Sóller",
+        "line": "Ferrocarril de Sóller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71512,
+          39.76468
+        ]
+      }
+    }
+  ]
+}

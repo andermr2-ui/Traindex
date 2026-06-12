@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "53",
+        "name": "MD 71 Linares-Baeza - Almería",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.60863,
+            37.18369
+          ],
+          [
+            -3.52776,
+            37.39582
+          ],
+          [
+            -3.31075,
+            37.43113
+          ],
+          [
+            -3.29832,
+            37.58543
+          ],
+          [
+            -3.26237,
+            37.65659
+          ],
+          [
+            -3.18653,
+            37.71728
+          ],
+          [
+            -3.2317,
+            37.77714
+          ],
+          [
+            -3.35018,
+            37.91348
+          ],
+          [
+            -3.58914,
+            38.06908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANADA",
+        "name": "Granada",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60863,
+          37.18369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IZNALLOZ",
+        "name": "Iznalloz",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.52776,
+          37.39582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOREDAASTURIAS",
+        "name": "Moreda",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.31075,
+          37.43113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALAMEDILLAGUADAHORTUNA",
+        "name": "Alamedilla-Guadahortuna",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.29832,
+          37.58543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABRADELSANTOCRISTOYALICUN",
+        "name": "Cabra del Santo Cristo y Alicún",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26237,
+          37.65659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUESA",
+        "name": "Huesa",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18653,
+          37.71728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARVA",
+        "name": "Larva",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.2317,
+          37.77714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JODARUBEDA",
+        "name": "Jódar-Úbeda",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.35018,
+          37.91348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LINARESBAEZA",
+        "name": "Linares-Baeza",
+        "line": "MD 71 Linares-Baeza - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58914,
+          38.06908
+        ]
+      }
+    }
+  ]
+}

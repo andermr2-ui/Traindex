@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "198",
+        "name": "Cremallera de Núria",
+        "line_type": "Cremallera",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.95126,
+            39.69067
+          ],
+          [
+            2.17168,
+            42.30862
+          ],
+          [
+            2.17097,
+            42.33449
+          ],
+          [
+            2.16559,
+            42.35138
+          ],
+          [
+            2.15487,
+            42.39727
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBESENLLAC",
+        "name": "Ribes Enllaç",
+        "line": "Cremallera de Núria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.95126,
+          39.69067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBESVILA",
+        "name": "Ribes-Vila",
+        "line": "Cremallera de Núria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17168,
+          42.30862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIALB",
+        "name": "Rialb",
+        "line": "Cremallera de Núria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17097,
+          42.33449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERALBS",
+        "name": "Queralbs",
+        "line": "Cremallera de Núria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16559,
+          42.35138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NURIA",
+        "name": "Núria",
+        "line": "Cremallera de Núria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15487,
+          42.39727
+        ]
+      }
+    }
+  ]
+}

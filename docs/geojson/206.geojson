@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "206",
+        "name": "L3 Rafelbunyol - Aeroport",
+        "line_type": "Metro",
+        "operator": "Metrovalencia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.33087,
+            39.58797
+          ],
+          [
+            -0.3407,
+            39.56175
+          ],
+          [
+            -0.35163,
+            39.52802
+          ],
+          [
+            -0.3542,
+            39.51222
+          ],
+          [
+            -0.36235,
+            39.48481
+          ],
+          [
+            -3.69204,
+            40.4258
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.38621,
+            39.47015
+          ],
+          [
+            -0.40687,
+            39.47076
+          ],
+          [
+            -0.41812,
+            39.47399
+          ],
+          [
+            -0.47437,
+            39.49219
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RAFELBUNYOL",
+        "name": "Rafelbunyol",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33087,
+          39.58797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUSEROS",
+        "name": "Museros",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3407,
+          39.56175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MELIANA",
+        "name": "Meliana",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35163,
+          39.52802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMASSERA",
+        "name": "Almàssera",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3542,
+          39.51222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIMACLET",
+        "name": "Benimaclet",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36235,
+          39.48481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLON",
+        "name": "Colón",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69204,
+          40.4258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANGELGUIMERA",
+        "name": "Àngel Guimerà",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38621,
+          39.47015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NOUDOCTUBRE",
+        "name": "Nou d'Octubre",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40687,
+          39.47076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MISLATA",
+        "name": "Mislata",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.41812,
+          39.47399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPORTVALENCIA",
+        "name": "Aeroport",
+        "line": "L3 Rafelbunyol - Aeroport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47437,
+          39.49219
+        ]
+      }
+    }
+  ]
+}

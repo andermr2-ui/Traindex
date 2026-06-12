@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "110",
+        "name": "R13 Barcelona - Lleida (por Valls)",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.18556,
+            41.38439
+          ],
+          [
+            1.73082,
+            41.22018
+          ],
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            1.25878,
+            41.29835
+          ],
+          [
+            1.16571,
+            41.37652
+          ],
+          [
+            0.63304,
+            41.62073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAESTACIODEFRANCA",
+        "name": "Barcelona-Estació de França",
+        "line": "R13 Barcelona - Lleida (por Valls)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18556,
+          41.38439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVAILAGELTRU",
+        "name": "Vilanova i la Geltrú",
+        "line": "R13 Barcelona - Lleida (por Valls)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73082,
+          41.22018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "R13 Barcelona - Lleida (por Valls)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLS",
+        "name": "Valls",
+        "line": "R13 Barcelona - Lleida (por Valls)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25878,
+          41.29835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTBLANC",
+        "name": "Montblanc",
+        "line": "R13 Barcelona - Lleida (por Valls)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.16571,
+          41.37652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "R13 Barcelona - Lleida (por Valls)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    }
+  ]
+}

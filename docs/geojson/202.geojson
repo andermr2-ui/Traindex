@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "202",
+        "name": "C-5 Valencia-Nord - Caudiel",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.33467,
+            39.47007
+          ],
+          [
+            -0.27141,
+            39.67567
+          ],
+          [
+            -0.32066,
+            39.67941
+          ],
+          [
+            -0.36577,
+            39.75296
+          ],
+          [
+            -0.43178,
+            39.81256
+          ],
+          [
+            -0.48235,
+            39.84706
+          ],
+          [
+            -0.49385,
+            39.85453
+          ],
+          [
+            -0.56939,
+            39.91496
+          ],
+          [
+            -0.5722,
+            39.94728
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIACABANYAL",
+        "name": "València-Cabanyal",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33467,
+          39.47007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGUNT",
+        "name": "Sagunt",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27141,
+          39.67567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GILET",
+        "name": "Gilet",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32066,
+          39.67941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALGIMIA",
+        "name": "Algímia",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36577,
+          39.75296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONEJA",
+        "name": "Soneja",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43178,
+          39.81256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGORBECIUDAD",
+        "name": "Segorbe-Ciudad",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48235,
+          39.84706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGORBEARRABAL",
+        "name": "Segorbe-Arrabal",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49385,
+          39.85453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JERICAVIVER",
+        "name": "Jérica-Viver",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56939,
+          39.91496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAUDIEL",
+        "name": "Caudiel",
+        "line": "C-5 Valencia-Nord - Caudiel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5722,
+          39.94728
+        ]
+      }
+    }
+  ]
+}

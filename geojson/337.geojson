@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "337",
+        "name": "Alvia Madrid - Algeciras",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -4.11194,
+            38.69129
+          ],
+          [
+            -4.57142,
+            38.25524
+          ],
+          [
+            -4.71971,
+            37.07017
+          ],
+          [
+            -5.16196,
+            36.74859
+          ],
+          [
+            -5.43229,
+            36.21377
+          ],
+          [
+            -5.45018,
+            36.12664
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLLANO",
+        "name": "Puertollano",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11194,
+          38.69129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBA",
+        "name": "Córdoba",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57142,
+          38.25524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERASANTAANA",
+        "name": "Antequera-Santa Ana",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71971,
+          37.07017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RONDA",
+        "name": "Ronda",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.16196,
+          36.74859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANROQUELALINEA",
+        "name": "San Roque-La Línea",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43229,
+          36.21377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALGECIRAS",
+        "name": "Algeciras",
+        "line": "Alvia Madrid - Algeciras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45018,
+          36.12664
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "59",
+        "name": "MD 34 Zaragoza - Barcelona",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.86832,
+            41.63319
+          ],
+          [
+            -0.61838,
+            41.51524
+          ],
+          [
+            -0.49073,
+            41.41944
+          ],
+          [
+            -0.42702,
+            41.32049
+          ],
+          [
+            -0.49469,
+            41.29098
+          ],
+          [
+            -0.43819,
+            41.22451
+          ],
+          [
+            -0.36874,
+            41.18208
+          ],
+          [
+            -0.32495,
+            41.28707
+          ],
+          [
+            -0.15543,
+            41.23144
+          ],
+          [
+            -0.04274,
+            41.23991
+          ],
+          [
+            0.07606,
+            41.22955
+          ],
+          [
+            0.13895,
+            41.22957
+          ],
+          [
+            0.24239,
+            41.21373
+          ],
+          [
+            1.96495,
+            42.24131
+          ],
+          [
+            0.48079,
+            41.24851
+          ],
+          [
+            0.54015,
+            41.22942
+          ],
+          [
+            0.56905,
+            41.18232
+          ],
+          [
+            0.65342,
+            41.10642
+          ],
+          [
+            0.81051,
+            41.13093
+          ],
+          [
+            0.85864,
+            41.13316
+          ],
+          [
+            0.92079,
+            41.14362
+          ],
+          [
+            0.97578,
+            41.14005
+          ],
+          [
+            1.02207,
+            41.16641
+          ],
+          [
+            1.09994,
+            41.1606
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            2.16538,
+            41.39254
+          ],
+          [
+            2.18556,
+            41.38439
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTESDEEBRO",
+        "name": "Fuentes de Ebro",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.61838,
+          41.51524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUINTO",
+        "name": "Quinto",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49073,
+          41.41944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAZAIDASASTAGO",
+        "name": "La Zaida-Sástago",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42702,
+          41.32049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AZAILA",
+        "name": "Azaila",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49469,
+          41.29098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPUEBLADEHIJAR",
+        "name": "La Puebla de Híjar",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43819,
+          41.22451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAMPER",
+        "name": "Samper",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36874,
+          41.18208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESCATRON",
+        "name": "Escatrón",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32495,
+          41.28707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHIPRANA",
+        "name": "Chiprana",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15543,
+          41.23144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASPE",
+        "name": "Caspe",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04274,
+          41.23991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEPILAS",
+        "name": "Val de Pilas",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07606,
+          41.22955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FABARA",
+        "name": "Fabara",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13895,
+          41.22957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NONASPE",
+        "name": "Nonaspe",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.24239,
+          41.21373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FAIOLAPOBLADEMASSALUCA",
+        "name": "Faió-La Pobla de Massaluca",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.96495,
+          42.24131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBAROJADEBRE",
+        "name": "Riba-roja d'Ebre",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.48079,
+          41.24851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLIX",
+        "name": "Flix",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.54015,
+          41.22942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASCO",
+        "name": "Ascó",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56905,
+          41.18232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MORALANOVA",
+        "name": "Móra la Nova",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.65342,
+          41.10642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARCAFALSET",
+        "name": "Marçà-Falset",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.81051,
+          41.13093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADELL",
+        "name": "Pradell",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.85864,
+          41.13316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DUESAIGUESLARGENTERA",
+        "name": "Duesaigües-L'Argentera",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.92079,
+          41.14362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIUDECANYESBOTARELL",
+        "name": "Riudecanyes-Botarell",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97578,
+          41.14005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESBORGESDELCAMP",
+        "name": "Les Borges del Camp",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.02207,
+          41.16641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REUS",
+        "name": "Reus",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09994,
+          41.1606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAPASSEIGDEGRACIA",
+        "name": "Barcelona-Passeig de Gràcia",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16538,
+          41.39254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAESTACIODEFRANCA",
+        "name": "Barcelona-Estació de França",
+        "line": "MD 34 Zaragoza - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18556,
+          41.38439
+        ]
+      }
+    }
+  ]
+}

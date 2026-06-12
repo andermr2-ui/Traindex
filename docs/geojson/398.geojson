@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "398",
+        "name": "Regional 2 Santiago - Orense",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -5.43229,
+            36.21377
+          ],
+          [
+            -4.45,
+            43.35
+          ],
+          [
+            -8.06866,
+            42.43152
+          ],
+          [
+            -8.02896,
+            42.41142
+          ],
+          [
+            -7.87255,
+            42.35069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "Regional 2 Santiago - Orense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANROQUELALINEA",
+        "name": "San Roque-La Línea",
+        "line": "Regional 2 Santiago - Orense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43229,
+          36.21377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IRIJO",
+        "name": "Irijo",
+        "line": "Regional 2 Santiago - Orense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45,
+          43.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARBALLINO",
+        "name": "Carballino",
+        "line": "Regional 2 Santiago - Orense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.06866,
+          42.43152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FRIELAMASIDE",
+        "name": "Friela-Maside",
+        "line": "Regional 2 Santiago - Orense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.02896,
+          42.41142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "Regional 2 Santiago - Orense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    }
+  ]
+}

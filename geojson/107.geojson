@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "107",
+        "name": "Regional Internacional (Raia) Badajoz - Entroncamento",
+        "line_type": "Regional Internacional",
+        "operator": "CP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.98162,
+            38.89073
+          ],
+          [
+            -7.02588,
+            38.88305
+          ],
+          [
+            -3.72344,
+            40.38662
+          ],
+          [
+            -3.72798,
+            40.381
+          ],
+          [
+            -8.47375,
+            39.46165
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADAJOZ",
+        "name": "Badajoz",
+        "line": "Regional Internacional (Raia) Badajoz - Entroncamento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98162,
+          38.89073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELVAS",
+        "name": "Elvas",
+        "line": "Regional Internacional (Raia) Badajoz - Entroncamento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.02588,
+          38.88305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTALEGRE",
+        "name": "Portalegre",
+        "line": "Regional Internacional (Raia) Badajoz - Entroncamento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72344,
+          40.38662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABRANTES",
+        "name": "Abrantes",
+        "line": "Regional Internacional (Raia) Badajoz - Entroncamento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72798,
+          40.381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ENTRONCAMENTO",
+        "name": "Entroncamento",
+        "line": "Regional Internacional (Raia) Badajoz - Entroncamento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47375,
+          39.46165
+        ]
+      }
+    }
+  ]
+}

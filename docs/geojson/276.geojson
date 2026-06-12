@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "276",
+        "name": "T2 Palma - Sa Pobla",
+        "line_type": "Regional",
+        "operator": "SFM"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.65997,
+            39.58005
+          ],
+          [
+            2.66579,
+            39.58417
+          ],
+          [
+            2.68639,
+            39.59677
+          ],
+          [
+            2.90584,
+            39.7181
+          ],
+          [
+            2.90584,
+            39.7181
+          ],
+          [
+            2.72547,
+            39.62539
+          ],
+          [
+            2.72547,
+            39.62539
+          ],
+          [
+            2.73649,
+            39.63204
+          ],
+          [
+            2.77409,
+            39.65317
+          ],
+          [
+            2.80855,
+            39.67761
+          ],
+          [
+            2.84122,
+            39.69249
+          ],
+          [
+            2.86918,
+            39.71634
+          ],
+          [
+            2.95126,
+            39.69067
+          ],
+          [
+            2.99403,
+            39.71138
+          ],
+          [
+            -3.67979,
+            36.77946
+          ],
+          [
+            3.02926,
+            39.76447
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JACINTVERDAGUER",
+        "name": "Jacint Verdaguer",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65997,
+          39.58005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONCOSTASONFORTESA",
+        "name": "Son Costa-Son Fortesa",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66579,
+          39.58417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERGEDELLUC",
+        "name": "Verge de Lluc",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.68639,
+          39.59677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDINCA",
+        "name": "Pont d'Inca",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90584,
+          39.7181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDINCANOU",
+        "name": "Pont d'Inca Nou",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90584,
+          39.7181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLIGONDEMARRATXI",
+        "name": "Polígon de Marratxí",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72547,
+          39.62539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARRATXI",
+        "name": "Marratxí",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72547,
+          39.62539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESCAULLSFESTIVALPARK",
+        "name": "Es Caülls-Festival Park",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73649,
+          39.63204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIA",
+        "name": "Santa Maria",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.77409,
+          39.65317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONSELLALARO",
+        "name": "Consell-Alaró",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.80855,
+          39.67761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BINISSALEM",
+        "name": "Binissalem",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.84122,
+          39.69249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLOSETA",
+        "name": "Lloseta",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.86918,
+          39.71634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ENLLAC",
+        "name": "Enllaç",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.95126,
+          39.69067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLUBI",
+        "name": "Llubí",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.99403,
+          39.71138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURO",
+        "name": "Muro",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67979,
+          36.77946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAPOBLA",
+        "name": "Sa Pobla",
+        "line": "T2 Palma - Sa Pobla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02926,
+          39.76447
+        ]
+      }
+    }
+  ]
+}

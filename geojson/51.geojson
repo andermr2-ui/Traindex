@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "51",
+        "name": "MD 68 Granada - Almería",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.97911,
+            37.37821
+          ],
+          [
+            -5.92332,
+            37.28722
+          ],
+          [
+            -5.54846,
+            37.26822
+          ],
+          [
+            -5.4255,
+            37.33434
+          ],
+          [
+            -5.11497,
+            37.23371
+          ],
+          [
+            -4.89364,
+            37.22227
+          ],
+          [
+            -4.71971,
+            37.07017
+          ],
+          [
+            -4.56137,
+            37.02948
+          ],
+          [
+            -4.13567,
+            37.17511
+          ],
+          [
+            -3.60863,
+            37.18369
+          ],
+          [
+            -3.52776,
+            37.39582
+          ],
+          [
+            -3.31075,
+            37.43113
+          ],
+          [
+            -3.12702,
+            37.31688
+          ],
+          [
+            -2.83948,
+            37.18472
+          ],
+          [
+            -2.48751,
+            36.9515
+          ],
+          [
+            -3.62279,
+            38.09617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANBERNARDO",
+        "name": "Sevilla-San Bernardo",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97911,
+          37.37821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOSHERMANAS",
+        "name": "Dos Hermanas",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92332,
+          37.28722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARAHAL",
+        "name": "Arahal",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54846,
+          37.26822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARCHENA",
+        "name": "Marchena",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4255,
+          37.33434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OSUNA",
+        "name": "Osuna",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.11497,
+          37.23371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PEDRERA",
+        "name": "Pedrera",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.89364,
+          37.22227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERASANTAANA",
+        "name": "Antequera-Santa Ana",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71971,
+          37.07017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERAAV",
+        "name": "Antequera AV",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56137,
+          37.02948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOJA",
+        "name": "Loja",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13567,
+          37.17511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANADA",
+        "name": "Granada",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60863,
+          37.18369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IZNALLOZ",
+        "name": "Iznalloz",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.52776,
+          37.39582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOREDAASTURIAS",
+        "name": "Moreda",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.31075,
+          37.43113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADIX",
+        "name": "Guadix",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.12702,
+          37.31688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FINANA",
+        "name": "Fiñana",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.83948,
+          37.18472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GADOR",
+        "name": "Gádor",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48751,
+          36.9515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMERIA",
+        "name": "Almería",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62279,
+          38.09617
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "177",
+        "name": "L5 Cornellà Centre - Vall d'Hebron",
+        "line_type": "Metro",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.07055,
+            41.3573
+          ],
+          [
+            2.07922,
+            41.35799
+          ],
+          [
+            2.08433,
+            41.36334
+          ],
+          [
+            2.09152,
+            41.36658
+          ],
+          [
+            2.09976,
+            41.37174
+          ],
+          [
+            2.10712,
+            41.37381
+          ],
+          [
+            2.11204,
+            41.3759
+          ],
+          [
+            2.1184,
+            41.37587
+          ],
+          [
+            2.12893,
+            41.37555
+          ],
+          [
+            2.13791,
+            41.37538
+          ],
+          [
+            2.14111,
+            41.38147
+          ],
+          [
+            2.14496,
+            41.38398
+          ],
+          [
+            2.15054,
+            41.38816
+          ],
+          [
+            2.15996,
+            41.39596
+          ],
+          [
+            2.16843,
+            41.40009
+          ],
+          [
+            2.17388,
+            41.40403
+          ],
+          [
+            2.17598,
+            41.41073
+          ],
+          [
+            2.18101,
+            41.41469
+          ],
+          [
+            2.18702,
+            41.42262
+          ],
+          [
+            2.18129,
+            41.42342
+          ],
+          [
+            2.1765,
+            41.42503
+          ],
+          [
+            2.175,
+            41.42959
+          ],
+          [
+            2.16817,
+            41.43046
+          ],
+          [
+            2.16032,
+            41.42969
+          ],
+          [
+            2.15511,
+            41.4244
+          ],
+          [
+            2.14936,
+            41.42166
+          ],
+          [
+            2.1424,
+            41.42491
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORNELLACENTRE",
+        "name": "Cornellà Centre",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07055,
+          41.3573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GAVARRA",
+        "name": "Gavarra",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07922,
+          41.35799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTILDEFONS",
+        "name": "Sant Ildefons",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08433,
+          41.36334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANBOIXERES",
+        "name": "Can Boixeres",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09152,
+          41.36658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANVIDALET",
+        "name": "Can Vidalet",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09976,
+          41.37174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUBILLACASES",
+        "name": "Pubilla Cases",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10712,
+          41.37381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ERNESTLLUCH",
+        "name": "Ernest Lluch",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11204,
+          41.3759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLLBLANC",
+        "name": "Collblanc",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1184,
+          41.37587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADAL",
+        "name": "Badal",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12893,
+          41.37555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACADESANTS",
+        "name": "Plaça de Sants",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13791,
+          41.37538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTSESTACIO",
+        "name": "Sants Estació",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14111,
+          41.38147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ENTENCA",
+        "name": "Entença",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14496,
+          41.38398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALCLINIC",
+        "name": "Hospital Clínic",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15054,
+          41.38816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DIAGONAL",
+        "name": "Diagonal",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15996,
+          41.39596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERDAGUER",
+        "name": "Verdaguer",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16843,
+          41.40009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGRADAFAMILIA-Barcelona-Barcelona",
+        "name": "Sagrada Família",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17388,
+          41.40403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTPAUDOSDEMAIG",
+        "name": "Sant Pau | Dos de Maig",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17598,
+          41.41073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDELARPA",
+        "name": "Camp de l'Arpa",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18101,
+          41.41469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASAGRERA",
+        "name": "La Sagrera",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18702,
+          41.42262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONGRES",
+        "name": "Congrés",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18129,
+          41.42342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARAGALL",
+        "name": "Maragall",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1765,
+          41.42503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRREIAMAT",
+        "name": "Virrei Amat",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.175,
+          41.42959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAPICINA",
+        "name": "Vilapicina",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16817,
+          41.43046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HORTA",
+        "name": "Horta",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16032,
+          41.42969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCARMEL",
+        "name": "El Carmel",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15511,
+          41.4244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCOLLLATEXIONERA",
+        "name": "El Coll | La Teixonera",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14936,
+          41.42166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLDHEBRON",
+        "name": "Vall d'Hebron",
+        "line": "L5 Cornellà Centre - Vall d'Hebron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1424,
+          41.42491
+        ]
+      }
+    }
+  ]
+}

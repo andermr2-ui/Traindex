@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "230",
+        "name": "Línea 1 Ciudad Expo - Olivar de Quintos",
+        "line_type": "Metro",
+        "operator": "Metro de Sevilla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.05169,
+            37.34926
+          ],
+          [
+            -6.04678,
+            37.35303
+          ],
+          [
+            -6.03857,
+            37.3617
+          ],
+          [
+            -6.02515,
+            37.36702
+          ],
+          [
+            -6.01046,
+            37.37322
+          ],
+          [
+            -6.00476,
+            37.37649
+          ],
+          [
+            -5.99937,
+            37.37925
+          ],
+          [
+            -5.99436,
+            37.38178
+          ],
+          [
+            -3.6346,
+            40.54675
+          ],
+          [
+            -3.70576,
+            40.42977
+          ],
+          [
+            -5.97399,
+            37.38299
+          ],
+          [
+            -5.96674,
+            37.38166
+          ],
+          [
+            -5.95569,
+            37.38074
+          ],
+          [
+            -5.95266,
+            37.37582
+          ],
+          [
+            -6.38418,
+            39.45795
+          ],
+          [
+            -5.95041,
+            37.36777
+          ],
+          [
+            -5.8501,
+            37.23497
+          ],
+          [
+            -5.94367,
+            37.354
+          ],
+          [
+            -5.93628,
+            37.34656
+          ],
+          [
+            -5.93461,
+            37.34212
+          ],
+          [
+            -5.9352,
+            37.33758
+          ],
+          [
+            -5.93834,
+            37.32941
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADEXPO",
+        "name": "Ciudad Expo",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.05169,
+          37.34926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAVALERI",
+        "name": "Cavaleri",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04678,
+          37.35303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANJUANALTO",
+        "name": "San Juan Alto",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.03857,
+          37.3617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANJUANBAJO",
+        "name": "San Juan Bajo",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.02515,
+          37.36702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BLASINFANTE",
+        "name": "Blas Infante",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.01046,
+          37.37322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEDELOSPRINCIPES",
+        "name": "Parque de los Príncipes",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00476,
+          37.37649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADECUBA",
+        "name": "Plaza de Cuba",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99937,
+          37.37925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTAJEREZ",
+        "name": "Puerta Jerez",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99436,
+          37.38178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADODESANSEBASTIAN",
+        "name": "Prado de San Sebastián",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6346,
+          40.54675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANBERNARDO",
+        "name": "San Bernardo",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70576,
+          40.42977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NERVION",
+        "name": "Nervión",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97399,
+          37.38299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANPLAZA",
+        "name": "Gran Plaza",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.96674,
+          37.38166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-1DEMAYO",
+        "name": "1º de Mayo",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.95569,
+          37.38074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMATE",
+        "name": "Amate",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.95266,
+          37.37582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPLATA",
+        "name": "La Plata",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.38418,
+          39.45795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COCHERAS-Sevilla-Sevilla",
+        "name": "Cocheras",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.95041,
+          37.36777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADAIRA",
+        "name": "Guadaíra",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8501,
+          37.23497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PABLODEOLAVIDE",
+        "name": "Pablo de Olavide",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94367,
+          37.354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDEQUINTO",
+        "name": "Condequinto",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93628,
+          37.34656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEQUINTO",
+        "name": "Montequinto",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93461,
+          37.34212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUROPAVITORIA",
+        "name": "Europa",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9352,
+          37.33758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OLIVARDEQUINTOS",
+        "name": "Olivar de Quintos",
+        "line": "Línea 1 Ciudad Expo - Olivar de Quintos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93834,
+          37.32941
+        ]
+      }
+    }
+  ]
+}

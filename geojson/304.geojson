@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "304",
+        "name": "Alvia Barcelona - San Sebastián",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -1.66149,
+            42.82505
+          ],
+          [
+            -2.00642,
+            43.31915
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Alvia Barcelona - San Sebastián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "Alvia Barcelona - San Sebastián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "Alvia Barcelona - San Sebastián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Alvia Barcelona - San Sebastián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PAMPLONA",
+        "name": "Pamplona",
+        "line": "Alvia Barcelona - San Sebastián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66149,
+          42.82505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANSEBASTIANDONOSTIA",
+        "name": "San Sebastián-Donostia",
+        "line": "Alvia Barcelona - San Sebastián"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00642,
+          43.31915
+        ]
+      }
+    }
+  ]
+}

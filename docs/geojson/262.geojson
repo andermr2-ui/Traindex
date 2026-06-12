@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "262",
+        "name": "E3 Kukullaga - Lezama",
+        "line_type": "Suburbano",
+        "operator": "Euskotren"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.89869,
+            43.25869
+          ],
+          [
+            -2.90643,
+            43.25916
+          ],
+          [
+            -2.91372,
+            43.26373
+          ],
+          [
+            -2.92182,
+            43.26017
+          ],
+          [
+            -2.91995,
+            43.26684
+          ],
+          [
+            -2.92546,
+            43.26903
+          ],
+          [
+            -2.92823,
+            43.29831
+          ],
+          [
+            -2.92823,
+            43.29831
+          ],
+          [
+            -2.91581,
+            43.29434
+          ],
+          [
+            -2.90599,
+            43.29444
+          ],
+          [
+            -2.88744,
+            43.29089
+          ],
+          [
+            -2.87469,
+            43.28673
+          ],
+          [
+            -2.8652,
+            43.28426
+          ],
+          [
+            -2.84635,
+            43.27659
+          ],
+          [
+            -2.83578,
+            43.27345
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KUKULLAGAETXEBARRI",
+        "name": "Kukullaga-Etxebarri",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OTXARKOAGABILBAO",
+        "name": "Otxarkoaga-Bilbao",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89869,
+          43.25869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TXURDINAGABILBAO",
+        "name": "Txurdinaga-Bilbao",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90643,
+          43.25916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZURBARANBARRIBILBAO",
+        "name": "Zurbaranbarri-Bilbao",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91372,
+          43.26373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAZPIKALEAKCASCOVIEJO",
+        "name": "Zazpikaleak-Casco Viejo",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92182,
+          43.26017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URIBARRIBILBAO",
+        "name": "Uribarri-Bilbao",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91995,
+          43.26684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATIKOBILBAO",
+        "name": "Matiko-Bilbao",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92546,
+          43.26903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OLASONDIKA",
+        "name": "Ola-Sondika",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92823,
+          43.29831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONDIKA",
+        "name": "Sondika",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92823,
+          43.29831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARRONDOLOIU",
+        "name": "Larrondo-Loiu",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91581,
+          43.29434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELOTXELERRILOIU",
+        "name": "Elotxelerri-Loiu",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90599,
+          43.29444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DERIO",
+        "name": "Derio",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88744,
+          43.29089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEKUNBIZZAMUDIO",
+        "name": "Lekunbiz-Zamudio",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.87469,
+          43.28673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAMUDIO",
+        "name": "Zamudio",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8652,
+          43.28426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KURTZEALEZAMA",
+        "name": "Kurtzea-Lezama",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.84635,
+          43.27659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEZAMA",
+        "name": "Lezama",
+        "line": "E3 Kukullaga - Lezama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.83578,
+          43.27345
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "379",
+        "name": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.64784,
+            43.28681
+          ],
+          [
+            -0.38121,
+            39.46005
+          ],
+          [
+            -0.27141,
+            39.67567
+          ],
+          [
+            -0.09654,
+            39.93296
+          ],
+          [
+            -0.00226,
+            39.97506
+          ],
+          [
+            0.05777,
+            40.05805
+          ],
+          [
+            -5.18621,
+            39.92185
+          ],
+          [
+            -4.60657,
+            36.56497
+          ],
+          [
+            0.22868,
+            40.30465
+          ],
+          [
+            -2.92524,
+            43.29188
+          ],
+          [
+            0.45545,
+            40.47175
+          ],
+          [
+            0.44929,
+            40.59592
+          ],
+          [
+            0.52288,
+            40.80712
+          ],
+          [
+            0.52288,
+            40.80712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIANO",
+        "name": "Ciaño",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64784,
+          43.28681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIAJOAQUINSOROLLA",
+        "name": "Valencia-Joaquín Sorolla",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38121,
+          39.46005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGUNT",
+        "name": "Sagunt",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27141,
+          39.67567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAREAL",
+        "name": "Vila-real",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09654,
+          39.93296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLODELAPLANA",
+        "name": "Castelló de la Plana",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00226,
+          39.97506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENICASSIM",
+        "name": "Benicàssim",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05777,
+          40.05805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OROPESA",
+        "name": "Oropesa",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.18621,
+          39.92185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREBLANCA-Barcelona-SantJoanDesp",
+        "name": "Torreblanca",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60657,
+          36.56497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCALADEXIVERT",
+        "name": "Alcalà de Xivert",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22868,
+          40.30465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENICARLOPENISCOLA",
+        "name": "Benicarló-Peñíscola",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92524,
+          43.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VINAROS",
+        "name": "Vinaròs",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.45545,
+          40.47175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ULLDECONAALCANARLASENIA",
+        "name": "Ulldecona-Alcanar-La Sénia",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.44929,
+          40.59592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    }
+  ]
+}

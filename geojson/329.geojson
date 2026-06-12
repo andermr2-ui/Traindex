@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "329",
+        "name": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.18225,
+            40.64408
+          ],
+          [
+            -1.63842,
+            41.34636
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            2.13996,
+            41.37901
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALAJARAYEBES",
+        "name": "Guadalajara-Yebes",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18225,
+          40.64408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALATAYUD",
+        "name": "Calatayud",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63842,
+          41.34636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Barcelona-Sants"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    }
+  ]
+}

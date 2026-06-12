@@ -1,0 +1,608 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "369",
+        "name": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.63842,
+            41.34636
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.86832,
+            41.63319
+          ],
+          [
+            -0.61838,
+            41.51524
+          ],
+          [
+            -0.49073,
+            41.41944
+          ],
+          [
+            -0.42702,
+            41.32049
+          ],
+          [
+            -0.43819,
+            41.22451
+          ],
+          [
+            -0.36874,
+            41.18208
+          ],
+          [
+            -0.04274,
+            41.23991
+          ],
+          [
+            0.07606,
+            41.22955
+          ],
+          [
+            0.13895,
+            41.22957
+          ],
+          [
+            0.24239,
+            41.21373
+          ],
+          [
+            -0.94395,
+            40.21239
+          ],
+          [
+            -0.61838,
+            41.51524
+          ],
+          [
+            0.54015,
+            41.22942
+          ],
+          [
+            0.56905,
+            41.18232
+          ],
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            0.81051,
+            41.13093
+          ],
+          [
+            0.85864,
+            41.13316
+          ],
+          [
+            0.97578,
+            41.14005
+          ],
+          [
+            1.02207,
+            41.16641
+          ],
+          [
+            1.09994,
+            41.1606
+          ],
+          [
+            1.15044,
+            41.11288
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.3733,
+            41.13661
+          ],
+          [
+            1.40571,
+            41.14279
+          ],
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.16538,
+            41.39254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALATAYUD",
+        "name": "Calatayud",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63842,
+          41.34636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTESDEEBRO",
+        "name": "Fuentes de Ebro",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.61838,
+          41.51524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUINTO",
+        "name": "Quinto",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49073,
+          41.41944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAZAIDASASTAGO",
+        "name": "La Zaida-Sástago",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42702,
+          41.32049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPUEBLADEHIJAR",
+        "name": "La Puebla de Híjar",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43819,
+          41.22451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAMPER",
+        "name": "Samper",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36874,
+          41.18208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASPE",
+        "name": "Caspe",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04274,
+          41.23991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEPILAS",
+        "name": "Val de Pilas",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07606,
+          41.22955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FABARA",
+        "name": "Fabara",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.13895,
+          41.22957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NONASPE",
+        "name": "Nonaspe",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.24239,
+          41.21373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUEBLADEVALVERDE",
+        "name": "Puebla de Valverde",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94395,
+          40.21239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTESDEEBRO",
+        "name": "Fuentes de Ebro",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.61838,
+          41.51524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLIX",
+        "name": "Flix",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.54015,
+          41.22942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASCO",
+        "name": "Ascó",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56905,
+          41.18232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAMOCHANUEVA",
+        "name": "Calamocha Nueva",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARCAFALSET",
+        "name": "Marçà-Falset",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.81051,
+          41.13093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADELL",
+        "name": "Pradell",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.85864,
+          41.13316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIUDECANYESBOTARELL",
+        "name": "Riudecanyes-Botarell",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97578,
+          41.14005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESBORGESDELCAMP",
+        "name": "Les Borges del Camp",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.02207,
+          41.16641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REUS",
+        "name": "Reus",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09994,
+          41.1606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILASECA",
+        "name": "Vila-seca",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15044,
+          41.11288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALTAFULLATAMARIT",
+        "name": "Altafulla-Tamarit",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3733,
+          41.13661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREDEMBARRA",
+        "name": "Torredembarra",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.40571,
+          41.14279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAPASSEIGDEGRACIA",
+        "name": "Barcelona-Passeig de Gràcia",
+        "line": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16538,
+          41.39254
+        ]
+      }
+    }
+  ]
+}

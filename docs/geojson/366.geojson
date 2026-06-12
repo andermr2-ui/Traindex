@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "366",
+        "name": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.86832,
+            41.63319
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -0.99849,
+            41.71092
+          ],
+          [
+            -1.02049,
+            41.72273
+          ],
+          [
+            -1.11261,
+            41.77163
+          ],
+          [
+            -3.85841,
+            42.99637
+          ],
+          [
+            -1.32133,
+            41.86709
+          ],
+          [
+            -1.42087,
+            41.91536
+          ],
+          [
+            -1.51548,
+            41.99707
+          ],
+          [
+            -1.59767,
+            42.0595
+          ],
+          [
+            -1.69244,
+            42.17287
+          ],
+          [
+            -5.50899,
+            43.36119
+          ],
+          [
+            -5.50899,
+            43.36119
+          ],
+          [
+            -1.67121,
+            42.52575
+          ],
+          [
+            -1.66149,
+            42.82505
+          ],
+          [
+            -1.97483,
+            42.92039
+          ],
+          [
+            -2.18131,
+            42.89541
+          ],
+          [
+            -2.38889,
+            42.84631
+          ],
+          [
+            -2.51463,
+            42.84904
+          ],
+          [
+            -2.6727,
+            42.8413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTEBO",
+        "name": "Utebo",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99849,
+          41.71092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASETAS",
+        "name": "Casetas",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.02049,
+          41.72273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALAGON",
+        "name": "Alagón",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11261,
+          41.77163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABANASDEVIRTUS",
+        "name": "Cabañas de Virtus",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.85841,
+          42.99637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GALLUR",
+        "name": "Gallur",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.32133,
+          41.86709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORTESDENAVARRA",
+        "name": "Cortes de Navarra",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42087,
+          41.91536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBAFORADA",
+        "name": "Ribaforada",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51548,
+          41.99707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUDELADENAVARRA",
+        "name": "Tudela de Navarra",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59767,
+          42.0595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTEJONDEEBRO",
+        "name": "Castejón de Ebro",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69244,
+          42.17287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVA",
+        "name": "Nava",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.50899,
+          43.36119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVA",
+        "name": "Nava",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.50899,
+          43.36119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TAFALLA",
+        "name": "Tafalla",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67121,
+          42.52575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PAMPLONA",
+        "name": "Pamplona",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66149,
+          42.82505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUARTEARAKIL",
+        "name": "Huarte-Arakil",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97483,
+          42.92039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALSASUA",
+        "name": "Alsasua",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.18131,
+          42.89541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGURAINSALVATIERRA",
+        "name": "Agurain-Salvatierra",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.38889,
+          42.84631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALEGRIADULANTZI",
+        "name": "Alegría-Dulantzi",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.51463,
+          42.84904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "Regional Exprés 26 Zaragoza - Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    }
+  ]
+}

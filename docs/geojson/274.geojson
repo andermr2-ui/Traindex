@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "274",
+        "name": "Funicular de Igueldo",
+        "line_type": "Funicular",
+        "operator": "Monte Igueldo S.A."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.94487,
+            43.4122
+          ],
+          [
+            -2.00965,
+            43.32104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ONDARRETA",
+        "name": "Ondarreta",
+        "line": "Funicular de Igueldo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94487,
+          43.4122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEIGUELDO",
+        "name": "Monte Igueldo",
+        "line": "Funicular de Igueldo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00965,
+          43.32104
+        ]
+      }
+    }
+  ]
+}

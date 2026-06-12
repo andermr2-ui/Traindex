@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "404",
+        "name": "Regional 47 Valencia - Játiva - Alcoy",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.64784,
+            43.28681
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.48516,
+            38.97458
+          ],
+          [
+            -0.45323,
+            38.93833
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -0.468,
+            39.333
+          ],
+          [
+            -0.413,
+            39.418
+          ],
+          [
+            -0.52241,
+            38.84467
+          ],
+          [
+            -0.5512,
+            38.83056
+          ],
+          [
+            -0.68247,
+            38.7946
+          ],
+          [
+            -0.52183,
+            38.79686
+          ],
+          [
+            -0.44705,
+            38.74078
+          ],
+          [
+            -0.46883,
+            38.70976
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIANO",
+        "name": "Ciaño",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64784,
+          43.28681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GENOVES",
+        "name": "Genovés",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48516,
+          38.97458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIGANIM",
+        "name": "Benigánim",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.45323,
+          38.93833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTABERNER",
+        "name": "Montaberner",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.468,
+          39.333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BUFALI",
+        "name": "Bufalí",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.413,
+          39.418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBAIDA",
+        "name": "Albaida",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52241,
+          38.84467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGULLENT",
+        "name": "Agullent",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5512,
+          38.83056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ONTENIENTE",
+        "name": "Onteniente",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.68247,
+          38.7946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGRES",
+        "name": "Agres",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52183,
+          38.79686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COCENTAINA",
+        "name": "Cocentaina",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.44705,
+          38.74078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOY",
+        "name": "Alcoy",
+        "line": "Regional 47 Valencia - Játiva - Alcoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46883,
+          38.70976
+        ]
+      }
+    }
+  ]
+}

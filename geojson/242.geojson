@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "242",
+        "name": "L1 Mago de Oz - Avenida de la Academia",
+        "line_type": "Tranvía",
+        "operator": "Tranvías de Zaragoza"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.66219,
+            40.45322
+          ],
+          [
+            -3.6762,
+            40.4247
+          ],
+          [
+            -0.86106,
+            41.72169
+          ],
+          [
+            -4.13438,
+            43.00076
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -0.89084,
+            41.67496
+          ],
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.05321,
+            37.19964
+          ],
+          [
+            -2.47561,
+            41.75535
+          ],
+          [
+            -8.65606,
+            42.59021
+          ],
+          [
+            -0.88205,
+            41.65725
+          ],
+          [
+            -0.8839,
+            41.65521
+          ],
+          [
+            -3.71088,
+            40.42345
+          ],
+          [
+            -0.35754,
+            39.47241
+          ],
+          [
+            -1.75932,
+            37.39715
+          ],
+          [
+            -0.51424,
+            42.75137
+          ],
+          [
+            -3.73979,
+            40.37366
+          ],
+          [
+            -3.59358,
+            37.15407
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -0.92347,
+            41.62129
+          ],
+          [
+            -4.00339,
+            40.62988
+          ],
+          [
+            -0.92264,
+            41.61907
+          ],
+          [
+            -0.93034,
+            41.62292
+          ],
+          [
+            -0.92998,
+            41.62357
+          ],
+          [
+            -0.92406,
+            41.62076
+          ],
+          [
+            -0.91855,
+            41.62253
+          ],
+          [
+            -0.93639,
+            41.62503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVENIDADELAACADEMIA",
+        "name": "Avenida de la Academia",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66219,
+          40.45322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEGOYA",
+        "name": "Parque Goya",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6762,
+          40.4247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JUSLIBOL",
+        "name": "Juslibol",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86106,
+          41.72169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPUSRIOEBRO",
+        "name": "Campus Río Ebro",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13438,
+          43.00076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARGARITAXIRGU",
+        "name": "Margarita Xirgu",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGAZLACAMBRA",
+        "name": "Legaz Lacambra",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89084,
+          41.67496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CLARACAMPOAMOR",
+        "name": "Clara Campoamor",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROSALIADECASTRO",
+        "name": "Rosalía de Castro",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05321,
+          37.19964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARTINEZSORIA",
+        "name": "Martínez Soria",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.47561,
+          41.75535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACHIMENEA",
+        "name": "La Chimenea",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65606,
+          42.59021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADELPILARMURALLAS",
+        "name": "Plaza del Pilar-Murallas",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.88205,
+          41.65725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CESARAUGUSTO",
+        "name": "César Augusto",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8839,
+          41.65521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADEESPANA-Madrid-Madrid",
+        "name": "Plaza de España",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71088,
+          40.42345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADEARAGON",
+        "name": "Plaza de Aragón",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35754,
+          39.47241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARLOSV",
+        "name": "Carlos V",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.75932,
+          37.39715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FERNANDOELCATOLICO",
+        "name": "Fernando el Católico",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51424,
+          42.75137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZASANFRANCISCO",
+        "name": "Plaza San Francisco",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73979,
+          40.37366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EMPERADORCARLOSV",
+        "name": "Emperador Carlos V",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59358,
+          37.15407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROMAREDA",
+        "name": "Romareda",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSPAJAROS",
+        "name": "Los Pájaros",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.92347,
+          41.62129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFRAGUA",
+        "name": "La Fragua",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00339,
+          40.62988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASEODELOSOLVIDADOS",
+        "name": "Paseo de los Olvidados",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.92264,
+          41.61907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNAMERICANOENPARIS",
+        "name": "Un Americano en París",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.93034,
+          41.62292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANTANDOBAJOLALLUVIA",
+        "name": "Cantando bajo la Lluvia",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.92998,
+          41.62357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAVENTANAINDISCRETA",
+        "name": "La Ventana Indiscreta",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.92406,
+          41.62076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSOLVIDADOS",
+        "name": "Los Olvidados",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91855,
+          41.62253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MAGODEOZ",
+        "name": "Mago de Oz",
+        "line": "L1 Mago de Oz - Avenida de la Academia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.93639,
+          41.62503
+        ]
+      }
+    }
+  ]
+}

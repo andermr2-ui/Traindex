@@ -1,0 +1,646 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "152",
+        "name": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.14,
+            41.37901
+          ],
+          [
+            2.17008,
+            41.38655
+          ],
+          [
+            2.18091,
+            41.39211
+          ],
+          [
+            2.18702,
+            41.42262
+          ],
+          [
+            2.19114,
+            41.43663
+          ],
+          [
+            2.17994,
+            41.45922
+          ],
+          [
+            2.18003,
+            41.46993
+          ],
+          [
+            2.1821,
+            41.49674
+          ],
+          [
+            2.19426,
+            41.52172
+          ],
+          [
+            2.20597,
+            41.53646
+          ],
+          [
+            2.22591,
+            41.55604
+          ],
+          [
+            2.27658,
+            41.61124
+          ],
+          [
+            2.29497,
+            41.62985
+          ],
+          [
+            2.28866,
+            41.68449
+          ],
+          [
+            2.27156,
+            41.72089
+          ],
+          [
+            2.24919,
+            41.76072
+          ],
+          [
+            2.22281,
+            41.79941
+          ],
+          [
+            2.24726,
+            41.84189
+          ],
+          [
+            2.24726,
+            41.84189
+          ],
+          [
+            2.2853,
+            41.8687
+          ],
+          [
+            2.24859,
+            41.93099
+          ],
+          [
+            2.26911,
+            41.99986
+          ],
+          [
+            2.25998,
+            42.05214
+          ],
+          [
+            2.24193,
+            42.06467
+          ],
+          [
+            2.21765,
+            42.10483
+          ],
+          [
+            2.20359,
+            42.12971
+          ],
+          [
+            2.19616,
+            42.19551
+          ],
+          [
+            2.16577,
+            42.22165
+          ],
+          [
+            2.16546,
+            42.29919
+          ],
+          [
+            2.09979,
+            42.31431
+          ],
+          [
+            2.01513,
+            42.32075
+          ],
+          [
+            1.92456,
+            42.42937
+          ],
+          [
+            2.27734,
+            41.61397
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTS",
+        "name": "Sants",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACACATALUNYA",
+        "name": "Plaça Catalunya",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17008,
+          41.38655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARCDETRIOMF",
+        "name": "Arc de Triomf",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18091,
+          41.39211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASAGRERAMERIDIANA",
+        "name": "La Sagrera-Meridiana",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18702,
+          41.42262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDREUARENAL",
+        "name": "Sant Andreu Arenal",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19114,
+          41.43663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREBARO",
+        "name": "Torre Baró",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17994,
+          41.45922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTCADABIFURCACIO",
+        "name": "Montcada Bifurcació",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18003,
+          41.46993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTCADARIPOLLET",
+        "name": "Montcada-Ripollet",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1821,
+          41.49674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAPERPETUADEMOGODA",
+        "name": "Santa Perpètua de Mogoda",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19426,
+          41.52172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLLETSANTAROSA",
+        "name": "Mollet-Santa Rosa",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20597,
+          41.53646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARETSDELVALLES",
+        "name": "Parets del Vallès",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.22591,
+          41.55604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANOLLERSCANOVELLES",
+        "name": "Granollers-Canovelles",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27658,
+          41.61124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESFRANQUESESDELVALLES",
+        "name": "Les Franqueses del Vallès",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29497,
+          41.62985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGARRIGA",
+        "name": "La Garriga",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28866,
+          41.68449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FIGARO",
+        "name": "Figaró",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27156,
+          41.72089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTMARTIDECENTELLES",
+        "name": "Sant Martí de Centelles",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24919,
+          41.76072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CENTELLES",
+        "name": "Centelles",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.22281,
+          41.79941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALENYATONASEVA",
+        "name": "Balenyà-Tona-Seva",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24726,
+          41.84189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALENYA",
+        "name": "Balenyà",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24726,
+          41.84189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARADELLMONTRODON",
+        "name": "Taradell-Montrodon",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2853,
+          41.8687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIC",
+        "name": "Vic",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24859,
+          41.93099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANLLEU",
+        "name": "Manlleu",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26911,
+          41.99986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORELLO",
+        "name": "Torelló",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.25998,
+          42.05214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BORGONYA",
+        "name": "Borgonyà",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24193,
+          42.06467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTQUIRZEDEBESORA",
+        "name": "Sant Quirze de Besora",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21765,
+          42.10483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFARGADEBEBIE",
+        "name": "La Farga de Bebié",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20359,
+          42.12971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIPOLL",
+        "name": "Ripoll",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19616,
+          42.19551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDEVANOL",
+        "name": "Campdevànol",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16577,
+          42.22165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBESDEFRESER",
+        "name": "Ribes de Freser",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16546,
+          42.29919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLANOLES",
+        "name": "Planoles",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09979,
+          42.31431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOSES",
+        "name": "Toses",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01513,
+          42.32075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUIGCERDA",
+        "name": "Puigcerdà",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.92456,
+          42.42937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LATOURDECAROL",
+        "name": "Latour-de-Carol",
+        "line": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27734,
+          41.61397
+        ]
+      }
+    }
+  ]
+}

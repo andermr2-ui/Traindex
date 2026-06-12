@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "205",
+        "name": "L2 Llíria - Torrent Avinguda",
+        "line_type": "Metro",
+        "operator": "Metrovalencia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.59072,
+            39.62259
+          ],
+          [
+            -0.5842,
+            39.59899
+          ],
+          [
+            -0.56173,
+            39.58233
+          ],
+          [
+            -0.53595,
+            39.56162
+          ],
+          [
+            -0.44194,
+            39.49889
+          ],
+          [
+            -3.76549,
+            40.39073
+          ],
+          [
+            -0.38621,
+            39.47015
+          ],
+          [
+            -0.47263,
+            39.43168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLIRIA",
+        "name": "Llíria",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.59072,
+          39.62259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENAGUASIL",
+        "name": "Benaguasil",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5842,
+          39.59899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPOBLADEVALLBONA",
+        "name": "La Pobla de Vallbona",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56173,
+          39.58233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LELIANA",
+        "name": "L'Eliana",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53595,
+          39.56162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PATERNA",
+        "name": "Paterna",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.44194,
+          39.49889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EMPALME-Madrid-Madrid",
+        "name": "Empalme",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76549,
+          40.39073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANGELGUIMERA",
+        "name": "Àngel Guimerà",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38621,
+          39.47015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRENTAVINGUDA",
+        "name": "Torrent Avinguda",
+        "line": "L2 Llíria - Torrent Avinguda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47263,
+          39.43168
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "313",
+        "name": "AVE Murcia del Carmen - Málaga-María Zambrano",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.76676,
+            38.24539
+          ],
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            -2.14369,
+            40.03396
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -4.11194,
+            38.69129
+          ],
+          [
+            -4.78952,
+            37.88851
+          ],
+          [
+            -4.56137,
+            37.02948
+          ],
+          [
+            -4.01003,
+            43.3983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEAV",
+        "name": "Elche AV",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.76676,
+          38.24539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENAAV",
+        "name": "Villena AV",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBACETELOSLLANOS",
+        "name": "Albacete-Los Llanos",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCAFERNANDOZOBEL",
+        "name": "Cuenca-Fernando Zóbel",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14369,
+          40.03396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLLANO",
+        "name": "Puertollano",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11194,
+          38.69129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBACENTRAL",
+        "name": "Córdoba-Central",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.78952,
+          37.88851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERAAV",
+        "name": "Antequera AV",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56137,
+          37.02948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGAMARIAZAMBRANO",
+        "name": "Málaga-María Zambrano",
+        "line": "AVE Murcia del Carmen - Málaga-María Zambrano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "147",
+        "name": "ML4 Tranvía de Parla",
+        "line_type": "Tranvía",
+        "operator": "Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.38333,
+            41.51178
+          ],
+          [
+            -3.76238,
+            40.24538
+          ],
+          [
+            -3.76631,
+            40.24596
+          ],
+          [
+            -3.69901,
+            40.43526
+          ],
+          [
+            -3.77237,
+            40.23471
+          ],
+          [
+            -3.62406,
+            40.55091
+          ],
+          [
+            -3.70929,
+            40.41816
+          ],
+          [
+            -3.70339,
+            40.41694
+          ],
+          [
+            -2.38889,
+            42.84631
+          ],
+          [
+            -3.773,
+            40.237
+          ],
+          [
+            -3.66135,
+            40.41128
+          ],
+          [
+            -0.20754,
+            39.67989
+          ],
+          [
+            -3.76936,
+            40.24105
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADETOROS",
+        "name": "Plaza de Toros",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38333,
+          41.51178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JULIOROMERODETORRES",
+        "name": "Julio Romero de Torres",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76238,
+          40.24538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LABALLENA",
+        "name": "La Ballena",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76631,
+          40.24596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IGLESIACENTRO",
+        "name": "Iglesia Centro",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69901,
+          40.43526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BULEVARSURMIGUELANGELBLANCO",
+        "name": "Bulevar Sur - Miguel Ángel Blanco",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77237,
+          40.23471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REYESCATOLICOSMURCIA",
+        "name": "Reyes Católicos",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62406,
+          40.55091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEPARLAESTE",
+        "name": "Isabel II",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70929,
+          40.41816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVENIDASISTEMASOLAR",
+        "name": "Avenida Sistema Solar",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70339,
+          40.41694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TIERRA",
+        "name": "Tierra",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.38889,
+          42.84631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENUS",
+        "name": "Venus",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.773,
+          40.237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTRELLAPOLAR",
+        "name": "Estrella Polar",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66135,
+          40.41128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JAIMEI",
+        "name": "Jaime I",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20754,
+          39.67989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLIGONOINDUSTRIALCIUDADDEPARLA",
+        "name": "Polígono Industrial Ciudad de Parla",
+        "line": "ML4 Tranvía de Parla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76936,
+          40.24105
+        ]
+      }
+    }
+  ]
+}

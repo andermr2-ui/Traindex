@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "253",
+        "name": "C-1 Santander - Reinosa",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.81102,
+            43.4583
+          ],
+          [
+            -3.82781,
+            43.45404
+          ],
+          [
+            -3.84724,
+            43.4444
+          ],
+          [
+            -3.84413,
+            43.42174
+          ],
+          [
+            -3.84096,
+            43.41612
+          ],
+          [
+            -3.84153,
+            43.4104
+          ],
+          [
+            -3.85953,
+            43.39154
+          ],
+          [
+            -3.89424,
+            43.37674
+          ],
+          [
+            -3.94951,
+            43.35305
+          ],
+          [
+            -3.96487,
+            43.36066
+          ],
+          [
+            -3.991,
+            43.34768
+          ],
+          [
+            -4.02645,
+            43.34179
+          ],
+          [
+            -4.04246,
+            43.32744
+          ],
+          [
+            -4.05404,
+            43.32439
+          ],
+          [
+            -4.07311,
+            43.29859
+          ],
+          [
+            -4.06759,
+            43.26581
+          ],
+          [
+            -4.06397,
+            43.25507
+          ],
+          [
+            -4.05416,
+            43.19323
+          ],
+          [
+            -4.04995,
+            43.18477
+          ],
+          [
+            -4.04509,
+            43.17011
+          ],
+          [
+            -4.03906,
+            43.14548
+          ],
+          [
+            -3.43831,
+            43.28441
+          ],
+          [
+            -4.0825,
+            43.12277
+          ],
+          [
+            -4.07376,
+            43.08225
+          ],
+          [
+            -4.08421,
+            43.05823
+          ],
+          [
+            -4.13438,
+            43.00076
+          ],
+          [
+            -4.14103,
+            42.99434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDER",
+        "name": "Santander",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81102,
+          43.4583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDECILLA",
+        "name": "Valdecilla",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82781,
+          43.45404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVAMONTANA",
+        "name": "Nueva Montaña",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84724,
+          43.4444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURIEDASBAHIA",
+        "name": "Muriedas-Bahía",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84413,
+          43.42174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALIANO",
+        "name": "Maliaño",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84096,
+          43.41612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOO",
+        "name": "Boo",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84153,
+          43.4104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUARNIZO",
+        "name": "Guarnizo",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.85953,
+          43.39154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARBAYON",
+        "name": "Parbayón",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.89424,
+          43.37674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RENEDO",
+        "name": "Renedo",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.94951,
+          43.35305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIONO",
+        "name": "Vioño",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96487,
+          43.36066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZURITA",
+        "name": "Zurita",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991,
+          43.34768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SIERRAPANDO",
+        "name": "Sierrapando",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.02645,
+          43.34179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELAVEGA",
+        "name": "Torrelavega",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04246,
+          43.32744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIERNOLES",
+        "name": "Viérnoles",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05404,
+          43.32439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASCALDASDEBESAYA",
+        "name": "Las Caldas de Besaya",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.07311,
+          43.29859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOMBERA",
+        "name": "Lombera",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06759,
+          43.26581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSCORRALESDEBUELNA",
+        "name": "Los Corrales de Buelna",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06397,
+          43.25507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASFRAGUAS",
+        "name": "Las Fraguas",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05416,
+          43.19323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARENASDEIGUNA",
+        "name": "Arenas de Iguña",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04995,
+          43.18477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACRUZDEIGUNA",
+        "name": "Santa Cruz de Iguña",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04509,
+          43.17011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLLEDOPORTOLIN",
+        "name": "Molledo-Portolín",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03906,
+          43.14548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCENA",
+        "name": "Bárcena",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.43831,
+          43.28441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUJAYO",
+        "name": "Pujayo",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0825,
+          43.12277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PESQUERA",
+        "name": "Pesquera",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.07376,
+          43.08225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LANTUENOSANTIURDE",
+        "name": "Lantueno-Santiurde",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.08421,
+          43.05823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIOEBRO",
+        "name": "Río Ebro",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13438,
+          43.00076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REINOSA",
+        "name": "Reinosa",
+        "line": "C-1 Santander - Reinosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.14103,
+          42.99434
+        ]
+      }
+    }
+  ]
+}

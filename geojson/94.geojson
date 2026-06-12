@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "94",
+        "name": "Regional Internacional (Celta) Vigo - Porto",
+        "line_type": "Regional Internacional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.71188,
+            42.23952
+          ],
+          [
+            -8.63929,
+            42.0247
+          ],
+          [
+            -4.75456,
+            41.52407
+          ],
+          [
+            -8.58471,
+            41.14919
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOGUIXAR",
+        "name": "Vigo-Guixar",
+        "line": "Regional Internacional (Celta) Vigo - Porto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.71188,
+          42.23952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCADOMINHO",
+        "name": "Valença do Minho",
+        "line": "Regional Internacional (Celta) Vigo - Porto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.63929,
+          42.0247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIANADOCASTELO",
+        "name": "Viana do Castelo",
+        "line": "Regional Internacional (Celta) Vigo - Porto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75456,
+          41.52407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTOCAMPANHA",
+        "name": "Porto-Campanhã",
+        "line": "Regional Internacional (Celta) Vigo - Porto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.58471,
+          41.14919
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "315",
+        "name": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.18225,
+            40.64408
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            2.81629,
+            41.97917
+          ],
+          [
+            2.94268,
+            42.2647
+          ],
+          [
+            2.697,
+            42.77732
+          ],
+          [
+            -8.30008,
+            42.10694
+          ],
+          [
+            3.88032,
+            43.60425
+          ],
+          [
+            4.36625,
+            43.83237
+          ],
+          [
+            4.78576,
+            43.92183
+          ],
+          [
+            5.31729,
+            43.45515
+          ],
+          [
+            -4.01003,
+            43.3983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALAJARAYEBES",
+        "name": "Guadalajara-Yebes",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18225,
+          40.64408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GERONA",
+        "name": "Gerona",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81629,
+          41.97917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FIGUERASVILAFANT",
+        "name": "Figueras-Vilafant",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.94268,
+          42.2647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PERPINAN",
+        "name": "Perpiñán",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.697,
+          42.77732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NARBONA",
+        "name": "Narbona",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30008,
+          42.10694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTPELLIERSAINTROCH",
+        "name": "Montpellier-Saint-Roch",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88032,
+          43.60425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NIMES",
+        "name": "Nimes",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36625,
+          43.83237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVIGNONTGV",
+        "name": "Aviñón TGV",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.78576,
+          43.92183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AIXENPROVENCETGV",
+        "name": "Aix-en-Provence TGV",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.31729,
+          43.45515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARSILLASAINTCHARLES",
+        "name": "Marsella-Saint-Charles",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Marsella-Saint-Charles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    }
+  ]
+}

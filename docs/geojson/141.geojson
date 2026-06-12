@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "141",
+        "name": "Línea 11 Plaza Elíptica - La Fortuna",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.71787,
+            40.38536
+          ],
+          [
+            -3.708,
+            40.379
+          ],
+          [
+            -3.86483,
+            40.32171
+          ],
+          [
+            -3.69439,
+            40.36999
+          ],
+          [
+            -3.71832,
+            40.32418
+          ],
+          [
+            -5.727,
+            37.59012
+          ],
+          [
+            -3.77766,
+            40.3582
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZAELIPTICA",
+        "name": "Plaza Elíptica",
+        "line": "Línea 11 Plaza Elíptica - La Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71787,
+          40.38536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADOLONGO",
+        "name": "Pradolongo",
+        "line": "Línea 11 Plaza Elíptica - La Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708,
+          40.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADILLO",
+        "name": "Pradillo",
+        "line": "Línea 11 Plaza Elíptica - La Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86483,
+          40.32171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERMINORCASUR",
+        "name": "San Fermín-Orcasur",
+        "line": "Línea 11 Plaza Elíptica - La Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69439,
+          40.36999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSESPARTALES",
+        "name": "Los Espartales",
+        "line": "Línea 11 Plaza Elíptica - La Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71832,
+          40.32418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSROSALES",
+        "name": "Los Rosales",
+        "line": "Línea 11 Plaza Elíptica - La Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.727,
+          37.59012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFORTUNA",
+        "name": "La Fortuna",
+        "line": "Línea 11 Plaza Elíptica - La Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77766,
+          40.3582
+        ]
+      }
+    }
+  ]
+}

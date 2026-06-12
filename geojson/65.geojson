@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "65",
+        "name": "MD 13 Madrid - Salamanca",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.71903,
+            40.4216
+          ],
+          [
+            -4.00815,
+            40.62638
+          ],
+          [
+            -4.13232,
+            40.58526
+          ],
+          [
+            -4.15797,
+            40.53863
+          ],
+          [
+            -4.24714,
+            40.52122
+          ],
+          [
+            -4.26932,
+            40.56882
+          ],
+          [
+            -4.36162,
+            40.58916
+          ],
+          [
+            -4.40863,
+            40.59093
+          ],
+          [
+            -4.49501,
+            40.59935
+          ],
+          [
+            -4.68332,
+            40.65721
+          ],
+          [
+            -4.75079,
+            40.73921
+          ],
+          [
+            -4.87146,
+            40.80385
+          ],
+          [
+            -4.96805,
+            40.87
+          ],
+          [
+            -5.05291,
+            40.86667
+          ],
+          [
+            -5.20648,
+            40.89793
+          ],
+          [
+            -5.29607,
+            40.95194
+          ],
+          [
+            -5.43053,
+            40.97228
+          ],
+          [
+            -5.49276,
+            40.98411
+          ],
+          [
+            -5.55317,
+            40.97971
+          ],
+          [
+            -5.64706,
+            40.9718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPRINCIPEPIO",
+        "name": "Madrid-Príncipe Pío",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71903,
+          40.4216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLALBA",
+        "name": "Villalba",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00815,
+          40.62638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELESCORIAL",
+        "name": "El Escorial",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13232,
+          40.58526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARZALEJO",
+        "name": "Zarzalejo",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15797,
+          40.53863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROBLEDODECHAVELA",
+        "name": "Robledo de Chavela",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24714,
+          40.52122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIADELAALAMEDA",
+        "name": "Santa María de la Alameda",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26932,
+          40.56882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASNAVASDELMARQUES",
+        "name": "Las Navas del Marqués",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.36162,
+          40.58916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVALPERAL",
+        "name": "Navalperal",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40863,
+          40.59093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRADONLACANADA",
+        "name": "Herradón-La Cañada",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49501,
+          40.59935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVILA",
+        "name": "Ávila",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.68332,
+          40.65721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARDENOSADEAVILA",
+        "name": "Cardeñosa de Ávila",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75079,
+          40.73921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPEDRODELARROYO",
+        "name": "San Pedro del Arroyo",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.87146,
+          40.80385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CRESPOS",
+        "name": "Crespos",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.96805,
+          40.87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NARROSDELCASTILLO",
+        "name": "Narros del Castillo",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.05291,
+          40.86667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENARANDADEBRACAMONTE",
+        "name": "Peñaranda de Bracamonte",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.20648,
+          40.89793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLARDEGALLIMAZO",
+        "name": "Villar de Gallimazo",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.29607,
+          40.95194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BABILAFUENTE",
+        "name": "Babilafuente",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43053,
+          40.97228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANMORALES",
+        "name": "San Morales",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.49276,
+          40.98411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALDEALENGUA",
+        "name": "Aldealengua",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.55317,
+          40.97971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALAMANCA",
+        "name": "Salamanca",
+        "line": "MD 13 Madrid - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64706,
+          40.9718
+        ]
+      }
+    }
+  ]
+}

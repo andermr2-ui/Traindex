@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "187",
+        "name": "T1 Francesc Macià - Bon Viatge",
+        "line_type": "Tranvía",
+        "operator": "Tram"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.14323,
+            41.39222
+          ],
+          [
+            2.13653,
+            41.39047
+          ],
+          [
+            -3.66476,
+            40.39596
+          ],
+          [
+            2.12622,
+            41.38794
+          ],
+          [
+            2.1216,
+            41.38673
+          ],
+          [
+            2.11786,
+            41.38581
+          ],
+          [
+            2.11169,
+            41.38424
+          ],
+          [
+            2.11487,
+            41.38073
+          ],
+          [
+            2.11204,
+            41.3759
+          ],
+          [
+            2.10594,
+            41.37606
+          ],
+          [
+            2.09841,
+            41.37665
+          ],
+          [
+            2.09353,
+            41.37697
+          ],
+          [
+            2.08858,
+            41.37686
+          ],
+          [
+            2.08398,
+            41.37279
+          ],
+          [
+            -0.64166,
+            38.94256
+          ],
+          [
+            1.83336,
+            41.58876
+          ],
+          [
+            2.06625,
+            41.35634
+          ],
+          [
+            2.05892,
+            41.36468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FRANCESCMACIA",
+        "name": "Francesc Macià",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14323,
+          41.39222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LILLA",
+        "name": "L'Illa",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13653,
+          41.39047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUMANCIA",
+        "name": "Numància",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66476,
+          40.39596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARIACRISTINA",
+        "name": "Maria Cristina",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12622,
+          41.38794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIUSXII",
+        "name": "Pius XII",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1216,
+          41.38673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALAUREIAL",
+        "name": "Palau Reial",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11786,
+          41.38581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZONAUNIVERSITARIA",
+        "name": "Zona Universitària",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11169,
+          41.38424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVINGUDADEXILE",
+        "name": "Avinguda de Xile",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11487,
+          41.38073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ERNESTLLUCH",
+        "name": "Ernest Lluch",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11204,
+          41.3759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANRIGAL",
+        "name": "Can Rigal",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10594,
+          41.37606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANOLIVERES",
+        "name": "Ca n'Oliveres",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09841,
+          41.37665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANCLOTA",
+        "name": "Can Clota",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09353,
+          41.37697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDESPLUGUES",
+        "name": "Pont d'Esplugues",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08858,
+          41.37686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASARDANA",
+        "name": "La Sardana",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08398,
+          41.37279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTESA-Barcelona-EspluguesdeLlobregat",
+        "name": "Montesa",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64166,
+          38.94256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALSANTJOANDESPITV3",
+        "name": "Hospital Sant Joan Despí TV3",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.83336,
+          41.58876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FONTSANTAFATJO",
+        "name": "Fontsanta | Fatjó",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06625,
+          41.35634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BONVIATGE",
+        "name": "Bon Viatge",
+        "line": "T1 Francesc Macià - Bon Viatge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.05892,
+          41.36468
+        ]
+      }
+    }
+  ]
+}

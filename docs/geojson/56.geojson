@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "56",
+        "name": "MD 74 Mérida - Sevilla",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.34305,
+            38.92159
+          ],
+          [
+            -6.39953,
+            38.68468
+          ],
+          [
+            -6.35223,
+            38.56447
+          ],
+          [
+            -6.37731,
+            38.44717
+          ],
+          [
+            -6.40518,
+            38.41395
+          ],
+          [
+            -6.00962,
+            38.23775
+          ],
+          [
+            -5.90041,
+            38.16367
+          ],
+          [
+            -5.80333,
+            38.09037
+          ],
+          [
+            -5.70425,
+            37.9327
+          ],
+          [
+            -5.40664,
+            41.07987
+          ],
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            -5.73101,
+            37.63547
+          ],
+          [
+            -5.7317,
+            37.60929
+          ],
+          [
+            -5.727,
+            37.59012
+          ],
+          [
+            -5.80325,
+            37.57474
+          ],
+          [
+            -5.86677,
+            37.5461
+          ],
+          [
+            -5.9399,
+            37.47994
+          ],
+          [
+            -3.69995,
+            40.41777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERIDA",
+        "name": "Mérida",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34305,
+          38.92159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMENDRALEJO",
+        "name": "Almendralejo",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.39953,
+          38.68468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAFRANCADELOSBARROS",
+        "name": "Villafranca de los Barros",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35223,
+          38.56447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSSANTOSDEMAIMONA",
+        "name": "Los Santos de Maimona",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.37731,
+          38.44717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAFRA",
+        "name": "Zafra",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40518,
+          38.41395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLERENA",
+        "name": "Llerena",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00962,
+          38.23775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTEDELARCO",
+        "name": "Fuente del Arco",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.90041,
+          38.16367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALCANAL",
+        "name": "Guadalcanal",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80333,
+          38.09037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAZALLACONSTANTINA",
+        "name": "Cazalla-Constantina",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.70425,
+          37.9327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPEDROSO",
+        "name": "El Pedroso",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.40664,
+          41.07987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADELRIOMINAS",
+        "name": "Villanueva del Río Minas",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOLEADELRIO",
+        "name": "Alcolea del Río",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.73101,
+          37.63547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOCINA",
+        "name": "Tocina",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7317,
+          37.60929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSROSALES",
+        "name": "Los Rosales",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.727,
+          37.59012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANTILLANA",
+        "name": "Cantillana",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80325,
+          37.57474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BRENES",
+        "name": "Brenes",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86677,
+          37.5461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARINCONADA",
+        "name": "La Rinconada",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9399,
+          37.47994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "MD 74 Mérida - Sevilla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    }
+  ]
+}

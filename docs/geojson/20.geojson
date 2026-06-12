@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "20",
+        "name": "Alvia Madrid - Pamplona",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.18225,
+            40.64408
+          ],
+          [
+            -1.63842,
+            41.34636
+          ],
+          [
+            -1.59767,
+            42.0595
+          ],
+          [
+            -1.69244,
+            42.17287
+          ],
+          [
+            -1.67121,
+            42.52575
+          ],
+          [
+            -1.66149,
+            42.82505
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "Alvia Madrid - Pamplona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALAJARAYEBES",
+        "name": "Guadalajara-Yebes",
+        "line": "Alvia Madrid - Pamplona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18225,
+          40.64408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALATAYUD",
+        "name": "Calatayud",
+        "line": "Alvia Madrid - Pamplona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63842,
+          41.34636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUDELADENAVARRA",
+        "name": "Tudela de Navarra",
+        "line": "Alvia Madrid - Pamplona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59767,
+          42.0595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTEJONDEEBRO",
+        "name": "Castejón de Ebro",
+        "line": "Alvia Madrid - Pamplona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69244,
+          42.17287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TAFALLA",
+        "name": "Tafalla",
+        "line": "Alvia Madrid - Pamplona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67121,
+          42.52575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PAMPLONA",
+        "name": "Pamplona",
+        "line": "Alvia Madrid - Pamplona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66149,
+          42.82505
+        ]
+      }
+    }
+  ]
+}

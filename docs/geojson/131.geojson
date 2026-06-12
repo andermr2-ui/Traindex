@@ -1,0 +1,684 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "131",
+        "name": "Línea 1 Pinar de Chamartín - Valdecarros",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.66705,
+            40.48005
+          ],
+          [
+            -3.67696,
+            40.45712
+          ],
+          [
+            -3.67653,
+            40.4618
+          ],
+          [
+            -3.70801,
+            40.4846
+          ],
+          [
+            -3.70916,
+            40.49962
+          ],
+          [
+            -3.63504,
+            40.55438
+          ],
+          [
+            -3.62406,
+            40.55091
+          ],
+          [
+            -3.61155,
+            40.55984
+          ],
+          [
+            -3.60284,
+            40.42356
+          ],
+          [
+            -3.62299,
+            40.42755
+          ],
+          [
+            -3.63826,
+            40.42317
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -3.66354,
+            40.43106
+          ],
+          [
+            -3.67012,
+            40.40781
+          ],
+          [
+            -3.66967,
+            40.4144
+          ],
+          [
+            -3.68643,
+            40.42046
+          ],
+          [
+            -3.69493,
+            40.41905
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -3.70339,
+            40.41694
+          ],
+          [
+            -3.70458,
+            40.41236
+          ],
+          [
+            -3.69909,
+            40.41229
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.6811,
+            40.4043
+          ],
+          [
+            -3.67488,
+            40.4014
+          ],
+          [
+            -3.67012,
+            40.40781
+          ],
+          [
+            -3.66135,
+            40.41128
+          ],
+          [
+            -3.65253,
+            40.41033
+          ],
+          [
+            -3.64185,
+            40.40526
+          ],
+          [
+            -3.60889,
+            40.4042
+          ],
+          [
+            -3.60355,
+            40.40399
+          ],
+          [
+            -3.62152,
+            40.39991
+          ],
+          [
+            -3.719,
+            40.386
+          ],
+          [
+            -3.61873,
+            40.3722
+          ],
+          [
+            -3.61258,
+            40.36924
+          ],
+          [
+            -3.59212,
+            40.35999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINARDECHAMARTIN",
+        "name": "Pinar de Chamartín",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66705,
+          40.48005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLOMBIA",
+        "name": "Colombia",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67696,
+          40.45712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIOXII",
+        "name": "Pío XII",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67653,
+          40.4618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRERAORIA",
+        "name": "Herrera Oria",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70801,
+          40.4846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PACODELUCIA",
+        "name": "Paco de Lucía",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70916,
+          40.49962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BAUNATAL",
+        "name": "Baunatal",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63504,
+          40.55438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REYESCATOLICOSMURCIA",
+        "name": "Reyes Católicos",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62406,
+          40.55091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALINFANTASOFIA",
+        "name": "Hospital Infanta Sofía",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61155,
+          40.55984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASROSAS",
+        "name": "Las Rosas",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60284,
+          40.42356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SIMANCAS",
+        "name": "Simancas",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62299,
+          40.42755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAALMUDENA",
+        "name": "La Almudena",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63826,
+          40.42317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRESSEVILLA",
+        "name": "Torres Sevilla",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTAS",
+        "name": "Ventas",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66354,
+          40.43106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDEDECASAL",
+        "name": "Conde de Casal",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67012,
+          40.40781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAINZDEBARANDA",
+        "name": "Sainz de Baranda",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66967,
+          40.4144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RETIRO",
+        "name": "Retiro",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68643,
+          40.42046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BANCODEESPANA",
+        "name": "Banco de España",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69493,
+          40.41905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLA",
+        "name": "Sevilla",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOL",
+        "name": "Sol",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70339,
+          40.41694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TIRSODEMOLINA",
+        "name": "Tirso de Molina",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70458,
+          40.41236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTONMARTIN",
+        "name": "Antón Martín",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69909,
+          40.41229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MENENDEZPELAYO",
+        "name": "Menéndez Pelayo",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6811,
+          40.4043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PACIFICO",
+        "name": "Pacífico",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67488,
+          40.4014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDEDECASAL",
+        "name": "Conde de Casal",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67012,
+          40.40781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTRELLA",
+        "name": "Estrella",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66135,
+          40.41128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VINATEROS",
+        "name": "Vinateros",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65253,
+          40.41033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTILLEROS",
+        "name": "Artilleros",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64185,
+          40.40526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICALVARO",
+        "name": "Vicálvaro",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60889,
+          40.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANCIPRIANO",
+        "name": "San Cipriano",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60355,
+          40.40399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEBERNARDO",
+        "name": "Valdebernardo",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62152,
+          40.39991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDERIBAS",
+        "name": "Valderibas",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.719,
+          40.386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONGOSTO",
+        "name": "Congosto",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61873,
+          40.3722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGAVIA",
+        "name": "La Gavia",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61258,
+          40.36924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDECARROS",
+        "name": "Valdecarros",
+        "line": "Línea 1 Pinar de Chamartín - Valdecarros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59212,
+          40.35999
+        ]
+      }
+    }
+  ]
+}

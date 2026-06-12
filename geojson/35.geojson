@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "35",
+        "name": "Avant Madrid - Toledo",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -4.01083,
+            39.86256
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "Avant Madrid - Toledo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOLEDO",
+        "name": "Toledo",
+        "line": "Avant Madrid - Toledo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01083,
+          39.86256
+        ]
+      }
+    }
+  ]
+}

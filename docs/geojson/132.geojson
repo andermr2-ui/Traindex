@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "132",
+        "name": "Línea 2 Las Rosas - Cuatro Caminos",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.60284,
+            40.42356
+          ],
+          [
+            -3.62299,
+            40.42755
+          ],
+          [
+            -3.63826,
+            40.42317
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -3.66354,
+            40.43106
+          ],
+          [
+            -3.67012,
+            40.40781
+          ],
+          [
+            -3.66967,
+            40.4144
+          ],
+          [
+            -3.68643,
+            40.42046
+          ],
+          [
+            -3.69493,
+            40.41905
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -3.70941,
+            40.41798
+          ],
+          [
+            -3.70857,
+            40.42043
+          ],
+          [
+            -3.70739,
+            40.42477
+          ],
+          [
+            -3.70576,
+            40.42977
+          ],
+          [
+            -3.70449,
+            40.43318
+          ],
+          [
+            -3.70396,
+            40.44678
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASROSAS",
+        "name": "Las Rosas",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60284,
+          40.42356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SIMANCAS",
+        "name": "Simancas",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62299,
+          40.42755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAALMUDENA",
+        "name": "La Almudena",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63826,
+          40.42317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRESSEVILLA",
+        "name": "Torres Sevilla",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTAS",
+        "name": "Ventas",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66354,
+          40.43106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDEDECASAL",
+        "name": "Conde de Casal",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67012,
+          40.40781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAINZDEBARANDA",
+        "name": "Sainz de Baranda",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66967,
+          40.4144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RETIRO",
+        "name": "Retiro",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68643,
+          40.42046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BANCODEESPANA",
+        "name": "Banco de España",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69493,
+          40.41905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLA",
+        "name": "Sevilla",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OPERA",
+        "name": "Ópera",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70941,
+          40.41798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTODOMINGO",
+        "name": "Santo Domingo",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70857,
+          40.42043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NOVICIADO",
+        "name": "Noviciado",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70739,
+          40.42477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANBERNARDO",
+        "name": "San Bernardo",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70576,
+          40.42977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUEVEDO",
+        "name": "Quevedo",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70449,
+          40.43318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUATROCAMINOS",
+        "name": "Cuatro Caminos",
+        "line": "Línea 2 Las Rosas - Cuatro Caminos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70396,
+          40.44678
+        ]
+      }
+    }
+  ]
+}

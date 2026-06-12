@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "338",
+        "name": "Alvia Madrid - Irún",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.09476,
+            40.91014
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -3.66632,
+            42.37117
+          ],
+          [
+            -2.94114,
+            42.6908
+          ],
+          [
+            -2.6727,
+            42.8413
+          ],
+          [
+            -2.31988,
+            43.08701
+          ],
+          [
+            -2.07914,
+            43.13564
+          ],
+          [
+            -2.00642,
+            43.31915
+          ],
+          [
+            -1.80058,
+            43.33921
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGOVIAGUIOMAR",
+        "name": "Segovia-Guiomar",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09476,
+          40.91014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BURGOSROSADELIMA",
+        "name": "Burgos-Rosa de Lima",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66632,
+          42.37117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRANDADEEBRO",
+        "name": "Miranda de Ebro",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94114,
+          42.6908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUMARRAGA",
+        "name": "Zumárraga",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.31988,
+          43.08701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOLOSA",
+        "name": "Tolosa",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07914,
+          43.13564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANSEBASTIANDONOSTIA",
+        "name": "San Sebastián-Donostia",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.00642,
+          43.31915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IRUN",
+        "name": "Irún",
+        "line": "Alvia Madrid - Irún"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.80058,
+          43.33921
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "232",
+        "name": "C-1 Málaga Centro-Alameda - Fuengirola",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36602,
+            39.47311
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -4.45505,
+            36.7009
+          ],
+          [
+            -4.48311,
+            36.69258
+          ],
+          [
+            -4.49016,
+            36.67775
+          ],
+          [
+            -4.48033,
+            36.65621
+          ],
+          [
+            -4.4855,
+            36.64475
+          ],
+          [
+            -4.49237,
+            36.64216
+          ],
+          [
+            -4.49105,
+            36.64341
+          ],
+          [
+            -4.5095,
+            36.61365
+          ],
+          [
+            -4.51544,
+            36.60989
+          ],
+          [
+            -4.53652,
+            36.59908
+          ],
+          [
+            -4.56708,
+            36.5823
+          ],
+          [
+            -4.59388,
+            36.57037
+          ],
+          [
+            -4.60657,
+            36.56497
+          ],
+          [
+            -4.61459,
+            36.55462
+          ],
+          [
+            -4.62398,
+            36.54181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGACENTROALAMEDA",
+        "name": "Málaga Centro-Alameda",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36602,
+          39.47311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGAMARIAZAMBRANO",
+        "name": "Málaga-María Zambrano",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICTORIAKENT",
+        "name": "Victoria Kent",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45505,
+          36.7009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALHORCE",
+        "name": "Guadalhorce",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48311,
+          36.69258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTOMALAGA",
+        "name": "Aeropuerto",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49016,
+          36.67775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZAMAYOR",
+        "name": "Plaza Mayor",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48033,
+          36.65621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSALAMOS",
+        "name": "Los Álamos",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4855,
+          36.64475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACOLINA",
+        "name": "La Colina",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49237,
+          36.64216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREMOLINOS",
+        "name": "Torremolinos",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49105,
+          36.64341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEMARALTO",
+        "name": "Montemar Alto",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5095,
+          36.61365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPINILLO",
+        "name": "El Pinillo",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.51544,
+          36.60989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENALMADENAARROYODELAMIEL",
+        "name": "Benalmádena-Arroyo de la Miel",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53652,
+          36.59908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREMUELLE",
+        "name": "Torremuelle",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56708,
+          36.5823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARVAJAL",
+        "name": "Carvajal",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.59388,
+          36.57037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREBLANCAMALAGA",
+        "name": "Torreblanca",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60657,
+          36.56497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSBOLICHES",
+        "name": "Los Boliches",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.61459,
+          36.55462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENGIROLA",
+        "name": "Fuengirola",
+        "line": "C-1 Málaga Centro-Alameda - Fuengirola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62398,
+          36.54181
+        ]
+      }
+    }
+  ]
+}

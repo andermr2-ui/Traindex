@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "241",
+        "name": "C-1 Casetas - Zaragoza Miraflores",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.02049,
+            41.72273
+          ],
+          [
+            -0.99849,
+            41.71092
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.86832,
+            41.63319
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASETAS",
+        "name": "Casetas",
+        "line": "C-1 Casetas - Zaragoza Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.02049,
+          41.72273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTEBO",
+        "name": "Utebo",
+        "line": "C-1 Casetas - Zaragoza Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99849,
+          41.71092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "C-1 Casetas - Zaragoza Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "C-1 Casetas - Zaragoza Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "C-1 Casetas - Zaragoza Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "C-1 Casetas - Zaragoza Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    }
+  ]
+}

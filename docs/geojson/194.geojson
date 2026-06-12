@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "194",
+        "name": "Funicular de Montjuïc",
+        "line_type": "Funicular",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.16302,
+            41.36875
+          ],
+          [
+            2.16943,
+            41.37441
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARCDEMONTJUIC",
+        "name": "Parc de Montjuïc",
+        "line": "Funicular de Montjuïc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16302,
+          41.36875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARALLEL",
+        "name": "Paral·lel",
+        "line": "Funicular de Montjuïc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16943,
+          41.37441
+        ]
+      }
+    }
+  ]
+}

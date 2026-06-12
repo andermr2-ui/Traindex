@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "137",
+        "name": "Línea 7 Hospital del Henares - Pitis",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.53451,
+            40.41761
+          ],
+          [
+            -3.52536,
+            40.42337
+          ],
+          [
+            -3.56196,
+            40.42386
+          ],
+          [
+            -6.2068,
+            36.468
+          ],
+          [
+            -3.60096,
+            40.4338
+          ],
+          [
+            -3.61712,
+            40.44362
+          ],
+          [
+            -3.62702,
+            40.44088
+          ],
+          [
+            -3.63774,
+            40.43793
+          ],
+          [
+            -3.64417,
+            40.43503
+          ],
+          [
+            -3.64815,
+            40.43311
+          ],
+          [
+            -3.64947,
+            40.427
+          ],
+          [
+            -3.64045,
+            40.43031
+          ],
+          [
+            -3.6521,
+            40.43937
+          ],
+          [
+            -3.6629,
+            40.43931
+          ],
+          [
+            -3.65618,
+            40.45594
+          ],
+          [
+            -3.64556,
+            40.45924
+          ],
+          [
+            -3.65212,
+            40.47473
+          ],
+          [
+            -3.63858,
+            40.46982
+          ],
+          [
+            -3.72559,
+            40.4953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALDELHENARES",
+        "name": "Hospital del Henares",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.53451,
+          40.41761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JARAMA",
+        "name": "Jarama",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.52536,
+          40.42337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COSLADACENTRAL",
+        "name": "Coslada Central",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.56196,
+          40.42386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDO",
+        "name": "San Fernando",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2068,
+          36.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTADIOMETROPOLITANO",
+        "name": "Estadio Metropolitano",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60096,
+          40.4338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREARIAS",
+        "name": "Torre Arias",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61712,
+          40.44362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SUANZES",
+        "name": "Suanzes",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62702,
+          40.44088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADLINEAL",
+        "name": "Ciudad Lineal",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63774,
+          40.43793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUEBLONUEVO",
+        "name": "Pueblo Nuevo",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64417,
+          40.43503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUINTANA-Madrid-Madrid",
+        "name": "Quintana",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64815,
+          40.43311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAELIPA",
+        "name": "La Elipa",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64947,
+          40.427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASCAO",
+        "name": "Ascao",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64045,
+          40.43031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARRIODELACONCEPCION",
+        "name": "Barrio de la Concepción",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6521,
+          40.43937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEDELASAVENIDAS",
+        "name": "Parque de las Avenidas",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6629,
+          40.43931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTUROSORIA",
+        "name": "Arturo Soria",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65618,
+          40.45594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPERANZA",
+        "name": "Esperanza",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64556,
+          40.45924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HORTALEZA",
+        "name": "Hortaleza",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65212,
+          40.47473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARDECRISTAL",
+        "name": "Mar de Cristal",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63858,
+          40.46982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PITIS",
+        "name": "Pitis",
+        "line": "Línea 7 Hospital del Henares - Pitis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72559,
+          40.4953
+        ]
+      }
+    }
+  ]
+}

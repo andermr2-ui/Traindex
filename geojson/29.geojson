@@ -1,0 +1,494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "29",
+        "name": "Intercity Torre del Oro",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            1.04528,
+            41.08111
+          ],
+          [
+            0.52288,
+            40.80712
+          ],
+          [
+            0.45545,
+            40.47175
+          ],
+          [
+            -2.92524,
+            43.29188
+          ],
+          [
+            -0.00226,
+            39.97506
+          ],
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            -2.59851,
+            39.26072
+          ],
+          [
+            -2.77539,
+            39.27854
+          ],
+          [
+            -3.20537,
+            39.39566
+          ],
+          [
+            -3.3706,
+            39.0059
+          ],
+          [
+            -3.39614,
+            38.76328
+          ],
+          [
+            -3.5177,
+            38.21573
+          ],
+          [
+            -3.58914,
+            38.06908
+          ],
+          [
+            -3.83216,
+            38.01026
+          ],
+          [
+            -4.06603,
+            38.02797
+          ],
+          [
+            -4.57142,
+            38.25524
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -6.1261,
+            36.67981
+          ],
+          [
+            -6.217,
+            36.6042
+          ],
+          [
+            -6.20688,
+            36.46792
+          ],
+          [
+            -5.98418,
+            37.38296
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMBRILS",
+        "name": "Cambrils",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04528,
+          41.08111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VINAROS",
+        "name": "Vinaròs",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.45545,
+          40.47175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENICARLOPENISCOLA",
+        "name": "Benicarló-Peñíscola",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92524,
+          43.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLODELAPLANA",
+        "name": "Castelló de la Plana",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00226,
+          39.97506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBACETELOSLLANOS",
+        "name": "Albacete-Los Llanos",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLARROBLEDO",
+        "name": "Villarrobledo",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59851,
+          39.26072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOCUELLAMOS",
+        "name": "Socuéllamos",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.77539,
+          39.27854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCAZARDESANJUAN",
+        "name": "Alcázar de San Juan",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20537,
+          39.39566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANZANARES",
+        "name": "Manzanares",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3706,
+          39.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEPENAS",
+        "name": "Valdepeñas",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.39614,
+          38.76328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILCHES",
+        "name": "Vilches",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5177,
+          38.21573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LINARESBAEZA",
+        "name": "Linares-Baeza",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58914,
+          38.06908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPELUY",
+        "name": "Espeluy",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83216,
+          38.01026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANDUJAR",
+        "name": "Andújar",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06603,
+          38.02797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBA",
+        "name": "Córdoba",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57142,
+          38.25524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JEREZDELAFRONTERA",
+        "name": "Jerez de la Frontera",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1261,
+          36.67981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUERTODESANTAMARIA",
+        "name": "El Puerto de Santa María",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.217,
+          36.6042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOBAHIASUR",
+        "name": "San Fernando-Bahía Sur",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20688,
+          36.46792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CADIZ",
+        "name": "Cádiz",
+        "line": "Intercity Torre del Oro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98418,
+          37.38296
+        ]
+      }
+    }
+  ]
+}

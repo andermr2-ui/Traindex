@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "125",
+        "name": "C-5 Móstoles El Soto - Atocha - Humanes",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.88226,
+            40.33095
+          ],
+          [
+            -3.87442,
+            40.31631
+          ],
+          [
+            -3.83199,
+            40.34994
+          ],
+          [
+            -3.81568,
+            40.35655
+          ],
+          [
+            -3.79197,
+            40.3779
+          ],
+          [
+            -3.78038,
+            40.38146
+          ],
+          [
+            -3.76863,
+            40.38355
+          ],
+          [
+            -3.76144,
+            40.38571
+          ],
+          [
+            -3.74472,
+            40.39923
+          ],
+          [
+            -3.70289,
+            40.40522
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.68011,
+            40.39572
+          ],
+          [
+            -3.68398,
+            40.35259
+          ],
+          [
+            -3.71177,
+            40.34103
+          ],
+          [
+            -3.70502,
+            40.35034
+          ],
+          [
+            -3.70474,
+            40.36551
+          ],
+          [
+            -3.69874,
+            40.37902
+          ],
+          [
+            -3.77236,
+            40.32809
+          ],
+          [
+            -3.76936,
+            40.24105
+          ],
+          [
+            -3.79828,
+            40.28229
+          ],
+          [
+            -3.82844,
+            40.25563
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOSTOLESELSOTO",
+        "name": "Móstoles-El Soto",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.88226,
+          40.33095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOSTOLES",
+        "name": "Móstoles",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.87442,
+          40.31631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCORCON",
+        "name": "Alcorcón",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83199,
+          40.34994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANJOSEDEVALDERAS",
+        "name": "San José de Valderas",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81568,
+          40.35655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUATROVIENTOS",
+        "name": "Cuatro Vientos",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79197,
+          40.3779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASAGUILAS",
+        "name": "Las Águilas",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78038,
+          40.38146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MAESTRAJUSTAFREIREPOLIDEPORTIVOALUCHE",
+        "name": "Maestra Justa Freire-Polideportivo Aluche",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76863,
+          40.38355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALUCHE",
+        "name": "Aluche",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76144,
+          40.38571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGUNA",
+        "name": "Laguna",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74472,
+          40.39923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EMBAJADORES",
+        "name": "Embajadores",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70289,
+          40.40522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MENDEZALVARO",
+        "name": "Méndez Álvaro",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68011,
+          40.39572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAVERDEBAJO",
+        "name": "Villaverde Bajo",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68398,
+          40.35259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAVERDEALTO",
+        "name": "Villaverde Alto",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71177,
+          40.34103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTEALCOCER",
+        "name": "Puente Alcocer",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70502,
+          40.35034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORCASITAS",
+        "name": "Orcasitas",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70474,
+          40.36551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOCEDEOCTUBRE",
+        "name": "Doce de Octubre",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69874,
+          40.37902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGANES",
+        "name": "Leganés",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77236,
+          40.32809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARLA",
+        "name": "Parla",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76936,
+          40.24105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENLABRADA",
+        "name": "Fuenlabrada",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79828,
+          40.28229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUMANES",
+        "name": "Humanes",
+        "line": "C-5 Móstoles El Soto - Atocha - Humanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82844,
+          40.25563
+        ]
+      }
+    }
+  ]
+}

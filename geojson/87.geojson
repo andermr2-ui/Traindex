@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "87",
+        "name": "MD 60 Madrid - Valencia",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.00978,
+            40.0065
+          ],
+          [
+            -2.68219,
+            40.14602
+          ],
+          [
+            -2.14369,
+            40.03396
+          ],
+          [
+            -8.30008,
+            42.10694
+          ],
+          [
+            -1.40317,
+            39.64495
+          ],
+          [
+            -1.13473,
+            39.52175
+          ],
+          [
+            -0.7874,
+            39.4271
+          ],
+          [
+            -0.37719,
+            39.46691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARANCON",
+        "name": "Tarancón",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00978,
+          40.0065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUETE",
+        "name": "Huete",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68219,
+          40.14602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCA",
+        "name": "Cuenca",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14369,
+          40.03396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARBONERASDEGUADAZAON",
+        "name": "Carboneras de Guadazaón",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30008,
+          42.10694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPORROBLES",
+        "name": "Camporrobles",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.40317,
+          39.64495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTIEL",
+        "name": "Utiel",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13473,
+          39.52175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BUNOL",
+        "name": "Buñol",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7874,
+          39.4271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "MD 60 Madrid - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    }
+  ]
+}

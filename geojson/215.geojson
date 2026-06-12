@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "215",
+        "name": "L2 Luceros - Sant Vicent del Raspeig",
+        "line_type": "Tranvía",
+        "operator": "TRAM d'Alacant"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49062,
+            38.34603
+          ],
+          [
+            -0.48483,
+            38.34816
+          ],
+          [
+            -0.47567,
+            38.35209
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -0.47312,
+            38.36023
+          ],
+          [
+            -0.47951,
+            38.36322
+          ],
+          [
+            2.10094,
+            41.36424
+          ],
+          [
+            -4.61472,
+            36.73555
+          ],
+          [
+            -3.70384,
+            40.24299
+          ],
+          [
+            -0.49056,
+            38.37658
+          ],
+          [
+            -4.42847,
+            36.75716
+          ],
+          [
+            -4.11185,
+            43.35904
+          ],
+          [
+            2.1643,
+            41.38569
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUCEROS",
+        "name": "Luceros",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49062,
+          38.34603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERCADO",
+        "name": "Mercado",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48483,
+          38.34816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARQCASTILLO",
+        "name": "Marq-Castillo",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47567,
+          38.35209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGOTETAPLAZAMAR2",
+        "name": "La Goteta-Plaza Mar 2",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BULEVARDELPLA",
+        "name": "Bulevar del Plà",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47312,
+          38.36023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GARBINET",
+        "name": "Garbinet",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47951,
+          38.36322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALALICANTE",
+        "name": "Hospital",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10094,
+          41.36424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MAESTROALONSO",
+        "name": "Maestro Alonso",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.61472,
+          36.73555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINTORGASTONCASTELLO",
+        "name": "Pintor Gastón Castelló",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70384,
+          40.24299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRGENDELREMEDIO",
+        "name": "Virgen del Remedio",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49056,
+          38.37658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADJARDIN",
+        "name": "Ciudad Jardín",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42847,
+          36.75716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAISABEL",
+        "name": "Santa Isabel",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11185,
+          43.35904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSITAT",
+        "name": "Universitat",
+        "line": "L2 Luceros - Sant Vicent del Raspeig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1643,
+          41.38569
+        ]
+      }
+    }
+  ]
+}

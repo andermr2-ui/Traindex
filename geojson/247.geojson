@@ -1,0 +1,494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "247",
+        "name": "C-5 Gijón - Laviana",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.67563,
+            43.53773
+          ],
+          [
+            -5.69475,
+            43.52856
+          ],
+          [
+            -5.72655,
+            43.5073
+          ],
+          [
+            -5.7196,
+            43.48653
+          ],
+          [
+            -4.20505,
+            40.80486
+          ],
+          [
+            -5.72059,
+            43.53817
+          ],
+          [
+            2.10983,
+            41.36832
+          ],
+          [
+            -5.7036,
+            43.39402
+          ],
+          [
+            -5.70247,
+            43.38248
+          ],
+          [
+            -5.69367,
+            43.37128
+          ],
+          [
+            -5.6806,
+            43.36346
+          ],
+          [
+            -5.65858,
+            43.35845
+          ],
+          [
+            -5.63438,
+            43.35077
+          ],
+          [
+            -5.63102,
+            43.33826
+          ],
+          [
+            -8.64326,
+            42.0566
+          ],
+          [
+            -5.69277,
+            43.30481
+          ],
+          [
+            -5.67945,
+            43.29185
+          ],
+          [
+            -5.64784,
+            43.28681
+          ],
+          [
+            -5.65292,
+            43.2891
+          ],
+          [
+            -5.64519,
+            43.28714
+          ],
+          [
+            -5.78702,
+            42.78412
+          ],
+          [
+            -5.60484,
+            43.27602
+          ],
+          [
+            -5.59039,
+            43.27088
+          ],
+          [
+            -5.575,
+            43.25985
+          ],
+          [
+            -4.75456,
+            41.52407
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GIJON",
+        "name": "Gijón",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67563,
+          43.53773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TREMANESCARRENO",
+        "name": "Tremañes-Carreño",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69475,
+          43.52856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOTIELLO",
+        "name": "Sotiello",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72655,
+          43.5073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINZALES",
+        "name": "Pinzales",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7196,
+          43.48653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAAGUDA",
+        "name": "La Aguda",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.20505,
+          40.80486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTESECO",
+        "name": "Puente Seco",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72059,
+          43.53817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLORIDA-Asturias-Siero",
+        "name": "Florida",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10983,
+          41.36832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NORENA",
+        "name": "Noreña",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7036,
+          43.39402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELBERRON",
+        "name": "El Berrón",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.70247,
+          43.38248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XIXUN",
+        "name": "Xixún",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69367,
+          43.37128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENDICION",
+        "name": "Bendición",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6806,
+          43.36346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDESOTO",
+        "name": "Valdesoto",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.65858,
+          43.35845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARBAYIN",
+        "name": "Carbayín",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.63438,
+          43.35077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CURUXONA",
+        "name": "Curuxona",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.63102,
+          43.33826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUILLA",
+        "name": "Tuilla",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.64326,
+          42.0566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFELGUERA",
+        "name": "La Felguera",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69277,
+          43.30481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAMA",
+        "name": "Sama",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67945,
+          43.29185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIANO",
+        "name": "Ciaño",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64784,
+          43.28681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANVICENTE",
+        "name": "San Vicente",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.65292,
+          43.2891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELENTREGO",
+        "name": "El Entrego",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64519,
+          43.28714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARROCERA",
+        "name": "Carrocera",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78702,
+          42.78412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOTRONDIO",
+        "name": "Sotrondio",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.60484,
+          43.27602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BLIMEA",
+        "name": "Blimea",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.59039,
+          43.27088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARREDOS",
+        "name": "Barredos",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.575,
+          43.25985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAVIANA",
+        "name": "Laviana",
+        "line": "C-5 Gijón - Laviana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75456,
+          41.52407
+        ]
+      }
+    }
+  ]
+}

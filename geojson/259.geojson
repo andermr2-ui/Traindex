@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "259",
+        "name": "C-4 Bilbao La Concordia - Balmaseda-La Calzada",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.94313,
+            43.25454
+          ],
+          [
+            -2.95322,
+            43.25965
+          ],
+          [
+            -2.97414,
+            43.27399
+          ],
+          [
+            -2.97268,
+            43.26171
+          ],
+          [
+            -2.97199,
+            43.25544
+          ],
+          [
+            -2.98991,
+            43.24843
+          ],
+          [
+            -3.01643,
+            43.23336
+          ],
+          [
+            -3.02489,
+            43.22282
+          ],
+          [
+            -3.05048,
+            43.20205
+          ],
+          [
+            -3.07164,
+            43.20102
+          ],
+          [
+            -3.08246,
+            43.20599
+          ],
+          [
+            -3.09533,
+            43.20896
+          ],
+          [
+            -3.10896,
+            43.2105
+          ],
+          [
+            -3.13333,
+            43.21283
+          ],
+          [
+            -3.13853,
+            43.21095
+          ],
+          [
+            -3.14487,
+            43.20392
+          ],
+          [
+            -3.15032,
+            43.19989
+          ],
+          [
+            -3.17052,
+            43.20317
+          ],
+          [
+            -3.18981,
+            43.19654
+          ],
+          [
+            -3.19746,
+            43.19006
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMETZOLA",
+        "name": "Ametzola",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94313,
+          43.25454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BASURTOOSPITALEA",
+        "name": "Basurto-Ospitalea",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95322,
+          43.25965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZORROTZAZORROTZGOITI",
+        "name": "Zorrotza Zorrotzgoiti",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97414,
+          43.27399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAAGUEDA",
+        "name": "Santa Águeda",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97268,
+          43.26171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KASTREXANA",
+        "name": "Kastrexana",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97199,
+          43.25544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IRAUREGIALONSOTEGI",
+        "name": "Irauregi Alonsotegi",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98991,
+          43.24843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAMILLO",
+        "name": "Zaramillo",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01643,
+          43.23336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAQUADRA",
+        "name": "La Quadra",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02489,
+          43.22282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SODUPE",
+        "name": "Sodupe",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.05048,
+          43.20205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTXUBE",
+        "name": "Artxube",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.07164,
+          43.20102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAMBARRI",
+        "name": "Lámbarri",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.08246,
+          43.20599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUENES",
+        "name": "Güeñes",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.09533,
+          43.20896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARANGUREN",
+        "name": "Aranguren",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.10896,
+          43.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZALLA",
+        "name": "Zalla",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.13333,
+          43.21283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLEGIO",
+        "name": "Colegio",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.13853,
+          43.21095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IBARRA",
+        "name": "Ibarra",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.14487,
+          43.20392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOLUNBURU",
+        "name": "Bolunburu",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.15032,
+          43.19989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAHERRERA",
+        "name": "La Herrera",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.17052,
+          43.20317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALMASEDA",
+        "name": "Balmaseda",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18981,
+          43.19654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACALZADA",
+        "name": "La Calzada",
+        "line": "C-4 Bilbao La Concordia - Balmaseda-La Calzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19746,
+          43.19006
+        ]
+      }
+    }
+  ]
+}

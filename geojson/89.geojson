@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "89",
+        "name": "MD 1 A Coruña - Vigo",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.41215,
+            43.35037
+          ],
+          [
+            -8.41298,
+            43.33528
+          ],
+          [
+            -8.44821,
+            43.03786
+          ],
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -8.65241,
+            42.73898
+          ],
+          [
+            -8.72537,
+            42.67224
+          ],
+          [
+            -8.76228,
+            42.60199
+          ],
+          [
+            -8.6354,
+            42.42168
+          ],
+          [
+            -8.61067,
+            42.34041
+          ],
+          [
+            -8.60372,
+            42.28549
+          ],
+          [
+            -8.71188,
+            42.23952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACORUNA",
+        "name": "A Coruña",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41215,
+          43.35037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELVINAUNIVERSIDADE",
+        "name": "Elviña-Universidade",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41298,
+          43.33528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORDES",
+        "name": "Ordes",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44821,
+          43.03786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PADRONBARBANZA",
+        "name": "Padrón-Barbanza",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65241,
+          42.73898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CATOIRA",
+        "name": "Catoira",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.72537,
+          42.67224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAGARCIADEAROUSA",
+        "name": "Vilagarcía de Arousa",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.76228,
+          42.60199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTEVEDRA",
+        "name": "Pontevedra",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6354,
+          42.42168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARCADE",
+        "name": "Arcade",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.61067,
+          42.34041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REDONDELA",
+        "name": "Redondela",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.60372,
+          42.28549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOGUIXAR",
+        "name": "Vigo-Guixar",
+        "line": "MD 1 A Coruña - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.71188,
+          42.23952
+        ]
+      }
+    }
+  ]
+}

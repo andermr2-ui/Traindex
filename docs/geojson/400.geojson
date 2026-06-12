@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "400",
+        "name": "MD 5 La Coruña - Ferrol",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.41215,
+            43.35037
+          ],
+          [
+            -8.41298,
+            43.33528
+          ],
+          [
+            -6.02799,
+            43.54088
+          ],
+          [
+            -8.35217,
+            43.29044
+          ],
+          [
+            -8.30777,
+            43.28785
+          ],
+          [
+            -8.22583,
+            43.27072
+          ],
+          [
+            -8.21593,
+            43.28418
+          ],
+          [
+            -6.17568,
+            36.46653
+          ],
+          [
+            -8.2011,
+            43.37819
+          ],
+          [
+            -8.17629,
+            43.41133
+          ],
+          [
+            -3.85841,
+            42.99637
+          ],
+          [
+            -8.17486,
+            43.47234
+          ],
+          [
+            -8.23101,
+            43.48805
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACORUNA",
+        "name": "A Coruña",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41215,
+          43.35037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELVINAUNIVERSIDADE",
+        "name": "Elviña-Universidade",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41298,
+          43.33528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODELMONTE",
+        "name": "Santiago del Monte",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.02799,
+          43.54088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMBRE",
+        "name": "Cambre",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.35217,
+          43.29044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CECEBRE",
+        "name": "Cecebre",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30777,
+          43.28785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BETANZOSINFESTA",
+        "name": "Betanzos-Infesta",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.22583,
+          43.27072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BETANZOSCIDADE",
+        "name": "Betanzos-Cidade",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.21593,
+          43.28418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRESCAMINOS",
+        "name": "Tres Caminos",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.17568,
+          36.46653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PERBES",
+        "name": "Perbes",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.2011,
+          43.37819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTEDEUME",
+        "name": "Puentedeume",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17629,
+          43.41133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABANASDEVIRTUS",
+        "name": "Cabañas de Virtus",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.85841,
+          42.99637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PERLIO",
+        "name": "Perlío",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.17486,
+          43.47234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FERROL",
+        "name": "Ferrol",
+        "line": "MD 5 La Coruña - Ferrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.23101,
+          43.48805
+        ]
+      }
+    }
+  ]
+}

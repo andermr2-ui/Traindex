@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "122",
+        "name": "C-3 Aranjuez - Atocha - Chamartín",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.61825,
+            40.03483
+          ],
+          [
+            -3.61013,
+            40.15906
+          ],
+          [
+            -3.6647,
+            40.19603
+          ],
+          [
+            -3.70384,
+            40.24299
+          ],
+          [
+            -3.70758,
+            40.30551
+          ],
+          [
+            -3.70969,
+            40.31853
+          ],
+          [
+            -3.69938,
+            40.33163
+          ],
+          [
+            -3.68375,
+            40.3422
+          ],
+          [
+            -3.68398,
+            40.35259
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.70339,
+            40.41694
+          ],
+          [
+            -3.6917,
+            40.44584
+          ],
+          [
+            -3.68271,
+            40.47395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARANJUEZ",
+        "name": "Aranjuez",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61825,
+          40.03483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIEMPOZUELOS",
+        "name": "Ciempozuelos",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61013,
+          40.15906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEMORO",
+        "name": "Valdemoro",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6647,
+          40.19603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINTO",
+        "name": "Pinto",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70384,
+          40.24299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GETAFEINDUSTRIAL",
+        "name": "Getafe Industrial",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70758,
+          40.30551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCASAR",
+        "name": "El Casar",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70969,
+          40.31853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANCRISTOBALINDUSTRIAL",
+        "name": "San Cristóbal Industrial",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69938,
+          40.33163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANCRISTOBALDELOSANGELES",
+        "name": "San Cristóbal de los Ángeles",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68375,
+          40.3422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAVERDEBAJO",
+        "name": "Villaverde Bajo",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68398,
+          40.35259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOL",
+        "name": "Sol",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70339,
+          40.41694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOSMINISTERIOS",
+        "name": "Nuevos Ministerios",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.44584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHAMARTIN",
+        "name": "Chamartín",
+        "line": "C-3 Aranjuez - Atocha - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    }
+  ]
+}

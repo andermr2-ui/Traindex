@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "96",
+        "name": "MD 61 Alicante - Lorca",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.6951,
+            38.27179
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.99549,
+            38.04715
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -1.20816,
+            37.9665
+          ],
+          [
+            -1.34728,
+            37.88705
+          ],
+          [
+            -1.41449,
+            37.84935
+          ],
+          [
+            -1.57478,
+            37.86234
+          ],
+          [
+            -6.13908,
+            36.41124
+          ],
+          [
+            -1.69632,
+            37.67193
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEPARQUE",
+        "name": "Elche-Parque",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6951,
+          38.27179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIEL",
+        "name": "Beniel",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99549,
+          38.04715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCANTARILLALOSROMANOS",
+        "name": "Alcantarilla-Los Romanos",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.20816,
+          37.9665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LIBRILLA",
+        "name": "Librilla",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.34728,
+          37.88705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALHAMADEMURCIA",
+        "name": "Alhama de Murcia",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.41449,
+          37.84935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOTANA",
+        "name": "Totana",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.57478,
+          37.86234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAHOYA",
+        "name": "La Hoya",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.13908,
+          36.41124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORCASUTULLENA",
+        "name": "Lorca Sutullena",
+        "line": "MD 61 Alicante - Lorca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69632,
+          37.67193
+        ]
+      }
+    }
+  ]
+}

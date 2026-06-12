@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "81",
+        "name": "MD 50 Valencia - Tortosa",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.33467,
+            39.47007
+          ],
+          [
+            -0.27141,
+            39.67567
+          ],
+          [
+            -0.15224,
+            39.85297
+          ],
+          [
+            -0.00226,
+            39.97506
+          ],
+          [
+            0.05777,
+            40.05805
+          ],
+          [
+            -5.18621,
+            39.92185
+          ],
+          [
+            -4.60657,
+            36.56497
+          ],
+          [
+            0.22868,
+            40.30465
+          ],
+          [
+            -2.92524,
+            43.29188
+          ],
+          [
+            0.45545,
+            40.47175
+          ],
+          [
+            0.44929,
+            40.59592
+          ],
+          [
+            0.52288,
+            40.80712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIACABANYAL",
+        "name": "València-Cabanyal",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33467,
+          39.47007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGUNT",
+        "name": "Sagunt",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27141,
+          39.67567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NULESLAVILAVELLA",
+        "name": "Nules-La Vilavella",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15224,
+          39.85297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLODELAPLANA",
+        "name": "Castelló de la Plana",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00226,
+          39.97506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENICASSIM",
+        "name": "Benicàssim",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05777,
+          40.05805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OROPESA",
+        "name": "Oropesa",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.18621,
+          39.92185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREBLANCAMALAGA",
+        "name": "Torreblanca",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60657,
+          36.56497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCALADEXIVERT",
+        "name": "Alcalà de Xivert",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22868,
+          40.30465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENICARLOPENISCOLA",
+        "name": "Benicarló-Peñíscola",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92524,
+          43.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VINAROS",
+        "name": "Vinaròs",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.45545,
+          40.47175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ULLDECONAALCANARLASENIA",
+        "name": "Ulldecona-Alcanar-La Sénia",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.44929,
+          40.59592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "MD 50 Valencia - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    }
+  ]
+}

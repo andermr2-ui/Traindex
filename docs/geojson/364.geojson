@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "364",
+        "name": "Regional 24 León - Gijón",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.52214,
+            42.4055
+          ],
+          [
+            -5.62648,
+            42.80399
+          ],
+          [
+            -2.92524,
+            43.29188
+          ],
+          [
+            -4.04509,
+            43.17011
+          ],
+          [
+            -3.58914,
+            38.06908
+          ],
+          [
+            -5.76944,
+            43.07168
+          ],
+          [
+            -5.8164,
+            43.11012
+          ],
+          [
+            -5.83113,
+            43.15865
+          ],
+          [
+            2.70636,
+            39.76059
+          ],
+          [
+            -5.78239,
+            43.25004
+          ],
+          [
+            -5.85738,
+            43.3588
+          ],
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.69716,
+            43.53537
+          ],
+          [
+            -5.67563,
+            43.53773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAROBLA",
+        "name": "La Robla",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.62648,
+          42.80399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLADESIERO",
+        "name": "Pola de Siero",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92524,
+          43.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACRUZ",
+        "name": "Santa Cruz",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04509,
+          43.17011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LINARESBAEZA",
+        "name": "Linares-Baeza",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58914,
+          38.06908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTEDELOSFIERROS",
+        "name": "Puente de los Fierros",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.76944,
+          43.07168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPOMANES",
+        "name": "Campomanes",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8164,
+          43.11012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLADELENA",
+        "name": "Pola de Lena",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83113,
+          43.15865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UJO",
+        "name": "Ujo",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.70636,
+          39.76059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIERESPUENTE",
+        "name": "Mieres-Puente",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78239,
+          43.25004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLAMAQUIQUE",
+        "name": "Llamaquique",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85738,
+          43.3588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALZADADEASTURIAS",
+        "name": "Calzada de Asturias",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69716,
+          43.53537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GIJON",
+        "name": "Gijón",
+        "line": "Regional 24 León - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67563,
+          43.53773
+        ]
+      }
+    }
+  ]
+}

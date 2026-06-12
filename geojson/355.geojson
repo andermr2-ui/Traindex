@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "355",
+        "name": "Regional 3A Vigo-Guixar - Valença do Minho",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.71188,
+            42.23952
+          ],
+          [
+            -8.60372,
+            42.28549
+          ],
+          [
+            -8.62217,
+            42.16414
+          ],
+          [
+            -8.62254,
+            42.06567
+          ],
+          [
+            -5.78549,
+            43.22089
+          ],
+          [
+            -8.63929,
+            42.0247
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOGUIXAR",
+        "name": "Vigo-Guixar",
+        "line": "Regional 3A Vigo-Guixar - Valença do Minho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.71188,
+          42.23952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REDONDELA",
+        "name": "Redondela",
+        "line": "Regional 3A Vigo-Guixar - Valença do Minho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.60372,
+          42.28549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OPORRINO",
+        "name": "O Porriño",
+        "line": "Regional 3A Vigo-Guixar - Valença do Minho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62217,
+          42.16414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUILLAREY",
+        "name": "Guillarey",
+        "line": "Regional 3A Vigo-Guixar - Valença do Minho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62254,
+          42.06567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUY",
+        "name": "Tuy",
+        "line": "Regional 3A Vigo-Guixar - Valença do Minho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78549,
+          43.22089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCADOMINHO",
+        "name": "Valença do Minho",
+        "line": "Regional 3A Vigo-Guixar - Valença do Minho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.63929,
+          42.0247
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "233",
+        "name": "C-2 Málaga Centro-Alameda - Álora",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.36602,
+            39.47311
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -4.45505,
+            36.7009
+          ],
+          [
+            -4.47831,
+            36.69851
+          ],
+          [
+            -4.54554,
+            36.70509
+          ],
+          [
+            -4.60857,
+            36.73386
+          ],
+          [
+            -4.66477,
+            36.7329
+          ],
+          [
+            -4.712,
+            36.76431
+          ],
+          [
+            -4.6994,
+            36.81971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGACENTROALAMEDA",
+        "name": "Málaga Centro-Alameda",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36602,
+          39.47311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGAMARIAZAMBRANO",
+        "name": "Málaga-María Zambrano",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICTORIAKENT",
+        "name": "Victoria Kent",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45505,
+          36.7009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSPRADOS",
+        "name": "Los Prados",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47831,
+          36.69851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPANILLAS",
+        "name": "Campanillas",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54554,
+          36.70509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARTAMA",
+        "name": "Cártama",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60857,
+          36.73386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALJAIMA",
+        "name": "Aljaima",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.66477,
+          36.7329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIZARRA",
+        "name": "Pizarra",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.712,
+          36.76431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALORA",
+        "name": "Álora",
+        "line": "C-2 Málaga Centro-Alameda - Álora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6994,
+          36.81971
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "266",
+        "name": "Eje Ibaiondo-Salburua",
+        "line_type": "Tranvía",
+        "operator": "Euskotren Tranbia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.6793,
+            42.8435
+          ],
+          [
+            -2.69854,
+            42.86621
+          ],
+          [
+            -2.69862,
+            42.86419
+          ],
+          [
+            -6.81817,
+            40.60161
+          ],
+          [
+            -2.68471,
+            42.85311
+          ],
+          [
+            -2.68471,
+            42.85819
+          ],
+          [
+            -5.6833,
+            42.00522
+          ],
+          [
+            -5.9352,
+            37.33758
+          ],
+          [
+            -2.67993,
+            42.84803
+          ],
+          [
+            -2.67933,
+            42.84645
+          ],
+          [
+            -3.76936,
+            40.24105
+          ],
+          [
+            -2.66768,
+            42.84341
+          ],
+          [
+            2.10983,
+            41.36832
+          ],
+          [
+            -2.65785,
+            42.84324
+          ],
+          [
+            -2.65091,
+            42.84354
+          ],
+          [
+            -2.64983,
+            42.84572
+          ],
+          [
+            -4.44011,
+            36.7107
+          ],
+          [
+            -2.65071,
+            42.85044
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IBAIONDO",
+        "name": "Ibaiondo",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6793,
+          42.8435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LANDABERDE",
+        "name": "Landaberde",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69854,
+          42.86621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAKUABIZKARRA",
+        "name": "Lakuabizkarra",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69862,
+          42.86419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-WELLINGTONVITORIA",
+        "name": "Wellington",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.81817,
+          40.60161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TXAGORRITXU",
+        "name": "Txagorritxu",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68471,
+          42.85311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUSKALHERRIA",
+        "name": "Euskal Herria",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68471,
+          42.85819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HONDURAS",
+        "name": "Honduras",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6833,
+          42.00522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUROPAVITORIA",
+        "name": "Europa",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9352,
+          37.33758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTSOJAKITUNASANCHOELSABIO",
+        "name": "Antso Jakituna-Sancho El Sabio",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67993,
+          42.84803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOVAINA",
+        "name": "Lovaina",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67933,
+          42.84645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGEBILTZARRAPARLAMENTO",
+        "name": "Legebiltzarra-Parlamento",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76936,
+          40.24105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANGULEMA",
+        "name": "Angulema",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.66768,
+          42.84341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLORIDA-Asturias-Siero",
+        "name": "Florida",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10983,
+          41.36832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTALUZIA",
+        "name": "Santa Luzia",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.65785,
+          42.84324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ILIADA",
+        "name": "Iliada",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.65091,
+          42.84354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NIKOSIA",
+        "name": "Nikosia",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.64983,
+          42.84572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAUNIONVITORIA",
+        "name": "La Unión",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44011,
+          36.7107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALBURUA",
+        "name": "Salburua",
+        "line": "Eje Ibaiondo-Salburua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.65071,
+          42.85044
+        ]
+      }
+    }
+  ]
+}

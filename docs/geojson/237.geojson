@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "237",
+        "name": "C-1a Las Aletas - Universidad",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.19845,
+            36.54413
+          ],
+          [
+            -6.20598,
+            36.52948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASALETAS",
+        "name": "Las Aletas",
+        "line": "C-1a Las Aletas - Universidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19845,
+          36.54413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSIDADCADIZ",
+        "name": "Universidad",
+        "line": "C-1a Las Aletas - Universidad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20598,
+          36.52948
+        ]
+      }
+    }
+  ]
+}

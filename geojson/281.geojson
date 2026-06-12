@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "281",
+        "name": "Tranvía de Sóller",
+        "line_type": "Tranvía Histórico",
+        "operator": "Tren de Sóller S.A."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.71512,
+            39.76468
+          ],
+          [
+            2.71512,
+            39.76468
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOLLER",
+        "name": "Sóller",
+        "line": "Tranvía de Sóller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71512,
+          39.76468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTDESOLLER",
+        "name": "Port de Sóller",
+        "line": "Tranvía de Sóller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71512,
+          39.76468
+        ]
+      }
+    }
+  ]
+}

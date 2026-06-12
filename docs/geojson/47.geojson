@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "47",
+        "name": "Avant Alicante - Cuenca",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            -2.14369,
+            40.03396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "Avant Alicante - Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENAAV",
+        "name": "Villena AV",
+        "line": "Avant Alicante - Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBACETELOSLLANOS",
+        "name": "Albacete-Los Llanos",
+        "line": "Avant Alicante - Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCAFERNANDOZOBEL",
+        "name": "Cuenca-Fernando Zóbel",
+        "line": "Avant Alicante - Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14369,
+          40.03396
+        ]
+      }
+    }
+  ]
+}

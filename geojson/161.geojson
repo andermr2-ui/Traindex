@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "161",
+        "name": "RL1 Lleida Pirineus - Balaguer",
+        "line_type": "Rodalies",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            0.68571,
+            41.65425
+          ],
+          [
+            0.72791,
+            41.68736
+          ],
+          [
+            0.763,
+            41.7165
+          ],
+          [
+            0.80557,
+            41.75575
+          ],
+          [
+            0.81469,
+            41.78922
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "RL1 Lleida Pirineus - Balaguer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOLETGE",
+        "name": "Alcoletge",
+        "line": "RL1 Lleida Pirineus - Balaguer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68571,
+          41.65425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVADELABARCA",
+        "name": "Vilanova de la Barca",
+        "line": "RL1 Lleida Pirineus - Balaguer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72791,
+          41.68736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERMENS",
+        "name": "Térmens",
+        "line": "RL1 Lleida Pirineus - Balaguer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.763,
+          41.7165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLFOGONADEBALAGUER",
+        "name": "Vallfogona de Balaguer",
+        "line": "RL1 Lleida Pirineus - Balaguer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.80557,
+          41.75575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALAGUER",
+        "name": "Balaguer",
+        "line": "RL1 Lleida Pirineus - Balaguer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.81469,
+          41.78922
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "226",
+        "name": "C-2 Sevilla - Cartuja",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.98145,
+            37.43377
+          ],
+          [
+            -6.00751,
+            37.41728
+          ],
+          [
+            -6.01012,
+            37.40724
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "C-2 Sevilla - Cartuja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANJERONIMOTENERIFE",
+        "name": "San Jerónimo",
+        "line": "C-2 Sevilla - Cartuja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98145,
+          37.43377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTADIOOLIMPICO",
+        "name": "Estadio Olímpico",
+        "line": "C-2 Sevilla - Cartuja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00751,
+          37.41728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARTUJA",
+        "name": "Cartuja",
+        "line": "C-2 Sevilla - Cartuja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.01012,
+          37.40724
+        ]
+      }
+    }
+  ]
+}

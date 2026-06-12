@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "210",
+        "name": "L9 Alboraya Peris Aragó - Riba-roja de Túria",
+        "line_type": "Metro",
+        "operator": "Metrovalencia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.35754,
+            39.47241
+          ],
+          [
+            -0.35871,
+            39.49209
+          ],
+          [
+            -0.36235,
+            39.48481
+          ],
+          [
+            -0.36602,
+            39.47311
+          ],
+          [
+            -3.69204,
+            40.4258
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.38621,
+            39.47015
+          ],
+          [
+            -0.40687,
+            39.47076
+          ],
+          [
+            -0.41812,
+            39.47399
+          ],
+          [
+            -0.55943,
+            39.54331
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBORAYAPERISARAGO",
+        "name": "Alboraya Peris Aragó",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35754,
+          39.47241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MACHADO",
+        "name": "Machado",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35871,
+          39.49209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIMACLET",
+        "name": "Benimaclet",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36235,
+          39.48481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALAMEDA",
+        "name": "Alameda",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36602,
+          39.47311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLON",
+        "name": "Colón",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69204,
+          40.4258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANGELGUIMERA",
+        "name": "Àngel Guimerà",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38621,
+          39.47015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NOUDOCTUBRE",
+        "name": "Nou d'Octubre",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40687,
+          39.47076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MISLATA",
+        "name": "Mislata",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.41812,
+          39.47399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBAROJADETURIA",
+        "name": "Riba-roja de Túria",
+        "line": "L9 Alboraya Peris Aragó - Riba-roja de Túria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55943,
+          39.54331
+        ]
+      }
+    }
+  ]
+}

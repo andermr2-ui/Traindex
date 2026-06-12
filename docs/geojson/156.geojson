@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "156",
+        "name": "R6 Plaça d'Espanya - Igualada",
+        "line_type": "Cercanías",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13937,
+            41.36786
+          ],
+          [
+            2.13017,
+            41.36116
+          ],
+          [
+            2.13068,
+            41.35192
+          ],
+          [
+            2.11707,
+            41.35478
+          ],
+          [
+            2.11036,
+            41.36095
+          ],
+          [
+            2.10248,
+            41.35891
+          ],
+          [
+            2.08451,
+            41.35304
+          ],
+          [
+            2.07056,
+            41.35752
+          ],
+          [
+            2.04295,
+            41.34849
+          ],
+          [
+            2.03528,
+            41.35752
+          ],
+          [
+            2.03161,
+            41.3641
+          ],
+          [
+            2.0239,
+            41.3702
+          ],
+          [
+            2.01238,
+            41.3881
+          ],
+          [
+            2.00494,
+            41.39934
+          ],
+          [
+            2.00157,
+            41.40664
+          ],
+          [
+            1.99557,
+            41.42078
+          ],
+          [
+            1.97309,
+            41.44684
+          ],
+          [
+            1.96256,
+            41.45564
+          ],
+          [
+            1.9267,
+            41.47909
+          ],
+          [
+            1.9186,
+            41.48403
+          ],
+          [
+            1.87254,
+            41.49773
+          ],
+          [
+            1.8125,
+            41.50296
+          ],
+          [
+            1.75441,
+            41.52588
+          ],
+          [
+            1.70851,
+            41.52034
+          ],
+          [
+            1.69535,
+            41.52156
+          ],
+          [
+            1.67797,
+            41.55456
+          ],
+          [
+            1.64138,
+            41.57369
+          ],
+          [
+            1.6298,
+            41.57807
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MAGORIALACAMPANA",
+        "name": "Magòria-La Campana",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13937,
+          41.36786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ILDEFONSCERDA",
+        "name": "Ildefons Cerdà",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13017,
+          41.36116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUROPAFIRA",
+        "name": "Europa Fira",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13068,
+          41.35192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GORNAL",
+        "name": "Gornal",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11707,
+          41.35478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTJOSEP",
+        "name": "Sant Josep",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11036,
+          41.36095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LHOSPITALETAVCARRILET",
+        "name": "L'Hospitalet Av. Carrilet",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10248,
+          41.35891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMEDA",
+        "name": "Almeda",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08451,
+          41.35304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORNELLARIERA",
+        "name": "Cornellà Riera",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07056,
+          41.35752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTBOI",
+        "name": "Sant Boi",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.04295,
+          41.34849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLINOUCIUTATCOOPERATIVA",
+        "name": "Molí Nou-Ciutat Cooperativa",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03528,
+          41.35752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLONIAGUELL",
+        "name": "Colònia Güell",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03161,
+          41.3641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACOLOMADECERVELLO",
+        "name": "Santa Coloma de Cervelló",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0239,
+          41.3702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDELSHORTS",
+        "name": "Sant Vicenç dels Horts",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01238,
+          41.3881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANROS",
+        "name": "Can Ros",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.00494,
+          41.39934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUATRECAMINS",
+        "name": "Quatre Camins",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.00157,
+          41.40664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALLEJA",
+        "name": "Pallejà",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.99557,
+          41.42078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDREUDELABARCA",
+        "name": "Sant Andreu de la Barca",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.97309,
+          41.44684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPALAU",
+        "name": "El Palau",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.96256,
+          41.45564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARTORELLCENTRAL",
+        "name": "Martorell Central",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9267,
+          41.47909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARTORELLENLLAC",
+        "name": "Martorell Enllaç",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9186,
+          41.48403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTESTEVESESROVIRES",
+        "name": "Sant Esteve Sesrovires",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.87254,
+          41.49773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MASQUEFA",
+        "name": "Masquefa",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8125,
+          41.50296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIERA",
+        "name": "Piera",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.75441,
+          41.52588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLBONADANOIA",
+        "name": "Vallbona d'Anoia",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.70851,
+          41.52034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAPELLADES",
+        "name": "Capellades",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.69535,
+          41.52156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPOBLADECLARAMUNT",
+        "name": "La Pobla de Claramunt",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.67797,
+          41.55456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVADELCAMI",
+        "name": "Vilanova del Camí",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.64138,
+          41.57369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IGUALADA",
+        "name": "Igualada",
+        "line": "R6 Plaça d'Espanya - Igualada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6298,
+          41.57807
+        ]
+      }
+    }
+  ]
+}

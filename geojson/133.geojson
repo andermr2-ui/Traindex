@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "133",
+        "name": "Línea 3 El Casar - Moncloa",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.70969,
+            40.31853
+          ],
+          [
+            -3.77236,
+            40.32809
+          ],
+          [
+            -3.77677,
+            40.3367
+          ],
+          [
+            -3.75238,
+            40.33462
+          ],
+          [
+            -3.62133,
+            40.37943
+          ],
+          [
+            -3.708,
+            40.379
+          ],
+          [
+            -3.65919,
+            40.39301
+          ],
+          [
+            -3.65388,
+            40.39162
+          ],
+          [
+            -3.74129,
+            40.39281
+          ],
+          [
+            -3.73172,
+            40.38864
+          ],
+          [
+            -3.72318,
+            40.38693
+          ],
+          [
+            -3.69496,
+            40.39144
+          ],
+          [
+            -3.70289,
+            40.40522
+          ],
+          [
+            -3.70066,
+            40.40845
+          ],
+          [
+            -3.70339,
+            40.41694
+          ],
+          [
+            -3.70591,
+            40.42029
+          ],
+          [
+            -3.7133,
+            40.42676
+          ],
+          [
+            -3.71617,
+            40.43073
+          ],
+          [
+            -3.83677,
+            40.47388
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCASAR",
+        "name": "El Casar",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70969,
+          40.31853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGANESCENTRAL",
+        "name": "Leganés Central",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77236,
+          40.32809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANNICASIO",
+        "name": "San Nicasio",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77677,
+          40.3367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JULIANBESTEIRO",
+        "name": "Julián Besteiro",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75238,
+          40.33462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLADEVALLECAS",
+        "name": "Villa de Vallecas",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62133,
+          40.37943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADOLONGO",
+        "name": "Pradolongo",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708,
+          40.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTAZGO",
+        "name": "Portazgo",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65919,
+          40.39301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BUENOSAIRES",
+        "name": "Buenos Aires",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65388,
+          40.39162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARPETANA",
+        "name": "Carpetana",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74129,
+          40.39281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OPORTO",
+        "name": "Oporto",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73172,
+          40.38864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OPANEL",
+        "name": "Opañel",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72318,
+          40.38693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGAZPI-Madrid-Madrid",
+        "name": "Legazpi",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69496,
+          40.39144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EMBAJADORES",
+        "name": "Embajadores",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70289,
+          40.40522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAVAPIES",
+        "name": "Lavapiés",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70066,
+          40.40845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOL",
+        "name": "Sol",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70339,
+          40.41694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALLAO",
+        "name": "Callao",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70591,
+          40.42029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTURARODRIGUEZ",
+        "name": "Ventura Rodríguez",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7133,
+          40.42676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARGUELLES",
+        "name": "Argüelles",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71617,
+          40.43073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONCLOA",
+        "name": "Moncloa",
+        "line": "Línea 3 El Casar - Moncloa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83677,
+          40.47388
+        ]
+      }
+    }
+  ]
+}

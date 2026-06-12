@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "113",
+        "name": "R16 Barcelona - Ulldecona",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.18556,
+            41.38439
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.04528,
+            41.08111
+          ],
+          [
+            0.52288,
+            40.80712
+          ],
+          [
+            0.44929,
+            40.59592
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAESTACIODEFRANCA",
+        "name": "Barcelona-Estació de França",
+        "line": "R16 Barcelona - Ulldecona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18556,
+          41.38439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "R16 Barcelona - Ulldecona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMBRILS",
+        "name": "Cambrils",
+        "line": "R16 Barcelona - Ulldecona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04528,
+          41.08111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "R16 Barcelona - Ulldecona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ULLDECONA",
+        "name": "Ulldecona",
+        "line": "R16 Barcelona - Ulldecona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.44929,
+          40.59592
+        ]
+      }
+    }
+  ]
+}

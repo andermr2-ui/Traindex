@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "184",
+        "name": "L10 Sud Collblanc - ZAL",
+        "line_type": "Metro",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1184,
+            41.37587
+          ],
+          [
+            2.11663,
+            41.36841
+          ],
+          [
+            2.11707,
+            41.35478
+          ],
+          [
+            2.12429,
+            41.36139
+          ],
+          [
+            2.13301,
+            41.36324
+          ],
+          [
+            2.13874,
+            41.36049
+          ],
+          [
+            2.14216,
+            41.35585
+          ],
+          [
+            2.13312,
+            41.32375
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLLBLANC",
+        "name": "Collblanc",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1184,
+          41.37587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRASSA",
+        "name": "Torrassa",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11663,
+          41.36841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANTRIESGORNAL",
+        "name": "Can Tries | Gornal",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11707,
+          41.35478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PROVENCANA",
+        "name": "Provençana",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12429,
+          41.36139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUTATDELAJUSTICIA",
+        "name": "Ciutat de la Justícia",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13301,
+          41.36324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FONERIA",
+        "name": "Foneria",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13874,
+          41.36049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FOC",
+        "name": "Foc",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14216,
+          41.35585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZALRIUVELL",
+        "name": "ZAL | Riu Vell",
+        "line": "L10 Sud Collblanc - ZAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13312,
+          41.32375
+        ]
+      }
+    }
+  ]
+}

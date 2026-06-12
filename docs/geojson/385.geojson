@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "385",
+        "name": "Regional 56 Zaragoza - Huesca - Canfranc",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.86832,
+            41.63319
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -0.53843,
+            41.97557
+          ],
+          [
+            -0.40985,
+            42.13275
+          ],
+          [
+            -0.56099,
+            42.20504
+          ],
+          [
+            -0.68243,
+            42.27552
+          ],
+          [
+            -0.73147,
+            42.34424
+          ],
+          [
+            -0.73147,
+            42.34424
+          ],
+          [
+            -0.69581,
+            42.38025
+          ],
+          [
+            -0.64308,
+            42.4032
+          ],
+          [
+            -0.49928,
+            42.39785
+          ],
+          [
+            -0.37335,
+            42.52022
+          ],
+          [
+            -0.53846,
+            42.57773
+          ],
+          [
+            -0.55516,
+            42.64995
+          ],
+          [
+            -0.52346,
+            42.68846
+          ],
+          [
+            -0.51317,
+            42.75068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARDIENTA",
+        "name": "Tardienta",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53843,
+          41.97557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUESCA",
+        "name": "Huesca",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40985,
+          42.13275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLASENCIADELMONTE",
+        "name": "Plasencia del Monte",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56099,
+          42.20504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AYERBE",
+        "name": "Ayerbe",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.68243,
+          42.27552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIGLOSCONCILIO",
+        "name": "Riglos Concilio",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.73147,
+          42.34424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIGLOS",
+        "name": "Riglos",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.73147,
+          42.34424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIAYLAPENA",
+        "name": "Santa María y La Peña",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.69581,
+          42.38025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANZANIGO",
+        "name": "Anzánigo",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64308,
+          42.4032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALDEARENASAQUILUE",
+        "name": "Caldearenas-Aquilué",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49928,
+          42.39785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABINANIGO",
+        "name": "Sabiñánigo",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37335,
+          42.52022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JACA",
+        "name": "Jaca",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53846,
+          42.57773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTIELLOPUEBLO",
+        "name": "Castiello Pueblo",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55516,
+          42.64995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUALETRANZ",
+        "name": "Villanúa-Letranz",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52346,
+          42.68846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANFRANC",
+        "name": "Canfranc",
+        "line": "Regional 56 Zaragoza - Huesca - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51317,
+          42.75068
+        ]
+      }
+    }
+  ]
+}

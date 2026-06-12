@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "222",
+        "name": "C-3 Alicante-Terminal - San Vicente Centre",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.6951,
+            38.27179
+          ],
+          [
+            -0.77755,
+            38.40726
+          ],
+          [
+            -0.8011,
+            38.4849
+          ],
+          [
+            -0.8142,
+            38.54472
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -1.10557,
+            38.86765
+          ],
+          [
+            2.24859,
+            41.93099
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELXPARC",
+        "name": "Elx-Parc",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6951,
+          38.27179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NOVELDAASPE",
+        "name": "Novelda-Aspe",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77755,
+          38.40726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELDAPETRER",
+        "name": "Elda-Petrer",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8011,
+          38.4849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAX",
+        "name": "Sax",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8142,
+          38.54472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENA",
+        "name": "Villena",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMANSA",
+        "name": "Almansa",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.10557,
+          38.86765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANVICENTECENTRE",
+        "name": "San Vicente Centre",
+        "line": "C-3 Alicante-Terminal - San Vicente Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24859,
+          41.93099
+        ]
+      }
+    }
+  ]
+}

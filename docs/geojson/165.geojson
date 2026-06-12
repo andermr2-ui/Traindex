@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "165",
+        "name": "RT1 Tarragona - Reus",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.15044,
+            41.11288
+          ],
+          [
+            1.09994,
+            41.1606
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "RT1 Tarragona - Reus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILASECA",
+        "name": "Vila-seca",
+        "line": "RT1 Tarragona - Reus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15044,
+          41.11288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REUS",
+        "name": "Reus",
+        "line": "RT1 Tarragona - Reus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09994,
+          41.1606
+        ]
+      }
+    }
+  ]
+}

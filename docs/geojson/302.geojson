@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "302",
+        "name": "Alvia Madrid - Lugo",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.92299,
+            41.29133
+          ],
+          [
+            -5.73978,
+            41.516
+          ],
+          [
+            -7.87255,
+            42.35069
+          ],
+          [
+            -7.50314,
+            42.52952
+          ],
+          [
+            -7.41365,
+            42.78262
+          ],
+          [
+            -5.81212,
+            43.40437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "Alvia Madrid - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MEDINADELCAMPOAV",
+        "name": "Medina del Campo AV",
+        "line": "Alvia Madrid - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.92299,
+          41.29133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAMORA",
+        "name": "Zamora",
+        "line": "Alvia Madrid - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.73978,
+          41.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "Alvia Madrid - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFORTEDELEMOS",
+        "name": "Monforte de Lemos",
+        "line": "Alvia Madrid - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.50314,
+          42.52952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRIA-Lugo-Sarria",
+        "name": "Sarria",
+        "line": "Alvia Madrid - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.41365,
+          42.78262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUGO",
+        "name": "Lugo",
+        "line": "Alvia Madrid - Lugo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81212,
+          43.40437
+        ]
+      }
+    }
+  ]
+}

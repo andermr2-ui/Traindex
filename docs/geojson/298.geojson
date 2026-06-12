@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "298",
+        "name": "Avant Valladolid - León",
+        "line_type": "Avant",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            -6.52214,
+            42.4055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Avant Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "Avant Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "Avant Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    }
+  ]
+}

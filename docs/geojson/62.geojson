@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "62",
+        "name": "MD 56 Zaragoza - Canfranc",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.86832,
+            41.63319
+          ],
+          [
+            -0.82216,
+            41.7654
+          ],
+          [
+            -0.76381,
+            41.87719
+          ],
+          [
+            -0.6427,
+            41.99613
+          ],
+          [
+            -0.53843,
+            41.97557
+          ],
+          [
+            -0.40985,
+            42.13275
+          ],
+          [
+            -0.56099,
+            42.20504
+          ],
+          [
+            -0.68243,
+            42.27552
+          ],
+          [
+            -0.73147,
+            42.34424
+          ],
+          [
+            -0.73147,
+            42.34424
+          ],
+          [
+            -0.69581,
+            42.38025
+          ],
+          [
+            -0.64308,
+            42.4032
+          ],
+          [
+            -0.49928,
+            42.39785
+          ],
+          [
+            -0.37335,
+            42.52022
+          ],
+          [
+            -0.53846,
+            42.57773
+          ],
+          [
+            -0.55516,
+            42.64995
+          ],
+          [
+            -0.55516,
+            42.64995
+          ],
+          [
+            -0.52346,
+            42.68846
+          ],
+          [
+            -0.51317,
+            42.75068
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADEGALLEGO",
+        "name": "Villanueva de Gállego",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82216,
+          41.7654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUERA",
+        "name": "Zuera",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.76381,
+          41.87719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMUDEVAR",
+        "name": "Almudévar",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6427,
+          41.99613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARDIENTA",
+        "name": "Tardienta",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53843,
+          41.97557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUESCA",
+        "name": "Huesca",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40985,
+          42.13275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLASENCIADELMONTE",
+        "name": "Plasencia del Monte",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56099,
+          42.20504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AYERBE",
+        "name": "Ayerbe",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.68243,
+          42.27552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIGLOSCONCILIO",
+        "name": "Riglos Concilio",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.73147,
+          42.34424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIGLOS",
+        "name": "Riglos",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.73147,
+          42.34424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIAYLAPENA",
+        "name": "Santa María y La Peña",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.69581,
+          42.38025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANZANIGO",
+        "name": "Anzánigo",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.64308,
+          42.4032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALDEARENASAQUILUE",
+        "name": "Caldearenas-Aquilué",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49928,
+          42.39785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABINANIGO",
+        "name": "Sabiñánigo",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37335,
+          42.52022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JACA",
+        "name": "Jaca",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53846,
+          42.57773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTIELLOPUEBLO",
+        "name": "Castiello Pueblo",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55516,
+          42.64995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTIELLO",
+        "name": "Castiello",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.55516,
+          42.64995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUALETRANZ",
+        "name": "Villanúa-Letranz",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52346,
+          42.68846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANFRANC",
+        "name": "Canfranc",
+        "line": "MD 56 Zaragoza - Canfranc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.51317,
+          42.75068
+        ]
+      }
+    }
+  ]
+}

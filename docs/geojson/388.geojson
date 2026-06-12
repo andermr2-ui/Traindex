@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "388",
+        "name": "MD 60 Alcázar - Ciudad Real - Badajoz",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.20537,
+            39.39566
+          ],
+          [
+            -3.3706,
+            39.0059
+          ],
+          [
+            -3.60408,
+            39.06141
+          ],
+          [
+            -3.70965,
+            38.89551
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -4.11194,
+            38.69129
+          ],
+          [
+            -4.73031,
+            38.74053
+          ],
+          [
+            -0.91855,
+            41.62253
+          ],
+          [
+            -5.22708,
+            38.72394
+          ],
+          [
+            -5.63343,
+            38.76423
+          ],
+          [
+            -5.7965,
+            38.96868
+          ],
+          [
+            -5.89129,
+            39.08594
+          ],
+          [
+            -6.34305,
+            38.92159
+          ],
+          [
+            -6.40788,
+            38.93625
+          ],
+          [
+            -6.47721,
+            38.91537
+          ],
+          [
+            -6.59867,
+            38.91358
+          ],
+          [
+            -6.59867,
+            38.91358
+          ],
+          [
+            -6.69002,
+            38.92177
+          ],
+          [
+            -6.98162,
+            38.89073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCAZARDESANJUAN",
+        "name": "Alcázar de San Juan",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20537,
+          39.39566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANZANARES",
+        "name": "Manzanares",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3706,
+          39.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DAIMIEL",
+        "name": "Daimiel",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60408,
+          39.06141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMAGRO",
+        "name": "Almagro",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70965,
+          38.89551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOLLANO",
+        "name": "Puertollano",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11194,
+          38.69129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMADENALMADENEJOS",
+        "name": "Almadén-Almadenejos",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.73031,
+          38.74053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSOLVIDADOS",
+        "name": "Los Olvidados",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91855,
+          41.62253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABEZADELBUEY",
+        "name": "Cabeza del Buey",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.22708,
+          38.72394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTUERA",
+        "name": "Castuera",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.63343,
+          38.76423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADELASERENA",
+        "name": "Villanueva de la Serena",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7965,
+          38.96868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DONBENITO",
+        "name": "Don Benito",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.89129,
+          39.08594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERIDA",
+        "name": "Mérida",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34305,
+          38.92159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALJUCEN",
+        "name": "Aljucén",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40788,
+          38.93625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GARROVILLALASVEGAS",
+        "name": "Garrovilla-Las Vegas",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47721,
+          38.91537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTIJO",
+        "name": "Montijo",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.59867,
+          38.91358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTIJOELMOLINO",
+        "name": "Montijo-El Molino",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.59867,
+          38.91358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADIANA",
+        "name": "Guadiana",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.69002,
+          38.92177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADAJOZ",
+        "name": "Badajoz",
+        "line": "MD 60 Alcázar - Ciudad Real - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98162,
+          38.89073
+        ]
+      }
+    }
+  ]
+}

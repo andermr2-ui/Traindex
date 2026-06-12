@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "373",
+        "name": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.86832,
+            41.63319
+          ],
+          [
+            -0.82216,
+            41.7654
+          ],
+          [
+            -0.53843,
+            41.97557
+          ],
+          [
+            -0.36931,
+            41.93795
+          ],
+          [
+            -0.17266,
+            41.81725
+          ],
+          [
+            0.1969,
+            41.91372
+          ],
+          [
+            0.29141,
+            41.84974
+          ],
+          [
+            0.651,
+            41.6237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADEGALLEGO",
+        "name": "Villanueva de Gállego",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82216,
+          41.7654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARDIENTA",
+        "name": "Tardienta",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53843,
+          41.97557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANEN",
+        "name": "Grañén",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36931,
+          41.93795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARINENA",
+        "name": "Sariñena",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17266,
+          41.81725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONZONRIOCINCA",
+        "name": "Monzón-Río Cinca",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1969,
+          41.91372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BINEFAR",
+        "name": "Binéfar",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.29141,
+          41.84974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LERIDAPIRINEOS",
+        "name": "Lérida-Pirineos",
+        "line": "Regional Exprés 38 Zaragoza - Monzón-Río Cinca - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.651,
+          41.6237
+        ]
+      }
+    }
+  ]
+}

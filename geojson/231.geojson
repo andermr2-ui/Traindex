@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "231",
+        "name": "Metrocentro (T1) Luis de Morales - Archivo de Indias",
+        "line_type": "Tranvía",
+        "operator": "TUSSAM"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            -5.99304,
+            37.38471
+          ],
+          [
+            -5.99436,
+            37.38178
+          ],
+          [
+            -3.6346,
+            40.54675
+          ],
+          [
+            -3.70576,
+            40.42977
+          ],
+          [
+            -3.73979,
+            40.37366
+          ],
+          [
+            -5.9734,
+            37.38224
+          ],
+          [
+            -5.97277,
+            37.38381
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZANUEVA",
+        "name": "Plaza Nueva",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARCHIVODEINDIAS",
+        "name": "Archivo de Indias",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99304,
+          37.38471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTADEJEREZ",
+        "name": "Puerta de Jerez",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99436,
+          37.38178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADODESANSEBASTIAN",
+        "name": "Prado de San Sebastián",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6346,
+          40.54675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANBERNARDO",
+        "name": "San Bernardo",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70576,
+          40.42977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFRANCISCOJAVIER",
+        "name": "San Francisco Javier",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73979,
+          40.37366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EDUARDODATO",
+        "name": "Eduardo Dato",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9734,
+          37.38224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUISDEMORALES",
+        "name": "Luis de Morales",
+        "line": "Metrocentro (T1) Luis de Morales - Archivo de Indias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97277,
+          37.38381
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,608 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "140",
+        "name": "Línea 10 Hospital Infanta Sofía - Puerta del Sur",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.61155,
+            40.55984
+          ],
+          [
+            -3.62406,
+            40.55091
+          ],
+          [
+            -3.63504,
+            40.55438
+          ],
+          [
+            -3.64697,
+            40.55022
+          ],
+          [
+            -3.63805,
+            40.54046
+          ],
+          [
+            -3.63549,
+            40.53203
+          ],
+          [
+            -3.65852,
+            40.52743
+          ],
+          [
+            -3.66232,
+            40.51516
+          ],
+          [
+            -3.66943,
+            40.50834
+          ],
+          [
+            -3.69599,
+            40.50534
+          ],
+          [
+            -3.69469,
+            40.50097
+          ],
+          [
+            -3.68216,
+            40.50154
+          ],
+          [
+            -3.6869,
+            40.48345
+          ],
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.68966,
+            40.46628
+          ],
+          [
+            -3.69002,
+            40.45948
+          ],
+          [
+            -3.69073,
+            40.45237
+          ],
+          [
+            -3.6917,
+            40.44584
+          ],
+          [
+            -3.69121,
+            40.43799
+          ],
+          [
+            -3.69598,
+            40.42741
+          ],
+          [
+            -3.70109,
+            40.42624
+          ],
+          [
+            -3.71088,
+            40.42345
+          ],
+          [
+            -3.71933,
+            40.42096
+          ],
+          [
+            -3.73488,
+            40.41651
+          ],
+          [
+            -3.75312,
+            40.40784
+          ],
+          [
+            -3.76093,
+            40.40349
+          ],
+          [
+            -3.7748,
+            40.39686
+          ],
+          [
+            -3.78402,
+            40.38371
+          ],
+          [
+            -3.79197,
+            40.3779
+          ],
+          [
+            -3.80732,
+            40.34977
+          ],
+          [
+            -3.81202,
+            40.34521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALINFANTASOFIA",
+        "name": "Hospital Infanta Sofía",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61155,
+          40.55984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REYESCATOLICOSMURCIA",
+        "name": "Reyes Católicos",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62406,
+          40.55091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BAUNATAL",
+        "name": "Baunatal",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63504,
+          40.55438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANUELDEFALLA",
+        "name": "Manuel de Falla",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64697,
+          40.55022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARQUESDELAVALDAVIA",
+        "name": "Marqués de la Valdavia",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63805,
+          40.54046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAMORALEJA",
+        "name": "La Moraleja",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63549,
+          40.53203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGRANJA",
+        "name": "La Granja",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65852,
+          40.52743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RONDADELACOMUNICACION",
+        "name": "Ronda de la Comunicación",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66232,
+          40.51516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASTABLAS",
+        "name": "Las Tablas",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66943,
+          40.50834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTECARMELO",
+        "name": "Montecarmelo",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69599,
+          40.50534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRESOLIVOS",
+        "name": "Tres Olivos",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69469,
+          40.50097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENCARRAL",
+        "name": "Fuencarral",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68216,
+          40.50154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEGONA",
+        "name": "Begoña",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6869,
+          40.48345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHAMARTIN",
+        "name": "Chamartín",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADECASTILLA",
+        "name": "Plaza de Castilla",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68966,
+          40.46628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUZCO",
+        "name": "Cuzco",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69002,
+          40.45948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGOBERNABEU",
+        "name": "Santiago Bernabéu",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69073,
+          40.45237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOSMINISTERIOS",
+        "name": "Nuevos Ministerios",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.44584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GREGORIOMARANON",
+        "name": "Gregorio Marañón",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69121,
+          40.43799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALONSOMARTINEZ",
+        "name": "Alonso Martínez",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69598,
+          40.42741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRIBUNAL",
+        "name": "Tribunal",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70109,
+          40.42624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADEESPANA-Madrid-Madrid",
+        "name": "Plaza de España",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71088,
+          40.42345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRINCIPEPIO",
+        "name": "Príncipe Pío",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71933,
+          40.42096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGO",
+        "name": "Lago",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73488,
+          40.41651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BATAN",
+        "name": "Batán",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.75312,
+          40.40784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASADECAMPO",
+        "name": "Casa de Campo",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76093,
+          40.40349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLONIAJARDIN",
+        "name": "Colonia Jardín",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7748,
+          40.39686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVIACIONESPANOLA",
+        "name": "Aviación Española",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78402,
+          40.38371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUATROVIENTOS",
+        "name": "Cuatro Vientos",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79197,
+          40.3779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JOAQUINVILUMBRALES",
+        "name": "Joaquín Vilumbrales",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80732,
+          40.34977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTADELSUR",
+        "name": "Puerta del Sur",
+        "line": "Línea 10 Hospital Infanta Sofía - Puerta del Sur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81202,
+          40.34521
+        ]
+      }
+    }
+  ]
+}

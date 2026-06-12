@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "374",
+        "name": "MD 44 Valencia - Alicante - Murcia - Cartagena",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.64784,
+            43.28681
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.75309,
+            38.87813
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -0.8142,
+            38.54472
+          ],
+          [
+            -0.8011,
+            38.4849
+          ],
+          [
+            -0.77755,
+            38.40726
+          ],
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            2.20073,
+            41.41906
+          ],
+          [
+            -0.58276,
+            38.28965
+          ],
+          [
+            -0.6951,
+            38.27179
+          ],
+          [
+            -0.7063,
+            38.26904
+          ],
+          [
+            -0.78156,
+            38.22451
+          ],
+          [
+            -0.83835,
+            38.16725
+          ],
+          [
+            -0.87441,
+            38.12267
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.99549,
+            38.04715
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -0.96706,
+            37.74694
+          ],
+          [
+            -0.97497,
+            37.60503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIANO",
+        "name": "Ciaño",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64784,
+          43.28681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOIXENT",
+        "name": "Moixent",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75309,
+          38.87813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENA",
+        "name": "Villena",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAX",
+        "name": "Sax",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8142,
+          38.54472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELDAPETRER",
+        "name": "Elda-Petrer",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8011,
+          38.4849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NOVELDAASPE",
+        "name": "Novelda-Aspe",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77755,
+          38.40726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTMARTI",
+        "name": "Sant Martí",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20073,
+          41.41906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELLANO",
+        "name": "Torrellano",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58276,
+          38.28965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEPARQUE",
+        "name": "Elche-Parque",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6951,
+          38.27179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHECARRUS",
+        "name": "Elche-Carrús",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7063,
+          38.26904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CREVILLENT",
+        "name": "Crevillent",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.78156,
+          38.22451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBATERACATRAL",
+        "name": "Albatera-Catral",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.83835,
+          38.16725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALLOSADESEGURA",
+        "name": "Callosa de Segura",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87441,
+          38.12267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIEL",
+        "name": "Beniel",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99549,
+          38.04715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALSICASMARMENOR",
+        "name": "Balsicas-Mar Menor",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREPACHECO",
+        "name": "Torre-Pacheco",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.96706,
+          37.74694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARTAGENA",
+        "name": "Cartagena",
+        "line": "MD 44 Valencia - Alicante - Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.97497,
+          37.60503
+        ]
+      }
+    }
+  ]
+}

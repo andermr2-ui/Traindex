@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "99",
+        "name": "MD 26 Zaragoza - Vitoria",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -1.02049,
+            41.72273
+          ],
+          [
+            -1.11261,
+            41.77163
+          ],
+          [
+            -1.32133,
+            41.86709
+          ],
+          [
+            -1.42087,
+            41.91536
+          ],
+          [
+            -1.51548,
+            41.99707
+          ],
+          [
+            -1.59767,
+            42.0595
+          ],
+          [
+            -1.69244,
+            42.17287
+          ],
+          [
+            -1.67121,
+            42.52575
+          ],
+          [
+            -2.18131,
+            42.89541
+          ],
+          [
+            -2.30674,
+            42.86923
+          ],
+          [
+            -2.38889,
+            42.84631
+          ],
+          [
+            -2.51463,
+            42.84904
+          ],
+          [
+            -2.6727,
+            42.8413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASETAS",
+        "name": "Casetas",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.02049,
+          41.72273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALAGON",
+        "name": "Alagón",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11261,
+          41.77163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GALLUR",
+        "name": "Gallur",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.32133,
+          41.86709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORTESDENAVARRA",
+        "name": "Cortes de Navarra",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42087,
+          41.91536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBAFORADA",
+        "name": "Ribaforada",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51548,
+          41.99707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUDELADENAVARRA",
+        "name": "Tudela de Navarra",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59767,
+          42.0595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTEJONDEEBRO",
+        "name": "Castejón de Ebro",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69244,
+          42.17287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TAFALLA",
+        "name": "Tafalla",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67121,
+          42.52575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALSASUA",
+        "name": "Alsasua",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.18131,
+          42.89541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARAIA",
+        "name": "Araia",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.30674,
+          42.86923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGURAINSALVATIERRA",
+        "name": "Agurain-Salvatierra",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.38889,
+          42.84631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALEGRIADULANTZI",
+        "name": "Alegría-Dulantzi",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.51463,
+          42.84904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "MD 26 Zaragoza - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    }
+  ]
+}

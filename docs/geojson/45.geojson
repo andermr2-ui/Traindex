@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "45",
+        "name": "Avant Eje Atlántico",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.41215,
+            43.35037
+          ],
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -8.65241,
+            42.73898
+          ],
+          [
+            -8.76228,
+            42.60199
+          ],
+          [
+            -8.6354,
+            42.42168
+          ],
+          [
+            -8.60372,
+            42.28549
+          ],
+          [
+            -8.7119,
+            42.23496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACORUNA",
+        "name": "A Coruña",
+        "line": "Avant Eje Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41215,
+          43.35037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "Avant Eje Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PADRONBARBANZA",
+        "name": "Padrón-Barbanza",
+        "line": "Avant Eje Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.65241,
+          42.73898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAGARCIADEAROUSA",
+        "name": "Vilagarcía de Arousa",
+        "line": "Avant Eje Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.76228,
+          42.60199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTEVEDRA",
+        "name": "Pontevedra",
+        "line": "Avant Eje Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6354,
+          42.42168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REDONDELAAV",
+        "name": "Redondela AV",
+        "line": "Avant Eje Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.60372,
+          42.28549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOURZAIZ",
+        "name": "Vigo-Urzaiz",
+        "line": "Avant Eje Atlántico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7119,
+          42.23496
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "218",
+        "name": "L5 Porta del Mar - Plaza de La Coruña",
+        "line_type": "Tranvía",
+        "operator": "TRAM d'Alacant"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            2.11094,
+            41.35096
+          ],
+          [
+            -0.473,
+            38.34906
+          ],
+          [
+            -15.41735,
+            28.15385
+          ],
+          [
+            -0.43801,
+            38.36545
+          ],
+          [
+            -0.42865,
+            38.37482
+          ],
+          [
+            -15.59807,
+            27.73915
+          ],
+          [
+            -3.80549,
+            40.43802
+          ],
+          [
+            -2.67683,
+            43.31991
+          ],
+          [
+            -8.41098,
+            43.35175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTADELMAR",
+        "name": "Porta del Mar",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAMARINA",
+        "name": "La Marina",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11094,
+          41.35096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANGUETA",
+        "name": "Sangueta",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.473,
+          38.34906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAISLETA",
+        "name": "La Isleta",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41735,
+          28.15385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUCENTUM",
+        "name": "Lucentum",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43801,
+          38.36545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDOMINA",
+        "name": "Condomina",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42865,
+          38.37482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPODEGOLF",
+        "name": "Campo de Golf",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.59807,
+          27.73915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVNACIONES",
+        "name": "Av. Naciones",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80549,
+          40.43802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INSTITUTO",
+        "name": "Instituto",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67683,
+          43.31991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLAZADELACORUNA",
+        "name": "Plaza de La Coruña",
+        "line": "L5 Porta del Mar - Plaza de La Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41098,
+          43.35175
+        ]
+      }
+    }
+  ]
+}

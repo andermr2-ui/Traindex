@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "357",
+        "name": "MD 16 Valladolid - Ávila - Madrid",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -4.90968,
+            41.31726
+          ],
+          [
+            -4.70193,
+            41.04707
+          ],
+          [
+            -4.68332,
+            40.65721
+          ],
+          [
+            -4.49501,
+            40.59935
+          ],
+          [
+            -4.40863,
+            40.59093
+          ],
+          [
+            -4.36162,
+            40.58916
+          ],
+          [
+            -4.26932,
+            40.56882
+          ],
+          [
+            -4.24714,
+            40.52122
+          ],
+          [
+            -4.15797,
+            40.53863
+          ],
+          [
+            -4.13232,
+            40.58526
+          ],
+          [
+            -4.00815,
+            40.62638
+          ],
+          [
+            -3.71903,
+            40.4216
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MEDINADELCAMPO",
+        "name": "Medina del Campo",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.90968,
+          41.31726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AREVALO",
+        "name": "Arévalo",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.70193,
+          41.04707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVILA",
+        "name": "Ávila",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.68332,
+          40.65721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRADONLACANADA",
+        "name": "Herradón-La Cañada",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49501,
+          40.59935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVALPERAL",
+        "name": "Navalperal",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40863,
+          40.59093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASNAVASDELMARQUES",
+        "name": "Las Navas del Marqués",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.36162,
+          40.58916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIADELAALAMEDA",
+        "name": "Santa María de la Alameda",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26932,
+          40.56882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROBLEDODECHAVELA",
+        "name": "Robledo de Chavela",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24714,
+          40.52122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARZALEJO",
+        "name": "Zarzalejo",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15797,
+          40.53863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELESCORIAL",
+        "name": "El Escorial",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13232,
+          40.58526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLALBADEGUADARRAMA",
+        "name": "Villalba de Guadarrama",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00815,
+          40.62638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPRINCIPEPIO",
+        "name": "Madrid-Príncipe Pío",
+        "line": "MD 16 Valladolid - Ávila - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71903,
+          40.4216
+        ]
+      }
+    }
+  ]
+}

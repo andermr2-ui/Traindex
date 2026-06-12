@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "159",
+        "name": "R8 Martorell Central - Granollers Centre",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.9267,
+            41.47909
+          ],
+          [
+            1.96779,
+            41.47328
+          ],
+          [
+            2.03737,
+            41.47531
+          ],
+          [
+            2.07852,
+            41.46766
+          ],
+          [
+            2.1643,
+            41.38569
+          ],
+          [
+            2.21754,
+            41.53347
+          ],
+          [
+            2.29161,
+            41.59965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARTORELLCENTRAL",
+        "name": "Martorell Central",
+        "line": "R8 Martorell Central - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9267,
+          41.47909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLBISBAL",
+        "name": "Castellbisbal",
+        "line": "R8 Martorell Central - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.96779,
+          41.47328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RUBI",
+        "name": "Rubí",
+        "line": "R8 Martorell Central - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03737,
+          41.47531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTCUGATDELVALLES",
+        "name": "Sant Cugat del Vallès",
+        "line": "R8 Martorell Central - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07852,
+          41.46766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERDANYOLAUNIVERSITAT",
+        "name": "Cerdanyola Universitat",
+        "line": "R8 Martorell Central - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1643,
+          41.38569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLLETSANTFOST",
+        "name": "Mollet-Sant Fost",
+        "line": "R8 Martorell Central - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21754,
+          41.53347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANOLLERSCENTRE",
+        "name": "Granollers Centre",
+        "line": "R8 Martorell Central - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29161,
+          41.59965
+        ]
+      }
+    }
+  ]
+}

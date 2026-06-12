@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "348",
+        "name": "Proximidad Illescas - Madrid",
+        "line_type": "Proximidad",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.84226,
+            40.12085
+          ],
+          [
+            -3.82844,
+            40.25563
+          ],
+          [
+            -3.79828,
+            40.28229
+          ],
+          [
+            -3.77236,
+            40.32809
+          ],
+          [
+            -3.6886,
+            40.40697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ILLESCAS",
+        "name": "Illescas",
+        "line": "Proximidad Illescas - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84226,
+          40.12085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUMANES",
+        "name": "Humanes",
+        "line": "Proximidad Illescas - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82844,
+          40.25563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENLABRADACENTRAL",
+        "name": "Fuenlabrada Central",
+        "line": "Proximidad Illescas - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79828,
+          40.28229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGANES",
+        "name": "Leganés",
+        "line": "Proximidad Illescas - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77236,
+          40.32809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "Proximidad Illescas - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    }
+  ]
+}

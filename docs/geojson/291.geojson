@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "291",
+        "name": "Avlo Madrid - Gijón",
+        "line_type": "Avlo",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.09476,
+            40.91014
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            -6.52214,
+            42.4055
+          ],
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.67563,
+            43.53773
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "Avlo Madrid - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGOVIAGUIOMAR",
+        "name": "Segovia-Guiomar",
+        "line": "Avlo Madrid - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09476,
+          40.91014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Avlo Madrid - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "Avlo Madrid - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "Avlo Madrid - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "Avlo Madrid - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GIJON",
+        "name": "Gijón",
+        "line": "Avlo Madrid - Gijón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67563,
+          43.53773
+        ]
+      }
+    }
+  ]
+}

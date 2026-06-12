@@ -1,0 +1,456 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "126",
+        "name": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.36619,
+            40.48906
+          ],
+          [
+            -3.39299,
+            40.48035
+          ],
+          [
+            -3.47973,
+            40.45473
+          ],
+          [
+            -6.2068,
+            36.468
+          ],
+          [
+            -3.56101,
+            40.42373
+          ],
+          [
+            -3.60889,
+            40.4042
+          ],
+          [
+            -3.60909,
+            40.38713
+          ],
+          [
+            -3.62479,
+            40.38206
+          ],
+          [
+            -3.65609,
+            40.37617
+          ],
+          [
+            -3.66802,
+            40.38163
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.6917,
+            40.4225
+          ],
+          [
+            -3.6917,
+            40.44584
+          ],
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.69496,
+            40.48815
+          ],
+          [
+            -3.72559,
+            40.4953
+          ],
+          [
+            -3.42436,
+            37.40025
+          ],
+          [
+            -3.86794,
+            40.49429
+          ],
+          [
+            -3.84597,
+            40.47434
+          ],
+          [
+            -3.80785,
+            40.46533
+          ],
+          [
+            -3.80006,
+            40.44741
+          ],
+          [
+            -3.78549,
+            40.44858
+          ],
+          [
+            -3.71933,
+            40.42096
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCALADEHENARES",
+        "name": "Alcalá de Henares",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.36619,
+          40.48906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGARENA",
+        "name": "La Garena",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.39299,
+          40.48035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREJONDEARDOZ",
+        "name": "Torrejón de Ardoz",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47973,
+          40.45473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDO",
+        "name": "San Fernando",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2068,
+          36.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COSLADA",
+        "name": "Coslada",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.56101,
+          40.42373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICALVARO",
+        "name": "Vicálvaro",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60889,
+          40.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAEUGENIA",
+        "name": "Santa Eugenia",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60909,
+          40.38713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLECAS",
+        "name": "Vallecas",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62479,
+          40.38206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPOZO",
+        "name": "El Pozo",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65609,
+          40.37617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASAMBLEADEMADRIDENTREVIAS",
+        "name": "Asamblea de Madrid-Entrevías",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66802,
+          40.38163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RECOLETOS",
+        "name": "Recoletos",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.4225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOSMINISTERIOS",
+        "name": "Nuevos Ministerios",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.44584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHAMARTIN",
+        "name": "Chamartín",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RAMONYCAJAL",
+        "name": "Ramón y Cajal",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69496,
+          40.48815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PITIS",
+        "name": "Pitis",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72559,
+          40.4953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINAR",
+        "name": "Pinar",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.42436,
+          37.40025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASROZASCANTABRIA",
+        "name": "Las Rozas",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86794,
+          40.49429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MAJADAHONDA",
+        "name": "Majadahonda",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84597,
+          40.47434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELBARRIAL",
+        "name": "El Barrial",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80785,
+          40.46533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POZUELO",
+        "name": "Pozuelo",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80006,
+          40.44741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARAVACA",
+        "name": "Aravaca",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78549,
+          40.44858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRINCIPEPIO",
+        "name": "Príncipe Pío",
+        "line": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71933,
+          40.42096
+        ]
+      }
+    }
+  ]
+}

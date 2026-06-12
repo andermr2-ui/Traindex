@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "225",
+        "name": "C-1 Lora del Río - Lebrija",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.0952,
+            36.91154
+          ],
+          [
+            -5.94541,
+            37.01851
+          ],
+          [
+            -5.79024,
+            37.18334
+          ],
+          [
+            -5.92332,
+            37.28722
+          ],
+          [
+            -5.97582,
+            37.36281
+          ],
+          [
+            -3.70576,
+            40.42977
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.9399,
+            37.47994
+          ],
+          [
+            -5.9329,
+            37.48631
+          ],
+          [
+            -5.86677,
+            37.5461
+          ],
+          [
+            -5.80325,
+            37.57474
+          ],
+          [
+            -5.727,
+            37.59012
+          ],
+          [
+            -5.53108,
+            37.66129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEBRIJA",
+        "name": "Lebrija",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0952,
+          36.91154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASCABEZASDESANJUAN",
+        "name": "Las Cabezas de San Juan",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.94541,
+          37.01851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTRERA",
+        "name": "Utrera",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.79024,
+          37.18334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOSHERMANAS",
+        "name": "Dos Hermanas",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92332,
+          37.28722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRGENDELROCIO",
+        "name": "Virgen del Rocío",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97582,
+          37.36281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANBERNARDO",
+        "name": "San Bernardo",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70576,
+          40.42977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARINCONADA",
+        "name": "La Rinconada",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9399,
+          37.47994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCANAMO",
+        "name": "El Cáñamo",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9329,
+          37.48631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BRENES",
+        "name": "Brenes",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86677,
+          37.5461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANTILLANA",
+        "name": "Cantillana",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80325,
+          37.57474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSROSALES",
+        "name": "Los Rosales",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.727,
+          37.59012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORADELRIO",
+        "name": "Lora del Río",
+        "line": "C-1 Lora del Río - Lebrija"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.53108,
+          37.66129
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "308",
+        "name": "AVE Murcia del Carmen - Burgos-Rosa Manzano",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.76676,
+            38.24539
+          ],
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.09476,
+            40.91014
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -3.66632,
+            42.37117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "AVE Murcia del Carmen - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "AVE Murcia del Carmen - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEAV",
+        "name": "Elche AV",
+        "line": "AVE Murcia del Carmen - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.76676,
+          38.24539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "AVE Murcia del Carmen - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGOVIAGUIOMAR",
+        "name": "Segovia-Guiomar",
+        "line": "AVE Murcia del Carmen - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09476,
+          40.91014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "AVE Murcia del Carmen - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BURGOSROSADELIMA",
+        "name": "Burgos-Rosa de Lima",
+        "line": "AVE Murcia del Carmen - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66632,
+          42.37117
+        ]
+      }
+    }
+  ]
+}

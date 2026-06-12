@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "258",
+        "name": "C-3 Bilbao Abando - Orduña",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.93052,
+            43.25009
+          ],
+          [
+            -2.92411,
+            43.24012
+          ],
+          [
+            -2.91641,
+            43.24237
+          ],
+          [
+            -2.88969,
+            43.23679
+          ],
+          [
+            -2.88689,
+            43.22559
+          ],
+          [
+            -2.88877,
+            43.21008
+          ],
+          [
+            -2.90283,
+            43.1792
+          ],
+          [
+            -2.90914,
+            43.17691
+          ],
+          [
+            -2.91815,
+            43.16992
+          ],
+          [
+            -2.92766,
+            43.16323
+          ],
+          [
+            -2.94354,
+            43.14502
+          ],
+          [
+            -2.9605,
+            43.14225
+          ],
+          [
+            -2.96961,
+            43.13292
+          ],
+          [
+            -2.99953,
+            43.09354
+          ],
+          [
+            -2.99619,
+            43.05767
+          ],
+          [
+            -3.00184,
+            43.04886
+          ],
+          [
+            -2.99945,
+            43.0744
+          ],
+          [
+            -2.97857,
+            42.98457
+          ],
+          [
+            -3.01598,
+            42.99466
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRIBILLA",
+        "name": "Miribilla",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93052,
+          43.25009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPENA",
+        "name": "La Peña",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92411,
+          43.24012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OLLARGAN",
+        "name": "Ollargan",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91641,
+          43.24237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BIDEBIETABASAURI",
+        "name": "Bidebieta-Basauri",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88969,
+          43.23679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABAROASANMIGUEL",
+        "name": "Abaroa-San Miguel",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88689,
+          43.22559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARRIGORRIAGA",
+        "name": "Arrigorriaga",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88877,
+          43.21008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UGAOMIRABALLES",
+        "name": "Ugao-Miraballes",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90283,
+          43.1792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BAKIOLA",
+        "name": "Bakiola",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90914,
+          43.17691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARRANKUDIAGA",
+        "name": "Arrankudiaga",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91815,
+          43.16992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARBIDE",
+        "name": "Arbide",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92766,
+          43.16323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARETA",
+        "name": "Areta",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94354,
+          43.14502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLODIO",
+        "name": "Llodio",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9605,
+          43.14225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACRUZDELLODIO",
+        "name": "Santa Cruz de Llodio",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96961,
+          43.13292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUIAONDO",
+        "name": "Luiaondo",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99953,
+          43.09354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMURRIOIPARRALDE",
+        "name": "Amurrio Iparralde",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99619,
+          43.05767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMURRIO",
+        "name": "Amurrio",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00184,
+          43.04886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALBIO",
+        "name": "Salbio",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99945,
+          43.0744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTOMANA",
+        "name": "Artomaña",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97857,
+          42.98457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORDUNA",
+        "name": "Orduña",
+        "line": "C-3 Bilbao Abando - Orduña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01598,
+          42.99466
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "303",
+        "name": "Alvia Barcelona - Salamanca",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -1.66149,
+            42.82505
+          ],
+          [
+            -2.6727,
+            42.8413
+          ],
+          [
+            -3.66632,
+            42.37117
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -5.64706,
+            40.9718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PAMPLONA",
+        "name": "Pamplona",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66149,
+          42.82505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BURGOSROSADELIMA",
+        "name": "Burgos-Rosa de Lima",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66632,
+          42.37117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALAMANCA",
+        "name": "Salamanca",
+        "line": "Alvia Barcelona - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64706,
+          40.9718
+        ]
+      }
+    }
+  ]
+}

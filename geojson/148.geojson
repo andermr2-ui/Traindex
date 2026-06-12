@@ -1,0 +1,551 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "148",
+        "name": "R1 Molins de Rei - Maçanet-Massanes",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.02099,
+            41.40994
+          ],
+          [
+            2.07056,
+            41.35752
+          ],
+          [
+            2.14,
+            41.37901
+          ],
+          [
+            2.17008,
+            41.38655
+          ],
+          [
+            2.18091,
+            41.39211
+          ],
+          [
+            2.18692,
+            41.41014
+          ],
+          [
+            2.23055,
+            41.42433
+          ],
+          [
+            2.2491,
+            41.44571
+          ],
+          [
+            2.27221,
+            41.46291
+          ],
+          [
+            2.28686,
+            41.46874
+          ],
+          [
+            2.31042,
+            41.47691
+          ],
+          [
+            2.31981,
+            41.47902
+          ],
+          [
+            2.35492,
+            41.48761
+          ],
+          [
+            2.38983,
+            41.50049
+          ],
+          [
+            1.90683,
+            41.52259
+          ],
+          [
+            2.44552,
+            41.53305
+          ],
+          [
+            2.49837,
+            41.5554
+          ],
+          [
+            2.52602,
+            41.56844
+          ],
+          [
+            2.54942,
+            41.57741
+          ],
+          [
+            2.58115,
+            41.58645
+          ],
+          [
+            2.59404,
+            41.59227
+          ],
+          [
+            2.66657,
+            41.61471
+          ],
+          [
+            2.69361,
+            41.62236
+          ],
+          [
+            2.71646,
+            41.63015
+          ],
+          [
+            2.7414,
+            41.64153
+          ],
+          [
+            2.76901,
+            41.67334
+          ],
+          [
+            2.71948,
+            41.70705
+          ],
+          [
+            2.67338,
+            41.77217
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLINSDEREI",
+        "name": "Molins de Rei",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.02099,
+          41.40994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORNELLA",
+        "name": "Cornellà",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07056,
+          41.35752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTS",
+        "name": "Sants",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACACATALUNYA",
+        "name": "Plaça Catalunya",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17008,
+          41.38655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARCDETRIOMF",
+        "name": "Arc de Triomf",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18091,
+          41.39211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCLOTARAGO",
+        "name": "El Clot-Aragó",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18692,
+          41.41014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTADRIADEBESOS",
+        "name": "Sant Adrià de Besòs",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23055,
+          41.42433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADALONA",
+        "name": "Badalona",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2491,
+          41.44571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTGAT",
+        "name": "Montgat",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27221,
+          41.46291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTGATNORD",
+        "name": "Montgat Nord",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28686,
+          41.46874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELMASNOU",
+        "name": "El Masnou",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31042,
+          41.47691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OCATA",
+        "name": "Ocata",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31981,
+          41.47902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PREMIADEMAR",
+        "name": "Premià de Mar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35492,
+          41.48761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILASSARDEMAR",
+        "name": "Vilassar de Mar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38983,
+          41.50049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABRERADEMARVILASSAR",
+        "name": "Cabrera de Mar-Vilassar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.90683,
+          41.52259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATARO",
+        "name": "Mataró",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.44552,
+          41.53305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-STANDREUDELLAVANERES",
+        "name": "St. Andreu de Llavaneres",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.49837,
+          41.5554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALDESDESTRAC",
+        "name": "Caldes d'Estrac",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.52602,
+          41.56844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARENYSDEMAR",
+        "name": "Arenys de Mar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.54942,
+          41.57741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANETDEMAR",
+        "name": "Canet de Mar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.58115,
+          41.58645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTPOLDEMAR",
+        "name": "Sant Pol de Mar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.59404,
+          41.59227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALELLA",
+        "name": "Calella",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66657,
+          41.61471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINEDADEMAR",
+        "name": "Pineda de Mar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.69361,
+          41.62236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTASUSANNA",
+        "name": "Santa Susanna",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71646,
+          41.63015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALGRATDEMAR",
+        "name": "Malgrat de Mar",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7414,
+          41.64153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BLANES",
+        "name": "Blanes",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.76901,
+          41.67334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORDERA",
+        "name": "Tordera",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.71948,
+          41.70705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MACANETMASSANES",
+        "name": "Maçanet-Massanes",
+        "line": "R1 Molins de Rei - Maçanet-Massanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.67338,
+          41.77217
+        ]
+      }
+    }
+  ]
+}

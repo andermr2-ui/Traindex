@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "25",
+        "name": "Alvia Barcelona - Bilbao",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -1.59767,
+            42.0595
+          ],
+          [
+            -1.69244,
+            42.17287
+          ],
+          [
+            -1.67121,
+            42.52575
+          ],
+          [
+            -1.66149,
+            42.82505
+          ],
+          [
+            -2.6727,
+            42.8413
+          ],
+          [
+            -2.94114,
+            42.6908
+          ],
+          [
+            -2.9605,
+            43.14225
+          ],
+          [
+            -2.92744,
+            43.26136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUDELADENAVARRA",
+        "name": "Tudela de Navarra",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59767,
+          42.0595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTEJONDEEBRO",
+        "name": "Castejón de Ebro",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69244,
+          42.17287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TAFALLA",
+        "name": "Tafalla",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67121,
+          42.52575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PAMPLONA",
+        "name": "Pamplona",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.66149,
+          42.82505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRANDADEEBRO",
+        "name": "Miranda de Ebro",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94114,
+          42.6908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLODIO",
+        "name": "Llodio",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9605,
+          43.14225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BILBAOABANDO",
+        "name": "Bilbao-Abando",
+        "line": "Alvia Barcelona - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92744,
+          43.26136
+        ]
+      }
+    }
+  ]
+}

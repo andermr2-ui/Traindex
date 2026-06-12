@@ -1,0 +1,722 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "153",
+        "name": "R4 Sant Vicenç de Calders - Manresa",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            1.53813,
+            41.2209
+          ],
+          [
+            1.60041,
+            41.27367
+          ],
+          [
+            1.66009,
+            41.31459
+          ],
+          [
+            1.70339,
+            41.34462
+          ],
+          [
+            -3.60863,
+            37.18369
+          ],
+          [
+            1.76807,
+            41.39578
+          ],
+          [
+            1.79468,
+            41.42033
+          ],
+          [
+            1.86538,
+            41.44862
+          ],
+          [
+            1.9267,
+            41.47909
+          ],
+          [
+            1.96779,
+            41.47328
+          ],
+          [
+            2.00256,
+            41.4355
+          ],
+          [
+            2.02099,
+            41.40994
+          ],
+          [
+            2.07056,
+            41.35752
+          ],
+          [
+            2.14,
+            41.37901
+          ],
+          [
+            2.17008,
+            41.38655
+          ],
+          [
+            2.18091,
+            41.39211
+          ],
+          [
+            2.18702,
+            41.42262
+          ],
+          [
+            2.19114,
+            41.43663
+          ],
+          [
+            2.17994,
+            41.45922
+          ],
+          [
+            2.18003,
+            41.46993
+          ],
+          [
+            2.18538,
+            41.4839
+          ],
+          [
+            2.14762,
+            41.49263
+          ],
+          [
+            2.11825,
+            41.51357
+          ],
+          [
+            2.10517,
+            41.52866
+          ],
+          [
+            2.11589,
+            41.54641
+          ],
+          [
+            2.09655,
+            41.56169
+          ],
+          [
+            2.03974,
+            41.56745
+          ],
+          [
+            2.01426,
+            41.56987
+          ],
+          [
+            2.01608,
+            41.5704
+          ],
+          [
+            1.97399,
+            41.56912
+          ],
+          [
+            1.95707,
+            41.56389
+          ],
+          [
+            -4.60657,
+            36.56497
+          ],
+          [
+            1.89392,
+            41.60189
+          ],
+          [
+            1.85477,
+            41.64054
+          ],
+          [
+            1.86232,
+            41.66886
+          ],
+          [
+            1.82663,
+            41.72026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELVENDRELL",
+        "name": "El Vendrell",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53813,
+          41.2209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARBOC",
+        "name": "L'Arboç",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.60041,
+          41.27367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELSMONJOS",
+        "name": "Els Monjos",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.66009,
+          41.31459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAFRANCADELPENEDES",
+        "name": "Vilafranca del Penedès",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.70339,
+          41.34462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGRANADA",
+        "name": "La Granada",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60863,
+          37.18369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAVERNSUBIRATS",
+        "name": "Lavern-Subirats",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.76807,
+          41.39578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTSADURNIDANOIA",
+        "name": "Sant Sadurní d'Anoia",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.79468,
+          41.42033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GELIDA",
+        "name": "Gelida",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86538,
+          41.44862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARTORELLCENTRAL",
+        "name": "Martorell Central",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9267,
+          41.47909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLBISBAL",
+        "name": "Castellbisbal",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.96779,
+          41.47328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPAPIOL",
+        "name": "El Papiol",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.00256,
+          41.4355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLINSDEREI",
+        "name": "Molins de Rei",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.02099,
+          41.40994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORNELLA",
+        "name": "Cornellà",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07056,
+          41.35752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTS",
+        "name": "Sants",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACACATALUNYA",
+        "name": "Plaça Catalunya",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17008,
+          41.38655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARCDETRIOMF",
+        "name": "Arc de Triomf",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18091,
+          41.39211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASAGRERAMERIDIANA",
+        "name": "La Sagrera-Meridiana",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18702,
+          41.42262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDREUARENAL",
+        "name": "Sant Andreu Arenal",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19114,
+          41.43663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREBARO",
+        "name": "Torre Baró",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17994,
+          41.45922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTCADABIFURCACIO",
+        "name": "Montcada Bifurcació",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18003,
+          41.46993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTCADAIREIXACMANRESA",
+        "name": "Montcada i Reixac-Manresa",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18538,
+          41.4839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERDANYOLADELVALLES",
+        "name": "Cerdanyola del Vallès",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14762,
+          41.49263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARBERADELVALLES",
+        "name": "Barberà del Vallès",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11825,
+          41.51357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABADELLSUD",
+        "name": "Sabadell Sud",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10517,
+          41.52866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABADELLCENTRE",
+        "name": "Sabadell Centre",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11589,
+          41.54641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABADELLNORD",
+        "name": "Sabadell Nord",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09655,
+          41.56169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERRASSAEST",
+        "name": "Terrassa Est",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03974,
+          41.56745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERRASSA",
+        "name": "Terrassa",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01426,
+          41.56987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERRASSAESTACIODELNORD",
+        "name": "Terrassa Estació del Nord",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01608,
+          41.5704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTMIQUELDEGONTERES",
+        "name": "Sant Miquel de Gonteres",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.97399,
+          41.56912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILADECAVALLS",
+        "name": "Viladecavalls",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.95707,
+          41.56389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VACARISSESTORREBLANCA",
+        "name": "Vacarisses-Torreblanca",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.60657,
+          36.56497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VACARISSES",
+        "name": "Vacarisses",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.89392,
+          41.60189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLBELLIEVILARMONISTROL",
+        "name": "Castellbell i el Vilar-Monistrol",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.85477,
+          41.64054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECASTELLET",
+        "name": "Sant Vicenç de Castellet",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86232,
+          41.66886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANRESA",
+        "name": "Manresa",
+        "line": "R4 Sant Vicenç de Calders - Manresa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.82663,
+          41.72026
+        ]
+      }
+    }
+  ]
+}

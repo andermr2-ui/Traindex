@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "227",
+        "name": "C-3 Sevilla - Cazalla/Constantina",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.9399,
+            37.47994
+          ],
+          [
+            -5.9329,
+            37.48631
+          ],
+          [
+            -5.86677,
+            37.5461
+          ],
+          [
+            -5.80325,
+            37.57474
+          ],
+          [
+            -5.727,
+            37.59012
+          ],
+          [
+            -5.7317,
+            37.60929
+          ],
+          [
+            -5.73101,
+            37.63547
+          ],
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            -5.70425,
+            37.9327
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARINCONADA",
+        "name": "La Rinconada",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9399,
+          37.47994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCANAMO",
+        "name": "El Cáñamo",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9329,
+          37.48631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BRENES",
+        "name": "Brenes",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86677,
+          37.5461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANTILLANA",
+        "name": "Cantillana",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80325,
+          37.57474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSROSALES",
+        "name": "Los Rosales",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.727,
+          37.59012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOCINA",
+        "name": "Tocina",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7317,
+          37.60929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOLEADELRIO",
+        "name": "Alcolea del Río",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.73101,
+          37.63547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADELRIOMINAS",
+        "name": "Villanueva del Río Minas",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAZALLACONSTANTINA",
+        "name": "Cazalla-Constantina",
+        "line": "C-3 Sevilla - Cazalla/Constantina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.70425,
+          37.9327
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "203",
+        "name": "C-6 Valencia-Nord - Castelló de la Plana",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.33467,
+            39.47007
+          ],
+          [
+            -0.32371,
+            39.52648
+          ],
+          [
+            -0.32053,
+            39.5431
+          ],
+          [
+            -0.31812,
+            39.55568
+          ],
+          [
+            -0.3119,
+            39.58819
+          ],
+          [
+            -0.30966,
+            39.58854
+          ],
+          [
+            -0.27141,
+            39.67567
+          ],
+          [
+            -0.23965,
+            39.71926
+          ],
+          [
+            -0.21843,
+            39.74876
+          ],
+          [
+            -0.20296,
+            39.76777
+          ],
+          [
+            -0.19031,
+            39.78278
+          ],
+          [
+            -0.16236,
+            39.82088
+          ],
+          [
+            -0.15224,
+            39.85297
+          ],
+          [
+            -0.10405,
+            39.8965
+          ],
+          [
+            -0.09654,
+            39.93296
+          ],
+          [
+            -0.07676,
+            39.95484
+          ],
+          [
+            -0.00226,
+            39.97506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIACABANYAL",
+        "name": "València-Cabanyal",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33467,
+          39.47007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROCACUPER",
+        "name": "Roca-Cúper",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32371,
+          39.52648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBUIXECH",
+        "name": "Albuixech",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32053,
+          39.5431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MASSALFASSAR",
+        "name": "Massalfassar",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31812,
+          39.55568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUIG",
+        "name": "El Puig",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3119,
+          39.58819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUIGVALENCIA",
+        "name": "Puig-València",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.30966,
+          39.58854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGUNT",
+        "name": "Sagunt",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27141,
+          39.67567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESVALLS",
+        "name": "Les Valls",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.23965,
+          39.71926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMENARA",
+        "name": "Almenara",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21843,
+          39.74876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALLOSA",
+        "name": "La Llosa",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20296,
+          39.76777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XILXES",
+        "name": "Xilxes",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19031,
+          39.78278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONCOFA",
+        "name": "Moncofa",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16236,
+          39.82088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NULESLAVILAVELLA",
+        "name": "Nules-La Vilavella",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.15224,
+          39.85297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BORRIANAALQUERIAS",
+        "name": "Borriana-Alquerías",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10405,
+          39.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAREAL",
+        "name": "Vila-real",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09654,
+          39.93296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMASSORA",
+        "name": "Almassora",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.07676,
+          39.95484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLODELAPLANA",
+        "name": "Castelló de la Plana",
+        "line": "C-6 Valencia-Nord - Castelló de la Plana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00226,
+          39.97506
+        ]
+      }
+    }
+  ]
+}

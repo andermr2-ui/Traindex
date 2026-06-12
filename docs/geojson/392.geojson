@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "392",
+        "name": "MD 68 Granada - Almería",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.60863,
+            37.18369
+          ],
+          [
+            -3.52776,
+            37.39582
+          ],
+          [
+            -3.12702,
+            37.31688
+          ],
+          [
+            -2.83948,
+            37.18472
+          ],
+          [
+            -2.48751,
+            36.9515
+          ],
+          [
+            -2.43628,
+            36.88346
+          ],
+          [
+            -3.62279,
+            38.09617
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANADA",
+        "name": "Granada",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60863,
+          37.18369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IZNALLOZ",
+        "name": "Iznalloz",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.52776,
+          37.39582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADIX",
+        "name": "Guadix",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.12702,
+          37.31688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FINANA",
+        "name": "Fiñana",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.83948,
+          37.18472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GADOR",
+        "name": "Gádor",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48751,
+          36.9515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUERCALVIATOR",
+        "name": "Huércal-Viator",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.43628,
+          36.88346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMERIA",
+        "name": "Almería",
+        "line": "MD 68 Granada - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62279,
+          38.09617
+        ]
+      }
+    }
+  ]
+}

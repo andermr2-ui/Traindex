@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "199",
+        "name": "C-1 Valencia-Nord - Gandia",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.39259,
+            39.42233
+          ],
+          [
+            -0.39532,
+            39.40917
+          ],
+          [
+            -0.39919,
+            39.40007
+          ],
+          [
+            -0.41494,
+            39.36175
+          ],
+          [
+            -0.37906,
+            39.27928
+          ],
+          [
+            -0.30799,
+            39.2058
+          ],
+          [
+            -0.26349,
+            39.17794
+          ],
+          [
+            -0.22614,
+            39.07899
+          ],
+          [
+            -0.21498,
+            39.02621
+          ],
+          [
+            -0.18006,
+            38.97035
+          ],
+          [
+            -0.16242,
+            38.99022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALFAFARBENETUSSER",
+        "name": "Alfafar-Benetússer",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39259,
+          39.42233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MASSANASSA",
+        "name": "Massanassa",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39532,
+          39.40917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CATARROJA",
+        "name": "Catarroja",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39919,
+          39.40007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SILLA",
+        "name": "Silla",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.41494,
+          39.36175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOLLANA",
+        "name": "Sollana",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37906,
+          39.27928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SUECA",
+        "name": "Sueca",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.30799,
+          39.2058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CULLERA",
+        "name": "Cullera",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.26349,
+          39.17794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TAVERNESDELAVALLDIGNA",
+        "name": "Tavernes de la Valldigna",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.22614,
+          39.07899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XERACO",
+        "name": "Xeraco",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21498,
+          39.02621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GANDIA",
+        "name": "Gandia",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.18006,
+          38.97035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLATJAIGRAUDEGANDIA",
+        "name": "Platja i Grau de Gandia",
+        "line": "C-1 Valencia-Nord - Gandia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.16242,
+          38.99022
+        ]
+      }
+    }
+  ]
+}

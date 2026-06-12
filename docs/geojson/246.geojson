@@ -1,0 +1,513 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "246",
+        "name": "C-4 Gijón - Cudillero",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.67563,
+            43.53773
+          ],
+          [
+            -5.69475,
+            43.52856
+          ],
+          [
+            -5.78443,
+            43.25606
+          ],
+          [
+            -5.72261,
+            43.54176
+          ],
+          [
+            -5.71772,
+            43.55524
+          ],
+          [
+            -5.8,
+            43.57
+          ],
+          [
+            -5.75407,
+            43.58085
+          ],
+          [
+            -5.77268,
+            43.58458
+          ],
+          [
+            -5.77268,
+            43.58458
+          ],
+          [
+            -5.79767,
+            43.58049
+          ],
+          [
+            -5.87451,
+            43.55131
+          ],
+          [
+            -5.87422,
+            43.55187
+          ],
+          [
+            -5.89657,
+            43.5543
+          ],
+          [
+            -5.92296,
+            43.56148
+          ],
+          [
+            -5.92296,
+            43.56148
+          ],
+          [
+            -5.92,
+            43.56
+          ],
+          [
+            -9.19154,
+            42.95506
+          ],
+          [
+            -5.95657,
+            43.5704
+          ],
+          [
+            -5.97549,
+            43.55646
+          ],
+          [
+            -5.99545,
+            43.55114
+          ],
+          [
+            -6.02799,
+            43.54088
+          ],
+          [
+            -6.07132,
+            43.52936
+          ],
+          [
+            -5.72655,
+            43.5073
+          ],
+          [
+            3.03208,
+            39.73415
+          ],
+          [
+            -6.11062,
+            43.49114
+          ],
+          [
+            -6.15216,
+            43.55091
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GIJON",
+        "name": "Gijón",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67563,
+          43.53773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TREMANES",
+        "name": "Tremañes",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69475,
+          43.52856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CENTRODETRANSPORTES",
+        "name": "Centro de Transportes",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78443,
+          43.25606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERINA",
+        "name": "Veriña",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72261,
+          43.54176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABONO",
+        "name": "Aboño",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.71772,
+          43.55524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XIVARES",
+        "name": "Xivares",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8,
+          43.57
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PERLORA",
+        "name": "Perlora",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.75407,
+          43.58085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANDASAPEADERO",
+        "name": "Candás Apeadero",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.77268,
+          43.58458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANDAS",
+        "name": "Candás",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.77268,
+          43.58458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REGUERAL",
+        "name": "Regueral",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.79767,
+          43.58049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPELAYO",
+        "name": "San Pelayo",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87451,
+          43.55131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRASONA",
+        "name": "Trasona",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87422,
+          43.55187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLARANES",
+        "name": "Llaranes",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.89657,
+          43.5543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVILESAPEADERO",
+        "name": "Avilés Apeadero",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92296,
+          43.56148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVILES",
+        "name": "Avilés",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92296,
+          43.56148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CRISTALERA",
+        "name": "Cristalera",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92,
+          43.56
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RAICES",
+        "name": "Raíces",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.19154,
+          42.95506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALINAS",
+        "name": "Salinas",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.95657,
+          43.5704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIEDRASBLANCAS",
+        "name": "Piedras Blancas",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97549,
+          43.55646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VEGARROZADAS",
+        "name": "Vegarrozadas",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99545,
+          43.55114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODELMONTE",
+        "name": "Santiago del Monte",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.02799,
+          43.54088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPARADOR",
+        "name": "El Parador",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.07132,
+          43.52936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOTIELLO",
+        "name": "Sotiello",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72655,
+          43.5073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUROSDENALON",
+        "name": "Muros de Nalón",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.03208,
+          39.73415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRAVIA",
+        "name": "Pravia",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.11062,
+          43.49114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUDILLERO",
+        "name": "Cudillero",
+        "line": "C-4 Gijón - Cudillero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.15216,
+          43.55091
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "102",
+        "name": "Regional Pamplona - Vitoria",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.97483,
+            42.92039
+          ],
+          [
+            -2.18131,
+            42.89541
+          ],
+          [
+            -2.30674,
+            42.86923
+          ],
+          [
+            -2.38889,
+            42.84631
+          ],
+          [
+            -2.51463,
+            42.84904
+          ],
+          [
+            -2.6727,
+            42.8413
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUARTEARAKIL",
+        "name": "Huarte-Arakil",
+        "line": "Regional Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97483,
+          42.92039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALSASUA",
+        "name": "Alsasua",
+        "line": "Regional Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.18131,
+          42.89541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARAIA",
+        "name": "Araia",
+        "line": "Regional Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.30674,
+          42.86923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGURAINSALVATIERRA",
+        "name": "Agurain-Salvatierra",
+        "line": "Regional Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.38889,
+          42.84631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALEGRIADULANTZI",
+        "name": "Alegría-Dulantzi",
+        "line": "Regional Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.51463,
+          42.84904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "Regional Pamplona - Vitoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    }
+  ]
+}

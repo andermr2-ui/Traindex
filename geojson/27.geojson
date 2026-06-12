@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "27",
+        "name": "Alvia Alicante - Santander",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            -2.14369,
+            40.03396
+          ],
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.09476,
+            40.91014
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            -4.23375,
+            42.78527
+          ],
+          [
+            -4.14103,
+            42.99434
+          ],
+          [
+            -4.04246,
+            43.32744
+          ],
+          [
+            -3.81102,
+            43.4583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENAAV",
+        "name": "Villena AV",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBACETELOSLLANOS",
+        "name": "Albacete-Los Llanos",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCAFERNANDOZOBEL",
+        "name": "Cuenca-Fernando Zóbel",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14369,
+          40.03396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGOVIAGUIOMAR",
+        "name": "Segovia-Guiomar",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09476,
+          40.91014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGUILARDECAMPOO",
+        "name": "Aguilar de Campoo",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23375,
+          42.78527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REINOSA",
+        "name": "Reinosa",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.14103,
+          42.99434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELAVEGA",
+        "name": "Torrelavega",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04246,
+          43.32744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDER",
+        "name": "Santander",
+        "line": "Alvia Alicante - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81102,
+          43.4583
+        ]
+      }
+    }
+  ]
+}

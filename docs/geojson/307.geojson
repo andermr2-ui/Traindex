@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "307",
+        "name": "AVE Valencia-Joaquín Sorolla - Burgos-Rosa Manzano",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38121,
+            39.46005
+          ],
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -3.66632,
+            42.37117
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIAJOAQUINSOROLLA",
+        "name": "Valencia-Joaquín Sorolla",
+        "line": "AVE Valencia-Joaquín Sorolla - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38121,
+          39.46005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "AVE Valencia-Joaquín Sorolla - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "AVE Valencia-Joaquín Sorolla - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BURGOSROSADELIMA",
+        "name": "Burgos-Rosa de Lima",
+        "line": "AVE Valencia-Joaquín Sorolla - Burgos-Rosa Manzano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66632,
+          42.37117
+        ]
+      }
+    }
+  ]
+}

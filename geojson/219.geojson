@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "219",
+        "name": "L9 Benidorm - Dénia",
+        "line_type": "Regional",
+        "operator": "TRAM d'Alacant"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.13558,
+            38.54828
+          ],
+          [
+            -0.12339,
+            38.54832
+          ],
+          [
+            -0.10417,
+            38.55942
+          ],
+          [
+            -0.09296,
+            38.56765
+          ],
+          [
+            -0.0791,
+            38.57474
+          ],
+          [
+            -0.06955,
+            38.56923
+          ],
+          [
+            -0.05218,
+            38.5959
+          ],
+          [
+            -0.04792,
+            38.60223
+          ],
+          [
+            -0.03255,
+            38.61265
+          ],
+          [
+            -0.05218,
+            38.5959
+          ],
+          [
+            0.03291,
+            38.64993
+          ],
+          [
+            0.02326,
+            38.67198
+          ],
+          [
+            0.07646,
+            38.71501
+          ],
+          [
+            0.09797,
+            38.72925
+          ],
+          [
+            0.08739,
+            38.77522
+          ],
+          [
+            0.0638,
+            38.82298
+          ],
+          [
+            -4.89364,
+            37.22227
+          ],
+          [
+            -0.10405,
+            39.8965
+          ],
+          [
+            -0.02647,
+            38.86905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIDORM",
+        "name": "Benidorm",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13558,
+          38.54828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIDORMINTERMODAL",
+        "name": "Benidorm Intermodal",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12339,
+          38.54832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMICOVES",
+        "name": "Camí Coves",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10417,
+          38.55942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALFASDELPI",
+        "name": "L'Alfàs del Pi",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.09296,
+          38.56765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTORRILLO",
+        "name": "Ventorrillo",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0791,
+          38.57474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBIR",
+        "name": "Albir",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06955,
+          38.56923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALTEA",
+        "name": "Altea",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05218,
+          38.5959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GARGANES",
+        "name": "Garganes",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04792,
+          38.60223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAPNEGRET",
+        "name": "Cap Negret",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03255,
+          38.61265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OLLADEALTEA",
+        "name": "Olla de Altea",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05218,
+          38.5959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALP",
+        "name": "Calp",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.03291,
+          38.64993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FERRANDET",
+        "name": "Ferrandet",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.02326,
+          38.67198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENISSA",
+        "name": "Benissa",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.07646,
+          38.71501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TEULADA",
+        "name": "Teulada",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09797,
+          38.72925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GATA",
+        "name": "Gata",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.08739,
+          38.77522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAXARA",
+        "name": "La Xara",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0638,
+          38.82298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPEDRERA",
+        "name": "La Pedrera",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.89364,
+          37.22227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALQUERIES",
+        "name": "Alqueries",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10405,
+          39.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DENIA",
+        "name": "Dénia",
+        "line": "L9 Benidorm - Dénia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.02647,
+          38.86905
+        ]
+      }
+    }
+  ]
+}

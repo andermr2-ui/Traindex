@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "168",
+        "name": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord",
+        "line_type": "Suburbano",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.15798,
+            41.39287
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.14281,
+            41.39867
+          ],
+          [
+            -7.41365,
+            42.78262
+          ],
+          [
+            2.11141,
+            41.40905
+          ],
+          [
+            2.09692,
+            41.42008
+          ],
+          [
+            2.09166,
+            41.42751
+          ],
+          [
+            2.0732,
+            41.44486
+          ],
+          [
+            2.06835,
+            41.45784
+          ],
+          [
+            2.07824,
+            41.46797
+          ],
+          [
+            2.07286,
+            41.48129
+          ],
+          [
+            1.83336,
+            41.58876
+          ],
+          [
+            2.09058,
+            41.50084
+          ],
+          [
+            2.10242,
+            41.503
+          ],
+          [
+            2.11015,
+            41.51152
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.10875,
+            41.54746
+          ],
+          [
+            2.10028,
+            41.55505
+          ],
+          [
+            2.09655,
+            41.56169
+          ],
+          [
+            2.08991,
+            41.57123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PROVENCA",
+        "name": "Provença",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15798,
+          41.39287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUNTANER",
+        "name": "Muntaner",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14281,
+          41.39867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRIA-Barcelona-Barcelona",
+        "name": "Sarrià",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.41365,
+          42.78262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PEUDELFUNICULAR",
+        "name": "Peu del Funicular",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11141,
+          41.40905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BAIXADORDEVALLVIDRERA",
+        "name": "Baixador de Vallvidrera",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09692,
+          41.42008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESPLANES",
+        "name": "Les Planes",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09166,
+          41.42751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFLORESTA",
+        "name": "La Floresta",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0732,
+          41.44486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLDOREIX",
+        "name": "Valldoreix",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06835,
+          41.45784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTCUGAT",
+        "name": "Sant Cugat",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07824,
+          41.46797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VOLPELLERES",
+        "name": "Volpelleres",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07286,
+          41.48129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTJOAN",
+        "name": "Sant Joan",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.83336,
+          41.58876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELLATERRA",
+        "name": "Bellaterra",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09058,
+          41.50084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSITATAUTONOMA",
+        "name": "Universitat Autònoma",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10242,
+          41.503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTPAURIUSEC",
+        "name": "Sant Pau-Riu Sec",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11015,
+          41.51152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANFEUGRACIA",
+        "name": "Can Feu-Gràcia",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABADELLPLACAMAJOR",
+        "name": "Sabadell Plaça Major",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10875,
+          41.54746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACREUALTA",
+        "name": "La Creu Alta",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10028,
+          41.55505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABADELLNORD",
+        "name": "Sabadell Nord",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09655,
+          41.56169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SABADELLPARCDELNORD",
+        "name": "Sabadell Parc del Nord",
+        "line": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08991,
+          41.57123
+        ]
+      }
+    }
+  ]
+}

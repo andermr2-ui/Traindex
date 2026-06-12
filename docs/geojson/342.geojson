@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "342",
+        "name": "Avant Zaragoza - Calatayud",
+        "line_type": "Avant",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -1.63842,
+            41.34636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Avant Zaragoza - Calatayud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALATAYUD",
+        "name": "Calatayud",
+        "line": "Avant Zaragoza - Calatayud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63842,
+          41.34636
+        ]
+      }
+    }
+  ]
+}

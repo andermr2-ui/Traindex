@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "300",
+        "name": "MD 36 Madrid - Oropesa",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -4.82654,
+            39.97063
+          ],
+          [
+            -5.18621,
+            39.92185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "MD 36 Madrid - Oropesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TALAVERADELAREINA",
+        "name": "Talavera de la Reina",
+        "line": "MD 36 Madrid - Oropesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.82654,
+          39.97063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OROPESADETOLEDO",
+        "name": "Oropesa de Toledo",
+        "line": "MD 36 Madrid - Oropesa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.18621,
+          39.92185
+        ]
+      }
+    }
+  ]
+}

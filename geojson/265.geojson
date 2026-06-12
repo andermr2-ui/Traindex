@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "265",
+        "name": "Eje Abetxuko-Unibertsitatea",
+        "line_type": "Tranvía",
+        "operator": "Euskotren Tranbia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.67969,
+            42.87621
+          ],
+          [
+            -2.69036,
+            43.36796
+          ],
+          [
+            -2.68121,
+            42.87379
+          ],
+          [
+            -2.68028,
+            42.8695
+          ],
+          [
+            -2.68496,
+            42.85893
+          ],
+          [
+            -2.67622,
+            43.31396
+          ],
+          [
+            -5.16196,
+            36.74859
+          ],
+          [
+            -0.12339,
+            38.54832
+          ],
+          [
+            -5.6833,
+            42.00522
+          ],
+          [
+            -5.9352,
+            37.33758
+          ],
+          [
+            -2.67993,
+            42.84803
+          ],
+          [
+            -2.67933,
+            42.84645
+          ],
+          [
+            -3.76936,
+            40.24105
+          ],
+          [
+            -2.66768,
+            42.84341
+          ],
+          [
+            2.10983,
+            41.36832
+          ],
+          [
+            -2.66677,
+            42.83867
+          ],
+          [
+            -2.48727,
+            43.18069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABETXUKO",
+        "name": "Abetxuko",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67969,
+          42.87621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KRISTO",
+        "name": "Kristo",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69036,
+          43.36796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KANABENTA",
+        "name": "Kañabenta",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68121,
+          42.87379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTAPADURA",
+        "name": "Artapadura",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68028,
+          42.8695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARRIAGAVITORIA",
+        "name": "Arriaga",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68496,
+          42.85893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GERNIKAKOARBOLA",
+        "name": "Gernikako Arbola",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67622,
+          43.31396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTALDEFORONDA",
+        "name": "Portal de Foronda",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.16196,
+          36.74859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INTERMODAL",
+        "name": "Intermodal",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12339,
+          38.54832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HONDURAS",
+        "name": "Honduras",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6833,
+          42.00522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EUROPAVITORIA",
+        "name": "Europa",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.9352,
+          37.33758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTSOJAKITUNASANCHOELSABIO",
+        "name": "Antso Jakituna-Sancho El Sabio",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67993,
+          42.84803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOVAINA",
+        "name": "Lovaina",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67933,
+          42.84645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGEBILTZARRAPARLAMENTO",
+        "name": "Legebiltzarra-Parlamento",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76936,
+          40.24105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANGULEMA",
+        "name": "Angulema",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.66768,
+          42.84341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FLORIDA-Asturias-Siero",
+        "name": "Florida",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10983,
+          41.36832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HEGOALDE",
+        "name": "Hegoalde",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.66677,
+          42.83867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIBERTSITATEA",
+        "name": "Unibertsitatea",
+        "line": "Eje Abetxuko-Unibertsitatea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.48727,
+          43.18069
+        ]
+      }
+    }
+  ]
+}

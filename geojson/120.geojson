@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "120",
+        "name": "C-1 Príncipe Pío - Atocha - T4",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.71933,
+            40.42096
+          ],
+          [
+            -3.71194,
+            40.40204
+          ],
+          [
+            -3.69412,
+            40.39933
+          ],
+          [
+            -3.68011,
+            40.39572
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.6917,
+            40.4225
+          ],
+          [
+            -3.6917,
+            40.44584
+          ],
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.66306,
+            40.48468
+          ],
+          [
+            -3.61642,
+            40.48181
+          ],
+          [
+            -3.59284,
+            40.49243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRINCIPEPIO",
+        "name": "Príncipe Pío",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71933,
+          40.42096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIRAMIDES",
+        "name": "Pirámides",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71194,
+          40.40204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DELICIAS",
+        "name": "Delicias",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69412,
+          40.39933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MENDEZALVARO",
+        "name": "Méndez Álvaro",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68011,
+          40.39572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RECOLETOS",
+        "name": "Recoletos",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.4225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOSMINISTERIOS",
+        "name": "Nuevos Ministerios",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.44584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHAMARTIN",
+        "name": "Chamartín",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTEDELAMORA",
+        "name": "Fuente de la Mora",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66306,
+          40.48468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEBEBAS",
+        "name": "Valdebebas",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61642,
+          40.48181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTOT4",
+        "name": "Aeropuerto T4",
+        "line": "C-1 Príncipe Pío - Atocha - T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59284,
+          40.49243
+        ]
+      }
+    }
+  ]
+}

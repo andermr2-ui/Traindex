@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "240",
+        "name": "Tranvía de Jaén",
+        "line_type": "Tranvía",
+        "operator": "(Pendiente de operación)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69147,
+            40.40884
+          ],
+          [
+            -3.78879,
+            37.77267
+          ],
+          [
+            -3.7894,
+            37.77665
+          ],
+          [
+            -3.67772,
+            40.38893
+          ],
+          [
+            -6.39421,
+            39.46929
+          ],
+          [
+            -4.46338,
+            36.71802
+          ],
+          [
+            -3.775,
+            37.785
+          ],
+          [
+            -3.77971,
+            37.79532
+          ],
+          [
+            -3.76493,
+            37.82378
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASEODELAESTACION",
+        "name": "Paseo de la Estación",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69147,
+          40.40884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASBATALLAS",
+        "name": "Las Batallas",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78879,
+          37.77267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSPERFUMES",
+        "name": "Los Perfumes",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7894,
+          37.77665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTACIONDEMADRID",
+        "name": "Estación de Madrid",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67772,
+          40.38893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DONANTESDESANGRE",
+        "name": "Donantes de Sangre",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.39421,
+          39.46929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADDELAJUSTICIA",
+        "name": "Ciudad de la Justicia",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.46338,
+          36.71802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPUSLAGUNILLAS",
+        "name": "Campus Lagunillas",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.775,
+          37.785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADSANITARIA",
+        "name": "Ciudad Sanitaria",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77971,
+          37.79532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VACIACOSTALES",
+        "name": "Vaciacostales",
+        "line": "Tranvía de Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76493,
+          37.82378
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "229",
+        "name": "C-5 Jardines de Hércules - Benacazón",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.964,
+            37.33292
+          ],
+          [
+            -5.97582,
+            37.36281
+          ],
+          [
+            -3.70576,
+            40.42977
+          ],
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.98145,
+            37.43377
+          ],
+          [
+            -6.04078,
+            37.41795
+          ],
+          [
+            -6.05688,
+            37.42666
+          ],
+          [
+            -6.12013,
+            37.42084
+          ],
+          [
+            -6.14829,
+            37.40722
+          ],
+          [
+            -6.19374,
+            37.38147
+          ],
+          [
+            -6.20799,
+            37.35711
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JARDINESDEHERCULES",
+        "name": "Jardines de Hércules",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.964,
+          37.33292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRGENDELROCIO",
+        "name": "Virgen del Rocío",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97582,
+          37.36281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANBERNARDO",
+        "name": "San Bernardo",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70576,
+          40.42977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANJERONIMOTENERIFE",
+        "name": "San Jerónimo",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98145,
+          37.43377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMAS",
+        "name": "Camas",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04078,
+          37.41795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCINASANTIPONCE",
+        "name": "Valencina-Santiponce",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.05688,
+          37.42666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALTERAS",
+        "name": "Salteras",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.12013,
+          37.42084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADELARISCALOLIVARES",
+        "name": "Villanueva del Ariscal-Olivares",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.14829,
+          37.40722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANLUCARLAMAYOR",
+        "name": "Sanlúcar la Mayor",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19374,
+          37.38147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENACAZON",
+        "name": "Benacazón",
+        "line": "C-5 Jardines de Hércules - Benacazón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20799,
+          37.35711
+        ]
+      }
+    }
+  ]
+}

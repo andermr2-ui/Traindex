@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "92",
+        "name": "MD 4 A Coruña - Monforte de Lemos",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.41215,
+            43.35037
+          ],
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -7.87255,
+            42.35069
+          ],
+          [
+            -7.50314,
+            42.52952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACORUNA",
+        "name": "A Coruña",
+        "line": "MD 4 A Coruña - Monforte de Lemos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41215,
+          43.35037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "MD 4 A Coruña - Monforte de Lemos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "MD 4 A Coruña - Monforte de Lemos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFORTEDELEMOS",
+        "name": "Monforte de Lemos",
+        "line": "MD 4 A Coruña - Monforte de Lemos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.50314,
+          42.52952
+        ]
+      }
+    }
+  ]
+}

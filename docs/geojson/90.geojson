@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "90",
+        "name": "MD 2 Santiago - Ourense",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -7.87255,
+            42.35069
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "MD 2 Santiago - Ourense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "MD 2 Santiago - Ourense"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    }
+  ]
+}

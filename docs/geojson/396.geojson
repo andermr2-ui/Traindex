@@ -1,0 +1,304 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "396",
+        "name": "Regional Exprés 74 Sevilla - Mérida",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.727,
+            37.59012
+          ],
+          [
+            -5.7317,
+            37.60929
+          ],
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            -5.40664,
+            41.07987
+          ],
+          [
+            -5.70425,
+            37.9327
+          ],
+          [
+            -5.80333,
+            38.09037
+          ],
+          [
+            -5.90041,
+            38.16367
+          ],
+          [
+            -6.00962,
+            38.23775
+          ],
+          [
+            -6.40518,
+            38.41395
+          ],
+          [
+            -6.40518,
+            38.41395
+          ],
+          [
+            -6.37731,
+            38.44717
+          ],
+          [
+            -6.35223,
+            38.56447
+          ],
+          [
+            -6.39953,
+            38.68468
+          ],
+          [
+            -6.34305,
+            38.92159
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSROSALESMADRID",
+        "name": "Los Rosales",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.727,
+          37.59012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOCINA",
+        "name": "Tocina",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7317,
+          37.60929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLANUEVADELRIOMINAS",
+        "name": "Villanueva del Río Minas",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPEDROSO",
+        "name": "El Pedroso",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.40664,
+          41.07987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAZALLACONSTANTINA",
+        "name": "Cazalla-Constantina",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.70425,
+          37.9327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALCANAL",
+        "name": "Guadalcanal",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80333,
+          38.09037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTEDELARCO",
+        "name": "Fuente del Arco",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.90041,
+          38.16367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLERENA",
+        "name": "Llerena",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00962,
+          38.23775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAFRA",
+        "name": "Zafra",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40518,
+          38.41395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAFRA",
+        "name": "Zafra",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40518,
+          38.41395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSSANTOSDEMAIMONA",
+        "name": "Los Santos de Maimona",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.37731,
+          38.44717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAFRANCADELOSBARROS",
+        "name": "Villafranca de los Barros",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35223,
+          38.56447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMENDRALEJO",
+        "name": "Almendralejo",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.39953,
+          38.68468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERIDA",
+        "name": "Mérida",
+        "line": "Regional Exprés 74 Sevilla - Mérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34305,
+          38.92159
+        ]
+      }
+    }
+  ]
+}

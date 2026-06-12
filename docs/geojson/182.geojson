@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "182",
+        "name": "L9 Sud Zona Universitària - Aeroport T1",
+        "line_type": "Metro",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.11169,
+            41.38424
+          ],
+          [
+            2.1184,
+            41.37587
+          ],
+          [
+            2.11663,
+            41.36841
+          ],
+          [
+            2.11707,
+            41.35478
+          ],
+          [
+            2.13068,
+            41.35192
+          ],
+          [
+            2.12798,
+            41.34181
+          ],
+          [
+            2.11123,
+            41.33357
+          ],
+          [
+            2.10307,
+            41.32898
+          ],
+          [
+            2.09013,
+            41.33167
+          ],
+          [
+            2.09357,
+            41.32184
+          ],
+          [
+            2.08735,
+            41.31671
+          ],
+          [
+            2.07342,
+            41.31132
+          ],
+          [
+            2.07312,
+            41.30383
+          ],
+          [
+            2.07104,
+            41.28826
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZONAUNIVERSITARIA",
+        "name": "Zona Universitària",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11169,
+          41.38424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLLBLANC",
+        "name": "Collblanc",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1184,
+          41.37587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRASSA",
+        "name": "Torrassa",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11663,
+          41.36841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANTRIESGORNAL",
+        "name": "Can Tries | Gornal",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11707,
+          41.35478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FIRA",
+        "name": "Fira",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13068,
+          41.35192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARCLOGISTIC",
+        "name": "Parc Logístic",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12798,
+          41.34181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERCABARNA",
+        "name": "Mercabarna",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11123,
+          41.33357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESMORERES",
+        "name": "Les Moreres",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10307,
+          41.32898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPRATESTACIO",
+        "name": "El Prat Estació",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09013,
+          41.33167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CENTRIC",
+        "name": "Cèntric",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09357,
+          41.32184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARCNOU",
+        "name": "Parc Nou",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08735,
+          41.31671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MASBLAU",
+        "name": "Mas Blau",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07342,
+          41.31132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPORTT2",
+        "name": "Aeroport T2",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07312,
+          41.30383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPORTT1",
+        "name": "Aeroport T1",
+        "line": "L9 Sud Zona Universitària - Aeroport T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07104,
+          41.28826
+        ]
+      }
+    }
+  ]
+}

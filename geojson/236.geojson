@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "236",
+        "name": "C-1 Cádiz - Jerez de la Frontera",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.98418,
+            37.38296
+          ],
+          [
+            -6.28062,
+            36.52139
+          ],
+          [
+            -6.27696,
+            36.5135
+          ],
+          [
+            -6.27205,
+            36.50292
+          ],
+          [
+            -6.26811,
+            36.49436
+          ],
+          [
+            -6.19402,
+            36.47588
+          ],
+          [
+            -6.20688,
+            36.46792
+          ],
+          [
+            -6.1853,
+            36.53083
+          ],
+          [
+            -6.19845,
+            36.54413
+          ],
+          [
+            -6.21605,
+            36.58471
+          ],
+          [
+            -6.217,
+            36.6042
+          ],
+          [
+            -6.1261,
+            36.67981
+          ],
+          [
+            -6.06645,
+            36.75123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CADIZ",
+        "name": "Cádiz",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98418,
+          37.38296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANSEVERIANO",
+        "name": "San Severiano",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.28062,
+          36.52139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGUNDAAGUADA",
+        "name": "Segunda Aguada",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27696,
+          36.5135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTADIO",
+        "name": "Estadio",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.27205,
+          36.50292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORTADURA",
+        "name": "Cortadura",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26811,
+          36.49436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOCENTRO",
+        "name": "San Fernando-Centro",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19402,
+          36.47588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOBAHIASUR",
+        "name": "San Fernando-Bahía Sur",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20688,
+          36.46792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOREAL",
+        "name": "Puerto Real",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1853,
+          36.53083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASALETAS",
+        "name": "Las Aletas",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19845,
+          36.54413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDELAGRANA",
+        "name": "Valdelagrana",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.21605,
+          36.58471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUERTODESANTAMARIA",
+        "name": "El Puerto de Santa María",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.217,
+          36.6042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JEREZDELAFRONTERA",
+        "name": "Jerez de la Frontera",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.1261,
+          36.67981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTODEJEREZ",
+        "name": "Aeropuerto de Jerez",
+        "line": "C-1 Cádiz - Jerez de la Frontera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.06645,
+          36.75123
+        ]
+      }
+    }
+  ]
+}

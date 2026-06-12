@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "275",
+        "name": "T1 Palma - Inca",
+        "line_type": "Regional",
+        "operator": "SFM"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.65997,
+            39.58005
+          ],
+          [
+            2.66579,
+            39.58417
+          ],
+          [
+            2.68639,
+            39.59677
+          ],
+          [
+            2.90584,
+            39.7181
+          ],
+          [
+            2.90584,
+            39.7181
+          ],
+          [
+            2.72547,
+            39.62539
+          ],
+          [
+            2.72547,
+            39.62539
+          ],
+          [
+            2.73649,
+            39.63204
+          ],
+          [
+            2.77409,
+            39.65317
+          ],
+          [
+            2.80855,
+            39.67761
+          ],
+          [
+            2.84122,
+            39.69249
+          ],
+          [
+            2.86918,
+            39.71634
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JACINTVERDAGUER",
+        "name": "Jacint Verdaguer",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65997,
+          39.58005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONCOSTASONFORTESA",
+        "name": "Son Costa-Son Fortesa",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66579,
+          39.58417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERGEDELLUC",
+        "name": "Verge de Lluc",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.68639,
+          39.59677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDINCA",
+        "name": "Pont d'Inca",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90584,
+          39.7181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDINCANOU",
+        "name": "Pont d'Inca Nou",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90584,
+          39.7181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLIGONDEMARRATXI",
+        "name": "Polígon de Marratxí",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72547,
+          39.62539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARRATXI",
+        "name": "Marratxí",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72547,
+          39.62539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESCAULLSFESTIVALPARK",
+        "name": "Es Caülls-Festival Park",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73649,
+          39.63204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIA",
+        "name": "Santa Maria",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.77409,
+          39.65317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONSELLALARO",
+        "name": "Consell-Alaró",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.80855,
+          39.67761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BINISSALEM",
+        "name": "Binissalem",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.84122,
+          39.69249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLOSETA",
+        "name": "Lloseta",
+        "line": "T1 Palma - Inca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.86918,
+          39.71634
+        ]
+      }
+    }
+  ]
+}

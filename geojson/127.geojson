@@ -1,0 +1,589 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "127",
+        "name": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.18225,
+            40.64408
+          ],
+          [
+            -3.26534,
+            40.56101
+          ],
+          [
+            -3.29857,
+            40.53463
+          ],
+          [
+            -3.3353,
+            40.50544
+          ],
+          [
+            -3.36619,
+            40.48906
+          ],
+          [
+            -3.39299,
+            40.48035
+          ],
+          [
+            -3.44142,
+            40.46386
+          ],
+          [
+            -3.47973,
+            40.45473
+          ],
+          [
+            -6.2068,
+            36.468
+          ],
+          [
+            -3.56101,
+            40.42373
+          ],
+          [
+            -3.60889,
+            40.4042
+          ],
+          [
+            -3.60909,
+            40.38713
+          ],
+          [
+            -3.62479,
+            40.38206
+          ],
+          [
+            -3.65609,
+            40.37617
+          ],
+          [
+            -3.66802,
+            40.38163
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.6917,
+            40.4225
+          ],
+          [
+            -3.6917,
+            40.44584
+          ],
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -3.69496,
+            40.48815
+          ],
+          [
+            -3.72559,
+            40.4953
+          ],
+          [
+            -3.86794,
+            40.49429
+          ],
+          [
+            -3.89647,
+            40.55201
+          ],
+          [
+            -3.95702,
+            40.57459
+          ],
+          [
+            -3.98261,
+            40.60065
+          ],
+          [
+            -4.00815,
+            40.62638
+          ],
+          [
+            -4.02208,
+            40.63905
+          ],
+          [
+            -4.03532,
+            40.65824
+          ],
+          [
+            -4.03519,
+            40.69257
+          ],
+          [
+            -4.06603,
+            40.73766
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALAJARA",
+        "name": "Guadalajara",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18225,
+          40.64408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AZUQUECA",
+        "name": "Azuqueca",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26534,
+          40.56101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MECO",
+        "name": "Meco",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.29857,
+          40.53463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCALADEHENARESUNIVERSIDAD",
+        "name": "Alcalá de Henares Universidad",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3353,
+          40.50544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCALADEHENARES",
+        "name": "Alcalá de Henares",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.36619,
+          40.48906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGARENA",
+        "name": "La Garena",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.39299,
+          40.48035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOTODELHENARES",
+        "name": "Soto del Henares",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.44142,
+          40.46386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREJONDEARDOZ",
+        "name": "Torrejón de Ardoz",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47973,
+          40.45473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDO",
+        "name": "San Fernando",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2068,
+          36.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COSLADA",
+        "name": "Coslada",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.56101,
+          40.42373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICALVARO",
+        "name": "Vicálvaro",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60889,
+          40.4042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAEUGENIA",
+        "name": "Santa Eugenia",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60909,
+          40.38713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLECAS",
+        "name": "Vallecas",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.62479,
+          40.38206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPOZO",
+        "name": "El Pozo",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65609,
+          40.37617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASAMBLEADEMADRIDENTREVIAS",
+        "name": "Asamblea de Madrid-Entrevías",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66802,
+          40.38163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RECOLETOS",
+        "name": "Recoletos",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.4225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOSMINISTERIOS",
+        "name": "Nuevos Ministerios",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.44584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RAMONYCAJAL",
+        "name": "Ramón y Cajal",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69496,
+          40.48815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PITIS",
+        "name": "Pitis",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72559,
+          40.4953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINARDELASROZAS",
+        "name": "Pinar de las Rozas",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86794,
+          40.49429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASMATAS",
+        "name": "Las Matas",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.89647,
+          40.55201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELODONES",
+        "name": "Torrelodones",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95702,
+          40.57459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GALAPAGARLANAVATA",
+        "name": "Galapagar-La Navata",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          40.60065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLALBADEGUADARRAMA",
+        "name": "Villalba de Guadarrama",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00815,
+          40.62638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSNEGRALES",
+        "name": "Los Negrales",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.02208,
+          40.63905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALPEDRETE",
+        "name": "Alpedrete",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03532,
+          40.65824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLLADOMEDIANO",
+        "name": "Collado Mediano",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03519,
+          40.69257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERCEDILLA",
+        "name": "Cercedilla",
+        "line": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06603,
+          40.73766
+        ]
+      }
+    }
+  ]
+}

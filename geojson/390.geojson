@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "390",
+        "name": "MD 66 Sevilla - Jaén[3]",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.53108,
+            37.66129
+          ],
+          [
+            -6.04518,
+            43.40293
+          ],
+          [
+            -5.29295,
+            37.71814
+          ],
+          [
+            -5.10678,
+            37.80374
+          ],
+          [
+            -4.78952,
+            37.88851
+          ],
+          [
+            -4.28369,
+            37.98129
+          ],
+          [
+            -4.06603,
+            38.02797
+          ],
+          [
+            -3.83216,
+            38.01026
+          ],
+          [
+            -3.79079,
+            37.77998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORADELRIO",
+        "name": "Lora del Río",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.53108,
+          37.66129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENAFLORASTURIAS",
+        "name": "Peñaflor",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04518,
+          43.40293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALMADELRIO",
+        "name": "Palma del Río",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.29295,
+          37.71814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POSADAS",
+        "name": "Posadas",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.10678,
+          37.80374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBACENTRAL",
+        "name": "Córdoba-Central",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.78952,
+          37.88851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLADELRIO",
+        "name": "Villa del Río",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28369,
+          37.98129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANDUJAR",
+        "name": "Andújar",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06603,
+          38.02797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPELUY",
+        "name": "Espeluy",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83216,
+          38.01026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JAEN",
+        "name": "Jaén",
+        "line": "MD 66 Sevilla - Jaén[3]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79079,
+          37.77998
+        ]
+      }
+    }
+  ]
+}

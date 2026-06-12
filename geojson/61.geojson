@@ -1,0 +1,722 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "61",
+        "name": "MD 49 Zaragoza - Valencia",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.33467,
+            39.47007
+          ],
+          [
+            -0.27141,
+            39.67567
+          ],
+          [
+            -0.48235,
+            39.84706
+          ],
+          [
+            -0.69642,
+            40.01156
+          ],
+          [
+            -0.77347,
+            40.11784
+          ],
+          [
+            -0.77347,
+            40.11784
+          ],
+          [
+            -0.82358,
+            40.14615
+          ],
+          [
+            -0.94395,
+            40.21239
+          ],
+          [
+            -0.9852,
+            40.27321
+          ],
+          [
+            -1.11042,
+            40.34099
+          ],
+          [
+            -1.24479,
+            40.45529
+          ],
+          [
+            -1.31292,
+            40.57306
+          ],
+          [
+            -1.35823,
+            40.68377
+          ],
+          [
+            -1.36085,
+            40.78229
+          ],
+          [
+            -1.34052,
+            40.82625
+          ],
+          [
+            -1.33858,
+            40.85045
+          ],
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            -1.26171,
+            40.93708
+          ],
+          [
+            -1.26904,
+            40.95765
+          ],
+          [
+            -1.25479,
+            41.00931
+          ],
+          [
+            -1.23859,
+            41.06384
+          ],
+          [
+            -1.2871,
+            41.19631
+          ],
+          [
+            -1.27885,
+            41.16561
+          ],
+          [
+            -1.25156,
+            41.1398
+          ],
+          [
+            -1.23985,
+            41.10852
+          ],
+          [
+            -1.21863,
+            41.24345
+          ],
+          [
+            -6.77683,
+            42.54116
+          ],
+          [
+            -1.48587,
+            41.15645
+          ],
+          [
+            -1.22909,
+            41.3358
+          ],
+          [
+            -1.1585,
+            41.40616
+          ],
+          [
+            -1.08621,
+            41.46913
+          ],
+          [
+            -0.99748,
+            41.54009
+          ],
+          [
+            -0.86832,
+            41.63319
+          ],
+          [
+            -0.89134,
+            41.64392
+          ],
+          [
+            -0.8959,
+            41.65274
+          ],
+          [
+            -0.91139,
+            41.65857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIACABANYAL",
+        "name": "València-Cabanyal",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33467,
+          39.47007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGUNT",
+        "name": "Sagunt",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27141,
+          39.67567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGORBECIUDAD",
+        "name": "Segorbe-Ciudad",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48235,
+          39.84706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARRACAS",
+        "name": "Barracas",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.69642,
+          40.01156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RUBIELOSDEMORA",
+        "name": "Rubielos de Mora",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77347,
+          40.11784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MORADERUBIELOS",
+        "name": "Mora de Rubielos",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77347,
+          40.11784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRION",
+        "name": "Sarrión",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82358,
+          40.14615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUEBLADEVALVERDE",
+        "name": "Puebla de Valverde",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94395,
+          40.21239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOESCANDON",
+        "name": "Puerto Escandón",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9852,
+          40.27321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERUEL",
+        "name": "Teruel",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11042,
+          40.34099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CELLA",
+        "name": "Cella",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.24479,
+          40.45529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAEULALIADELCAMPO",
+        "name": "Santa Eulalia del Campo",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.31292,
+          40.57306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAFRANCADELCAMPO",
+        "name": "Villafranca del Campo",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.35823,
+          40.68377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONREALDELCAMPO",
+        "name": "Monreal del Campo",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.36085,
+          40.78229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRIJODELCAMPO",
+        "name": "Torrijo del Campo",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.34052,
+          40.82625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMINREALFUENTESCLARAS",
+        "name": "Caminreal-Fuentes Claras",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.33858,
+          40.85045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAMOCHANUEVA",
+        "name": "Calamocha Nueva",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVARRETE",
+        "name": "Navarrete",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26171,
+          40.93708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LECHAGO",
+        "name": "Lechago",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26904,
+          40.95765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCABUENA",
+        "name": "Cuencabuena",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25479,
+          41.00931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FERRERUELA",
+        "name": "Ferreruela",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23859,
+          41.06384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLARREALDEHUERVA",
+        "name": "Villarreal de Huerva",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2871,
+          41.19631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLADOZ",
+        "name": "Villadoz",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.27885,
+          41.16561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADULES",
+        "name": "Badules",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.25156,
+          41.1398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAHERMOSA",
+        "name": "Villahermosa",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23985,
+          41.10852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERVERUELA",
+        "name": "Cerveruela",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.21863,
+          41.24345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VADOS",
+        "name": "Vados",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77683,
+          42.54116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DAROCA",
+        "name": "Daroca",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.48587,
+          41.15645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARINENA",
+        "name": "Cariñena",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.22909,
+          41.3358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LONGARES",
+        "name": "Longares",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1585,
+          41.40616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARANALESMUEL",
+        "name": "Arañales-Muel",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.08621,
+          41.46913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARIADEHUERVA",
+        "name": "María de Huerva",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.99748,
+          41.54009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAMIRAFLORES",
+        "name": "Zaragoza-Miraflores",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86832,
+          41.63319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAGOYA",
+        "name": "Zaragoza-Goya",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89134,
+          41.64392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZAPORTILLO",
+        "name": "Zaragoza-Portillo",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8959,
+          41.65274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "MD 49 Zaragoza - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    }
+  ]
+}

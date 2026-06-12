@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "97",
+        "name": "Regional Murcia - Cartagena",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -0.96706,
+            37.74694
+          ],
+          [
+            -0.97497,
+            37.60503
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Regional Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALSICASMARMENOR",
+        "name": "Balsicas-Mar Menor",
+        "line": "Regional Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREPACHECO",
+        "name": "Torre-Pacheco",
+        "line": "Regional Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.96706,
+          37.74694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARTAGENA",
+        "name": "Cartagena",
+        "line": "Regional Murcia - Cartagena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.97497,
+          37.60503
+        ]
+      }
+    }
+  ]
+}

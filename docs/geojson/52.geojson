@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "52",
+        "name": "MD 70 Algeciras - Antequera",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.45018,
+            36.12664
+          ],
+          [
+            -5.4608,
+            36.17386
+          ],
+          [
+            -5.43229,
+            36.21377
+          ],
+          [
+            -5.42997,
+            36.27665
+          ],
+          [
+            -5.43417,
+            36.42426
+          ],
+          [
+            -5.419,
+            36.4679
+          ],
+          [
+            -5.38682,
+            36.54024
+          ],
+          [
+            -5.33263,
+            36.59738
+          ],
+          [
+            -5.28134,
+            36.66064
+          ],
+          [
+            -5.24614,
+            36.71371
+          ],
+          [
+            -5.14057,
+            36.79095
+          ],
+          [
+            -5.16196,
+            36.74859
+          ],
+          [
+            -5.12135,
+            36.8626
+          ],
+          [
+            -5.01989,
+            37.00094
+          ],
+          [
+            -4.8635,
+            37.03203
+          ],
+          [
+            -4.72798,
+            37.03764
+          ],
+          [
+            -4.71971,
+            37.07017
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALGECIRAS",
+        "name": "Algeciras",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45018,
+          36.12664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSBARRIOS",
+        "name": "Los Barrios",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4608,
+          36.17386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANROQUELALINEA",
+        "name": "San Roque-La Línea",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43229,
+          36.21377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMORAIMA",
+        "name": "Almoraima",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.42997,
+          36.27665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JIMENADELAFRONTERA",
+        "name": "Jimena de la Frontera",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43417,
+          36.42426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPABLO",
+        "name": "San Pablo",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.419,
+          36.4679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GAUCIN",
+        "name": "Gaucín",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38682,
+          36.54024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORTESDELAFRONTERA",
+        "name": "Cortes de la Frontera",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33263,
+          36.59738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JIMERADELIBAR",
+        "name": "Jimera de Líbar",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.28134,
+          36.66064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENAOJANMONTEJAQUE",
+        "name": "Benaoján-Montejaque",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.24614,
+          36.71371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARRIATE",
+        "name": "Arriate",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.14057,
+          36.79095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RONDA",
+        "name": "Ronda",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.16196,
+          36.74859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SETENIL",
+        "name": "Setenil",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.12135,
+          36.8626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMARGENCANETELAREAL",
+        "name": "Almargen-Cañete la Real",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.01989,
+          37.00094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPILLOS",
+        "name": "Campillos",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.8635,
+          37.03203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOBADILLA",
+        "name": "Bobadilla",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72798,
+          37.03764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERASANTAANA",
+        "name": "Antequera-Santa Ana",
+        "line": "MD 70 Algeciras - Antequera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71971,
+          37.07017
+        ]
+      }
+    }
+  ]
+}

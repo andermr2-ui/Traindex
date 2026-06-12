@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "77",
+        "name": "Regional Exprés San Sebastián - Valladolid",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6346,
+            40.54675
+          ],
+          [
+            -2.07914,
+            43.13564
+          ],
+          [
+            -2.31988,
+            43.08701
+          ],
+          [
+            -2.18131,
+            42.89541
+          ],
+          [
+            -2.6727,
+            42.8413
+          ],
+          [
+            -2.94114,
+            42.6908
+          ],
+          [
+            -3.31908,
+            42.54273
+          ],
+          [
+            -3.66632,
+            42.37117
+          ],
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            -4.7272,
+            41.64334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANSEBASTIAN",
+        "name": "San Sebastián",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6346,
+          40.54675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TOLOSA",
+        "name": "Tolosa",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07914,
+          43.13564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUMARRAGA",
+        "name": "Zumárraga",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.31988,
+          43.08701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALSASUA",
+        "name": "Alsasua",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.18131,
+          42.89541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VITORIAGASTEIZ",
+        "name": "Vitoria-Gasteiz",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.6727,
+          42.8413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRANDADEEBRO",
+        "name": "Miranda de Ebro",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94114,
+          42.6908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BRIVIESCA",
+        "name": "Briviesca",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.31908,
+          42.54273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BURGOSROSADELIMA",
+        "name": "Burgos-Rosa de Lima",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66632,
+          42.37117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Regional Exprés San Sebastián - Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    }
+  ]
+}

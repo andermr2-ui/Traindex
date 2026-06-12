@@ -1,0 +1,494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "271",
+        "name": "L2 Basauri - Kabiezes",
+        "line_type": "Metro",
+        "operator": "Metro Bilbao"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.87587,
+            43.22762
+          ],
+          [
+            -2.88203,
+            43.23801
+          ],
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.90564,
+            43.24695
+          ],
+          [
+            -2.91074,
+            43.25115
+          ],
+          [
+            -2.91329,
+            43.2543
+          ],
+          [
+            -2.92182,
+            43.26017
+          ],
+          [
+            -2.92862,
+            43.25984
+          ],
+          [
+            -2.93304,
+            43.26258
+          ],
+          [
+            -2.94186,
+            43.26129
+          ],
+          [
+            -2.94928,
+            43.26211
+          ],
+          [
+            -2.9496,
+            43.27155
+          ],
+          [
+            -2.95849,
+            43.27478
+          ],
+          [
+            -2.96247,
+            43.28078
+          ],
+          [
+            -2.98248,
+            43.28304
+          ],
+          [
+            -2.98689,
+            43.2897
+          ],
+          [
+            -2.98944,
+            43.29571
+          ],
+          [
+            -2.99263,
+            43.29881
+          ],
+          [
+            -2.99261,
+            43.30573
+          ],
+          [
+            -3.00569,
+            43.30917
+          ],
+          [
+            -3.01359,
+            43.31432
+          ],
+          [
+            -3.02074,
+            43.31767
+          ],
+          [
+            -3.02537,
+            43.32197
+          ],
+          [
+            -3.03039,
+            43.32851
+          ],
+          [
+            -3.03782,
+            43.32236
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BASAURI",
+        "name": "Basauri",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.87587,
+          43.22762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARIZ",
+        "name": "Ariz",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.88203,
+          43.23801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ETXEBARRI",
+        "name": "Etxebarri",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOLUETA",
+        "name": "Bolueta",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90564,
+          43.24695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BASARRATE",
+        "name": "Basarrate",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91074,
+          43.25115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTUTXU",
+        "name": "Santutxu",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91329,
+          43.2543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAZPIKALEAKCASCOVIEJO",
+        "name": "Zazpikaleak-Casco Viejo",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92182,
+          43.26017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABANDO",
+        "name": "Abando",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92862,
+          43.25984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOYUA",
+        "name": "Moyua",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93304,
+          43.26258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INDAUTXU",
+        "name": "Indautxu",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94186,
+          43.26129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIMAMISANMAMES",
+        "name": "Santimami-San Mamés",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94928,
+          43.26211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DEUSTU",
+        "name": "Deustu",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9496,
+          43.27155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRIKO",
+        "name": "Sarriko",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95849,
+          43.27478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANIGNAZIO",
+        "name": "San Ignazio",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96247,
+          43.28078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GURUTZETACRUCES",
+        "name": "Gurutzeta-Cruces",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98248,
+          43.28304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANSIO",
+        "name": "Ansio",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98689,
+          43.2897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARAKALDO",
+        "name": "Barakaldo",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98944,
+          43.29571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BAGATZA",
+        "name": "Bagatza",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99263,
+          43.29881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URBINAGA",
+        "name": "Urbinaga",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99261,
+          43.30573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SESTAO",
+        "name": "Sestao",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00569,
+          43.30917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABATXOLO",
+        "name": "Abatxolo",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01359,
+          43.31432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTUGALETE",
+        "name": "Portugalete",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02074,
+          43.31767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENOTA",
+        "name": "Peñota",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02537,
+          43.32197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTURTZI",
+        "name": "Santurtzi",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.03039,
+          43.32851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KABIEZES",
+        "name": "Kabiezes",
+        "line": "L2 Basauri - Kabiezes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.03782,
+          43.32236
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "193",
+        "name": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo",
+        "line_type": "Tranvía Histórico",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.1371,
+            41.40994
+          ],
+          [
+            2.13492,
+            41.41318
+          ],
+          [
+            2.13405,
+            41.41501
+          ],
+          [
+            2.13269,
+            41.41567
+          ],
+          [
+            2.16822,
+            41.38701
+          ],
+          [
+            2.1311,
+            41.41646
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACAKENNEDY",
+        "name": "Plaça Kennedy",
+        "line": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1371,
+          41.40994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROMANMACAYA",
+        "name": "Roman Macaya",
+        "line": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13492,
+          41.41318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JOPEPGARI",
+        "name": "Josep Garí",
+        "line": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13405,
+          41.41501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLUISMUNTADAS",
+        "name": "Lluís Muntadas",
+        "line": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13269,
+          41.41567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOSCHIALSINA",
+        "name": "Bosch i Alsina",
+        "line": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16822,
+          41.38701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOCTORANDREUFUNICULARDELTIBIDABO",
+        "name": "Doctor Andreu -Funicular del Tibidabo",
+        "line": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1311,
+          41.41646
+        ]
+      }
+    }
+  ]
+}

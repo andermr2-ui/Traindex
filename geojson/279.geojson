@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "279",
+        "name": "M2 Plaça d'Espanya - Marratxí",
+        "line_type": "Metro",
+        "operator": "SFM"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.65413,
+            39.5763
+          ],
+          [
+            2.65997,
+            39.58005
+          ],
+          [
+            2.66579,
+            39.58417
+          ],
+          [
+            2.67149,
+            39.59547
+          ],
+          [
+            2.68639,
+            39.59677
+          ],
+          [
+            2.90584,
+            39.7181
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTACIOINTERMODAL",
+        "name": "Estació Intermodal",
+        "line": "M2 Plaça d'Espanya - Marratxí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65413,
+          39.5763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JACINTVERDAGUER",
+        "name": "Jacint Verdaguer",
+        "line": "M2 Plaça d'Espanya - Marratxí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65997,
+          39.58005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONCOSTASONFORTESA",
+        "name": "Son Costa-Son Fortesa",
+        "line": "M2 Plaça d'Espanya - Marratxí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66579,
+          39.58417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONFUSTERVELL",
+        "name": "Son Fuster Vell",
+        "line": "M2 Plaça d'Espanya - Marratxí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.67149,
+          39.59547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERGEDELLUC",
+        "name": "Verge de Lluc",
+        "line": "M2 Plaça d'Espanya - Marratxí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.68639,
+          39.59677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDINCA",
+        "name": "Pont d'Inca",
+        "line": "M2 Plaça d'Espanya - Marratxí"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90584,
+          39.7181
+        ]
+      }
+    }
+  ]
+}

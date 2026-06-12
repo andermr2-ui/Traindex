@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "40",
+        "name": "Avant Málaga - Granada",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            -4.56137,
+            37.02948
+          ],
+          [
+            -4.13567,
+            37.17511
+          ],
+          [
+            -3.60863,
+            37.18369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGAMARIAZAMBRANO",
+        "name": "Málaga-María Zambrano",
+        "line": "Avant Málaga - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERAAV",
+        "name": "Antequera AV",
+        "line": "Avant Málaga - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56137,
+          37.02948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOJA",
+        "name": "Loja",
+        "line": "Avant Málaga - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13567,
+          37.17511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANADA",
+        "name": "Granada",
+        "line": "Avant Málaga - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60863,
+          37.18369
+        ]
+      }
+    }
+  ]
+}

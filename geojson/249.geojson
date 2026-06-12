@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "249",
+        "name": "C-7 Oviedo - San Esteban",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.86482,
+            43.3652
+          ],
+          [
+            -5.86482,
+            43.3652
+          ],
+          [
+            -5.88327,
+            43.3639
+          ],
+          [
+            -5.89687,
+            43.35968
+          ],
+          [
+            -5.91779,
+            43.35532
+          ],
+          [
+            -4.27108,
+            41.0746
+          ],
+          [
+            -5.96504,
+            43.35647
+          ],
+          [
+            -5.96758,
+            43.34856
+          ],
+          [
+            -6.06373,
+            43.39443
+          ],
+          [
+            -6.01017,
+            43.38989
+          ],
+          [
+            -6.04518,
+            43.40293
+          ],
+          [
+            -6.06373,
+            43.39443
+          ],
+          [
+            -6.0599,
+            43.42559
+          ],
+          [
+            -6.06579,
+            43.43991
+          ],
+          [
+            -6.07716,
+            43.44886
+          ],
+          [
+            -6.09706,
+            43.46942
+          ],
+          [
+            -6.11062,
+            43.49114
+          ],
+          [
+            -6.08201,
+            43.51645
+          ],
+          [
+            -6.11062,
+            43.49114
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLOBIN",
+        "name": "Vallobín",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86482,
+          43.3652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARGANOSA",
+        "name": "Argañosa",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.86482,
+          43.3652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASCAMPAS",
+        "name": "Las Campas",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.88327,
+          43.3639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASMAZAS",
+        "name": "Las Mazas",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.89687,
+          43.35968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANCLAUDIO",
+        "name": "San Claudio",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.91779,
+          43.35532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPEDRO",
+        "name": "San Pedro",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27108,
+          41.0746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOTOUDRION",
+        "name": "Soto-Udrión",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.96504,
+          43.35647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRUBIA",
+        "name": "Trubia",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.96758,
+          43.34856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIADEGRADO",
+        "name": "Santa María de Grado",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.06373,
+          43.39443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VEGADEANZO",
+        "name": "Vega de Anzo",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.01017,
+          43.38989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENAFLORASTURIAS",
+        "name": "Peñaflor",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04518,
+          43.40293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRADO",
+        "name": "Grado",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.06373,
+          43.39443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANDICHE",
+        "name": "Sandiche",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.0599,
+          43.42559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACES",
+        "name": "Aces",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.06579,
+          43.43991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANROMAN",
+        "name": "San Román",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.07716,
+          43.44886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEIFAR",
+        "name": "Beifar",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.09706,
+          43.46942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRAVIA",
+        "name": "Pravia",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.11062,
+          43.49114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANRANON",
+        "name": "San Ranón",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.08201,
+          43.51645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANESTEBANDEPRAVIA",
+        "name": "San Esteban de Pravia",
+        "line": "C-7 Oviedo - San Esteban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.11062,
+          43.49114
+        ]
+      }
+    }
+  ]
+}

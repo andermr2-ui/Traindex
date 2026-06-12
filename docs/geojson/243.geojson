@@ -1,0 +1,494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "243",
+        "name": "C-1 Gijón - Puente de los Fierros",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.67563,
+            43.53773
+          ],
+          [
+            -5.69716,
+            43.53537
+          ],
+          [
+            -5.72261,
+            43.54176
+          ],
+          [
+            -5.74625,
+            43.52082
+          ],
+          [
+            -5.78191,
+            43.50482
+          ],
+          [
+            -5.80007,
+            43.4742
+          ],
+          [
+            -5.82634,
+            43.46151
+          ],
+          [
+            -5.81581,
+            43.44238
+          ],
+          [
+            -5.81212,
+            43.40437
+          ],
+          [
+            -5.82714,
+            43.38817
+          ],
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.85738,
+            43.3588
+          ],
+          [
+            -5.87287,
+            43.32913
+          ],
+          [
+            -5.8693,
+            43.31323
+          ],
+          [
+            -5.85579,
+            43.3064
+          ],
+          [
+            -5.81794,
+            43.29597
+          ],
+          [
+            -5.81284,
+            43.27667
+          ],
+          [
+            -5.78239,
+            43.25004
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            2.70636,
+            39.76059
+          ],
+          [
+            -5.81561,
+            43.18324
+          ],
+          [
+            -5.83113,
+            43.15865
+          ],
+          [
+            -5.47817,
+            43.35509
+          ],
+          [
+            -5.8164,
+            43.11012
+          ],
+          [
+            -5.76944,
+            43.07168
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GIJON",
+        "name": "Gijón",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67563,
+          43.53773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALZADADEASTURIAS",
+        "name": "Calzada de Asturias",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69716,
+          43.53537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERINA",
+        "name": "Veriña",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72261,
+          43.54176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEANA",
+        "name": "Monteana",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.74625,
+          43.52082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SERIN",
+        "name": "Serín",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78191,
+          43.50482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLABONATABLADIELLO",
+        "name": "Villabona-Tabladiello",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80007,
+          43.4742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLABONADEASTURIAS",
+        "name": "Villabona de Asturias",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82634,
+          43.46151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUGODELLANERA",
+        "name": "Lugo de Llanera",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81581,
+          43.44238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUGONES",
+        "name": "Lugones",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81212,
+          43.40437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACORREDORIA",
+        "name": "La Corredoria",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82714,
+          43.38817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLAMAQUIQUE",
+        "name": "Llamaquique",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85738,
+          43.3588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCALEYO",
+        "name": "El Caleyo",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87287,
+          43.32913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASSEGADAS",
+        "name": "Las Segadas",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8693,
+          43.31323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOTODEREY",
+        "name": "Soto de Rey",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85579,
+          43.3064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OLLONIEGO",
+        "name": "Olloniego",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81794,
+          43.29597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPEREDARIOSA",
+        "name": "La Pereda-Riosa",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81284,
+          43.27667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIERESPUENTE",
+        "name": "Mieres-Puente",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78239,
+          43.25004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTULLANO",
+        "name": "Santullano",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UJO",
+        "name": "Ujo",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.70636,
+          39.76059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLALLANA",
+        "name": "Villallana",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81561,
+          43.18324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLADELENA",
+        "name": "Pola de Lena",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.83113,
+          43.15865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACOBERTORIA",
+        "name": "La Cobertoria",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.47817,
+          43.35509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPOMANES",
+        "name": "Campomanes",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8164,
+          43.11012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTEDELOSFIERROS",
+        "name": "Puente de los Fierros",
+        "line": "C-1 Gijón - Puente de los Fierros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.76944,
+          43.07168
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "103",
+        "name": "MD 22 Zaragoza - Logroño",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.91139,
+            41.65857
+          ],
+          [
+            -1.02049,
+            41.72273
+          ],
+          [
+            -1.11261,
+            41.77163
+          ],
+          [
+            -1.32133,
+            41.86709
+          ],
+          [
+            -1.42087,
+            41.91536
+          ],
+          [
+            -1.51548,
+            41.99707
+          ],
+          [
+            -1.59767,
+            42.0595
+          ],
+          [
+            -1.69244,
+            42.17287
+          ],
+          [
+            -1.74814,
+            42.18661
+          ],
+          [
+            -1.84786,
+            42.23005
+          ],
+          [
+            -1.95782,
+            42.3107
+          ],
+          [
+            -2.07128,
+            42.38065
+          ],
+          [
+            -2.44082,
+            42.45757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASETAS",
+        "name": "Casetas",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.02049,
+          41.72273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALAGON",
+        "name": "Alagón",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11261,
+          41.77163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GALLUR",
+        "name": "Gallur",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.32133,
+          41.86709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORTESDENAVARRA",
+        "name": "Cortes de Navarra",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42087,
+          41.91536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBAFORADA",
+        "name": "Ribaforada",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.51548,
+          41.99707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUDELADENAVARRA",
+        "name": "Tudela de Navarra",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.59767,
+          42.0595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTEJONDEEBRO",
+        "name": "Castejón de Ebro",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69244,
+          42.17287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALFARO",
+        "name": "Alfaro",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.74814,
+          42.18661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RINCONDESOTO",
+        "name": "Rincón de Soto",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.84786,
+          42.23005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAHORRA",
+        "name": "Calahorra",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95782,
+          42.3107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LODOSA",
+        "name": "Lodosa",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.07128,
+          42.38065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOGRONO",
+        "name": "Logroño",
+        "line": "MD 22 Zaragoza - Logroño"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.44082,
+          42.45757
+        ]
+      }
+    }
+  ]
+}

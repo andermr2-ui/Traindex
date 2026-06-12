@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "207",
+        "name": "L4 Mas del Rosari - Doctor Lluch",
+        "line_type": "Tranvía",
+        "operator": "Metrovalencia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.406,
+            39.382
+          ],
+          [
+            2.13068,
+            41.35192
+          ],
+          [
+            -3.76549,
+            40.39073
+          ],
+          [
+            2.24859,
+            41.93099
+          ],
+          [
+            -0.415,
+            39.512
+          ],
+          [
+            -0.36746,
+            39.48632
+          ],
+          [
+            -0.36235,
+            39.48481
+          ],
+          [
+            -0.37414,
+            39.48003
+          ],
+          [
+            -0.43159,
+            39.15229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MASDELROSARILLOMALLARGA",
+        "name": "Mas del Rosari-Lloma Llarga",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.406,
+          39.382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FIRAVALENCIA",
+        "name": "Fira València",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13068,
+          41.35192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-EMPALME-Madrid-Madrid",
+        "name": "Empalme",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76549,
+          40.39073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VICENTANDRESESTELLES",
+        "name": "Vicent Andrés Estellés",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24859,
+          41.93099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TVV",
+        "name": "TVV",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.415,
+          39.512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRIMATREIG",
+        "name": "Primat Reig",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36746,
+          39.48632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIMACLET",
+        "name": "Benimaclet",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36235,
+          39.48481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDEFUSTA",
+        "name": "Pont de Fusta",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37414,
+          39.48003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOCTORLLUCH",
+        "name": "Doctor Lluch",
+        "line": "L4 Mas del Rosari - Doctor Lluch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43159,
+          39.15229
+        ]
+      }
+    }
+  ]
+}

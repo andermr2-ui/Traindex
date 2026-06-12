@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "345",
+        "name": "Proximidad Córdoba - Palma del Río",
+        "line_type": "Proximidad",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.29295,
+            37.71814
+          ],
+          [
+            -5.10678,
+            37.80374
+          ],
+          [
+            -4.91377,
+            37.84797
+          ],
+          [
+            -4.85027,
+            37.86746
+          ],
+          [
+            -4.57142,
+            38.25524
+          ],
+          [
+            -4.72063,
+            37.9126
+          ],
+          [
+            -4.67481,
+            37.93298
+          ],
+          [
+            -4.28369,
+            37.98129
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALMADELRIO",
+        "name": "Palma del Río",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.29295,
+          37.71814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POSADAS",
+        "name": "Posadas",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.10678,
+          37.80374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLARRUBIADECORDOBA",
+        "name": "Villarrubia de Córdoba",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.91377,
+          37.84797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELHIGUERON",
+        "name": "El Higuerón",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.85027,
+          37.86746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBA",
+        "name": "Córdoba",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57142,
+          38.25524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPUSUNIVERSITARIODERABANALES",
+        "name": "Campus Universitario de Rabanales",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72063,
+          37.9126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOLEADECORDOBA",
+        "name": "Alcolea de Córdoba",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.67481,
+          37.93298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLADELRIO",
+        "name": "Villa del Río",
+        "line": "Proximidad Córdoba - Palma del Río"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28369,
+          37.98129
+        ]
+      }
+    }
+  ]
+}

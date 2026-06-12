@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "402",
+        "name": "MD 17 Valladolid - León",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -4.70422,
+            41.66016
+          ],
+          [
+            -4.65127,
+            41.73725
+          ],
+          [
+            -4.54073,
+            41.87124
+          ],
+          [
+            -4.49627,
+            41.9174
+          ],
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            -4.58491,
+            42.04984
+          ],
+          [
+            -4.64726,
+            42.10469
+          ],
+          [
+            -5.50899,
+            43.36119
+          ],
+          [
+            -4.85038,
+            42.19099
+          ],
+          [
+            -4.97068,
+            42.24513
+          ],
+          [
+            -5.01331,
+            42.32323
+          ],
+          [
+            -5.0226,
+            42.3694
+          ],
+          [
+            -5.20845,
+            42.42577
+          ],
+          [
+            -5.38673,
+            42.45988
+          ],
+          [
+            -5.49593,
+            42.46073
+          ],
+          [
+            -6.52214,
+            42.4055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDUNIVERSIDAD",
+        "name": "Valladolid-Universidad",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.70422,
+          41.66016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABEZONDEPISUERGA",
+        "name": "Cabezón de Pisuerga",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.65127,
+          41.73725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DUENAS",
+        "name": "Dueñas",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54073,
+          41.87124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTADEBANOS",
+        "name": "Venta de Baños",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49627,
+          41.9174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRIJOTA",
+        "name": "Grijota",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.58491,
+          42.04984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BECERRIL",
+        "name": "Becerril",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.64726,
+          42.10469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVA",
+        "name": "Nava",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.50899,
+          43.36119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CISNEROS",
+        "name": "Cisneros",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.85038,
+          42.19099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLADA",
+        "name": "Villada",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.97068,
+          42.24513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRAJAL",
+        "name": "Grajal",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.01331,
+          42.32323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAHAGUN",
+        "name": "Sahagún",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0226,
+          42.3694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELBURGORANEROS",
+        "name": "El Burgo Raneros",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.20845,
+          42.42577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTASMARTAS",
+        "name": "Santas Martas",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38673,
+          42.45988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALANQUINOS",
+        "name": "Palanquinos",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.49593,
+          42.46073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "MD 17 Valladolid - León"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    }
+  ]
+}

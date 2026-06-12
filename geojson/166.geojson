@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "166",
+        "name": "RT2 L'Arboç - Salou - Port Aventura",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.60041,
+            41.27367
+          ],
+          [
+            1.53813,
+            41.2209
+          ],
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            1.40571,
+            41.14279
+          ],
+          [
+            1.3733,
+            41.13661
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.15044,
+            41.11288
+          ],
+          [
+            1.1558,
+            41.0851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARBOC",
+        "name": "L'Arboç",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.60041,
+          41.27367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELVENDRELL",
+        "name": "El Vendrell",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.53813,
+          41.2209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREDEMBARRA",
+        "name": "Torredembarra",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.40571,
+          41.14279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALTAFULLATAMARIT",
+        "name": "Altafulla-Tamarit",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3733,
+          41.13661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILASECA",
+        "name": "Vila-seca",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15044,
+          41.11288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALOUPORTAVENTURA",
+        "name": "Salou-PortAventura",
+        "line": "RT2 L'Arboç - Salou - Port Aventura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1558,
+          41.0851
+        ]
+      }
+    }
+  ]
+}

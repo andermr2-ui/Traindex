@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "263",
+        "name": "E4 Matiko - Bermeo",
+        "line_type": "Suburbano",
+        "operator": "Euskotren"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.92546,
+            43.26903
+          ],
+          [
+            -2.91995,
+            43.26684
+          ],
+          [
+            -2.92182,
+            43.26017
+          ],
+          [
+            -2.91372,
+            43.26373
+          ],
+          [
+            -2.90643,
+            43.25916
+          ],
+          [
+            -2.89869,
+            43.25869
+          ],
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.87587,
+            43.22762
+          ],
+          [
+            -2.85419,
+            43.22878
+          ],
+          [
+            -2.82176,
+            43.21774
+          ],
+          [
+            -2.79761,
+            43.20612
+          ],
+          [
+            -2.77541,
+            43.20714
+          ],
+          [
+            -2.73646,
+            43.21676
+          ],
+          [
+            -2.73499,
+            43.22177
+          ],
+          [
+            -2.68942,
+            43.28679
+          ],
+          [
+            -2.68942,
+            43.28679
+          ],
+          [
+            -2.67622,
+            43.31396
+          ],
+          [
+            -2.67367,
+            43.33203
+          ],
+          [
+            -2.69036,
+            43.36796
+          ],
+          [
+            -2.69367,
+            43.39087
+          ],
+          [
+            -2.69367,
+            43.39087
+          ],
+          [
+            -2.70104,
+            43.40889
+          ],
+          [
+            -2.72334,
+            43.41787
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATIKOBILBAO",
+        "name": "Matiko-Bilbao",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92546,
+          43.26903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URIBARRIBILBAO",
+        "name": "Uribarri-Bilbao",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91995,
+          43.26684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAZPIKALEAKCASCOVIEJO",
+        "name": "Zazpikaleak-Casco Viejo",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92182,
+          43.26017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZURBARANBARRIBILBAO",
+        "name": "Zurbaranbarri-Bilbao",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91372,
+          43.26373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TXURDINAGABILBAO",
+        "name": "Txurdinaga-Bilbao",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90643,
+          43.25916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OTXARKOAGABILBAO",
+        "name": "Otxarkoaga-Bilbao",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89869,
+          43.25869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KUKULLAGAETXEBARRI",
+        "name": "Kukullaga-Etxebarri",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ETXEBARRI",
+        "name": "Etxebarri",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARIZBASAURI",
+        "name": "Ariz-Basauri",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.87587,
+          43.22762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUHATZUGALDAKAO",
+        "name": "Zuhatzu-Galdakao",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.85419,
+          43.22878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-USANSOLO",
+        "name": "Usansolo",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.82176,
+          43.21774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEDIA",
+        "name": "Bedia",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.79761,
+          43.20612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEMOA",
+        "name": "Lemoa",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.77541,
+          43.20714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMOREBIETAGELTOKIA",
+        "name": "Amorebieta Geltokia",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73646,
+          43.21676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMOREBIETAGERALEKUA",
+        "name": "Amorebieta Geralekua",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.73499,
+          43.22177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZUGAZTIETAMUXIKA",
+        "name": "Zugaztieta-Muxika",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68942,
+          43.28679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUXIKA",
+        "name": "Muxika",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68942,
+          43.28679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GERNIKA",
+        "name": "Gernika",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67622,
+          43.31396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FORUA",
+        "name": "Forua",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.67367,
+          43.33203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANKRISTOBALBUSTURIA",
+        "name": "San Kristobal-Busturia",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69036,
+          43.36796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AXPEBUSTURIA",
+        "name": "Axpe-Busturia",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69367,
+          43.39087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ITSASBEGIBUSTURIA",
+        "name": "Itsasbegi-Busturia",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.69367,
+          43.39087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUNDAKA",
+        "name": "Mundaka",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.70104,
+          43.40889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BERMEO",
+        "name": "Bermeo",
+        "line": "E4 Matiko - Bermeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.72334,
+          43.41787
+        ]
+      }
+    }
+  ]
+}

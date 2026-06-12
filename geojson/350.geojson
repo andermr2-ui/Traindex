@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "350",
+        "name": "MD AV Santiago - A Coruña",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -8.371,
+            42.9398
+          ],
+          [
+            -8.44688,
+            43.20764
+          ],
+          [
+            -8.44418,
+            43.29751
+          ],
+          [
+            -8.41215,
+            43.35037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "MD AV Santiago - A Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORDENES",
+        "name": "Órdenes",
+        "line": "MD AV Santiago - A Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.371,
+          42.9398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERCEDAMEIRAMA",
+        "name": "Cerceda-Meirama",
+        "line": "MD AV Santiago - A Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44688,
+          43.20764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UGES",
+        "name": "Uxes",
+        "line": "MD AV Santiago - A Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.44418,
+          43.29751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ACORUNA",
+        "name": "A Coruña",
+        "line": "MD AV Santiago - A Coruña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.41215,
+          43.35037
+        ]
+      }
+    }
+  ]
+}

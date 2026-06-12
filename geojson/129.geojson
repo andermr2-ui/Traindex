@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "129",
+        "name": "C-9 Cercedilla - Cotos",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.06603,
+            40.73766
+          ],
+          [
+            -4.00474,
+            40.78438
+          ],
+          [
+            -3.96456,
+            40.82232
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERCEDILLA",
+        "name": "Cercedilla",
+        "line": "C-9 Cercedilla - Cotos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06603,
+          40.73766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTODENAVACERRADA",
+        "name": "Puerto de Navacerrada",
+        "line": "C-9 Cercedilla - Cotos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00474,
+          40.78438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COTOS",
+        "name": "Cotos",
+        "line": "C-9 Cercedilla - Cotos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96456,
+          40.82232
+        ]
+      }
+    }
+  ]
+}

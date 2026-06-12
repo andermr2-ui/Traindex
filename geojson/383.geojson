@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "383",
+        "name": "Regional Exprés 54 Madrid - Soria",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.36619,
+            40.48906
+          ],
+          [
+            -3.18225,
+            40.64408
+          ],
+          [
+            -2.93585,
+            40.93
+          ],
+          [
+            -2.64622,
+            41.07145
+          ],
+          [
+            -2.49305,
+            41.13631
+          ],
+          [
+            -2.52534,
+            41.48919
+          ],
+          [
+            -3.64815,
+            40.43311
+          ],
+          [
+            -2.47561,
+            41.75535
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTIN",
+        "name": "Madrid-Chamartín",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCALADEHENARES",
+        "name": "Alcalá de Henares",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.36619,
+          40.48906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALAJARA",
+        "name": "Guadalajara",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18225,
+          40.64408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JADRAQUE",
+        "name": "Jadraque",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93585,
+          40.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SIGUENZA",
+        "name": "Sigüenza",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.64622,
+          41.07145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRALBA",
+        "name": "Torralba",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.49305,
+          41.13631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMAZANVILLA",
+        "name": "Almazán-Villa",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.52534,
+          41.48919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUINTANA-Burgos-MerindaddeMontija",
+        "name": "Quintana",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64815,
+          40.43311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SORIA",
+        "name": "Soria",
+        "line": "Regional Exprés 54 Madrid - Soria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.47561,
+          41.75535
+        ]
+      }
+    }
+  ]
+}

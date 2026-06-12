@@ -1,0 +1,627 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "214",
+        "name": "L1 Luceros - Benidorm",
+        "line_type": "Tren-Tram",
+        "operator": "TRAM d'Alacant"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49062,
+            38.34603
+          ],
+          [
+            -0.48483,
+            38.34816
+          ],
+          [
+            -0.47567,
+            38.35209
+          ],
+          [
+            -0.473,
+            38.34906
+          ],
+          [
+            -15.41735,
+            28.15385
+          ],
+          [
+            -0.43801,
+            38.36545
+          ],
+          [
+            -0.42865,
+            38.37482
+          ],
+          [
+            -15.59807,
+            27.73915
+          ],
+          [
+            -4.45592,
+            36.6918
+          ],
+          [
+            -0.40836,
+            38.38859
+          ],
+          [
+            -0.40669,
+            38.39693
+          ],
+          [
+            -0.4042,
+            38.40513
+          ],
+          [
+            -0.39732,
+            38.41721
+          ],
+          [
+            -0.39776,
+            38.41602
+          ],
+          [
+            -0.3969,
+            38.42152
+          ],
+          [
+            -0.39639,
+            38.42665
+          ],
+          [
+            -0.38261,
+            38.43914
+          ],
+          [
+            -0.37338,
+            38.44482
+          ],
+          [
+            -0.35373,
+            38.45215
+          ],
+          [
+            -0.36451,
+            38.45014
+          ],
+          [
+            -0.487,
+            38.321
+          ],
+          [
+            -0.39639,
+            38.42665
+          ],
+          [
+            -0.31536,
+            38.47726
+          ],
+          [
+            2.01905,
+            41.56336
+          ],
+          [
+            -0.23646,
+            38.50603
+          ],
+          [
+            -0.23169,
+            38.51008
+          ],
+          [
+            -0.21923,
+            38.51358
+          ],
+          [
+            -0.19882,
+            38.53085
+          ],
+          [
+            2.18627,
+            41.395
+          ],
+          [
+            -0.17504,
+            38.54066
+          ],
+          [
+            -0.12339,
+            38.54832
+          ],
+          [
+            -0.13558,
+            38.54828
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUCEROS",
+        "name": "Luceros",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49062,
+          38.34603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERCADO",
+        "name": "Mercado",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48483,
+          38.34816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARQCASTILLO",
+        "name": "Marq-Castillo",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47567,
+          38.35209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANGUETA",
+        "name": "Sangueta",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.473,
+          38.34906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAISLETA",
+        "name": "La Isleta",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41735,
+          28.15385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUCENTUM",
+        "name": "Lucentum",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43801,
+          38.36545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDOMINA",
+        "name": "Condomina",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42865,
+          38.37482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPODEGOLF",
+        "name": "Campo de Golf",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.59807,
+          27.73915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COSTABLANCA",
+        "name": "Costa Blanca",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45592,
+          36.6918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARRABINERS",
+        "name": "Carrabiners",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40836,
+          38.38859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUCHAVISTA",
+        "name": "Muchavista",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40669,
+          38.39693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESLLANCES",
+        "name": "Les Llances",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4042,
+          38.40513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FABRAQUER",
+        "name": "Fabraquer",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39732,
+          38.41721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALESIANS",
+        "name": "Salesians",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39776,
+          38.41602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLABARRAQUES",
+        "name": "Pla Barraques",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3969,
+          38.42152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCAMPELLO",
+        "name": "El Campello",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39639,
+          38.42665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POBLEESPANYOL",
+        "name": "Poble Espanyol",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38261,
+          38.43914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMERADOR",
+        "name": "Amerador",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37338,
+          38.44482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAPITERES",
+        "name": "Cala Piteres",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.35373,
+          38.45215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COVETAFUMA",
+        "name": "Coveta Fumà",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.36451,
+          38.45014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAMERCED",
+        "name": "Cala Merced",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.487,
+          38.321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCAMPELLO",
+        "name": "El Campello",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39639,
+          38.42665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTALANUZA",
+        "name": "Venta Lanuza",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.31536,
+          38.47726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARADIS",
+        "name": "Paradís",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01905,
+          41.56336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAVILAJOIOSA",
+        "name": "La Vila Joiosa",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.23646,
+          38.50603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CREUETA",
+        "name": "Creueta",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.23169,
+          38.51008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COSTERAPASTOR",
+        "name": "Costera Pastor",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21923,
+          38.51358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALVILA",
+        "name": "Hospital Vila",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19882,
+          38.53085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CCLAMARINA",
+        "name": "CC La Marina",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18627,
+          41.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FINESTRAT",
+        "name": "Finestrat",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17504,
+          38.54066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIDORMINTERMODAL",
+        "name": "Benidorm Intermodal",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12339,
+          38.54832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENIDORM",
+        "name": "Benidorm",
+        "line": "L1 Luceros - Benidorm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.13558,
+          38.54828
+        ]
+      }
+    }
+  ]
+}

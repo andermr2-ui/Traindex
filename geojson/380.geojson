@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "380",
+        "name": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -4.00815,
+            40.62638
+          ],
+          [
+            -4.13232,
+            40.58526
+          ],
+          [
+            -4.15797,
+            40.53863
+          ],
+          [
+            -4.24714,
+            40.52122
+          ],
+          [
+            -4.26932,
+            40.56882
+          ],
+          [
+            -0.3119,
+            39.58819
+          ],
+          [
+            -4.36162,
+            40.58916
+          ],
+          [
+            -4.40863,
+            40.59093
+          ],
+          [
+            -4.49501,
+            40.59935
+          ],
+          [
+            -4.68332,
+            40.65721
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTIN",
+        "name": "Madrid-Chamartín",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLALBADEGUADARRAMA",
+        "name": "Villalba de Guadarrama",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.00815,
+          40.62638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELESCORIAL",
+        "name": "El Escorial",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13232,
+          40.58526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARZALEJO",
+        "name": "Zarzalejo",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15797,
+          40.53863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROBLEDODECHAVELA",
+        "name": "Robledo de Chavela",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24714,
+          40.52122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIADELAALAMEDA",
+        "name": "Santa María de la Alameda",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.26932,
+          40.56882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUIG",
+        "name": "El Puig",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3119,
+          39.58819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASNAVASDELMARQUES",
+        "name": "Las Navas del Marqués",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.36162,
+          40.58916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVALPERAL",
+        "name": "Navalperal",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40863,
+          40.59093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRADONLACANADA",
+        "name": "Herradón-La Cañada",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49501,
+          40.59935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVILA",
+        "name": "Ávila",
+        "line": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.68332,
+          40.65721
+        ]
+      }
+    }
+  ]
+}

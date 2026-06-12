@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "149",
+        "name": "R2 Castelldefels - Granollers Centre",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.9794,
+            41.27871
+          ],
+          [
+            2.01035,
+            41.30305
+          ],
+          [
+            2.02743,
+            41.30929
+          ],
+          [
+            2.08926,
+            41.33089
+          ],
+          [
+            2.1072,
+            41.34465
+          ],
+          [
+            2.14,
+            41.37901
+          ],
+          [
+            2.16828,
+            41.38944
+          ],
+          [
+            2.18692,
+            41.41014
+          ],
+          [
+            2.19114,
+            41.43663
+          ],
+          [
+            2.18825,
+            41.48405
+          ],
+          [
+            2.19986,
+            41.51043
+          ],
+          [
+            2.21754,
+            41.53347
+          ],
+          [
+            2.24538,
+            41.54972
+          ],
+          [
+            2.29161,
+            41.59965
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLDEFELS",
+        "name": "Castelldefels",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9794,
+          41.27871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GAVA",
+        "name": "Gavà",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01035,
+          41.30305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILADECANS",
+        "name": "Viladecans",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.02743,
+          41.30929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPRATDELLOBREGAT",
+        "name": "El Prat de Llobregat",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08926,
+          41.33089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELLVITGE",
+        "name": "Bellvitge",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1072,
+          41.34465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTS",
+        "name": "Sants",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASSEIGDEGRACIA",
+        "name": "Passeig de Gràcia",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16828,
+          41.38944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCLOTARAGO",
+        "name": "El Clot-Aragó",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18692,
+          41.41014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDREUCOMTAL",
+        "name": "Sant Andreu Comtal",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19114,
+          41.43663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTCADAIREIXAC",
+        "name": "Montcada i Reixac",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18825,
+          41.48405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALLAGOSTA",
+        "name": "La Llagosta",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.19986,
+          41.51043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLLETSANTFOST",
+        "name": "Mollet-Sant Fost",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21754,
+          41.53347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTMELO",
+        "name": "Montmeló",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24538,
+          41.54972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANOLLERSCENTRE",
+        "name": "Granollers Centre",
+        "line": "R2 Castelldefels - Granollers Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29161,
+          41.59965
+        ]
+      }
+    }
+  ]
+}

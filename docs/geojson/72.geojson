@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "72",
+        "name": "MD 23 León - Vigo",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.52214,
+            42.4055
+          ],
+          [
+            -6.04706,
+            42.4594
+          ],
+          [
+            -6.42221,
+            42.60954
+          ],
+          [
+            -6.60249,
+            42.54566
+          ],
+          [
+            -6.98505,
+            42.41826
+          ],
+          [
+            -7.11325,
+            42.39261
+          ],
+          [
+            -7.50314,
+            42.52952
+          ],
+          [
+            -7.87255,
+            42.35069
+          ],
+          [
+            -8.62232,
+            42.06571
+          ],
+          [
+            -8.62217,
+            42.16414
+          ],
+          [
+            -8.60372,
+            42.28549
+          ],
+          [
+            -8.71188,
+            42.23952
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASTORGA",
+        "name": "Astorga",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.04706,
+          42.4594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEMBIBRE",
+        "name": "Bembibre",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.42221,
+          42.60954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONFERRADA",
+        "name": "Ponferrada",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.60249,
+          42.54566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OBARCODEVALDEORRAS",
+        "name": "O Barco de Valdeorras",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98505,
+          42.41826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARUAPETIN",
+        "name": "A Rúa-Petín",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.11325,
+          42.39261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFORTEDELEMOS",
+        "name": "Monforte de Lemos",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.50314,
+          42.52952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUILLAREI",
+        "name": "Guillarei",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62232,
+          42.06571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OPORRINO",
+        "name": "O Porriño",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.62217,
+          42.16414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REDONDELA",
+        "name": "Redondela",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.60372,
+          42.28549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOGUIXAR",
+        "name": "Vigo-Guixar",
+        "line": "MD 23 León - Vigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.71188,
+          42.23952
+        ]
+      }
+    }
+  ]
+}

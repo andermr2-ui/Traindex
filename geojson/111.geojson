@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "111",
+        "name": "R14 Barcelona - Lleida (por Tarragona)",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.18556,
+            41.38439
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.09994,
+            41.1606
+          ],
+          [
+            1.195,
+            41.30604
+          ],
+          [
+            0.63304,
+            41.62073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAESTACIODEFRANCA",
+        "name": "Barcelona-Estació de França",
+        "line": "R14 Barcelona - Lleida (por Tarragona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18556,
+          41.38439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "R14 Barcelona - Lleida (por Tarragona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REUS",
+        "name": "Reus",
+        "line": "R14 Barcelona - Lleida (por Tarragona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09994,
+          41.1606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPLANAPICAMOIXONS",
+        "name": "La Plana-Picamoixons",
+        "line": "R14 Barcelona - Lleida (por Tarragona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.195,
+          41.30604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "R14 Barcelona - Lleida (por Tarragona)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    }
+  ]
+}

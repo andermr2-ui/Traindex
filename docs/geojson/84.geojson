@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "84",
+        "name": "MD 52 Madrid - Badajoz",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.77236,
+            40.32809
+          ],
+          [
+            -3.84226,
+            40.12085
+          ],
+          [
+            -4.28316,
+            39.97881
+          ],
+          [
+            -4.48756,
+            39.94935
+          ],
+          [
+            -4.64656,
+            39.96077
+          ],
+          [
+            -4.82654,
+            39.97063
+          ],
+          [
+            -5.18621,
+            39.92185
+          ],
+          [
+            -5.54565,
+            39.89496
+          ],
+          [
+            -5.67764,
+            39.89199
+          ],
+          [
+            -6.10125,
+            39.93762
+          ],
+          [
+            -6.09963,
+            40.02226
+          ],
+          [
+            -6.22895,
+            39.86621
+          ],
+          [
+            -6.32569,
+            39.81206
+          ],
+          [
+            -6.37452,
+            39.78881
+          ],
+          [
+            -6.38572,
+            39.46118
+          ],
+          [
+            -6.34171,
+            39.15394
+          ],
+          [
+            -6.34305,
+            38.92159
+          ],
+          [
+            -6.40788,
+            38.93625
+          ],
+          [
+            -6.47721,
+            38.91537
+          ],
+          [
+            -6.59867,
+            38.91358
+          ],
+          [
+            -6.59867,
+            38.91358
+          ],
+          [
+            -6.69002,
+            38.92177
+          ],
+          [
+            -6.98162,
+            38.89073
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGANES",
+        "name": "Leganés",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77236,
+          40.32809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ILLESCAS",
+        "name": "Illescas",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84226,
+          40.12085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRIJOS",
+        "name": "Torrijos",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28316,
+          39.97881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ERUSTES",
+        "name": "Erustes",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48756,
+          39.94935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTEARAGON",
+        "name": "Montearagón",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.64656,
+          39.96077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TALAVERADELAREINA",
+        "name": "Talavera de la Reina",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.82654,
+          39.97063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OROPESADETOLEDO",
+        "name": "Oropesa de Toledo",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.18621,
+          39.92185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVALMORALDELAMATA",
+        "name": "Navalmoral de la Mata",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54565,
+          39.89496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASATEJADA",
+        "name": "Casatejada",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67764,
+          39.89199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONFRAGUE",
+        "name": "Monfragüe",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.10125,
+          39.93762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLASENCIA",
+        "name": "Plasencia",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.09963,
+          40.02226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRABEL",
+        "name": "Mirabel",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22895,
+          39.86621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASASDEMILLAN",
+        "name": "Casas de Millán",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.32569,
+          39.81206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANAVERAL",
+        "name": "Cañaveral",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.37452,
+          39.78881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CACERES",
+        "name": "Cáceres",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.38572,
+          39.46118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARMONITA",
+        "name": "Carmonita",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34171,
+          39.15394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERIDA",
+        "name": "Mérida",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34305,
+          38.92159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALJUCEN",
+        "name": "Aljucén",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.40788,
+          38.93625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GARROVILLALASVEGAS",
+        "name": "Garrovilla-Las Vegas",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.47721,
+          38.91537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTIJO",
+        "name": "Montijo",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.59867,
+          38.91358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTIJOELMOLINO",
+        "name": "Montijo-El Molino",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.59867,
+          38.91358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADIANA",
+        "name": "Guadiana",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.69002,
+          38.92177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADAJOZ",
+        "name": "Badajoz",
+        "line": "MD 52 Madrid - Badajoz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.98162,
+          38.89073
+        ]
+      }
+    }
+  ]
+}

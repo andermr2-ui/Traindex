@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "282",
+        "name": "L1 Santa Cruz - La Laguna",
+        "line_type": "Tranvía",
+        "operator": "Metrotenerife"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.97683,
+            37.60413
+          ],
+          [
+            -16.25162,
+            28.46631
+          ],
+          [
+            -16.25579,
+            28.4673
+          ],
+          [
+            -3.66219,
+            40.45322
+          ],
+          [
+            -3.991,
+            43.34768
+          ],
+          [
+            -16.27106,
+            28.46742
+          ],
+          [
+            -3.74577,
+            40.29325
+          ],
+          [
+            -16.27831,
+            28.45428
+          ],
+          [
+            -6.88943,
+            37.23202
+          ],
+          [
+            -16.28698,
+            28.44914
+          ],
+          [
+            -4.43258,
+            36.71206
+          ],
+          [
+            -16.29146,
+            28.44729
+          ],
+          [
+            -16.29267,
+            28.45759
+          ],
+          [
+            -16.29459,
+            28.44945
+          ],
+          [
+            -16.3021,
+            28.46873
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            -16.30921,
+            28.47634
+          ],
+          [
+            -16.80343,
+            28.17222
+          ],
+          [
+            -16.31677,
+            28.4809
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUNDACION",
+        "name": "Fundación",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.97683,
+          37.60413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TEATROGUIMERA",
+        "name": "Teatro Guimerá",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.25162,
+          28.46631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-WEYLER",
+        "name": "Weyler",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.25579,
+          28.4673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPAZ",
+        "name": "La Paz",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66219,
+          40.45322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTEZURITA",
+        "name": "Puente Zurita",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991,
+          43.34768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CRUZDELSENOR",
+        "name": "Cruz del Señor",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.27106,
+          28.46742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONSERVATORIO-SantaCruzdeTenerife-SantaCruzdeTenerife",
+        "name": "Conservatorio",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74577,
+          40.29325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHIMISAY",
+        "name": "Chimisay",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.27831,
+          28.45428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRINCIPESDEESPANA",
+        "name": "Principes de España",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.88943,
+          37.23202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALLACANDELARIA",
+        "name": "Hospital La Candelaria",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.28698,
+          28.44914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TACO",
+        "name": "Taco",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.43258,
+          36.71206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCARDONAL",
+        "name": "El Cardonal",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29146,
+          28.44729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALUNIVERSITARIO",
+        "name": "Hospital Universitario",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29267,
+          28.45759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASMANTECAS",
+        "name": "Las Mantecas",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29459,
+          28.44945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPUSGUAJARA",
+        "name": "Campus Guajara",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3021,
+          28.46873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-SantaCruzdeTenerife-SanCristbaldeLaLaguna",
+        "name": "Gracia",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUSEODELACIENCIA",
+        "name": "Museo de la Ciencia",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.30921,
+          28.47634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CRUZDEPIEDRA",
+        "name": "Cruz de Piedra",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.80343,
+          28.17222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PADREANCHIETA",
+        "name": "Padre Anchieta",
+        "line": "L1 Santa Cruz - La Laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.31677,
+          28.4809
+        ]
+      }
+    }
+  ]
+}

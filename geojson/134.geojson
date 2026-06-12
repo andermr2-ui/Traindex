@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "134",
+        "name": "Línea 4 Argüelles - Pinar de Chamartín",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.71617,
+            40.43073
+          ],
+          [
+            -3.70159,
+            40.44159
+          ],
+          [
+            -3.69926,
+            40.43845
+          ],
+          [
+            -3.69121,
+            40.43799
+          ],
+          [
+            -4.24807,
+            40.52125
+          ],
+          [
+            -3.6754,
+            40.4294
+          ],
+          [
+            -3.6762,
+            40.4247
+          ],
+          [
+            -3.66967,
+            40.4144
+          ],
+          [
+            -3.67472,
+            40.43447
+          ],
+          [
+            -3.6773,
+            40.43765
+          ],
+          [
+            -3.65618,
+            40.45594
+          ],
+          [
+            -3.64556,
+            40.45924
+          ],
+          [
+            -3.65212,
+            40.47473
+          ],
+          [
+            -3.63858,
+            40.46982
+          ],
+          [
+            -3.60805,
+            40.44401
+          ],
+          [
+            -3.57176,
+            40.46791
+          ],
+          [
+            -3.59284,
+            40.49243
+          ],
+          [
+            -3.66943,
+            40.50834
+          ],
+          [
+            -3.69599,
+            40.50534
+          ],
+          [
+            -3.69469,
+            40.50097
+          ],
+          [
+            -3.68216,
+            40.50154
+          ],
+          [
+            -3.6869,
+            40.48345
+          ],
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.66705,
+            40.48005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARGUELLES",
+        "name": "Argüelles",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71617,
+          40.43073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIOSROSAS",
+        "name": "Ríos Rosas",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70159,
+          40.44159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALONSOCANO",
+        "name": "Alonso Cano",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69926,
+          40.43845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GREGORIOMARANON",
+        "name": "Gregorio Marañón",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69121,
+          40.43799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORTEGAYGASSET",
+        "name": "Ortega y Gasset",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24807,
+          40.52125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LISTA",
+        "name": "Lista",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6754,
+          40.4294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GOYA",
+        "name": "Goya",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6762,
+          40.4247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAINZDEBARANDA",
+        "name": "Sainz de Baranda",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66967,
+          40.4144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DIEGODELEON",
+        "name": "Diego de León",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.67472,
+          40.43447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AVENIDADEAMERICA",
+        "name": "Avenida de América",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6773,
+          40.43765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTUROSORIA",
+        "name": "Arturo Soria",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65618,
+          40.45594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPERANZA",
+        "name": "Esperanza",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64556,
+          40.45924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HORTALEZA",
+        "name": "Hortaleza",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65212,
+          40.47473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARDECRISTAL",
+        "name": "Mar de Cristal",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63858,
+          40.46982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANILLEJAS",
+        "name": "Canillejas",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60805,
+          40.44401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTOT1T2T3",
+        "name": "Aeropuerto T1-T2-T3",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.57176,
+          40.46791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTOT4",
+        "name": "Aeropuerto T4",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59284,
+          40.49243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASTABLAS",
+        "name": "Las Tablas",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66943,
+          40.50834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTECARMELO",
+        "name": "Montecarmelo",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69599,
+          40.50534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRESOLIVOS",
+        "name": "Tres Olivos",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69469,
+          40.50097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENCARRAL",
+        "name": "Fuencarral",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68216,
+          40.50154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BEGONA",
+        "name": "Begoña",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6869,
+          40.48345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHAMARTIN",
+        "name": "Chamartín",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINARDECHAMARTIN",
+        "name": "Pinar de Chamartín",
+        "line": "Línea 4 Argüelles - Pinar de Chamartín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66705,
+          40.48005
+        ]
+      }
+    }
+  ]
+}

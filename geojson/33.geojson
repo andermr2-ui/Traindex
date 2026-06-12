@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "33",
+        "name": "Intercity Barcelona - Murcia",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.27357,
+            41.19217
+          ],
+          [
+            1.04528,
+            41.08111
+          ],
+          [
+            0.52288,
+            40.80712
+          ],
+          [
+            0.45545,
+            40.47175
+          ],
+          [
+            -2.92524,
+            43.29188
+          ],
+          [
+            0.05777,
+            40.05805
+          ],
+          [
+            -0.00226,
+            39.97506
+          ],
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -0.8011,
+            38.4849
+          ],
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -0.6951,
+            38.27179
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -1.13346,
+            37.97658
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPDETARRAGONA",
+        "name": "Camp de Tarragona",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27357,
+          41.19217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMBRILS",
+        "name": "Cambrils",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04528,
+          41.08111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VINAROS",
+        "name": "Vinaròs",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.45545,
+          40.47175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENICARLOPENISCOLA",
+        "name": "Benicarló-Peñíscola",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92524,
+          43.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENICASSIM",
+        "name": "Benicàssim",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05777,
+          40.05805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLODELAPLANA",
+        "name": "Castelló de la Plana",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00226,
+          39.97506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENA",
+        "name": "Villena",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELDAPETRER",
+        "name": "Elda-Petrer",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8011,
+          38.4849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEPARQUE",
+        "name": "Elche-Parque",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6951,
+          38.27179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Intercity Barcelona - Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    }
+  ]
+}

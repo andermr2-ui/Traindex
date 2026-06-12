@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "46",
+        "name": "Avant Valencia - Cuenca",
+        "line_type": "Media Distancia AV",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.38121,
+            39.46005
+          ],
+          [
+            -1.13473,
+            39.52175
+          ],
+          [
+            -2.14369,
+            40.03396
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIAJOAQUINSOROLLA",
+        "name": "Valencia-Joaquín Sorolla",
+        "line": "Avant Valencia - Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38121,
+          39.46005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REQUENAUTIEL",
+        "name": "Requena-Utiel",
+        "line": "Avant Valencia - Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13473,
+          39.52175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCAFERNANDOZOBEL",
+        "name": "Cuenca-Fernando Zóbel",
+        "line": "Avant Valencia - Cuenca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14369,
+          40.03396
+        ]
+      }
+    }
+  ]
+}

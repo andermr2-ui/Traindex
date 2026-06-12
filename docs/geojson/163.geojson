@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "163",
+        "name": "RL3 Lleida Pirineus - Cervera de Segarra",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            0.7816,
+            41.63175
+          ],
+          [
+            0.89688,
+            41.63195
+          ],
+          [
+            0.93086,
+            41.63592
+          ],
+          [
+            0.96797,
+            41.63738
+          ],
+          [
+            1.01297,
+            41.6326
+          ],
+          [
+            1.07898,
+            41.6464
+          ],
+          [
+            1.13883,
+            41.6503
+          ],
+          [
+            -4.01003,
+            43.3983
+          ],
+          [
+            1.27472,
+            41.6737
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELLLLOCDURGELL",
+        "name": "Bell-lloc d'Urgell",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7816,
+          41.63175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOLLERUSSA",
+        "name": "Mollerussa",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.89688,
+          41.63195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GOLMES",
+        "name": "Golmés",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.93086,
+          41.63592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLNOUDESEANA",
+        "name": "Castellnou de Seana",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.96797,
+          41.63738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELLPUIG",
+        "name": "Bellpuig",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.01297,
+          41.6326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANGLESOLA",
+        "name": "Anglesola",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.07898,
+          41.6464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARREGA",
+        "name": "Tàrrega",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.13883,
+          41.6503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-STAMARIADEMONTMAGASTRELL",
+        "name": "Sta. Maria de Montmagastrell",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CERVERA",
+        "name": "Cervera",
+        "line": "RL3 Lleida Pirineus - Cervera de Segarra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.27472,
+          41.6737
+        ]
+      }
+    }
+  ]
+}

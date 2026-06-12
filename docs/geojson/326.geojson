@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "326",
+        "name": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -5.73978,
+            41.516
+          ],
+          [
+            -7.87255,
+            42.35069
+          ],
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -8.76228,
+            42.60199
+          ],
+          [
+            -8.6354,
+            42.42168
+          ],
+          [
+            -8.7119,
+            42.23496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAMORA",
+        "name": "Zamora",
+        "line": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.73978,
+          41.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAGARCIADEAROUSA",
+        "name": "Vilagarcía de Arousa",
+        "line": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.76228,
+          42.60199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTEVEDRA",
+        "name": "Pontevedra",
+        "line": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6354,
+          42.42168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOURZAIZ",
+        "name": "Vigo-Urzaiz",
+        "line": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7119,
+          42.23496
+        ]
+      }
+    }
+  ]
+}

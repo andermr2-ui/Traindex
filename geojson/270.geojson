@@ -1,0 +1,608 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "270",
+        "name": "L1 Etxebarri - Plentzia",
+        "line_type": "Metro",
+        "operator": "Metro Bilbao"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.90564,
+            43.24695
+          ],
+          [
+            -2.91074,
+            43.25115
+          ],
+          [
+            -2.91329,
+            43.2543
+          ],
+          [
+            -2.92182,
+            43.26017
+          ],
+          [
+            -2.91995,
+            43.26684
+          ],
+          [
+            -2.92546,
+            43.26903
+          ],
+          [
+            -2.92862,
+            43.25984
+          ],
+          [
+            -2.93304,
+            43.26258
+          ],
+          [
+            -2.94186,
+            43.26129
+          ],
+          [
+            -2.94928,
+            43.26211
+          ],
+          [
+            -2.9496,
+            43.27155
+          ],
+          [
+            -2.95849,
+            43.27478
+          ],
+          [
+            -2.96247,
+            43.28078
+          ],
+          [
+            -2.96982,
+            43.29101
+          ],
+          [
+            -2.97446,
+            43.30388
+          ],
+          [
+            -2.9868,
+            43.31462
+          ],
+          [
+            -2.99171,
+            43.3179
+          ],
+          [
+            -3.0011,
+            43.32136
+          ],
+          [
+            -3.00964,
+            43.326
+          ],
+          [
+            -3.00738,
+            43.33303
+          ],
+          [
+            -3.00555,
+            43.34023
+          ],
+          [
+            -3.00269,
+            43.34406
+          ],
+          [
+            -3.00929,
+            43.35033
+          ],
+          [
+            -3.01127,
+            43.35644
+          ],
+          [
+            -3.00698,
+            43.36328
+          ],
+          [
+            -2.99952,
+            43.36697
+          ],
+          [
+            -2.9915,
+            43.37567
+          ],
+          [
+            -2.97897,
+            43.38022
+          ],
+          [
+            -2.95814,
+            43.379
+          ],
+          [
+            -2.94635,
+            43.40122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ETXEBARRI",
+        "name": "Etxebarri",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOLUETA",
+        "name": "Bolueta",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90564,
+          43.24695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BASARRATE",
+        "name": "Basarrate",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91074,
+          43.25115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTUTXU",
+        "name": "Santutxu",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91329,
+          43.2543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAZPIKALEAKCASCOVIEJO",
+        "name": "Zazpikaleak-Casco Viejo",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92182,
+          43.26017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URIBARRI",
+        "name": "Uribarri",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91995,
+          43.26684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATIKO",
+        "name": "Matiko",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92546,
+          43.26903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ABANDO",
+        "name": "Abando",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92862,
+          43.25984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOYUA",
+        "name": "Moyua",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.93304,
+          43.26258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INDAUTXU",
+        "name": "Indautxu",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94186,
+          43.26129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANMAMES",
+        "name": "San Mamés",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94928,
+          43.26211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DEUSTU",
+        "name": "Deustu",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9496,
+          43.27155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRIKO",
+        "name": "Sarriko",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95849,
+          43.27478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANIGNAZIO",
+        "name": "San Ignazio",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96247,
+          43.28078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUTXANA",
+        "name": "Lutxana",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96982,
+          43.29101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ERANDIO",
+        "name": "Erandio",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97446,
+          43.30388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASTRABUDUA",
+        "name": "Astrabudua",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9868,
+          43.31462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEIOA",
+        "name": "Leioa",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99171,
+          43.3179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAMIAKO",
+        "name": "Lamiako",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0011,
+          43.32136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AREETA",
+        "name": "Areeta",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00964,
+          43.326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GOBELA",
+        "name": "Gobela",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00738,
+          43.33303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NEGURI",
+        "name": "Neguri",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00555,
+          43.34023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AIBOA",
+        "name": "Aiboa",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00269,
+          43.34406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALGORTA",
+        "name": "Algorta",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00929,
+          43.35033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BIDEZABAL",
+        "name": "Bidezabal",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01127,
+          43.35644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-IBARBENGOA",
+        "name": "Ibarbengoa",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00698,
+          43.36328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BERANGO",
+        "name": "Berango",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.99952,
+          43.36697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARRABASTERRA",
+        "name": "Larrabasterra",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9915,
+          43.37567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOPELA",
+        "name": "Sopela",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97897,
+          43.38022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URDULIZ",
+        "name": "Urduliz",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95814,
+          43.379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLENTZIA",
+        "name": "Plentzia",
+        "line": "L1 Etxebarri - Plentzia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94635,
+          43.40122
+        ]
+      }
+    }
+  ]
+}

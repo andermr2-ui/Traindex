@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "367",
+        "name": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.16538,
+            41.39254
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.73082,
+            41.22018
+          ],
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            1.40571,
+            41.14279
+          ],
+          [
+            1.3733,
+            41.13661
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.15044,
+            41.11288
+          ],
+          [
+            1.04528,
+            41.08111
+          ],
+          [
+            2.10094,
+            41.36424
+          ],
+          [
+            2.35492,
+            41.48761
+          ],
+          [
+            0.52288,
+            40.80712
+          ],
+          [
+            0.52288,
+            40.80712
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAPASSEIGDEGRACIA",
+        "name": "Barcelona-Passeig de Gràcia",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16538,
+          41.39254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVAILAGELTRU",
+        "name": "Vilanova i la Geltrú",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73082,
+          41.22018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREDEMBARRA",
+        "name": "Torredembarra",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.40571,
+          41.14279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALTAFULLATAMARIT",
+        "name": "Altafulla-Tamarit",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3733,
+          41.13661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILASECA",
+        "name": "Vila-seca",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15044,
+          41.11288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMBRILS",
+        "name": "Cambrils",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04528,
+          41.08111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALALICANTE",
+        "name": "Hospital",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.10094,
+          41.36424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PREMIADEMAR",
+        "name": "Premià de Mar",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35492,
+          41.48761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LALDEAAMPOSTATORTOSA",
+        "name": "L'Aldea-Amposta-Tortosa",
+        "line": "Regional Exprés 32/R16 Barcelona - Tarragona - Tortosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52288,
+          40.80712
+        ]
+      }
+    }
+  ]
+}

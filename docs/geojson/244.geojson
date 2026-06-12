@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "244",
+        "name": "C-2 Oviedo - El Entrego",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.85738,
+            43.3588
+          ],
+          [
+            -5.87287,
+            43.32913
+          ],
+          [
+            -5.8693,
+            43.31323
+          ],
+          [
+            -5.85579,
+            43.3064
+          ],
+          [
+            -8.16108,
+            43.4953
+          ],
+          [
+            -5.77534,
+            43.33169
+          ],
+          [
+            -5.721,
+            43.32126
+          ],
+          [
+            -6.35223,
+            38.56447
+          ],
+          [
+            -5.69277,
+            43.30481
+          ],
+          [
+            -5.67945,
+            43.29185
+          ],
+          [
+            -5.64784,
+            43.28681
+          ],
+          [
+            -5.64519,
+            43.28714
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLAMAQUIQUE",
+        "name": "Llamaquique",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85738,
+          43.3588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCALEYO",
+        "name": "El Caleyo",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.87287,
+          43.32913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASSEGADAS",
+        "name": "Las Segadas",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.8693,
+          43.31323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOTODEREY",
+        "name": "Soto de Rey",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85579,
+          43.3064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAEULALIADEMANZANEDA",
+        "name": "Santa Eulalia de Manzaneda",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.16108,
+          43.4953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TUDELAVEGUIN",
+        "name": "Tudela Veguín",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.77534,
+          43.33169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENARUBIA",
+        "name": "Peña Rubia",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.721,
+          43.32126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARROS",
+        "name": "Barros",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35223,
+          38.56447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFELGUERA",
+        "name": "La Felguera",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.69277,
+          43.30481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAMA",
+        "name": "Sama",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67945,
+          43.29185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIANO",
+        "name": "Ciaño",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64784,
+          43.28681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELENTREGO",
+        "name": "El Entrego",
+        "line": "C-2 Oviedo - El Entrego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64519,
+          43.28714
+        ]
+      }
+    }
+  ]
+}

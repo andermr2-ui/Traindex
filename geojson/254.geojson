@@ -1,0 +1,399 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "254",
+        "name": "C-2 Santander - Cabezón de la Sal",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.81102,
+            43.4583
+          ],
+          [
+            -3.82781,
+            43.45404
+          ],
+          [
+            -3.84724,
+            43.4444
+          ],
+          [
+            -3.84413,
+            43.42174
+          ],
+          [
+            -3.84096,
+            43.41612
+          ],
+          [
+            -3.85953,
+            43.39154
+          ],
+          [
+            -3.89424,
+            43.37674
+          ],
+          [
+            -3.94951,
+            43.35305
+          ],
+          [
+            -3.96487,
+            43.36066
+          ],
+          [
+            -3.991,
+            43.34768
+          ],
+          [
+            -3.94632,
+            43.43169
+          ],
+          [
+            -4.05127,
+            43.35104
+          ],
+          [
+            -4.08772,
+            43.35877
+          ],
+          [
+            -4.11185,
+            43.35904
+          ],
+          [
+            -4.1494,
+            43.36115
+          ],
+          [
+            -4.15565,
+            43.34077
+          ],
+          [
+            -4.17491,
+            43.33881
+          ],
+          [
+            -4.19355,
+            43.32301
+          ],
+          [
+            -4.21543,
+            43.3153
+          ],
+          [
+            -4.23176,
+            43.30784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDER",
+        "name": "Santander",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81102,
+          43.4583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDECILLA",
+        "name": "Valdecilla",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82781,
+          43.45404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVAMONTANA",
+        "name": "Nueva Montaña",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84724,
+          43.4444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURIEDASBAHIA",
+        "name": "Muriedas-Bahía",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84413,
+          43.42174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALIANOLAVIDRIERA",
+        "name": "Maliaño-La Vidriera",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84096,
+          43.41612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUARNIZO",
+        "name": "Guarnizo",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.85953,
+          43.39154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARBAYON",
+        "name": "Parbayón",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.89424,
+          43.37674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RENEDO",
+        "name": "Renedo",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.94951,
+          43.35305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIONO",
+        "name": "Vioño",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96487,
+          43.36066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZURITA",
+        "name": "Zurita",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991,
+          43.34768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIELAGOS",
+        "name": "Piélagos",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.94632,
+          43.43169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELAVEGACENTRO",
+        "name": "Torrelavega-Centro",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05127,
+          43.35104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTESANMIGUEL",
+        "name": "Puente San Miguel",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.08772,
+          43.35877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAISABEL",
+        "name": "Santa Isabel",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11185,
+          43.35904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPEDRODERUDAGUERA",
+        "name": "San Pedro de Rudagüera",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1494,
+          43.36115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GOLBARDO",
+        "name": "Golbardo",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15565,
+          43.34077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASARDEPERIEDO",
+        "name": "Casar de Periedo",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.17491,
+          43.33881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRGENDELAPENA",
+        "name": "Virgen de la Peña",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.19355,
+          43.32301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ONTORIA",
+        "name": "Ontoria",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.21543,
+          43.3153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABEZONDELASAL",
+        "name": "Cabezón de la Sal",
+        "line": "C-2 Santander - Cabezón de la Sal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23176,
+          43.30784
+        ]
+      }
+    }
+  ]
+}

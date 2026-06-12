@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "252",
+        "name": "Funicular de Bulnes",
+        "line_type": "Funicular",
+        "operator": "Alsa"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.83032,
+            43.2577
+          ],
+          [
+            -4.82333,
+            43.23822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONCEBOS",
+        "name": "Poncebos",
+        "line": "Funicular de Bulnes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.83032,
+          43.2577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BULNES",
+        "name": "Bulnes",
+        "line": "Funicular de Bulnes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.82333,
+          43.23822
+        ]
+      }
+    }
+  ]
+}

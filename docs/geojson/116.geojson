@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "116",
+        "name": "C1 León - Guardo",
+        "line_type": "Regional",
+        "operator": "Renfe Cercanías AM"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.52214,
+            42.4055
+          ],
+          [
+            -5.52217,
+            42.84114
+          ],
+          [
+            -5.41207,
+            42.85511
+          ],
+          [
+            -5.32871,
+            42.86278
+          ],
+          [
+            -5.13091,
+            42.80318
+          ],
+          [
+            -4.85188,
+            42.79097
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEON",
+        "name": "León",
+        "line": "C1 León - Guardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.52214,
+          42.4055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATALLANA",
+        "name": "Matallana",
+        "line": "C1 León - Guardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.52217,
+          42.84114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAVECILLA",
+        "name": "La Vecilla",
+        "line": "C1 León - Guardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.41207,
+          42.85511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BONAR",
+        "name": "Boñar",
+        "line": "C1 León - Guardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.32871,
+          42.86278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CISTIERNA",
+        "name": "Cistierna",
+        "line": "C1 León - Guardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.13091,
+          42.80318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUARDOAPEADERO",
+        "name": "Guardo-Apeadero",
+        "line": "C1 León - Guardo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.85188,
+          42.79097
+        ]
+      }
+    }
+  ]
+}

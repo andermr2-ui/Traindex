@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "142",
+        "name": "Línea 12 Circular MetroSur",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.735,
+            40.392
+          ],
+          [
+            -3.70969,
+            40.31853
+          ],
+          [
+            -3.78717,
+            40.28666
+          ],
+          [
+            -3.74577,
+            40.29325
+          ],
+          [
+            -3.81582,
+            40.28585
+          ],
+          [
+            -3.79828,
+            40.28229
+          ],
+          [
+            -3.79248,
+            40.29672
+          ],
+          [
+            -3.80745,
+            40.28522
+          ],
+          [
+            -3.83677,
+            40.29674
+          ],
+          [
+            -3.88226,
+            40.33095
+          ],
+          [
+            -3.86483,
+            40.32171
+          ],
+          [
+            -3.84283,
+            40.34155
+          ],
+          [
+            -3.87442,
+            40.31631
+          ],
+          [
+            -3.82078,
+            40.3495
+          ],
+          [
+            -3.83199,
+            40.34994
+          ],
+          [
+            -3.74811,
+            40.34409
+          ],
+          [
+            -3.81202,
+            40.34521
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UGENA",
+        "name": "Ugena",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.735,
+          40.392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCASAR",
+        "name": "El Casar",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70969,
+          40.31853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEDELOSESTADOS",
+        "name": "Parque de los Estados",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.78717,
+          40.28666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONSERVATORIO-SantaCruzdeTenerife-SantaCruzdeTenerife",
+        "name": "Conservatorio",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74577,
+          40.29325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALDEFUENLABRADA",
+        "name": "Hospital de Fuenlabrada",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81582,
+          40.28585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENLABRADACENTRAL",
+        "name": "Fuenlabrada Central",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79828,
+          40.28229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASERNA",
+        "name": "La Serna",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79248,
+          40.29672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEEUROPA",
+        "name": "Parque Europa",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.80745,
+          40.28522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORANCA",
+        "name": "Loranca",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83677,
+          40.29674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOSTOLESELSOTO",
+        "name": "Móstoles-El Soto",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.88226,
+          40.33095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PRADILLO",
+        "name": "Pradillo",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.86483,
+          40.32171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASRETAMAS",
+        "name": "Las Retamas",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84283,
+          40.34155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALDEMOSTOLES",
+        "name": "Hospital de Móstoles",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.87442,
+          40.31631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEDELISBOA",
+        "name": "Parque de Lisboa",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82078,
+          40.3495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCORCONCENTRAL",
+        "name": "Alcorcón Central",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83199,
+          40.34994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEGANESNORTE",
+        "name": "Leganés Norte",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.74811,
+          40.34409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTADELSUR",
+        "name": "Puerta del Sur",
+        "line": "Línea 12 Circular MetroSur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81202,
+          40.34521
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "197",
+        "name": "Cremallera de Montserrat",
+        "line_type": "Cremallera",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.84922,
+            41.61036
+          ],
+          [
+            1.84331,
+            41.61549
+          ],
+          [
+            1.83634,
+            41.59197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONISTROLENLLAC",
+        "name": "Monistrol Enllaç",
+        "line": "Cremallera de Montserrat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.84922,
+          41.61036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONISTROLVILA",
+        "name": "Monistrol-Vila",
+        "line": "Cremallera de Montserrat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.84331,
+          41.61549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTSERRAT",
+        "name": "Montserrat",
+        "line": "Cremallera de Montserrat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.83634,
+          41.59197
+        ]
+      }
+    }
+  ]
+}

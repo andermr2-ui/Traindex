@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "324",
+        "name": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -4.78952,
+            37.88851
+          ],
+          [
+            -4.82223,
+            37.35892
+          ],
+          [
+            -4.71971,
+            37.07017
+          ],
+          [
+            -4.56137,
+            37.02948
+          ],
+          [
+            -4.13567,
+            37.17511
+          ],
+          [
+            -3.60863,
+            37.18369
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBACENTRAL",
+        "name": "Córdoba-Central",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.78952,
+          37.88851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTEGENILHERRERA",
+        "name": "Puente Genil-Herrera",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.82223,
+          37.35892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERASANTAANA",
+        "name": "Antequera-Santa Ana",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71971,
+          37.07017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERAAV",
+        "name": "Antequera AV",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56137,
+          37.02948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOJA",
+        "name": "Loja",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.13567,
+          37.17511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANADA",
+        "name": "Granada",
+        "line": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Granada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60863,
+          37.18369
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "234",
+        "name": "L1 Andalucía Tech - Atarazanas",
+        "line_type": "Metro",
+        "operator": "Metro de Málaga"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49442,
+            36.7188
+          ],
+          [
+            -4.4887,
+            36.71799
+          ],
+          [
+            -4.48401,
+            36.71733
+          ],
+          [
+            -4.47858,
+            36.71655
+          ],
+          [
+            -6.20598,
+            36.52948
+          ],
+          [
+            -4.46338,
+            36.71802
+          ],
+          [
+            -4.45303,
+            36.71935
+          ],
+          [
+            -4.4491,
+            36.71862
+          ],
+          [
+            -4.44611,
+            36.71169
+          ],
+          [
+            -4.44011,
+            36.7107
+          ],
+          [
+            -4.43243,
+            36.7128
+          ],
+          [
+            -4.4297,
+            36.71599
+          ],
+          [
+            -4.42351,
+            36.7176
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANDALUCIATECH",
+        "name": "Andalucía Tech",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49442,
+          36.7188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARANINFO",
+        "name": "Paraninfo",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4887,
+          36.71799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCONSUL",
+        "name": "El Cónsul",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48401,
+          36.71733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CLINICO",
+        "name": "Clínico",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47858,
+          36.71655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSIDADCADIZ",
+        "name": "Universidad",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20598,
+          36.52948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADDELAJUSTICIA",
+        "name": "Ciudad de la Justicia",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.46338,
+          36.71802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTADAALTA",
+        "name": "Portada Alta",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45303,
+          36.71935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARRANQUE",
+        "name": "Carranque",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4491,
+          36.71862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARBARELA",
+        "name": "Barbarela",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44611,
+          36.71169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAUNIONVITORIA",
+        "name": "La Unión",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44011,
+          36.7107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPERCHEL",
+        "name": "El Perchel",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.43243,
+          36.7128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADALMEDINA",
+        "name": "Guadalmedina",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4297,
+          36.71599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATARAZANAS",
+        "name": "Atarazanas",
+        "line": "L1 Andalucía Tech - Atarazanas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42351,
+          36.7176
+        ]
+      }
+    }
+  ]
+}

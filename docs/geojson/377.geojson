@@ -1,0 +1,494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "377",
+        "name": "Regional 48 Valencia - Cuenca - Madrid",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -6.19402,
+            36.47588
+          ],
+          [
+            -6.19402,
+            36.47588
+          ],
+          [
+            -0.10405,
+            39.8965
+          ],
+          [
+            -0.56738,
+            39.48567
+          ],
+          [
+            -0.68627,
+            39.49078
+          ],
+          [
+            -0.72292,
+            39.47105
+          ],
+          [
+            -0.7874,
+            39.4271
+          ],
+          [
+            -1.13473,
+            39.52175
+          ],
+          [
+            -1.15038,
+            39.52221
+          ],
+          [
+            -1.13473,
+            39.52175
+          ],
+          [
+            -1.13473,
+            39.52175
+          ],
+          [
+            -1.40317,
+            39.64495
+          ],
+          [
+            -8.30008,
+            42.10694
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -2.14369,
+            40.03396
+          ],
+          [
+            0.56905,
+            41.18232
+          ],
+          [
+            -1.13346,
+            37.97658
+          ],
+          [
+            -2.68219,
+            40.14602
+          ],
+          [
+            -3.00978,
+            40.0065
+          ],
+          [
+            -4.04509,
+            43.17011
+          ],
+          [
+            2.03737,
+            41.47531
+          ],
+          [
+            -3.61825,
+            40.03483
+          ],
+          [
+            -3.68398,
+            40.35259
+          ],
+          [
+            -3.6886,
+            40.40697
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOCENTRO",
+        "name": "San Fernando-Centro",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19402,
+          36.47588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOCENTRO",
+        "name": "San Fernando-Centro",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19402,
+          36.47588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BORRIANAALQUERIAS",
+        "name": "Borriana-Alquerías",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.10405,
+          39.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LORIGUILLAREVA",
+        "name": "Loriguilla-Reva",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56738,
+          39.48567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHESTE",
+        "name": "Cheste",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.68627,
+          39.49078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHIVA",
+        "name": "Chiva",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.72292,
+          39.47105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BUNOL",
+        "name": "Buñol",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7874,
+          39.4271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REQUENAUTIEL",
+        "name": "Requena-Utiel",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13473,
+          39.52175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANANTONIO",
+        "name": "San Antonio",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15038,
+          39.52221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTIEL",
+        "name": "Utiel",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13473,
+          39.52175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UTIEL",
+        "name": "Utiel",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13473,
+          39.52175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPORROBLES",
+        "name": "Camporrobles",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.40317,
+          39.64495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARBONERASDEGUADAZAON",
+        "name": "Carboneras de Guadazaón",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30008,
+          42.10694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUENCA",
+        "name": "Cuenca",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.14369,
+          40.03396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ASCO",
+        "name": "Ascó",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56905,
+          41.18232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MURCIADELCARMEN",
+        "name": "Murcia del Carmen",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13346,
+          37.97658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUETE",
+        "name": "Huete",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.68219,
+          40.14602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARANCON",
+        "name": "Tarancón",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00978,
+          40.0065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACRUZ",
+        "name": "Santa Cruz",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04509,
+          43.17011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RUBI",
+        "name": "Rubí",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03737,
+          41.47531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARANJUEZ",
+        "name": "Aranjuez",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61825,
+          40.03483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAVERDEBAJO",
+        "name": "Villaverde Bajo",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68398,
+          40.35259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "Regional 48 Valencia - Cuenca - Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    }
+  ]
+}

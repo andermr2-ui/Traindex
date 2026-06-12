@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "264",
+        "name": "E5 Amara - Altza",
+        "line_type": "Suburbano",
+        "operator": "Euskotren"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.98153,
+            43.31268
+          ],
+          [
+            -1.97481,
+            43.30226
+          ],
+          [
+            -1.96796,
+            43.31049
+          ],
+          [
+            -1.95487,
+            43.31423
+          ],
+          [
+            -1.93671,
+            43.31962
+          ],
+          [
+            -1.93108,
+            43.31636
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMARADONOSTIA",
+        "name": "Amara-Donostia",
+        "line": "E5 Amara - Altza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98153,
+          43.31268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANOETADONOSTIA-Gipuzkoa-DonostiaSanSebastin",
+        "name": "Anoeta-Donostia",
+        "line": "E5 Amara - Altza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.97481,
+          43.30226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOIOLADONOSTIA",
+        "name": "Loiola-Donostia",
+        "line": "E5 Amara - Altza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.96796,
+          43.31049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INTXAURRONDODONOSTIA",
+        "name": "Intxaurrondo-Donostia",
+        "line": "E5 Amara - Altza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95487,
+          43.31423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRERADONOSTIA",
+        "name": "Herrera-Donostia",
+        "line": "E5 Amara - Altza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93671,
+          43.31962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALTZADONOSTIA",
+        "name": "Altza-Donostia",
+        "line": "E5 Amara - Altza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.93108,
+          43.31636
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1064 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "351",
+        "name": "Regional R-2 Oviedo - Llanes - Santander",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.85487,
+            43.36636
+          ],
+          [
+            -5.82714,
+            43.38817
+          ],
+          [
+            -5.80874,
+            43.38621
+          ],
+          [
+            -5.79207,
+            43.37949
+          ],
+          [
+            -5.74855,
+            43.38092
+          ],
+          [
+            -5.72969,
+            43.38174
+          ],
+          [
+            -5.70247,
+            43.38248
+          ],
+          [
+            -5.67464,
+            43.38669
+          ],
+          [
+            -2.92524,
+            43.29188
+          ],
+          [
+            -5.60145,
+            43.37753
+          ],
+          [
+            -5.58266,
+            43.38052
+          ],
+          [
+            -5.54614,
+            43.3751
+          ],
+          [
+            -5.52525,
+            43.3688
+          ],
+          [
+            -5.50899,
+            43.36119
+          ],
+          [
+            -2.52481,
+            37.04429
+          ],
+          [
+            -5.45111,
+            43.35617
+          ],
+          [
+            -5.43457,
+            43.35537
+          ],
+          [
+            -5.38416,
+            43.35988
+          ],
+          [
+            -5.36916,
+            43.35191
+          ],
+          [
+            -5.36066,
+            43.34401
+          ],
+          [
+            -5.30326,
+            43.36266
+          ],
+          [
+            -6.3,
+            43.58
+          ],
+          [
+            -4.54073,
+            41.87124
+          ],
+          [
+            -5.2,
+            43.53
+          ],
+          [
+            -4.47858,
+            36.71655
+          ],
+          [
+            -5.18827,
+            43.38752
+          ],
+          [
+            -1.33858,
+            40.85045
+          ],
+          [
+            -4.88,
+            43.38
+          ],
+          [
+            -5.07331,
+            43.43123
+          ],
+          [
+            -5.07,
+            43.45
+          ],
+          [
+            -5.05466,
+            43.45938
+          ],
+          [
+            -5.065,
+            43.45
+          ],
+          [
+            -6.94763,
+            37.46184
+          ],
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            -5.0,
+            43.47
+          ],
+          [
+            -5.10678,
+            37.80374
+          ],
+          [
+            -4.97,
+            43.475
+          ],
+          [
+            -4.80752,
+            43.42977
+          ],
+          [
+            -4.23375,
+            42.78527
+          ],
+          [
+            -4.75912,
+            43.42091
+          ],
+          [
+            -6.19402,
+            36.47588
+          ],
+          [
+            -4.67277,
+            43.39655
+          ],
+          [
+            -4.62,
+            43.38
+          ],
+          [
+            -4.58168,
+            43.38971
+          ],
+          [
+            -3.16307,
+            40.74699
+          ],
+          [
+            -4.48029,
+            43.37026
+          ],
+          [
+            -5.65292,
+            43.2891
+          ],
+          [
+            -3.43831,
+            43.28441
+          ],
+          [
+            -4.34925,
+            43.32832
+          ],
+          [
+            -4.30902,
+            43.31838
+          ],
+          [
+            -4.23176,
+            43.30784
+          ],
+          [
+            -4.1494,
+            43.36115
+          ],
+          [
+            -4.08772,
+            43.35877
+          ],
+          [
+            -4.05127,
+            43.35104
+          ],
+          [
+            -3.81102,
+            43.4583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OVIEDO",
+        "name": "Oviedo",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.85487,
+          43.36636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACORREDORIA",
+        "name": "La Corredoria",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.82714,
+          43.38817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARQUEPRINCIPADO",
+        "name": "Parque Principado",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.80874,
+          43.38621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLLOTO",
+        "name": "Colloto",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.79207,
+          43.37949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERES",
+        "name": "Meres",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.74855,
+          43.38092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FONCIELLO",
+        "name": "Fonciello",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.72969,
+          43.38174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELBERRON",
+        "name": "El Berrón",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.70247,
+          43.38248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACARRERA",
+        "name": "La Carrera",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67464,
+          43.38669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLADESIERO",
+        "name": "Pola de Siero",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92524,
+          43.29188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSCORROS",
+        "name": "Los Corros",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.60145,
+          43.37753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LIERES",
+        "name": "Lieres",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.58266,
+          43.38052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELREMEDIO",
+        "name": "El Remedio",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54614,
+          43.3751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLAMES",
+        "name": "Llames",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.52525,
+          43.3688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVA",
+        "name": "Nava",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.50899,
+          43.36119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FUENTESANTA",
+        "name": "Fuente Santa",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.52481,
+          37.04429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CECEDA",
+        "name": "Ceceda",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.45111,
+          43.35617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARANCOS",
+        "name": "Carancos",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.43457,
+          43.35537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINTUELES",
+        "name": "Pintueles",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.38416,
+          43.35988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INFIESTO",
+        "name": "Infiesto",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36916,
+          43.35191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INFIESTOAPEADERO",
+        "name": "Infiesto Apeadero",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.36066,
+          43.34401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAMAYOR",
+        "name": "Villamayor",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.30326,
+          43.36266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEBARES",
+        "name": "Sebares",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3,
+          43.58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DUENAS",
+        "name": "Dueñas",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54073,
+          41.87124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OZANES",
+        "name": "Ozanes",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.2,
+          43.53
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CLINICO",
+        "name": "Clínico",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47858,
+          36.71655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARRIONDAS",
+        "name": "Arriondas",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.18827,
+          43.38752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMINREALFUENTESCLARAS",
+        "name": "Caminreal-Fuentes Claras",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.33858,
+          40.85045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORANO",
+        "name": "Toraño",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.88,
+          43.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUEVAS",
+        "name": "Cuevas",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.07331,
+          43.43123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLOVIO",
+        "name": "Llovio",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.07,
+          43.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RIBADESELLA",
+        "name": "Ribadesella",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.05466,
+          43.45938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMANGO",
+        "name": "Camango",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.065,
+          43.45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELMONTE",
+        "name": "Belmonte",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.94763,
+          37.46184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAMOCHANUEVA",
+        "name": "Calamocha Nueva",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAHORMES",
+        "name": "Villahormes",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0,
+          43.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POSADAS",
+        "name": "Posadas",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.10678,
+          37.80374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALMORI",
+        "name": "Balmori",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.97,
+          43.475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CELORIO",
+        "name": "Celorio",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.80752,
+          43.42977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGUILARDECAMPOO",
+        "name": "Aguilar de Campoo",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23375,
+          42.78527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLANES",
+        "name": "Llanes",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75912,
+          43.42091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOCENTRO",
+        "name": "San Fernando-Centro",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19402,
+          36.47588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIDIAGO",
+        "name": "Vidiago",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.67277,
+          43.39655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENDUELES",
+        "name": "Pendueles",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62,
+          43.38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLOMBRES",
+        "name": "Colombres",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.58168,
+          43.38971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-YUNQUERADEHENARES",
+        "name": "Yunquera de Henares",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.16307,
+          40.74699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PESUES",
+        "name": "Pesúes",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48029,
+          43.37026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANVICENTE",
+        "name": "San Vicente",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.65292,
+          43.2891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCENA",
+        "name": "Bárcena",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.43831,
+          43.28441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROIZ",
+        "name": "Roiz",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.34925,
+          43.32832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRECENO",
+        "name": "Treceño",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.30902,
+          43.31838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABEZONDELASAL",
+        "name": "Cabezón de la Sal",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23176,
+          43.30784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANPEDRODERUDAGUERA",
+        "name": "San Pedro de Rudagüera",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1494,
+          43.36115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUENTESANMIGUEL",
+        "name": "Puente San Miguel",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.08772,
+          43.35877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELAVEGACENTRO",
+        "name": "Torrelavega-Centro",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05127,
+          43.35104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDER",
+        "name": "Santander",
+        "line": "Regional R-2 Oviedo - Llanes - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81102,
+          43.4583
+        ]
+      }
+    }
+  ]
+}

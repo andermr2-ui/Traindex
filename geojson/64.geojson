@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "64",
+        "name": "Regional Teruel - Valencia",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -1.11042,
+            40.34099
+          ],
+          [
+            -0.9852,
+            40.27321
+          ],
+          [
+            -0.94395,
+            40.21239
+          ],
+          [
+            -0.82358,
+            40.14615
+          ],
+          [
+            -0.77347,
+            40.11784
+          ],
+          [
+            -0.77347,
+            40.11784
+          ],
+          [
+            -0.69642,
+            40.01156
+          ],
+          [
+            -0.5722,
+            39.94728
+          ],
+          [
+            -0.56939,
+            39.91496
+          ],
+          [
+            -5.50899,
+            43.36119
+          ],
+          [
+            -0.48235,
+            39.84706
+          ],
+          [
+            -0.49385,
+            39.85453
+          ],
+          [
+            -0.43178,
+            39.81256
+          ],
+          [
+            -0.34822,
+            39.70629
+          ],
+          [
+            -0.27141,
+            39.67567
+          ],
+          [
+            -0.3031,
+            39.62049
+          ],
+          [
+            -0.33467,
+            39.47007
+          ],
+          [
+            -0.37719,
+            39.46691
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERUEL",
+        "name": "Teruel",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11042,
+          40.34099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTOESCANDON",
+        "name": "Puerto Escandón",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9852,
+          40.27321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUEBLADEVALVERDE",
+        "name": "Puebla de Valverde",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.94395,
+          40.21239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRION",
+        "name": "Sarrión",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.82358,
+          40.14615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MORADERUBIELOS",
+        "name": "Mora de Rubielos",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77347,
+          40.11784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RUBIELOSDEMORA",
+        "name": "Rubielos de Mora",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77347,
+          40.11784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARRACAS",
+        "name": "Barracas",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.69642,
+          40.01156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAUDIEL",
+        "name": "Caudiel",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5722,
+          39.94728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JERICAVIVER",
+        "name": "Jérica-Viver",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56939,
+          39.91496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NAVAJAS",
+        "name": "Navajas",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.50899,
+          43.36119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGORBECIUDAD",
+        "name": "Segorbe-Ciudad",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48235,
+          39.84706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGORBEARRABAL",
+        "name": "Segorbe-Arrabal",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49385,
+          39.85453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONEJA",
+        "name": "Soneja",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43178,
+          39.81256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTIVELLAALBALATDELSTARONGERS",
+        "name": "Estivella-Albalat dels Tarongers",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34822,
+          39.70629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGUNT",
+        "name": "Sagunt",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.27141,
+          39.67567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUCOL",
+        "name": "Puçol",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3031,
+          39.62049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIACABANYAL",
+        "name": "València-Cabanyal",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33467,
+          39.47007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "Regional Teruel - Valencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    }
+  ]
+}

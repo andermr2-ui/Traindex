@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "79",
+        "name": "MD 45 Alicante - Castellón",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49606,
+            38.34498
+          ],
+          [
+            -3.02879,
+            43.30149
+          ],
+          [
+            -0.58276,
+            38.28965
+          ],
+          [
+            -0.6951,
+            38.27179
+          ],
+          [
+            -3.64001,
+            40.38755
+          ],
+          [
+            -0.87441,
+            38.12267
+          ],
+          [
+            -0.87556,
+            38.13675
+          ],
+          [
+            -0.83835,
+            38.16725
+          ],
+          [
+            -0.78156,
+            38.22451
+          ],
+          [
+            -0.7063,
+            38.26904
+          ],
+          [
+            2.24859,
+            41.93099
+          ],
+          [
+            -0.8011,
+            38.4849
+          ],
+          [
+            -0.8142,
+            38.54472
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -0.95956,
+            38.71627
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            -0.38121,
+            39.46005
+          ],
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.00226,
+            39.97506
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALICANTERMINAL",
+        "name": "Alicante-Terminal",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49606,
+          38.34498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANGABRIEL",
+        "name": "San Gabriel",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02879,
+          43.30149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELLANO",
+        "name": "Torrellano",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.58276,
+          38.28965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHEPARQUE",
+        "name": "Elche-Parque",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6951,
+          38.27179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+        "name": "Orihuela-Miguel Hernández",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64001,
+          40.38755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALLOSADESEGURA",
+        "name": "Callosa de Segura",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87441,
+          38.12267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALLOSADESEGURACOX",
+        "name": "Callosa de Segura-Cox",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87556,
+          38.13675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBATERACATRAL",
+        "name": "Albatera-Catral",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.83835,
+          38.16725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CREVILLENT",
+        "name": "Crevillent",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.78156,
+          38.22451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHECARRUS",
+        "name": "Elche-Carrús",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7063,
+          38.26904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANVICENTECENTRE",
+        "name": "San Vicente Centre",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24859,
+          41.93099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELDAPETRER",
+        "name": "Elda-Petrer",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8011,
+          38.4849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAX",
+        "name": "Sax",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.8142,
+          38.54472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENA",
+        "name": "Villena",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAUDETE",
+        "name": "Caudete",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.95956,
+          38.71627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBACETELOSLLANOS",
+        "name": "Albacete-Los Llanos",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIAJOAQUINSOROLLA",
+        "name": "Valencia-Joaquín Sorolla",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38121,
+          39.46005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLODELAPLANA",
+        "name": "Castelló de la Plana",
+        "line": "MD 45 Alicante - Castellón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.00226,
+          39.97506
+        ]
+      }
+    }
+  ]
+}

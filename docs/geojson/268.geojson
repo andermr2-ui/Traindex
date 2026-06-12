@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "268",
+        "name": "Funicular de Artxanda",
+        "line_type": "Funicular",
+        "operator": "Ayuntamiento de Bilbao"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.92596,
+            43.26872
+          ],
+          [
+            -2.92596,
+            43.26872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTANOSPLAZADELFUNICULAR",
+        "name": "Castaños-Plaza del Funicular",
+        "line": "Funicular de Artxanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92596,
+          43.26872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTXANDA",
+        "name": "Artxanda",
+        "line": "Funicular de Artxanda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92596,
+          43.26872
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "67",
+        "name": "MD 14 Palencia - Salamanca",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            -4.49627,
+            41.9174
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -4.90968,
+            41.31726
+          ],
+          [
+            -5.64706,
+            40.9718
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "MD 14 Palencia - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTADEBANOS",
+        "name": "Venta de Baños",
+        "line": "MD 14 Palencia - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49627,
+          41.9174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "MD 14 Palencia - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MEDINADELCAMPO",
+        "name": "Medina del Campo",
+        "line": "MD 14 Palencia - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.90968,
+          41.31726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALAMANCA",
+        "name": "Salamanca",
+        "line": "MD 14 Palencia - Salamanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.64706,
+          40.9718
+        ]
+      }
+    }
+  ]
+}

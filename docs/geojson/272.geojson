@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "272",
+        "name": "L3 Kukullaga - Matiko",
+        "line_type": "Metro",
+        "operator": "Euskotren"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.89774,
+            43.24387
+          ],
+          [
+            -2.89869,
+            43.25869
+          ],
+          [
+            -2.90643,
+            43.25916
+          ],
+          [
+            -2.91372,
+            43.26373
+          ],
+          [
+            -2.92182,
+            43.26017
+          ],
+          [
+            -2.91995,
+            43.26684
+          ],
+          [
+            -2.92546,
+            43.26903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-KUKULLAGAETXEBARRI",
+        "name": "Kukullaga-Etxebarri",
+        "line": "L3 Kukullaga - Matiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89774,
+          43.24387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OTXARKOAGABILBAO",
+        "name": "Otxarkoaga-Bilbao",
+        "line": "L3 Kukullaga - Matiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.89869,
+          43.25869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TXURDINAGABILBAO",
+        "name": "Txurdinaga-Bilbao",
+        "line": "L3 Kukullaga - Matiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.90643,
+          43.25916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZURBARANBARRIBILBAO",
+        "name": "Zurbaranbarri-Bilbao",
+        "line": "L3 Kukullaga - Matiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91372,
+          43.26373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAZPIKALEAKCASCOVIEJO",
+        "name": "Zazpikaleak-Casco Viejo",
+        "line": "L3 Kukullaga - Matiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92182,
+          43.26017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-URIBARRIBILBAO",
+        "name": "Uribarri-Bilbao",
+        "line": "L3 Kukullaga - Matiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.91995,
+          43.26684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATIKOBILBAO",
+        "name": "Matiko-Bilbao",
+        "line": "L3 Kukullaga - Matiko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92546,
+          43.26903
+        ]
+      }
+    }
+  ]
+}

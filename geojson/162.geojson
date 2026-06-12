@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "162",
+        "name": "RL2 Lleida Pirineus - La Pobla de Segur",
+        "line_type": "Rodalies",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0.63304,
+            41.62073
+          ],
+          [
+            0.68571,
+            41.65425
+          ],
+          [
+            0.72791,
+            41.68736
+          ],
+          [
+            0.763,
+            41.7165
+          ],
+          [
+            0.80557,
+            41.75575
+          ],
+          [
+            0.81469,
+            41.78922
+          ],
+          [
+            0.81205,
+            41.82329
+          ],
+          [
+            0.83263,
+            41.86641
+          ],
+          [
+            0.72791,
+            41.68736
+          ],
+          [
+            0.85252,
+            41.93186
+          ],
+          [
+            0.85155,
+            42.00676
+          ],
+          [
+            0.88287,
+            42.05859
+          ],
+          [
+            0.88808,
+            42.10138
+          ],
+          [
+            0.89243,
+            42.14692
+          ],
+          [
+            0.88808,
+            42.10138
+          ],
+          [
+            0.90003,
+            42.18539
+          ],
+          [
+            0.94046,
+            42.20684
+          ],
+          [
+            0.96616,
+            42.24
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLEIDAPIRINEUS",
+        "name": "Lleida Pirineus",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.63304,
+          41.62073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOLETGE",
+        "name": "Alcoletge",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68571,
+          41.65425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVADELABARCA",
+        "name": "Vilanova de la Barca",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72791,
+          41.68736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERMENS",
+        "name": "Térmens",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.763,
+          41.7165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLFOGONADEBALAGUER",
+        "name": "Vallfogona de Balaguer",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.80557,
+          41.75575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BALAGUER",
+        "name": "Balaguer",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.81469,
+          41.78922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GERB",
+        "name": "Gerb",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.81205,
+          41.82329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTLLORENCDEMONTGAI",
+        "name": "Sant Llorenç de Montgai",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.83263,
+          41.86641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVADELASAL",
+        "name": "Vilanova de la Sal",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72791,
+          41.68736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTALINYA",
+        "name": "Santa Linya",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.85252,
+          41.93186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGER",
+        "name": "Àger",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.85155,
+          42.00676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CELLERSLLIMIANA",
+        "name": "Cellers-Llimiana",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.88287,
+          42.05859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUARDIADETREMP",
+        "name": "Guàrdia de Tremp",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.88808,
+          42.10138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALAUDENOGUERA",
+        "name": "Palau de Noguera",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.89243,
+          42.14692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TREMP",
+        "name": "Tremp",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.88808,
+          42.10138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TALARN",
+        "name": "Talarn",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.90003,
+          42.18539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALASDEPALLARS",
+        "name": "Salàs de Pallars",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.94046,
+          42.20684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPOBLADESEGUR",
+        "name": "La Pobla de Segur",
+        "line": "RL2 Lleida Pirineus - La Pobla de Segur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.96616,
+          42.24
+        ]
+      }
+    }
+  ]
+}

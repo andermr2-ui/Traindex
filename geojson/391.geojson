@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "391",
+        "name": "MD 67 Sevilla - Málaga",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -5.97911,
+            37.37821
+          ],
+          [
+            -5.97582,
+            37.36281
+          ],
+          [
+            -5.92332,
+            37.28722
+          ],
+          [
+            -5.54846,
+            37.26822
+          ],
+          [
+            -5.4255,
+            37.33434
+          ],
+          [
+            -5.11497,
+            37.23371
+          ],
+          [
+            -4.89364,
+            37.22227
+          ],
+          [
+            -4.71971,
+            37.07017
+          ],
+          [
+            -4.72798,
+            37.03764
+          ],
+          [
+            -4.75913,
+            36.90707
+          ],
+          [
+            -4.7192,
+            36.87322
+          ],
+          [
+            -4.6994,
+            36.81971
+          ],
+          [
+            -4.01003,
+            43.3983
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANBERNARDO",
+        "name": "Sevilla-San Bernardo",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97911,
+          37.37821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIRGENDELROCIO",
+        "name": "Virgen del Rocío",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97582,
+          37.36281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DOSHERMANAS",
+        "name": "Dos Hermanas",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.92332,
+          37.28722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARAHAL",
+        "name": "Arahal",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54846,
+          37.26822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARCHENA",
+        "name": "Marchena",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.4255,
+          37.33434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OSUNA",
+        "name": "Osuna",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.11497,
+          37.23371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PEDRERA",
+        "name": "Pedrera",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.89364,
+          37.22227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERASANTAANA",
+        "name": "Antequera-Santa Ana",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71971,
+          37.07017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BOBADILLA",
+        "name": "Bobadilla",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72798,
+          37.03764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCHORROCAMINITODELREY",
+        "name": "El Chorro-Caminito del Rey",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75913,
+          36.90707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASMELLIZAS",
+        "name": "Las Mellizas",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7192,
+          36.87322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALORA",
+        "name": "Álora",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.6994,
+          36.81971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALAGAMARIAZAMBRANO",
+        "name": "Málaga-María Zambrano",
+        "line": "MD 67 Sevilla - Málaga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01003,
+          43.3983
+        ]
+      }
+    }
+  ]
+}

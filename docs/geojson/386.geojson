@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "386",
+        "name": "MD 57 Madrid - Alcázar - Albacete",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.61825,
+            40.03483
+          ],
+          [
+            -3.73859,
+            39.94957
+          ],
+          [
+            -0.3119,
+            39.58819
+          ],
+          [
+            -3.33025,
+            39.62197
+          ],
+          [
+            -3.26637,
+            39.50422
+          ],
+          [
+            -3.20537,
+            39.39566
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -2.77539,
+            39.27854
+          ],
+          [
+            -2.59851,
+            39.26072
+          ],
+          [
+            -2.16292,
+            39.19932
+          ],
+          [
+            2.18627,
+            41.395
+          ],
+          [
+            -3.98261,
+            42.98795
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTIN",
+        "name": "Madrid-Chamartín",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARANJUEZ",
+        "name": "Aranjuez",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61825,
+          40.03483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTILLEJOANOVER",
+        "name": "Castillejo-Añover",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73859,
+          39.94957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUIG",
+        "name": "El Puig",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3119,
+          39.58819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLACANAS",
+        "name": "Villacañas",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.33025,
+          39.62197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERO",
+        "name": "Quero",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26637,
+          39.50422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCAZARDESANJUAN",
+        "name": "Alcázar de San Juan",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20537,
+          39.39566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOCUELLAMOS",
+        "name": "Socuéllamos",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.77539,
+          39.27854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLARROBLEDO",
+        "name": "Villarrobledo",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59851,
+          39.26072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARODA",
+        "name": "La Roda",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16292,
+          39.19932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CCLAMARINA",
+        "name": "CC La Marina",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18627,
+          41.395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBACETELOSLLANOS",
+        "name": "Albacete-Los Llanos",
+        "line": "MD 57 Madrid - Alcázar - Albacete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    }
+  ]
+}

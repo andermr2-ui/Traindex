@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "138",
+        "name": "Línea 8 Nuevos Ministerios - Aeropuerto T4",
+        "line_type": "Metro",
+        "operator": "Metro de Madrid"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6917,
+            40.44584
+          ],
+          [
+            -3.69121,
+            40.43799
+          ],
+          [
+            -3.63858,
+            40.46982
+          ],
+          [
+            -3.57176,
+            40.46791
+          ],
+          [
+            -3.59284,
+            40.49243
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOSMINISTERIOS",
+        "name": "Nuevos Ministerios",
+        "line": "Línea 8 Nuevos Ministerios - Aeropuerto T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.44584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GREGORIOMARANON",
+        "name": "Gregorio Marañón",
+        "line": "Línea 8 Nuevos Ministerios - Aeropuerto T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69121,
+          40.43799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARDECRISTAL",
+        "name": "Mar de Cristal",
+        "line": "Línea 8 Nuevos Ministerios - Aeropuerto T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.63858,
+          40.46982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTOT1T2T3",
+        "name": "Aeropuerto T1-T2-T3",
+        "line": "Línea 8 Nuevos Ministerios - Aeropuerto T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.57176,
+          40.46791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AEROPUERTOT4",
+        "name": "Aeropuerto T4",
+        "line": "Línea 8 Nuevos Ministerios - Aeropuerto T4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.59284,
+          40.49243
+        ]
+      }
+    }
+  ]
+}

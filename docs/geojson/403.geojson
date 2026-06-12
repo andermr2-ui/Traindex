@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "403",
+        "name": "35b/R14 Barcelona - Tarragona - Lérida",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.16538,
+            41.39254
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.73082,
+            41.22018
+          ],
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            1.40571,
+            41.14279
+          ],
+          [
+            1.3733,
+            41.13661
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            1.15044,
+            41.11288
+          ],
+          [
+            1.09994,
+            41.1606
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            1.17417,
+            41.2616
+          ],
+          [
+            1.195,
+            41.30604
+          ],
+          [
+            -5.33952,
+            42.85855
+          ],
+          [
+            1.17649,
+            41.33763
+          ],
+          [
+            1.16571,
+            41.37652
+          ],
+          [
+            1.10327,
+            41.40047
+          ],
+          [
+            1.04603,
+            41.40269
+          ],
+          [
+            0.97035,
+            41.4251
+          ],
+          [
+            2.0732,
+            41.44486
+          ],
+          [
+            -5.97549,
+            43.55646
+          ],
+          [
+            0.82553,
+            41.54392
+          ],
+          [
+            0.651,
+            41.6237
+          ],
+          [
+            0.651,
+            41.6237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAPASSEIGDEGRACIA",
+        "name": "Barcelona-Passeig de Gràcia",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16538,
+          41.39254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVAILAGELTRU",
+        "name": "Vilanova i la Geltrú",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73082,
+          41.22018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORREDEMBARRA",
+        "name": "Torredembarra",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.40571,
+          41.14279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALTAFULLATAMARIT",
+        "name": "Altafulla-Tamarit",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3733,
+          41.13661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILASECA",
+        "name": "Vila-seca",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.15044,
+          41.11288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REUS",
+        "name": "Reus",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.09994,
+          41.1606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOVER",
+        "name": "Alcover",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.17417,
+          41.2616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPLANAPICAMOIXONS",
+        "name": "La Plana-Picamoixons",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.195,
+          41.30604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAMATADELARIBA",
+        "name": "La Mata de la Riba",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33952,
+          42.85855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAVERD",
+        "name": "Vilaverd",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.17649,
+          41.33763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTBLANC",
+        "name": "Montblanc",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.16571,
+          41.37652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPLUGADEFRANCOLI",
+        "name": "Espluga de Francolí",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.10327,
+          41.40047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIMBODI",
+        "name": "Vimbodí",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04603,
+          41.40269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VINAIXA",
+        "name": "Vinaixa",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97035,
+          41.4251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFLORESTA",
+        "name": "La Floresta",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0732,
+          41.44486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIEDRASBLANCAS",
+        "name": "Piedras Blancas",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97549,
+          43.55646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JUNEDA",
+        "name": "Juneda",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.82553,
+          41.54392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LERIDAPIRINEOS",
+        "name": "Lérida-Pirineos",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.651,
+          41.6237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LERIDAPIRINEOS",
+        "name": "Lérida-Pirineos",
+        "line": "35b/R14 Barcelona - Tarragona - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.651,
+          41.6237
+        ]
+      }
+    }
+  ]
+}

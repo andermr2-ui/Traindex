@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "283",
+        "name": "L2 La Cuesta - Tincer",
+        "line_type": "Tranvía",
+        "operator": "Metrotenerife"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.29013,
+            28.48398
+          ],
+          [
+            -2.8468,
+            42.58209
+          ],
+          [
+            -16.29267,
+            28.45759
+          ],
+          [
+            -16.29146,
+            28.44729
+          ],
+          [
+            -5.98145,
+            37.43377
+          ],
+          [
+            -16.30458,
+            28.44377
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LACUESTA",
+        "name": "La Cuesta",
+        "line": "L2 La Cuesta - Tincer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29013,
+          28.48398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-INGENIEROS",
+        "name": "Ingenieros",
+        "line": "L2 La Cuesta - Tincer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.8468,
+          42.58209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALUNIVERSITARIO",
+        "name": "Hospital Universitario",
+        "line": "L2 La Cuesta - Tincer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29267,
+          28.45759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCARDONAL",
+        "name": "El Cardonal",
+        "line": "L2 La Cuesta - Tincer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.29146,
+          28.44729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANJERONIMOTENERIFE",
+        "name": "San Jerónimo",
+        "line": "L2 La Cuesta - Tincer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.98145,
+          37.43377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TINCER",
+        "name": "Tincer",
+        "line": "L2 La Cuesta - Tincer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.30458,
+          28.44377
+        ]
+      }
+    }
+  ]
+}

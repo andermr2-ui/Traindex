@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "15",
+        "name": "Alvia Madrid - Huelva",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -4.57142,
+            38.25524
+          ],
+          [
+            -6.55436,
+            37.39079
+          ],
+          [
+            -6.94485,
+            37.25262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "Alvia Madrid - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBA",
+        "name": "Córdoba",
+        "line": "Alvia Madrid - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57142,
+          38.25524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPALMADELCONDADO",
+        "name": "La Palma del Condado",
+        "line": "Alvia Madrid - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.55436,
+          37.39079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUELVA",
+        "name": "Huelva",
+        "line": "Alvia Madrid - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.94485,
+          37.25262
+        ]
+      }
+    }
+  ]
+}

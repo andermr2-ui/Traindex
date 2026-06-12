@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "312",
+        "name": "AVE Barcelona-Sants - Lyon-Part-Dieu",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            2.81629,
+            41.97917
+          ],
+          [
+            2.94268,
+            42.2647
+          ],
+          [
+            2.697,
+            42.77732
+          ],
+          [
+            -8.30008,
+            42.10694
+          ],
+          [
+            3.88032,
+            43.60425
+          ],
+          [
+            4.36625,
+            43.83237
+          ],
+          [
+            4.97843,
+            44.99193
+          ],
+          [
+            4.97843,
+            44.99193
+          ],
+          [
+            4.86016,
+            45.76057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GERONA",
+        "name": "Gerona",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81629,
+          41.97917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FIGUERASVILAFANT",
+        "name": "Figueras-Vilafant",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.94268,
+          42.2647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PERPINAN",
+        "name": "Perpiñán",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.697,
+          42.77732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NARBONA",
+        "name": "Narbona",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.30008,
+          42.10694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTPELLIERSAINTROCH",
+        "name": "Montpellier-Saint-Roch",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88032,
+          43.60425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NIMES",
+        "name": "Nimes",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36625,
+          43.83237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCETGV",
+        "name": "Valence TGV",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.97843,
+          44.99193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RHONEALPESSUD",
+        "name": "Rhône-Alpes Sud",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.97843,
+          44.99193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LYONPARTDIEU",
+        "name": "Lyon-Part-Dieu",
+        "line": "AVE Barcelona-Sants - Lyon-Part-Dieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.86016,
+          45.76057
+        ]
+      }
+    }
+  ]
+}

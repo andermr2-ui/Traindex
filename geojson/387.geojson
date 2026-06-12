@@ -1,0 +1,494 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "387",
+        "name": "MD 58 Madrid - Ciudad Real / Jaén",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.61825,
+            40.03483
+          ],
+          [
+            -3.33025,
+            39.62197
+          ],
+          [
+            -3.26637,
+            39.50422
+          ],
+          [
+            -3.20537,
+            39.39566
+          ],
+          [
+            -3.23305,
+            39.16888
+          ],
+          [
+            -3.3706,
+            39.0059
+          ],
+          [
+            -3.60408,
+            39.06141
+          ],
+          [
+            -3.70965,
+            38.89551
+          ],
+          [
+            -3.91314,
+            38.98487
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.61825,
+            40.03483
+          ],
+          [
+            -3.33025,
+            39.62197
+          ],
+          [
+            -3.26637,
+            39.50422
+          ],
+          [
+            -3.20537,
+            39.39566
+          ],
+          [
+            -3.23305,
+            39.16888
+          ],
+          [
+            -3.3706,
+            39.0059
+          ],
+          [
+            -3.39614,
+            38.76328
+          ],
+          [
+            -3.45135,
+            38.64459
+          ],
+          [
+            -3.50174,
+            38.51432
+          ],
+          [
+            -3.5177,
+            38.21573
+          ],
+          [
+            -3.58914,
+            38.06908
+          ],
+          [
+            -3.81,
+            37.97
+          ],
+          [
+            -3.79079,
+            37.77998
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTIN",
+        "name": "Madrid-Chamartín",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARANJUEZ",
+        "name": "Aranjuez",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61825,
+          40.03483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLACANAS",
+        "name": "Villacañas",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.33025,
+          39.62197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERO",
+        "name": "Quero",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26637,
+          39.50422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCAZARDESANJUAN",
+        "name": "Alcázar de San Juan",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20537,
+          39.39566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CINCOCASAS",
+        "name": "Cinco Casas",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.23305,
+          39.16888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANZANARES",
+        "name": "Manzanares",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3706,
+          39.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DAIMIEL",
+        "name": "Daimiel",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60408,
+          39.06141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMAGRO",
+        "name": "Almagro",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70965,
+          38.89551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CIUDADREAL",
+        "name": "Ciudad Real",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.91314,
+          38.98487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDATOCHACERCANIAS",
+        "name": "Madrid-Atocha Cercanías",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARANJUEZ",
+        "name": "Aranjuez",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.61825,
+          40.03483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLACANAS",
+        "name": "Villacañas",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.33025,
+          39.62197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-QUERO",
+        "name": "Quero",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.26637,
+          39.50422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCAZARDESANJUAN",
+        "name": "Alcázar de San Juan",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20537,
+          39.39566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CINCOCASAS",
+        "name": "Cinco Casas",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.23305,
+          39.16888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MANZANARES",
+        "name": "Manzanares",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3706,
+          39.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDEPENAS",
+        "name": "Valdepeñas",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.39614,
+          38.76328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACRUZDEMUDELA",
+        "name": "Santa Cruz de Mudela",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.45135,
+          38.64459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMURADIELVISODELMARQUES",
+        "name": "Almuradiel-Viso del Marqués",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.50174,
+          38.51432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILCHES",
+        "name": "Vilches",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5177,
+          38.21573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LINARESBAEZA",
+        "name": "Linares-Baeza",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.58914,
+          38.06908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MENGIBARARTILLERO",
+        "name": "Mengíbar-Artillero",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81,
+          37.97
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JAEN",
+        "name": "Jaén",
+        "line": "MD 58 Madrid - Ciudad Real / Jaén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.79079,
+          37.77998
+        ]
+      }
+    }
+  ]
+}

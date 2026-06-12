@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "80",
+        "name": "MD 46 Valencia - Alcázar de San Juan",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.37719,
+            39.46691
+          ],
+          [
+            -0.52468,
+            38.99225
+          ],
+          [
+            -0.75309,
+            38.87813
+          ],
+          [
+            -0.86795,
+            38.63227
+          ],
+          [
+            -1.10557,
+            38.86765
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            -2.77539,
+            39.27854
+          ],
+          [
+            -3.20537,
+            39.39566
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIANORD",
+        "name": "València-Nord",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37719,
+          39.46691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-XATIVA",
+        "name": "Xàtiva",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52468,
+          38.99225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOIXENT",
+        "name": "Moixent",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75309,
+          38.87813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLENA",
+        "name": "Villena",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86795,
+          38.63227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALMANSA",
+        "name": "Almansa",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.10557,
+          38.86765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBACETELOSLLANOS",
+        "name": "Albacete-Los Llanos",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOCUELLAMOS",
+        "name": "Socuéllamos",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.77539,
+          39.27854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCAZARDESANJUAN",
+        "name": "Alcázar de San Juan",
+        "line": "MD 46 Valencia - Alcázar de San Juan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.20537,
+          39.39566
+        ]
+      }
+    }
+  ]
+}

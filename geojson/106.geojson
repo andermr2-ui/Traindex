@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "106",
+        "name": "Regional Cáceres - Valencia de Alcántara",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -6.38572,
+            39.46118
+          ],
+          [
+            -6.53447,
+            39.46807
+          ],
+          [
+            -7.11698,
+            39.38155
+          ],
+          [
+            -7.23072,
+            39.42694
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CACERES",
+        "name": "Cáceres",
+        "line": "Regional Cáceres - Valencia de Alcántara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.38572,
+          39.46118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARROYOMALPARTIDA",
+        "name": "Arroyo-Malpartida",
+        "line": "Regional Cáceres - Valencia de Alcántara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.53447,
+          39.46807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANVICENTEDEALCANTARA",
+        "name": "San Vicente de Alcántara",
+        "line": "Regional Cáceres - Valencia de Alcántara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.11698,
+          39.38155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALENCIADEALCANTARA",
+        "name": "Valencia de Alcántara",
+        "line": "Regional Cáceres - Valencia de Alcántara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.23072,
+          39.42694
+        ]
+      }
+    }
+  ]
+}

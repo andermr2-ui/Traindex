@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "216",
+        "name": "L3 Luceros - El Campello",
+        "line_type": "Tranvía",
+        "operator": "TRAM d'Alacant"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.49062,
+            38.34603
+          ],
+          [
+            -0.48483,
+            38.34816
+          ],
+          [
+            -0.47567,
+            38.35209
+          ],
+          [
+            -0.473,
+            38.34906
+          ],
+          [
+            -15.41735,
+            28.15385
+          ],
+          [
+            -0.43801,
+            38.36545
+          ],
+          [
+            -0.42865,
+            38.37482
+          ],
+          [
+            -15.59807,
+            27.73915
+          ],
+          [
+            -4.45592,
+            36.6918
+          ],
+          [
+            -0.40836,
+            38.38859
+          ],
+          [
+            -0.40669,
+            38.39693
+          ],
+          [
+            -0.4042,
+            38.40513
+          ],
+          [
+            -0.39732,
+            38.41721
+          ],
+          [
+            -0.39776,
+            38.41602
+          ],
+          [
+            -0.3969,
+            38.42152
+          ],
+          [
+            -0.39639,
+            38.42665
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUCEROS",
+        "name": "Luceros",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49062,
+          38.34603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MERCADO",
+        "name": "Mercado",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48483,
+          38.34816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARQCASTILLO",
+        "name": "Marq-Castillo",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47567,
+          38.35209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANGUETA",
+        "name": "Sangueta",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.473,
+          38.34906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAISLETA",
+        "name": "La Isleta",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.41735,
+          28.15385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUCENTUM",
+        "name": "Lucentum",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.43801,
+          38.36545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONDOMINA",
+        "name": "Condomina",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.42865,
+          38.37482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPODEGOLF",
+        "name": "Campo de Golf",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.59807,
+          27.73915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COSTABLANCA",
+        "name": "Costa Blanca",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45592,
+          36.6918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARRABINERS",
+        "name": "Carrabiners",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40836,
+          38.38859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUCHAVISTA",
+        "name": "Muchavista",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40669,
+          38.39693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESLLANCES",
+        "name": "Les Llances",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4042,
+          38.40513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FABRAQUER",
+        "name": "Fabraquer",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39732,
+          38.41721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALESIANS",
+        "name": "Salesians",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39776,
+          38.41602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLABARRAQUES",
+        "name": "Pla Barraques",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3969,
+          38.42152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELCAMPELLO",
+        "name": "El Campello",
+        "line": "L3 Luceros - El Campello"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.39639,
+          38.42665
+        ]
+      }
+    }
+  ]
+}

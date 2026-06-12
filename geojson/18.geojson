@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "18",
+        "name": "Alvia Madrid - Bilbao",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68226,
+            40.47206
+          ],
+          [
+            -4.09476,
+            40.91014
+          ],
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -3.66632,
+            42.37117
+          ],
+          [
+            -2.94114,
+            42.6908
+          ],
+          [
+            -2.9605,
+            43.14225
+          ],
+          [
+            -2.92744,
+            43.26136
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+        "name": "Madrid-Chamartín-Clara Campoamor",
+        "line": "Alvia Madrid - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68226,
+          40.47206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGOVIAGUIOMAR",
+        "name": "Segovia-Guiomar",
+        "line": "Alvia Madrid - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09476,
+          40.91014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Alvia Madrid - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BURGOSROSADELIMA",
+        "name": "Burgos-Rosa de Lima",
+        "line": "Alvia Madrid - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66632,
+          42.37117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRANDADEEBRO",
+        "name": "Miranda de Ebro",
+        "line": "Alvia Madrid - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94114,
+          42.6908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLODIO",
+        "name": "Llodio",
+        "line": "Alvia Madrid - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9605,
+          43.14225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BILBAOABANDO",
+        "name": "Bilbao-Abando",
+        "line": "Alvia Madrid - Bilbao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.92744,
+          43.26136
+        ]
+      }
+    }
+  ]
+}

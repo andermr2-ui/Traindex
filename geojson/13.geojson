@@ -1,0 +1,171 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "13",
+        "name": "AVE Madrid - Galicia (Vigo)",
+        "line_type": "AVE",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -4.09476,
+            40.91014
+          ],
+          [
+            -4.92299,
+            41.29133
+          ],
+          [
+            -5.73978,
+            41.516
+          ],
+          [
+            -7.87255,
+            42.35069
+          ],
+          [
+            -8.5452,
+            42.87044
+          ],
+          [
+            -8.6354,
+            42.42168
+          ],
+          [
+            -8.7119,
+            42.23496
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDCHAMARTIN",
+        "name": "Madrid-Chamartín",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGOVIAGUIOMAR",
+        "name": "Segovia-Guiomar",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09476,
+          40.91014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MEDINADELCAMPOAV",
+        "name": "Medina del Campo AV",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.92299,
+          41.29133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZAMORA",
+        "name": "Zamora",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.73978,
+          41.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OURENSE",
+        "name": "Ourense",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.87255,
+          42.35069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTIAGODECOMPOSTELA",
+        "name": "Santiago de Compostela",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.5452,
+          42.87044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTEVEDRA",
+        "name": "Pontevedra",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6354,
+          42.42168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIGOURZAIZ",
+        "name": "Vigo-Urzaiz",
+        "line": "AVE Madrid - Galicia (Vigo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7119,
+          42.23496
+        ]
+      }
+    }
+  ]
+}

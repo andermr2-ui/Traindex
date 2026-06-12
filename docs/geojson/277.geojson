@@ -1,0 +1,285 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "277",
+        "name": "T3 Palma - Manacor",
+        "line_type": "Regional",
+        "operator": "SFM"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.65997,
+            39.58005
+          ],
+          [
+            2.66579,
+            39.58417
+          ],
+          [
+            2.68639,
+            39.59677
+          ],
+          [
+            2.90584,
+            39.7181
+          ],
+          [
+            2.90584,
+            39.7181
+          ],
+          [
+            2.72547,
+            39.62539
+          ],
+          [
+            2.72547,
+            39.62539
+          ],
+          [
+            2.73649,
+            39.63204
+          ],
+          [
+            2.77409,
+            39.65317
+          ],
+          [
+            2.80855,
+            39.67761
+          ],
+          [
+            2.84122,
+            39.69249
+          ],
+          [
+            2.86918,
+            39.71634
+          ],
+          [
+            3.01437,
+            39.6437
+          ],
+          [
+            3.11091,
+            39.61817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JACINTVERDAGUER",
+        "name": "Jacint Verdaguer",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.65997,
+          39.58005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SONCOSTASONFORTESA",
+        "name": "Son Costa-Son Fortesa",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.66579,
+          39.58417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERGEDELLUC",
+        "name": "Verge de Lluc",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.68639,
+          39.59677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDINCA",
+        "name": "Pont d'Inca",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90584,
+          39.7181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PONTDINCANOU",
+        "name": "Pont d'Inca Nou",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.90584,
+          39.7181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POLIGONDEMARRATXI",
+        "name": "Polígon de Marratxí",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72547,
+          39.62539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARRATXI",
+        "name": "Marratxí",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72547,
+          39.62539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESCAULLSFESTIVALPARK",
+        "name": "Es Caülls-Festival Park",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73649,
+          39.63204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAMARIA",
+        "name": "Santa Maria",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.77409,
+          39.65317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CONSELLALARO",
+        "name": "Consell-Alaró",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.80855,
+          39.67761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BINISSALEM",
+        "name": "Binissalem",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.84122,
+          39.69249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LLOSETA",
+        "name": "Lloseta",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.86918,
+          39.71634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SINEU",
+        "name": "Sineu",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.01437,
+          39.6437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PETRA",
+        "name": "Petra",
+        "line": "T3 Palma - Manacor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.11091,
+          39.61817
+        ]
+      }
+    }
+  ]
+}

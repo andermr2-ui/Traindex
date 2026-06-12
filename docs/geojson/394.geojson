@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "394",
+        "name": "MD 72 Sevilla - Huelva",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.69995,
+            40.41777
+          ],
+          [
+            -6.20799,
+            37.35711
+          ],
+          [
+            -0.91855,
+            41.62253
+          ],
+          [
+            -6.55436,
+            37.39079
+          ],
+          [
+            -5.99436,
+            37.38178
+          ],
+          [
+            -6.19402,
+            36.47588
+          ],
+          [
+            -6.94485,
+            37.25262
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEVILLASANTAJUSTA",
+        "name": "Sevilla-Santa Justa",
+        "line": "MD 72 Sevilla - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69995,
+          40.41777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BENACAZON",
+        "name": "Benacazón",
+        "line": "MD 72 Sevilla - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.20799,
+          37.35711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSOLVIDADOS",
+        "name": "Los Olvidados",
+        "line": "MD 72 Sevilla - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91855,
+          41.62253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPALMADELCONDADO",
+        "name": "La Palma del Condado",
+        "line": "MD 72 Sevilla - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.55436,
+          37.39079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PUERTADEJEREZ",
+        "name": "Puerta de Jerez",
+        "line": "MD 72 Sevilla - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99436,
+          37.38178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANFERNANDOCENTRO",
+        "name": "San Fernando-Centro",
+        "line": "MD 72 Sevilla - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.19402,
+          36.47588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUELVA",
+        "name": "Huelva",
+        "line": "MD 72 Sevilla - Huelva"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.94485,
+          37.25262
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "204",
+        "name": "L1 Bétera - Castelló",
+        "line_type": "Metro",
+        "operator": "Metrovalencia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.4575,
+            39.59073
+          ],
+          [
+            -0.38961,
+            39.54975
+          ],
+          [
+            -0.46093,
+            39.4361
+          ],
+          [
+            -0.46467,
+            39.36306
+          ],
+          [
+            -0.52513,
+            39.22739
+          ],
+          [
+            -0.52366,
+            39.11701
+          ],
+          [
+            -0.05189,
+            39.98817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BETERA",
+        "name": "Bétera",
+        "line": "L1 Bétera - Castelló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4575,
+          39.59073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEMINARI",
+        "name": "Seminari",
+        "line": "L1 Bétera - Castelló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.38961,
+          39.54975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRENT",
+        "name": "Torrent",
+        "line": "L1 Bétera - Castelló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46093,
+          39.4361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PICASSENT",
+        "name": "Picassent",
+        "line": "L1 Bétera - Castelló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.46467,
+          39.36306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CARLET",
+        "name": "Carlet",
+        "line": "L1 Bétera - Castelló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52513,
+          39.22739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALBERIC",
+        "name": "Alberic",
+        "line": "L1 Bétera - Castelló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.52366,
+          39.11701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLO",
+        "name": "Castelló",
+        "line": "L1 Bétera - Castelló"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.05189,
+          39.98817
+        ]
+      }
+    }
+  ]
+}

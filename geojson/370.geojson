@@ -1,0 +1,418 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "370",
+        "name": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida",
+        "line_type": "Regional Exprés",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.16538,
+            41.39254
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.13996,
+            41.37901
+          ],
+          [
+            1.73082,
+            41.22018
+          ],
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            -2.16292,
+            39.19932
+          ],
+          [
+            -2.35555,
+            43.29364
+          ],
+          [
+            1.37659,
+            41.22339
+          ],
+          [
+            1.31748,
+            41.2395
+          ],
+          [
+            1.2974,
+            41.25034
+          ],
+          [
+            1.25878,
+            41.29835
+          ],
+          [
+            1.195,
+            41.30604
+          ],
+          [
+            -5.33952,
+            42.85855
+          ],
+          [
+            1.17649,
+            41.33763
+          ],
+          [
+            1.16571,
+            41.37652
+          ],
+          [
+            1.10327,
+            41.40047
+          ],
+          [
+            1.04603,
+            41.40269
+          ],
+          [
+            0.97035,
+            41.4251
+          ],
+          [
+            -5.97549,
+            43.55646
+          ],
+          [
+            0.82553,
+            41.54392
+          ],
+          [
+            0.651,
+            41.6237
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONAPASSEIGDEGRACIA",
+        "name": "Barcelona-Passeig de Gràcia",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16538,
+          41.39254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCELONASANTS",
+        "name": "Barcelona-Sants",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13996,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVAILAGELTRU",
+        "name": "Vilanova i la Geltrú",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73082,
+          41.22018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARODA",
+        "name": "La Roda",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16292,
+          39.19932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DEBA",
+        "name": "Deba",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.35555,
+          43.29364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SALOMO",
+        "name": "Salomó",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.37659,
+          41.22339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILABELLA",
+        "name": "Vilabella",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.31748,
+          41.2395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NULLESBRAFIM",
+        "name": "Nulles-Bràfim",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2974,
+          41.25034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLS",
+        "name": "Valls",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25878,
+          41.29835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPLANAPICAMOIXONS",
+        "name": "La Plana-Picamoixons",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.195,
+          41.30604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAMATADELARIBA",
+        "name": "La Mata de la Riba",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.33952,
+          42.85855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILAVERD",
+        "name": "Vilaverd",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.17649,
+          41.33763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONTBLANC",
+        "name": "Montblanc",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.16571,
+          41.37652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPLUGADEFRANCOLI",
+        "name": "Espluga de Francolí",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.10327,
+          41.40047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VIMBODI",
+        "name": "Vimbodí",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04603,
+          41.40269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VINAIXA",
+        "name": "Vinaixa",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.97035,
+          41.4251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PIEDRASBLANCAS",
+        "name": "Piedras Blancas",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.97549,
+          43.55646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-JUNEDA",
+        "name": "Juneda",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.82553,
+          41.54392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LERIDAPIRINEOS",
+        "name": "Lérida-Pirineos",
+        "line": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.651,
+          41.6237
+        ]
+      }
+    }
+  ]
+}

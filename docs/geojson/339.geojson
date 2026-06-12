@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "339",
+        "name": "Alvia Madrid - Almería",
+        "line_type": "Larga Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -4.57142,
+            38.25524
+          ],
+          [
+            -4.56137,
+            37.02948
+          ],
+          [
+            -3.60863,
+            37.18369
+          ],
+          [
+            -3.12702,
+            37.31688
+          ],
+          [
+            -2.43628,
+            36.88346
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MADRIDPUERTADEATOCHA",
+        "name": "Madrid-Puerta de Atocha",
+        "line": "Alvia Madrid - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBA",
+        "name": "Córdoba",
+        "line": "Alvia Madrid - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57142,
+          38.25524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ANTEQUERAAV",
+        "name": "Antequera AV",
+        "line": "Alvia Madrid - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.56137,
+          37.02948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRANADA",
+        "name": "Granada",
+        "line": "Alvia Madrid - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.60863,
+          37.18369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GUADIX",
+        "name": "Guadix",
+        "line": "Alvia Madrid - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.12702,
+          37.31688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUERCALVIATOR",
+        "name": "Huércal-Viator",
+        "line": "Alvia Madrid - Almería"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.43628,
+          36.88346
+        ]
+      }
+    }
+  ]
+}

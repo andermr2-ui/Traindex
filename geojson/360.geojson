@@ -1,0 +1,532 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "360",
+        "name": "Regional 20 Valladolid - Santander",
+        "line_type": "Regional",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.7272,
+            41.64334
+          ],
+          [
+            -4.70422,
+            41.66016
+          ],
+          [
+            -4.65127,
+            41.73725
+          ],
+          [
+            -4.62337,
+            41.76635
+          ],
+          [
+            -4.57957,
+            41.80898
+          ],
+          [
+            -4.54073,
+            41.87124
+          ],
+          [
+            -4.49627,
+            41.9174
+          ],
+          [
+            -4.53386,
+            42.01573
+          ],
+          [
+            0.1969,
+            41.91372
+          ],
+          [
+            -0.3119,
+            39.58819
+          ],
+          [
+            -3.42436,
+            37.40025
+          ],
+          [
+            -4.40239,
+            42.26487
+          ],
+          [
+            -4.35728,
+            42.41418
+          ],
+          [
+            -3.73488,
+            40.41651
+          ],
+          [
+            -4.31647,
+            42.59868
+          ],
+          [
+            -4.31123,
+            42.65682
+          ],
+          [
+            -4.23375,
+            42.78527
+          ],
+          [
+            -1.23762,
+            38.03142
+          ],
+          [
+            -4.16506,
+            42.87121
+          ],
+          [
+            -4.14103,
+            42.99434
+          ],
+          [
+            -3.43831,
+            43.28441
+          ],
+          [
+            -4.06397,
+            43.25507
+          ],
+          [
+            -4.04246,
+            43.32744
+          ],
+          [
+            -3.94951,
+            43.35305
+          ],
+          [
+            -3.84096,
+            43.41612
+          ],
+          [
+            -3.82781,
+            43.45404
+          ],
+          [
+            -3.81102,
+            43.4583
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDCAMPOGRANDE",
+        "name": "Valladolid-Campo Grande",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7272,
+          41.64334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLADOLIDUNIVERSIDAD",
+        "name": "Valladolid-Universidad",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.70422,
+          41.66016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABEZONDEPISUERGA",
+        "name": "Cabezón de Pisuerga",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.65127,
+          41.73725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORCOSAGUILAREJO",
+        "name": "Corcos-Aguilarejo",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62337,
+          41.76635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUBILLASDESANTAMARTA",
+        "name": "Cubillas de Santa Marta",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57957,
+          41.80898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DUENAS",
+        "name": "Dueñas",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54073,
+          41.87124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VENTADEBANOS",
+        "name": "Venta de Baños",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.49627,
+          41.9174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALENCIA",
+        "name": "Palencia",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53386,
+          42.01573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONZONRIOCINCA",
+        "name": "Monzón-Río Cinca",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1969,
+          41.91372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPUIG",
+        "name": "El Puig",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3119,
+          39.58819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINAR",
+        "name": "Pinar",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.42436,
+          37.40025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FROMISTA",
+        "name": "Frómista",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.40239,
+          42.26487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OSORNO",
+        "name": "Osorno",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.35728,
+          42.41418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAGO",
+        "name": "Lago",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73488,
+          40.41651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HERRERADEPISUERGA",
+        "name": "Herrera de Pisuerga",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31647,
+          42.59868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALARDELREY",
+        "name": "Alar del Rey",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31123,
+          42.65682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AGUILARDECAMPOO",
+        "name": "Aguilar de Campoo",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23375,
+          42.78527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MEDINADELASTORRES",
+        "name": "Medina de las Torres",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.23762,
+          38.03142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MATAPORQUERA",
+        "name": "Mataporquera",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.16506,
+          42.87121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-REINOSA",
+        "name": "Reinosa",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.14103,
+          42.99434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BARCENA",
+        "name": "Bárcena",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.43831,
+          43.28441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LOSCORRALESDEBUELNA",
+        "name": "Los Corrales de Buelna",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06397,
+          43.25507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TORRELAVEGA",
+        "name": "Torrelavega",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04246,
+          43.32744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RENEDO",
+        "name": "Renedo",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.94951,
+          43.35305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MALIANO",
+        "name": "Maliaño",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.84096,
+          43.41612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDECILLA",
+        "name": "Valdecilla",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82781,
+          43.45404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANDER",
+        "name": "Santander",
+        "line": "Regional 20 Valladolid - Santander"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.81102,
+          43.4583
+        ]
+      }
+    }
+  ]
+}

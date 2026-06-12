@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "297",
+        "name": "Avant Huesca - Zaragoza",
+        "line_type": "Avant",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.40985,
+            42.13275
+          ],
+          [
+            -0.53843,
+            41.97557
+          ],
+          [
+            -0.91139,
+            41.65857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HUESCA",
+        "name": "Huesca",
+        "line": "Avant Huesca - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.40985,
+          42.13275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARDIENTA",
+        "name": "Tardienta",
+        "line": "Avant Huesca - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53843,
+          41.97557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZARAGOZADELICIAS",
+        "name": "Zaragoza-Delicias",
+        "line": "Avant Huesca - Zaragoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.91139,
+          41.65857
+        ]
+      }
+    }
+  ]
+}

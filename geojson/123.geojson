@@ -1,0 +1,247 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "123",
+        "name": "C-4a Parla - Alcobendas - San Sebastián de los Reyes",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.76936,
+            40.24105
+          ],
+          [
+            -3.73751,
+            40.28824
+          ],
+          [
+            -3.73407,
+            40.30971
+          ],
+          [
+            -3.72731,
+            40.32296
+          ],
+          [
+            -3.71177,
+            40.34103
+          ],
+          [
+            -3.6886,
+            40.40697
+          ],
+          [
+            -3.70339,
+            40.41694
+          ],
+          [
+            -3.6917,
+            40.44584
+          ],
+          [
+            -3.68271,
+            40.47395
+          ],
+          [
+            -3.65439,
+            40.5474
+          ],
+          [
+            -3.6346,
+            40.54675
+          ],
+          [
+            -3.6346,
+            40.54675
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PARLA",
+        "name": "Parla",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.76936,
+          40.24105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GETAFESECTOR3",
+        "name": "Getafe Sector 3",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73751,
+          40.28824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GETAFECENTRO",
+        "name": "Getafe Centro",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.73407,
+          40.30971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LASMARGARITASUNIVERSIDAD",
+        "name": "Las Margaritas Universidad",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.72731,
+          40.32296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLAVERDEALTO",
+        "name": "Villaverde Alto",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.71177,
+          40.34103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ATOCHA",
+        "name": "Atocha",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6886,
+          40.40697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SOL",
+        "name": "Sol",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.70339,
+          40.41694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-NUEVOSMINISTERIOS",
+        "name": "Nuevos Ministerios",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6917,
+          40.44584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CHAMARTIN",
+        "name": "Chamartín",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68271,
+          40.47395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALDELASFUENTES",
+        "name": "Valdelasfuentes",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.65439,
+          40.5474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOBENDAS",
+        "name": "Alcobendas",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6346,
+          40.54675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SSDELOSREYES",
+        "name": "S.S. de los Reyes",
+        "line": "C-4a Parla - Alcobendas - San Sebastián de los Reyes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6346,
+          40.54675
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "174",
+        "name": "L2 Paral·lel - Badalona Pompeu Fabra",
+        "line_type": "Metro",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.16327,
+            41.37979
+          ],
+          [
+            2.1643,
+            41.38569
+          ],
+          [
+            2.16828,
+            41.38944
+          ],
+          [
+            2.17552,
+            41.39482
+          ],
+          [
+            2.17945,
+            41.40052
+          ],
+          [
+            2.17388,
+            41.40403
+          ],
+          [
+            2.18252,
+            41.40707
+          ],
+          [
+            2.18692,
+            41.41014
+          ],
+          [
+            2.31007,
+            41.98456
+          ],
+          [
+            2.20073,
+            41.41906
+          ],
+          [
+            -0.77562,
+            38.40462
+          ],
+          [
+            2.20977,
+            41.42989
+          ],
+          [
+            2.21757,
+            41.43372
+          ],
+          [
+            2.22786,
+            41.43532
+          ],
+          [
+            2.23369,
+            41.44044
+          ],
+          [
+            2.23805,
+            41.44394
+          ],
+          [
+            2.24422,
+            41.44896
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTANTONI",
+        "name": "Sant Antoni",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16327,
+          41.37979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSITAT",
+        "name": "Universitat",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1643,
+          41.38569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASSEIGDEGRACIA",
+        "name": "Passeig de Gràcia",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16828,
+          41.38944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TETUAN",
+        "name": "Tetuan",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17552,
+          41.39482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MONUMENTAL",
+        "name": "Monumental",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17945,
+          41.40052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SAGRADAFAMILIA-Barcelona-Barcelona",
+        "name": "Sagrada Família",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17388,
+          41.40403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ENCANTS",
+        "name": "Encants",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18252,
+          41.40707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CLOT",
+        "name": "Clot",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18692,
+          41.41014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BACDERODA",
+        "name": "Bac de Roda",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31007,
+          41.98456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTMARTI",
+        "name": "Sant Martí",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20073,
+          41.41906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPAU",
+        "name": "La Pau",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77562,
+          38.40462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VERNEDA",
+        "name": "Verneda",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20977,
+          41.42989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ARTIGUESSANTADRIA",
+        "name": "Artigues | Sant Adrià",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.21757,
+          41.43372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTROC",
+        "name": "Sant Roc",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.22786,
+          41.43532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GORG",
+        "name": "Gorg",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23369,
+          41.44044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PEPVENTURA",
+        "name": "Pep Ventura",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.23805,
+          41.44394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BADALONAPOMPEUFABRA",
+        "name": "Badalona Pompeu Fabra",
+        "line": "L2 Paral·lel - Badalona Pompeu Fabra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.24422,
+          41.44896
+        ]
+      }
+    }
+  ]
+}

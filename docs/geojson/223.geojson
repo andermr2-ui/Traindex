@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "223",
+        "name": "L1 Estadio Nueva Condomina - Universidad de Murcia",
+        "line_type": "Tranvía",
+        "operator": "Tranvía de Murcia"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.93543,
+            43.44051
+          ],
+          [
+            -4.4722,
+            36.71704
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESTADIONUEVACONDOMINA",
+        "name": "Estadio Nueva Condomina",
+        "line": "L1 Estadio Nueva Condomina - Universidad de Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.93543,
+          43.44051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UNIVERSIDADDEMURCIA",
+        "name": "Universidad de Murcia",
+        "line": "L1 Estadio Nueva Condomina - Universidad de Murcia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4722,
+          36.71704
+        ]
+      }
+    }
+  ]
+}

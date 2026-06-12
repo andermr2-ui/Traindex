@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "57",
+        "name": "MD 75 Villarrubia - Alcolea de Córdoba",
+        "line_type": "Media Distancia",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.91377,
+            37.84797
+          ],
+          [
+            -4.85027,
+            37.86746
+          ],
+          [
+            -4.57142,
+            38.25524
+          ],
+          [
+            -4.72063,
+            37.9126
+          ],
+          [
+            -4.67481,
+            37.93298
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILLARRUBIADECORDOBA",
+        "name": "Villarrubia de Córdoba",
+        "line": "MD 75 Villarrubia - Alcolea de Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.91377,
+          37.84797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELHIGUERON",
+        "name": "El Higuerón",
+        "line": "MD 75 Villarrubia - Alcolea de Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.85027,
+          37.86746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORDOBA",
+        "name": "Córdoba",
+        "line": "MD 75 Villarrubia - Alcolea de Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57142,
+          38.25524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CAMPUSUNIVERSITARIODERABANALES",
+        "name": "Campus Universitario de Rabanales",
+        "line": "MD 75 Villarrubia - Alcolea de Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72063,
+          37.9126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ALCOLEADECORDOBA",
+        "name": "Alcolea de Córdoba",
+        "line": "MD 75 Villarrubia - Alcolea de Córdoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.67481,
+          37.93298
+        ]
+      }
+    }
+  ]
+}

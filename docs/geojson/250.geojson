@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "250",
+        "name": "C-8 Baiña - Collanzo",
+        "line_type": "Cercanías AM",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5.61211,
+            43.15606
+          ],
+          [
+            -5.81284,
+            43.27667
+          ],
+          [
+            -5.78239,
+            43.25004
+          ],
+          [
+            -3.98261,
+            42.98795
+          ],
+          [
+            -5.78236,
+            43.21158
+          ],
+          [
+            -5.78748,
+            43.19809
+          ],
+          [
+            -4.04509,
+            43.17011
+          ],
+          [
+            -5.75485,
+            43.17602
+          ],
+          [
+            -3.31075,
+            37.43113
+          ],
+          [
+            -1.15038,
+            39.52221
+          ],
+          [
+            -5.68434,
+            43.16588
+          ],
+          [
+            -5.67665,
+            43.16426
+          ],
+          [
+            -4.71971,
+            37.07017
+          ],
+          [
+            -5.62491,
+            43.16078
+          ],
+          [
+            -5.6007,
+            43.15211
+          ],
+          [
+            -5.51444,
+            42.83903
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BAINA",
+        "name": "Baíña",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.61211,
+          43.15606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAPEREDA",
+        "name": "La Pereda",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.81284,
+          43.27667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIERESPUENTE",
+        "name": "Mieres-Puente",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78239,
+          43.25004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTULLANO",
+        "name": "Santullano",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98261,
+          42.98795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FIGAREDO",
+        "name": "Figaredo",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78236,
+          43.21158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-UJOTARUELO",
+        "name": "Ujo-Taruelo",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.78748,
+          43.19809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTACRUZ",
+        "name": "Santa Cruz",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04509,
+          43.17011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABORANA",
+        "name": "Caborana",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.75485,
+          43.17602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MOREDAASTURIAS",
+        "name": "Moreda",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.31075,
+          37.43113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANANTONIO",
+        "name": "San Antonio",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15038,
+          39.52221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PINERES",
+        "name": "Piñeres",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.68434,
+          43.16588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CORIGOS",
+        "name": "Corigos",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.67665,
+          43.16426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTAANA",
+        "name": "Santa Ana",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71971,
+          37.07017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CABANAQUINTA",
+        "name": "Cabañaquinta",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.62491,
+          43.16078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LEVINCO",
+        "name": "Levinco",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.6007,
+          43.15211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-COLLANZO",
+        "name": "Collanzo",
+        "line": "C-8 Baiña - Collanzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.51444,
+          42.83903
+        ]
+      }
+    }
+  ]
+}

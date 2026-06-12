@@ -1,0 +1,361 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "167",
+        "name": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides",
+        "line_type": "Suburbano",
+        "operator": "FGC"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.15798,
+            41.39287
+          ],
+          [
+            2.15215,
+            41.39976
+          ],
+          [
+            2.14281,
+            41.39867
+          ],
+          [
+            -7.41365,
+            42.78262
+          ],
+          [
+            2.11141,
+            41.40905
+          ],
+          [
+            2.09692,
+            41.42008
+          ],
+          [
+            2.09166,
+            41.42751
+          ],
+          [
+            2.0732,
+            41.44486
+          ],
+          [
+            2.06835,
+            41.45784
+          ],
+          [
+            2.07824,
+            41.46797
+          ],
+          [
+            2.06191,
+            41.46922
+          ],
+          [
+            2.04644,
+            41.47625
+          ],
+          [
+            2.03737,
+            41.47531
+          ],
+          [
+            2.03346,
+            41.52871
+          ],
+          [
+            2.00758,
+            41.5603
+          ],
+          [
+            2.01905,
+            41.56336
+          ],
+          [
+            2.01608,
+            41.5704
+          ],
+          [
+            2.01335,
+            41.5804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PROVENCA",
+        "name": "Provença",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15798,
+          41.39287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GRACIA-Barcelona-Barcelona",
+        "name": "Gràcia",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15215,
+          41.39976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUNTANER",
+        "name": "Muntaner",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14281,
+          41.39867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SARRIA-Barcelona-Barcelona",
+        "name": "Sarrià",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.41365,
+          42.78262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PEUDELFUNICULAR",
+        "name": "Peu del Funicular",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11141,
+          41.40905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BAIXADORDEVALLVIDRERA",
+        "name": "Baixador de Vallvidrera",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09692,
+          41.42008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESPLANES",
+        "name": "Les Planes",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.09166,
+          41.42751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAFLORESTA",
+        "name": "La Floresta",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0732,
+          41.44486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLDOREIX",
+        "name": "Valldoreix",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06835,
+          41.45784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTCUGAT",
+        "name": "Sant Cugat",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07824,
+          41.46797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MIRASOL",
+        "name": "Mira-sol",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.06191,
+          41.46922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-HOSPITALGENERAL",
+        "name": "Hospital General",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.04644,
+          41.47625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-RUBI",
+        "name": "Rubí",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03737,
+          41.47531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESFONTS",
+        "name": "Les Fonts",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.03346,
+          41.52871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERRASSARAMBLA",
+        "name": "Terrassa Rambla",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.00758,
+          41.5603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLPARADISUNIVERSITAT",
+        "name": "Vallparadís Universitat",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01905,
+          41.56336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERRASSAESTACIODELNORD",
+        "name": "Terrassa Estació del Nord",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01608,
+          41.5704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TERRASSANACIONSUNIDES",
+        "name": "Terrassa Nacions Unides",
+        "line": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01335,
+          41.5804
+        ]
+      }
+    }
+  ]
+}

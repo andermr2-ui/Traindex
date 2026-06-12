@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "269",
+        "name": "Funicular de Larreineta",
+        "line_type": "Funicular",
+        "operator": "Euskotren"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -3.04174,
+            43.30147
+          ],
+          [
+            -3.04927,
+            43.29111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESCONTRILLA",
+        "name": "Escontrilla",
+        "line": "Funicular de Larreineta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.04174,
+          43.30147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LARREINETA",
+        "name": "Larreineta",
+        "line": "Funicular de Larreineta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.04927,
+          43.29111
+        ]
+      }
+    }
+  ]
+}

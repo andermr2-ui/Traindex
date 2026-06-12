@@ -11,8 +11,6 @@ venv/
 
 # Generated intermediate files
 *.csv
-*.js
-geojson/
 
 # Temp files
 *.tmp

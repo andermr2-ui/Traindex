@@ -1,0 +1,323 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "151",
+        "name": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França",
+        "line_type": "Rodalies",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            1.52579,
+            41.18608
+          ],
+          [
+            1.57502,
+            41.18956
+          ],
+          [
+            1.60645,
+            41.19246
+          ],
+          [
+            1.63154,
+            41.19476
+          ],
+          [
+            1.6761,
+            41.20421
+          ],
+          [
+            1.73082,
+            41.22018
+          ],
+          [
+            1.80973,
+            41.2392
+          ],
+          [
+            1.9026,
+            41.2543
+          ],
+          [
+            2.14452,
+            41.41191
+          ],
+          [
+            1.9794,
+            41.27871
+          ],
+          [
+            2.01035,
+            41.30305
+          ],
+          [
+            2.02743,
+            41.30929
+          ],
+          [
+            2.08926,
+            41.33089
+          ],
+          [
+            2.1072,
+            41.34465
+          ],
+          [
+            2.14,
+            41.37901
+          ],
+          [
+            2.16828,
+            41.38944
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTVICENCDECALDERS",
+        "name": "Sant Vicenç de Calders",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.52579,
+          41.18608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CALAFELL",
+        "name": "Calafell",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.57502,
+          41.18956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SEGURDECALAFELL",
+        "name": "Segur de Calafell",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.60645,
+          41.19246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUNIT",
+        "name": "Cunit",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.63154,
+          41.19476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CUBELLES",
+        "name": "Cubelles",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6761,
+          41.20421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILANOVAILAGELTRU",
+        "name": "Vilanova i la Geltrú",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73082,
+          41.22018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SITGES",
+        "name": "Sitges",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.80973,
+          41.2392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GARRAF",
+        "name": "Garraf",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9026,
+          41.2543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLCARCA",
+        "name": "Vallcarca",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14452,
+          41.41191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CASTELLDEFELS",
+        "name": "Castelldefels",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9794,
+          41.27871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-GAVA",
+        "name": "Gavà",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.01035,
+          41.30305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VILADECANS",
+        "name": "Viladecans",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.02743,
+          41.30929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ELPRATDELLOBREGAT",
+        "name": "El Prat de Llobregat",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.08926,
+          41.33089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-BELLVITGE",
+        "name": "Bellvitge",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1072,
+          41.34465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTS",
+        "name": "Sants",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14,
+          41.37901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASSEIGDEGRACIA",
+        "name": "Passeig de Gràcia",
+        "line": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16828,
+          41.38944
+        ]
+      }
+    }
+  ]
+}

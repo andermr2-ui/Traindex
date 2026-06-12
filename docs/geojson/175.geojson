@@ -1,0 +1,475 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "175",
+        "name": "L3 Zona Universitària - Trinitat Nova",
+        "line_type": "Metro",
+        "operator": "TMB"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.11169,
+            41.38424
+          ],
+          [
+            2.11786,
+            41.38581
+          ],
+          [
+            2.12622,
+            41.38794
+          ],
+          [
+            2.13088,
+            41.38413
+          ],
+          [
+            2.13563,
+            41.38182
+          ],
+          [
+            2.14111,
+            41.38147
+          ],
+          [
+            1.25354,
+            41.11122
+          ],
+          [
+            2.14952,
+            41.37557
+          ],
+          [
+            2.16057,
+            41.37498
+          ],
+          [
+            2.17577,
+            41.37667
+          ],
+          [
+            2.17307,
+            41.3814
+          ],
+          [
+            2.17008,
+            41.38655
+          ],
+          [
+            2.16828,
+            41.38944
+          ],
+          [
+            2.17008,
+            41.38655
+          ],
+          [
+            2.15298,
+            41.40206
+          ],
+          [
+            2.15002,
+            41.40616
+          ],
+          [
+            2.14452,
+            41.41191
+          ],
+          [
+            2.14113,
+            41.41754
+          ],
+          [
+            2.1424,
+            41.42491
+          ],
+          [
+            2.14838,
+            41.43554
+          ],
+          [
+            2.15688,
+            41.438
+          ],
+          [
+            2.16644,
+            41.44177
+          ],
+          [
+            2.17578,
+            41.44736
+          ],
+          [
+            2.18416,
+            41.44948
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZONAUNIVERSITARIA",
+        "name": "Zona Universitària",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11169,
+          41.38424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PALAUREIAL",
+        "name": "Palau Reial",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11786,
+          41.38581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MARIACRISTINA",
+        "name": "Maria Cristina",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12622,
+          41.38794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESCORTS",
+        "name": "Les Corts",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13088,
+          41.38413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PLACADELCENTRE",
+        "name": "Plaça del Centre",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.13563,
+          41.38182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTSESTACIO",
+        "name": "Sants Estació",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14111,
+          41.38147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TARRAGONA",
+        "name": "Tarragona",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.25354,
+          41.11122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ESPANYA",
+        "name": "Espanya",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14952,
+          41.37557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-POBLESEC",
+        "name": "Poble Sec",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16057,
+          41.37498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DRASSANES",
+        "name": "Drassanes",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17577,
+          41.37667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LICEU",
+        "name": "Liceu",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17307,
+          41.3814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CATALUNYA",
+        "name": "Catalunya",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17008,
+          41.38655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PASSEIGDEGRACIA",
+        "name": "Passeig de Gràcia",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16828,
+          41.38944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CATALUNYA",
+        "name": "Catalunya",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17008,
+          41.38655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-FONTANA",
+        "name": "Fontana",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15298,
+          41.40206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LESSEPS",
+        "name": "Lesseps",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15002,
+          41.40616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLCARCA",
+        "name": "Vallcarca",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14452,
+          41.41191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENITENTS",
+        "name": "Penitents",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14113,
+          41.41754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLDHEBRON",
+        "name": "Vall d'Hebron",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1424,
+          41.42491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-MUNDET",
+        "name": "Mundet",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.14838,
+          41.43554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-VALLDAURA",
+        "name": "Valldaura",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.15688,
+          41.438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-CANYELLES",
+        "name": "Canyelles",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.16644,
+          41.44177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ROQUETES",
+        "name": "Roquetes",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.17578,
+          41.44736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-TRINITATNOVA",
+        "name": "Trinitat Nova",
+        "line": "L3 Zona Universitària - Trinitat Nova"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.18416,
+          41.44948
+        ]
+      }
+    }
+  ]
+}

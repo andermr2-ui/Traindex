@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "256",
+        "name": "C-1 Bilbao Abando - Santurtzi",
+        "line_type": "Cercanías",
+        "operator": "Renfe"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -2.9325,
+            43.25647
+          ],
+          [
+            -2.94313,
+            43.25454
+          ],
+          [
+            -2.94611,
+            43.2586
+          ],
+          [
+            -2.94928,
+            43.26211
+          ],
+          [
+            -2.95527,
+            43.26419
+          ],
+          [
+            -2.97203,
+            43.27771
+          ],
+          [
+            -2.96982,
+            43.29101
+          ],
+          [
+            -2.98467,
+            43.30053
+          ],
+          [
+            -3.00569,
+            43.30917
+          ],
+          [
+            -3.00479,
+            43.31281
+          ],
+          [
+            -3.02074,
+            43.31767
+          ],
+          [
+            -3.02537,
+            43.32197
+          ],
+          [
+            -3.03039,
+            43.32851
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZABALBURU",
+        "name": "Zabalburu",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9325,
+          43.25647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AMETZOLA",
+        "name": "Ametzola",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94313,
+          43.25454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-AUTONOMIA",
+        "name": "Autonomía",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94611,
+          43.2586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANMAMES",
+        "name": "San Mamés",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94928,
+          43.26211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-OLABEAGA",
+        "name": "Olabeaga",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.95527,
+          43.26419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-ZORROTZA",
+        "name": "Zorrotza",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97203,
+          43.27771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LUTXANA",
+        "name": "Lutxana",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96982,
+          43.29101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-DESERTUBARAKALDO",
+        "name": "Desertu-Barakaldo",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.98467,
+          43.30053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SESTAO",
+        "name": "Sestao",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00569,
+          43.30917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-LAIBERIA",
+        "name": "La Iberia",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.00479,
+          43.31281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PORTUGALETE",
+        "name": "Portugalete",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02074,
+          43.31767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-PENOTA",
+        "name": "Peñota",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.02537,
+          43.32197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "EST-SANTURTZI",
+        "name": "Santurtzi",
+        "line": "C-1 Bilbao Abando - Santurtzi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.03039,
+          43.32851
+        ]
+      }
+    }
+  ]
+}
