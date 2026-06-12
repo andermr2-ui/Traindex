@@ -30,7 +30,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "11",
@@ -61,7 +62,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "12",
@@ -99,7 +101,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "13",
@@ -139,7 +142,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "14",
@@ -175,7 +179,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "15",
@@ -204,7 +209,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "16",
@@ -242,7 +248,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "17",
@@ -278,7 +285,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "18",
@@ -316,7 +324,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "19",
@@ -354,7 +363,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "20",
@@ -391,7 +401,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "21",
@@ -433,7 +444,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "22",
@@ -464,7 +476,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "23",
@@ -523,7 +536,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "24",
@@ -582,7 +596,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "25",
@@ -630,7 +645,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "26",
@@ -671,7 +687,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "27",
@@ -719,7 +736,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "28",
@@ -769,7 +787,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "29",
@@ -818,7 +837,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "30",
@@ -854,7 +874,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "31",
@@ -888,7 +909,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "32",
@@ -929,7 +951,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "33",
@@ -967,7 +990,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "34",
@@ -996,7 +1020,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "35",
@@ -1023,7 +1048,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "36",
@@ -1050,7 +1076,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "37",
@@ -1079,7 +1106,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "38",
@@ -1105,7 +1133,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "39",
@@ -1133,7 +1162,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "40",
@@ -1157,7 +1187,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "41",
@@ -1181,7 +1212,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "42",
@@ -1205,7 +1237,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "43",
@@ -1227,7 +1260,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "44",
@@ -1251,7 +1285,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "45",
@@ -1275,7 +1310,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "46",
@@ -1302,7 +1338,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "47",
@@ -1331,7 +1368,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "48",
@@ -1355,7 +1393,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "49",
@@ -1386,7 +1425,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "50",
@@ -1410,7 +1450,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "51",
@@ -1443,7 +1484,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "52",
@@ -1467,7 +1509,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "53",
@@ -1496,7 +1539,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "54",
@@ -1523,7 +1567,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "55",
@@ -1550,7 +1595,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "56",
@@ -1577,7 +1623,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "57",
@@ -1599,7 +1646,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "58",
@@ -1632,7 +1680,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "59",
@@ -1663,7 +1712,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "60",
@@ -1692,7 +1742,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "61",
@@ -1723,7 +1774,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "62",
@@ -1747,7 +1799,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "63",
@@ -1784,7 +1837,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "64",
@@ -1813,7 +1867,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "65",
@@ -1842,7 +1897,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "66",
@@ -1877,7 +1933,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "67",
@@ -1903,7 +1960,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "68",
@@ -1932,7 +1990,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "69",
@@ -1958,7 +2017,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "70",
@@ -1987,7 +2047,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "71",
@@ -2013,7 +2074,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "72",
@@ -2044,7 +2106,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "73",
@@ -2070,7 +2133,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "74",
@@ -2101,7 +2165,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "75",
@@ -2128,7 +2193,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "76",
@@ -2155,7 +2221,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "77",
@@ -2193,7 +2260,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "78",
@@ -2222,7 +2290,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "79",
@@ -2253,7 +2322,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "80",
@@ -2284,7 +2354,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "81",
@@ -2318,7 +2389,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "82",
@@ -2345,7 +2417,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "83",
@@ -2372,7 +2445,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "84",
@@ -2406,7 +2480,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "85",
@@ -2435,7 +2510,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "86",
@@ -2474,7 +2550,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "87",
@@ -2506,7 +2583,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "88",
@@ -2535,7 +2613,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "89",
@@ -2559,7 +2638,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "90",
@@ -2583,7 +2663,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "91",
@@ -2614,7 +2695,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "92",
@@ -2640,7 +2722,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "93",
@@ -2664,7 +2747,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "94",
@@ -2686,7 +2770,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Internacional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "95",
@@ -2713,7 +2798,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "96",
@@ -2740,7 +2826,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "97",
@@ -2762,7 +2849,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "98",
@@ -2791,7 +2879,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "99",
@@ -2823,7 +2912,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "100",
@@ -2855,7 +2945,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "101",
@@ -2892,7 +2983,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "102",
@@ -2919,7 +3011,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "103",
@@ -2951,7 +3044,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "104",
@@ -2982,7 +3076,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "105",
@@ -3019,7 +3114,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "106",
@@ -3041,7 +3137,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "107",
@@ -3063,7 +3160,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Internacional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "CP"
   },
   {
     "id": "108",
@@ -3087,7 +3185,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "109",
@@ -3111,7 +3210,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "110",
@@ -3137,7 +3237,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "111",
@@ -3163,7 +3264,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "112",
@@ -3187,7 +3289,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "113",
@@ -3211,7 +3314,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "114",
@@ -3235,7 +3339,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "115",
@@ -3276,7 +3381,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "116",
@@ -3300,7 +3406,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "117",
@@ -3338,7 +3445,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "118",
@@ -3367,7 +3475,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "119",
@@ -3401,7 +3510,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "120",
@@ -3423,7 +3533,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "121",
@@ -3450,7 +3561,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "122",
@@ -3472,7 +3584,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "123",
@@ -3494,7 +3607,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "124",
@@ -3516,7 +3630,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "125",
@@ -3538,7 +3653,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "126",
@@ -3565,7 +3681,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "127",
@@ -3592,7 +3709,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "128",
@@ -3624,7 +3742,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "129",
@@ -3651,7 +3770,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "130",
@@ -3673,7 +3793,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "131",
@@ -3700,7 +3821,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "132",
@@ -3722,7 +3844,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "133",
@@ -3744,7 +3867,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "134",
@@ -3766,7 +3890,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "135",
@@ -3788,7 +3913,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "136",
@@ -3810,7 +3936,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "137",
@@ -3832,7 +3959,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "138",
@@ -3854,7 +3982,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "139",
@@ -3876,7 +4005,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "140",
@@ -3903,7 +4033,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "141",
@@ -3930,7 +4061,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "142",
@@ -3957,7 +4089,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "143",
@@ -3979,7 +4112,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "144",
@@ -4001,7 +4135,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro Ligero de Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "145",
@@ -4023,7 +4158,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro Ligero Oeste",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "146",
@@ -4050,7 +4186,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro Ligero Oeste",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Madrid"
   },
   {
     "id": "147",
@@ -4077,7 +4214,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía de Parla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Tranvía de Parla"
   },
   {
     "id": "148",
@@ -4101,7 +4239,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "149",
@@ -4123,7 +4262,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "150",
@@ -4152,7 +4292,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "151",
@@ -4176,7 +4317,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "152",
@@ -4200,7 +4342,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "153",
@@ -4224,7 +4367,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "154",
@@ -4246,7 +4390,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Cercanías",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "155",
@@ -4268,7 +4413,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Cercanías",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "156",
@@ -4290,7 +4436,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Cercanías",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "157",
@@ -4312,7 +4459,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Cercanías",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "158",
@@ -4334,7 +4482,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "159",
@@ -4356,7 +4505,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "160",
@@ -4369,18 +4519,17 @@ const CATALOGLINES =
       "Cataluna"
     ],
     "provinces": [
-      "Barcelona",
       "Girona"
     ],
     "geojson": "41.36424,2.10094; 41.38655,2.17008; 41.39211,2.18091; 41.41014,2.18692; 41.42433,2.23055; 41.44571,2.24910; 41.46291,2.27221; 41.46874,2.28686; 41.47691,2.31042; 41.47902,2.31981; 41.48761,2.35492; 41.50049,2.38983; 41.52259,1.90683; 41.53305,2.44552; 41.55540,2.49837; 41.56844,2.52602; 41.57741,2.54942; 41.58645,2.58115; 41.59227,2.59404; 41.61471,2.66657; 41.62236,2.69361; 41.63015,2.71646; 41.64153,2.74140; 41.67334,2.76901; 41.70705,2.71948; 41.77217,2.67338; 41.80748,2.74502; 41.84116,2.80057; 41.89616,2.81174; 41.39502,2.17096; 42.02732,2.87485; 42.03698,2.91530; 42.04749,2.95717; 42.06828,2.96476; 42.12222,2.96561; 42.17229,2.98933; 42.21637,2.97803; 42.26500,2.96897; 42.32515,3.08630; 42.36680,3.14916; 42.40700,3.15418; 42.42480,3.15801",
     "ccaa_prov_map": {
       "Cataluna": [
-        "Barcelona",
         "Girona"
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "161",
@@ -4402,7 +4551,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Rodalies de Lleida",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "162",
@@ -4424,7 +4574,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Rodalies de Lleida",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "163",
@@ -4446,7 +4597,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "164",
@@ -4470,7 +4622,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "165",
@@ -4492,7 +4645,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "166",
@@ -4514,7 +4668,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Rodalies de Catalunya",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Rodalies"
   },
   {
     "id": "167",
@@ -4536,7 +4691,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "168",
@@ -4558,7 +4714,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "169",
@@ -4580,7 +4737,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "170",
@@ -4602,7 +4760,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "171",
@@ -4624,7 +4783,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "172",
@@ -4646,7 +4806,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "173",
@@ -4673,7 +4834,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "174",
@@ -4695,7 +4857,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "175",
@@ -4719,7 +4882,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "176",
@@ -4741,7 +4905,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "177",
@@ -4763,7 +4928,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "178",
@@ -4785,7 +4951,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "179",
@@ -4807,7 +4974,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "180",
@@ -4829,7 +4997,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "181",
@@ -4851,7 +5020,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "182",
@@ -4873,7 +5043,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "183",
@@ -4895,7 +5066,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "184",
@@ -4917,7 +5089,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "185",
@@ -4939,7 +5112,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "186",
@@ -4961,7 +5135,8 @@ const CATALOGLINES =
       ]
     },
     "network": "FGC Metro",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "187",
@@ -4983,7 +5158,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tramvia de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM"
   },
   {
     "id": "188",
@@ -5010,7 +5186,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tramvia de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM"
   },
   {
     "id": "189",
@@ -5037,7 +5214,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tramvia de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM"
   },
   {
     "id": "190",
@@ -5064,7 +5242,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tramvia de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM"
   },
   {
     "id": "191",
@@ -5086,7 +5265,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tramvia de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM"
   },
   {
     "id": "192",
@@ -5108,7 +5288,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tramvia de Barcelona",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM"
   },
   {
     "id": "193",
@@ -5130,7 +5311,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tramvia Blau",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "194",
@@ -5152,7 +5334,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Funicular",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TMB"
   },
   {
     "id": "195",
@@ -5174,7 +5357,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Funicular",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "196",
@@ -5196,7 +5380,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Funicular",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "197",
@@ -5218,7 +5403,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cremallera",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "198",
@@ -5240,7 +5426,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cremallera",
-    "country": "España"
+    "country": "España",
+    "display_operator": "FGC"
   },
   {
     "id": "199",
@@ -5262,7 +5449,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Valencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "200",
@@ -5289,7 +5477,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Valencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "201",
@@ -5311,7 +5500,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Valencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "202",
@@ -5335,7 +5525,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Valencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "203",
@@ -5359,7 +5550,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Valencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "204",
@@ -5381,7 +5573,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "205",
@@ -5408,7 +5601,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "206",
@@ -5430,7 +5624,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "207",
@@ -5457,7 +5652,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia Tranvía",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "208",
@@ -5479,7 +5675,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "209",
@@ -5501,7 +5698,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "210",
@@ -5523,7 +5721,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "211",
@@ -5545,7 +5744,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia Tranvía",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "212",
@@ -5567,7 +5767,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia Tranvía",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "213",
@@ -5589,7 +5790,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrovalencia Tranvía",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metrovalencia"
   },
   {
     "id": "214",
@@ -5611,7 +5813,8 @@ const CATALOGLINES =
       ]
     },
     "network": "TRAM d'Alacant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM d'Alacant"
   },
   {
     "id": "215",
@@ -5638,7 +5841,8 @@ const CATALOGLINES =
       ]
     },
     "network": "TRAM d'Alacant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM d'Alacant"
   },
   {
     "id": "216",
@@ -5660,7 +5864,8 @@ const CATALOGLINES =
       ]
     },
     "network": "TRAM d'Alacant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM d'Alacant"
   },
   {
     "id": "217",
@@ -5682,7 +5887,8 @@ const CATALOGLINES =
       ]
     },
     "network": "TRAM d'Alacant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM d'Alacant"
   },
   {
     "id": "218",
@@ -5704,7 +5910,8 @@ const CATALOGLINES =
       ]
     },
     "network": "TRAM d'Alacant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM d'Alacant"
   },
   {
     "id": "219",
@@ -5726,7 +5933,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TRAM d'Alacant"
   },
   {
     "id": "220",
@@ -5753,7 +5961,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Murcia/Alicante",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "221",
@@ -5780,7 +5989,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Murcia/Alicante",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "222",
@@ -5807,7 +6017,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Murcia/Alicante",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "223",
@@ -5829,7 +6040,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía de Murcia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Tranvía de Murcia"
   },
   {
     "id": "224",
@@ -5851,7 +6063,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía de Murcia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Tranvía de Murcia"
   },
   {
     "id": "225",
@@ -5878,7 +6091,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Sevilla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "226",
@@ -5905,7 +6119,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Sevilla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "227",
@@ -5927,7 +6142,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Sevilla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "228",
@@ -5954,7 +6170,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Sevilla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "229",
@@ -5986,7 +6203,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Sevilla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "230",
@@ -6018,7 +6236,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Sevilla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Sevilla"
   },
   {
     "id": "231",
@@ -6045,7 +6264,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metrocentro de Sevilla",
-    "country": "España"
+    "country": "España",
+    "display_operator": "TUSSAM"
   },
   {
     "id": "232",
@@ -6067,7 +6287,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Málaga",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "233",
@@ -6089,7 +6310,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Málaga",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "234",
@@ -6118,7 +6340,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Málaga",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Málaga"
   },
   {
     "id": "235",
@@ -6140,7 +6363,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Málaga",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Málaga"
   },
   {
     "id": "236",
@@ -6162,7 +6386,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Cádiz",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "237",
@@ -6184,7 +6409,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Cádiz",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "238",
@@ -6211,7 +6437,8 @@ const CATALOGLINES =
       ]
     },
     "network": "TramBahía Cádiz",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "239",
@@ -6237,7 +6464,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Granada",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Granada"
   },
   {
     "id": "240",
@@ -6261,7 +6489,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía de Jaén",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Otros"
   },
   {
     "id": "241",
@@ -6283,7 +6512,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Zaragoza",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "242",
@@ -6310,7 +6540,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía de Zaragoza",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Tranvías de Zaragoza"
   },
   {
     "id": "243",
@@ -6332,7 +6563,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "244",
@@ -6354,7 +6586,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "245",
@@ -6376,7 +6609,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "246",
@@ -6398,7 +6632,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "247",
@@ -6420,7 +6655,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "248",
@@ -6442,7 +6678,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "249",
@@ -6464,7 +6701,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "250",
@@ -6486,7 +6724,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "251",
@@ -6508,7 +6747,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Asturias",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "252",
@@ -6530,7 +6770,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Funicular",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Funicular"
   },
   {
     "id": "253",
@@ -6553,7 +6794,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Santander",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "254",
@@ -6580,7 +6822,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Santander",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "255",
@@ -6602,7 +6845,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Santander",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "256",
@@ -6624,7 +6868,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Bilbao",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "257",
@@ -6646,7 +6891,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Bilbao",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "258",
@@ -6670,7 +6916,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Bilbao",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "259",
@@ -6692,7 +6939,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías AM Bilbao",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "260",
@@ -6716,7 +6964,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Trena",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "261",
@@ -6738,7 +6987,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Trena",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "262",
@@ -6760,7 +7010,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Trena",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "263",
@@ -6782,7 +7033,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Trena",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "264",
@@ -6804,7 +7056,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Trena",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "265",
@@ -6831,7 +7084,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Tranbia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "266",
@@ -6858,7 +7112,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Tranbia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "267",
@@ -6882,7 +7137,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Euskotren Tranbia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "268",
@@ -6904,7 +7160,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Funicular",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Funicular"
   },
   {
     "id": "269",
@@ -6926,7 +7183,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Funicular",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "270",
@@ -6948,7 +7206,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Bilbao",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Bilbao"
   },
   {
     "id": "271",
@@ -6970,7 +7229,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Bilbao",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Metro Bilbao"
   },
   {
     "id": "272",
@@ -6992,7 +7252,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Bilbao",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Euskotren"
   },
   {
     "id": "273",
@@ -7019,7 +7280,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Cercanías Madrid",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "274",
@@ -7041,7 +7303,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Funicular",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Funicular"
   },
   {
     "id": "275",
@@ -7063,7 +7326,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "SFM"
   },
   {
     "id": "276",
@@ -7085,7 +7349,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "SFM"
   },
   {
     "id": "277",
@@ -7107,7 +7372,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "SFM"
   },
   {
     "id": "278",
@@ -7129,7 +7395,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Palma",
-    "country": "España"
+    "country": "España",
+    "display_operator": "SFM"
   },
   {
     "id": "279",
@@ -7151,7 +7418,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Metro de Palma",
-    "country": "España"
+    "country": "España",
+    "display_operator": "SFM"
   },
   {
     "id": "280",
@@ -7173,7 +7441,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Histórico",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Sóller"
   },
   {
     "id": "281",
@@ -7195,7 +7464,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía Histórico",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Sóller"
   },
   {
     "id": "282",
@@ -7217,7 +7487,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía de Tenerife",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Tranvía de Tenerife"
   },
   {
     "id": "283",
@@ -7239,7 +7510,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Tranvía de Tenerife",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Tranvía de Tenerife"
   },
   {
     "id": "284",
@@ -7280,7 +7552,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "285",
@@ -7312,7 +7585,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "286",
@@ -7351,7 +7625,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "287",
@@ -7385,7 +7660,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "288",
@@ -7419,7 +7695,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "289",
@@ -7457,7 +7734,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "290",
@@ -7497,7 +7775,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "291",
@@ -7535,7 +7814,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "292",
@@ -7578,7 +7858,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "293",
@@ -7621,7 +7902,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "294",
@@ -7661,7 +7943,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "295",
@@ -7706,7 +7989,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "296",
@@ -7754,7 +8038,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "297",
@@ -7778,7 +8063,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "298",
@@ -7804,7 +8090,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "299",
@@ -7838,7 +8125,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "300",
@@ -7865,7 +8153,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "301",
@@ -7901,7 +8190,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "302",
@@ -7937,7 +8227,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "303",
@@ -7987,7 +8278,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "304",
@@ -8028,7 +8320,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "305",
@@ -8062,7 +8355,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "306",
@@ -8096,7 +8390,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "307",
@@ -8130,7 +8425,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "308",
@@ -8171,7 +8467,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "309",
@@ -8221,7 +8518,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "310",
@@ -8261,7 +8559,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "311",
@@ -8304,7 +8603,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "312",
@@ -8328,7 +8628,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "313",
@@ -8376,7 +8677,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "314",
@@ -8410,7 +8712,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "315",
@@ -8451,7 +8754,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "316",
@@ -8487,7 +8791,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "317",
@@ -8526,7 +8831,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "318",
@@ -8562,7 +8868,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "319",
@@ -8603,7 +8910,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "320",
@@ -8647,7 +8955,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "321",
@@ -8681,7 +8990,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "322",
@@ -8724,7 +9034,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "323",
@@ -8758,7 +9069,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "324",
@@ -8789,7 +9101,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "325",
@@ -8839,7 +9152,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "326",
@@ -8875,7 +9189,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "327",
@@ -8909,7 +9224,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "328",
@@ -8947,7 +9263,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "329",
@@ -8988,7 +9305,8 @@ const CATALOGLINES =
       ]
     },
     "network": "AVE",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "330",
@@ -9027,7 +9345,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "331",
@@ -9071,7 +9390,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avlo",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "332",
@@ -9113,7 +9433,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "333",
@@ -9149,7 +9470,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "334",
@@ -9185,7 +9507,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "335",
@@ -9219,7 +9542,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "336",
@@ -9255,7 +9579,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "337",
@@ -9291,7 +9616,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "338",
@@ -9329,7 +9655,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "339",
@@ -9360,7 +9687,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "340",
@@ -9408,7 +9736,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "341",
@@ -9467,7 +9796,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Larga Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "342",
@@ -9489,7 +9819,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "343",
@@ -9516,7 +9847,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Avant",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "344",
@@ -9538,7 +9870,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Proximidad",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "345",
@@ -9560,7 +9893,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Proximidad",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "346",
@@ -9582,7 +9916,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Proximidad",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "347",
@@ -9606,7 +9941,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Proximidad",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "348",
@@ -9633,7 +9969,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Proximidad",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "349",
@@ -9657,7 +9994,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "350",
@@ -9679,7 +10017,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia AV",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "351",
@@ -9732,7 +10071,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "352",
@@ -9769,7 +10109,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "353",
@@ -9815,7 +10156,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "354",
@@ -9844,7 +10186,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "355",
@@ -9866,7 +10209,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "356",
@@ -9888,7 +10232,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "357",
@@ -9917,7 +10262,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "358",
@@ -9963,7 +10309,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "359",
@@ -10006,7 +10353,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "360",
@@ -10055,7 +10403,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "361",
@@ -10096,7 +10445,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "362",
@@ -10138,7 +10488,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "363",
@@ -10196,7 +10547,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "364",
@@ -10228,7 +10580,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "365",
@@ -10267,7 +10620,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "366",
@@ -10309,7 +10663,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "367",
@@ -10338,7 +10693,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "368",
@@ -10377,7 +10733,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "369",
@@ -10408,7 +10765,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "370",
@@ -10454,7 +10812,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "371",
@@ -10492,7 +10851,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "372",
@@ -10546,7 +10906,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "373",
@@ -10575,7 +10936,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "374",
@@ -10614,7 +10976,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "375",
@@ -10648,7 +11011,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "376",
@@ -10689,7 +11053,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "377",
@@ -10745,7 +11110,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "378",
@@ -10781,7 +11147,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "379",
@@ -10817,7 +11184,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "380",
@@ -10849,7 +11217,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "381",
@@ -10883,7 +11252,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "382",
@@ -10920,7 +11290,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "383",
@@ -10954,7 +11325,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "384",
@@ -10991,7 +11363,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "385",
@@ -11020,7 +11393,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "386",
@@ -11063,7 +11437,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "387",
@@ -11097,7 +11472,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "388",
@@ -11129,7 +11505,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "389",
@@ -11153,7 +11530,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "390",
@@ -11184,7 +11562,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "391",
@@ -11208,7 +11587,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "392",
@@ -11232,7 +11612,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "393",
@@ -11254,7 +11635,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "394",
@@ -11285,7 +11667,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "395",
@@ -11317,7 +11700,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "396",
@@ -11349,7 +11733,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional Exprés",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "397",
@@ -11428,7 +11813,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "398",
@@ -11457,7 +11843,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "399",
@@ -11493,7 +11880,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "400",
@@ -11530,7 +11918,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "401",
@@ -11600,7 +11989,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "402",
@@ -11631,7 +12021,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "403",
@@ -11669,7 +12060,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Media Distancia",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   },
   {
     "id": "404",
@@ -11701,7 +12093,8 @@ const CATALOGLINES =
       ]
     },
     "network": "Regional",
-    "country": "España"
+    "country": "España",
+    "display_operator": "Renfe"
   }
 ]
 ;

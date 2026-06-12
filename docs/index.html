@@ -1056,7 +1056,7 @@
       <div class="panel-section">
         <div class="panel-title">Catálogo de Líneas</div>
         <div style="font-size: 12px; margin-bottom: 10px; color: var(--text-muted);">
-          Navegá por <strong>País › CCAA › Provincia › Red</strong>. Hacé clic en <strong>＋Cargar</strong> para ver la traza GeoJSON y las estaciones en el mapa.
+          Navegá por <strong>País › CCAA › Provincia › Operador</strong>. Hacé clic en <strong>＋Cargar</strong> para ver la traza GeoJSON y las estaciones en el mapa.
         </div>
         <div id="local-catalog" class="local-catalog"></div>
       </div>
@@ -3075,7 +3075,7 @@ function renderLocalCatalog() {
   lines.forEach(function(line) {
     if (!line.ccaa || line.ccaa.length === 0) return;
     var country = line.country || 'Espa\u00f1a';
-    var network = line.network || line.type || 'Otros';
+    var dispOp = line.display_operator || line.operator || 'Otros';
     
     line.ccaa.forEach(function(cc) {
       if (!tree[country]) { tree[country] = { ccaas: [], byCcaa: {} }; }
@@ -3097,8 +3097,8 @@ function renderLocalCatalog() {
         var ccaaNode = tree[country].byCcaa[cc];
         if (ccaaNode.provinces.indexOf(prov) < 0) { ccaaNode.provinces.push(prov); }
         if (!ccaaNode.byProv[prov]) { ccaaNode.byProv[prov] = {}; }
-        if (!ccaaNode.byProv[prov][network]) { ccaaNode.byProv[prov][network] = []; }
-        ccaaNode.byProv[prov][network].push(line);
+        if (!ccaaNode.byProv[prov][dispOp]) { ccaaNode.byProv[prov][dispOp] = []; }
+        ccaaNode.byProv[prov][dispOp].push(line);
       });
     });
   });
@@ -3110,13 +3110,46 @@ function renderLocalCatalog() {
     'Madrid', 'Region de Murcia', 'Navarra', 'Pais Vasco', 'La Rioja'
   ];
 
+  // Operator priority for ordering (lower = first)
+  var opPriority = {
+    'Rodalies': 1,
+    'FGC': 2,
+    'TMB': 3,
+    'TRAM': 4,
+    'Renfe': 5,
+    'Euskotren': 6,
+    'Metro Madrid': 7,
+    'Metrovalencia': 8,
+    'Metro Bilbao': 9,
+    "TRAM d'Alacant": 10,
+    'Metro M\u00e1laga': 11,
+    'Metro Sevilla': 12,
+    'Metro Granada': 13,
+    'SFM': 14,
+    'Tranv\u00eda de Tenerife': 15,
+    'Tranv\u00eda de Murcia': 16,
+    'Tranv\u00eda de Zaragoza': 17,
+    'Tranv\u00eda de Parla': 18,
+    'TUSSAM': 19,
+    'S\u00f3ller': 20,
+    'CP': 21,
+    'Funicular': 22
+  };
+
+  function sortOps(a, b) {
+    var pa = opPriority[a] || 99;
+    var pb = opPriority[b] || 99;
+    if (pa !== pb) return pa - pb;
+    return a.localeCompare(b);
+  }
+
   container.innerHTML = Object.keys(tree).sort().map(function(countryKey) {
     var countryNode = tree[countryKey];
     var countryCount = 0;
     Object.keys(countryNode.byCcaa).forEach(function(ck) {
       Object.keys(countryNode.byCcaa[ck].byProv).forEach(function(pk) {
-        Object.keys(countryNode.byCcaa[ck].byProv[pk]).forEach(function(nk) {
-          countryCount += countryNode.byCcaa[ck].byProv[pk][nk].length;
+        Object.keys(countryNode.byCcaa[ck].byProv[pk]).forEach(function(ok) {
+          countryCount += countryNode.byCcaa[ck].byProv[pk][ok].length;
         });
       });
     });
@@ -3138,8 +3171,8 @@ function renderLocalCatalog() {
         ccaaNode.provinces.sort();
         var ccaaCount = 0;
         Object.keys(ccaaNode.byProv).forEach(function(pk) {
-          Object.keys(ccaaNode.byProv[pk]).forEach(function(nk) {
-            ccaaCount += ccaaNode.byProv[pk][nk].length;
+          Object.keys(ccaaNode.byProv[pk]).forEach(function(ok) {
+            ccaaCount += ccaaNode.byProv[pk][ok].length;
           });
         });
         var isCCollapsed = state.collapsedProvince[countryKey + '_' + ccaaKey];
@@ -3151,20 +3184,20 @@ function renderLocalCatalog() {
           ccaaNode.provinces.map(function(provKey) {
             var provNode = ccaaNode.byProv[provKey];
             var provCount = 0;
-            Object.keys(provNode).forEach(function(nk) { provCount += provNode[nk].length; });
+            Object.keys(provNode).forEach(function(ok) { provCount += provNode[ok].length; });
             var isPCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey];
             return '<details class="catalog-subgroup" ' + (!isPCollapsed ? 'open' : '') + 
               ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '\'] = !this.open" style="margin:2px 0 2px 8px;">' +
               '<summary class="cat-prov-summary">\ud83d\udccd ' + provKey + ' <span class="group-count">' + provCount + '</span></summary>' +
               '<div class="cat-prov-body" style="margin-left:8px;">' +
-              Object.keys(provNode).sort().map(function(networkKey) {
-                var netLines = provNode[networkKey];
-                var isNCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey + '_' + networkKey];
-                return '<details class="catalog-subgroup" ' + (!isNCollapsed ? 'open' : '') + 
-                  ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '_' + networkKey + '\'] = !this.open" style="margin:2px 0;">' +
-                  '<summary class="cat-type-summary">\ud83d\ude86 ' + networkKey + ' <span class="group-count">' + netLines.length + '</span></summary>' +
+              Object.keys(provNode).sort(sortOps).map(function(opKey) {
+                var opLines = provNode[opKey];
+                var isOCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey + '_' + opKey];
+                return '<details class="catalog-subgroup" ' + (!isOCollapsed ? 'open' : '') + 
+                  ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '_' + opKey + '\'] = !this.open" style="margin:2px 0;">' +
+                  '<summary class="cat-type-summary">\ud83d\ude86 ' + opKey + ' <span class="group-count">' + opLines.length + '</span></summary>' +
                   '<div class="cat-type-body">' +
-                  netLines.map(function(line) { return createCatalogLineHtml(line); }).join('') +
+                  opLines.sort(function(a, b) { return (a.name || '').localeCompare(b.name || ''); }).map(function(line) { return createCatalogLineHtml(line); }).join('') +
                   '</div></details>';
               }).join('') +
               '</div></details>';
