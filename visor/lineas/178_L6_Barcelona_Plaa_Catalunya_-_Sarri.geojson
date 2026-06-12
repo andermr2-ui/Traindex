@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.15798,
+      41.39287
+     ],
+     [
+      2.15215,
+      41.39976
+     ],
+     [
+      2.14281,
+      41.39867
+     ],
+     [
+      2.13615,
+      41.39779
+     ],
+     [
+      2.13087,
+      41.39778
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "178",
+    "name": "L6 Barcelona Plaça Catalunya - Sarrià",
+    "type": "Metro",
+    "operator": "FGC",
+    "stroke": "#492F91",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACACATALUNYA",
+    "name": "Plaça Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15798,
+     41.39287
+    ]
+   },
+   "properties": {
+    "id": "EST-PROVENCA",
+    "name": "Provença",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15215,
+     41.39976
+    ]
+   },
+   "properties": {
+    "id": "EST-GRACIA-Barcelona-Barcelona",
+    "name": "Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14281,
+     41.39867
+    ]
+   },
+   "properties": {
+    "id": "EST-MUNTANER",
+    "name": "Muntaner",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13615,
+     41.39779
+    ]
+   },
+   "properties": {
+    "id": "EST-LABONANOVA",
+    "name": "La Bonanova",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13087,
+     41.39778
+    ]
+   },
+   "properties": {
+    "id": "EST-LESTRESTORRES",
+    "name": "Les Tres Torres",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  }
+ ]
+}

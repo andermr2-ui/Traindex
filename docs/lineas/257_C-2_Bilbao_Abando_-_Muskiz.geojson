@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.9325,
+      43.25647
+     ],
+     [
+      -2.94313,
+      43.25454
+     ],
+     [
+      -2.94611,
+      43.2586
+     ],
+     [
+      -2.95527,
+      43.26419
+     ],
+     [
+      -2.97203,
+      43.27771
+     ],
+     [
+      -2.96982,
+      43.29101
+     ],
+     [
+      -2.98467,
+      43.30053
+     ],
+     [
+      -3.01018,
+      43.3041
+     ],
+     [
+      -3.01691,
+      43.30298
+     ],
+     [
+      -3.02846,
+      43.30146
+     ],
+     [
+      -3.04094,
+      43.30752
+     ],
+     [
+      -3.05369,
+      43.30858
+     ],
+     [
+      -3.06041,
+      43.31149
+     ],
+     [
+      -3.06744,
+      43.31937
+     ],
+     [
+      -3.09114,
+      43.31559
+     ],
+     [
+      -3.11219,
+      43.32121
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "257",
+    "name": "C-2 Bilbao Abando - Muskiz",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9325,
+     43.25647
+    ]
+   },
+   "properties": {
+    "id": "EST-ZABALBURU",
+    "name": "Zabalburu",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94313,
+     43.25454
+    ]
+   },
+   "properties": {
+    "id": "EST-AMETZOLA",
+    "name": "Ametzola",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94611,
+     43.2586
+    ]
+   },
+   "properties": {
+    "id": "EST-AUTONOMIA",
+    "name": "Autonomía",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.95527,
+     43.26419
+    ]
+   },
+   "properties": {
+    "id": "EST-OLABEAGA",
+    "name": "Olabeaga",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97203,
+     43.27771
+    ]
+   },
+   "properties": {
+    "id": "EST-ZORROTZA",
+    "name": "Zorrotza",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.96982,
+     43.29101
+    ]
+   },
+   "properties": {
+    "id": "EST-LUTXANA",
+    "name": "Lutxana",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.98467,
+     43.30053
+    ]
+   },
+   "properties": {
+    "id": "EST-DESERTUBARAKALDO",
+    "name": "Desertu-Barakaldo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.01018,
+     43.3041
+    ]
+   },
+   "properties": {
+    "id": "EST-GALINDO",
+    "name": "Galindo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.01691,
+     43.30298
+    ]
+   },
+   "properties": {
+    "id": "EST-TRAPAGA",
+    "name": "Trápaga",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.02846,
+     43.30146
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLEDETRAPAGATRAPAGARAN",
+    "name": "Valle de Trápaga-Trapagaran",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.04094,
+     43.30752
+    ]
+   },
+   "properties": {
+    "id": "EST-URIOSTE",
+    "name": "Urioste",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.05369,
+     43.30858
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGRADAFAMILIA-Bizkaia-Ortuella",
+    "name": "Sagrada Familia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.06041,
+     43.31149
+    ]
+   },
+   "properties": {
+    "id": "EST-ORTUELLA",
+    "name": "Ortuella",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.06744,
+     43.31937
+    ]
+   },
+   "properties": {
+    "id": "EST-GALLARTA",
+    "name": "Gallarta",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.09114,
+     43.31559
+    ]
+   },
+   "properties": {
+    "id": "EST-PUTXETA",
+    "name": "Putxeta",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.11219,
+     43.32121
+    ]
+   },
+   "properties": {
+    "id": "EST-MUSKIZ",
+    "name": "Muskiz",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

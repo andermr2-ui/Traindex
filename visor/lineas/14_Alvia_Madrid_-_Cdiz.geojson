@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.91314,
+      38.98487
+     ],
+     [
+      -4.11194,
+      38.69129
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -6.1261,
+      36.67981
+     ],
+     [
+      -6.217,
+      36.6042
+     ],
+     [
+      -6.20688,
+      36.46792
+     ],
+     [
+      -6.294,
+      36.537
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "14",
+    "name": "Alvia Madrid - Cádiz",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#5F259F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11194,
+     38.69129
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOLLANO",
+    "name": "Puertollano",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.1261,
+     36.67981
+    ]
+   },
+   "properties": {
+    "id": "EST-JEREZDELAFRONTERA",
+    "name": "Jerez de la Frontera",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.217,
+     36.6042
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPUERTODESANTAMARIA",
+    "name": "El Puerto de Santa María",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20688,
+     36.46792
+    ]
+   },
+   "properties": {
+    "id": "EST-SANFERNANDOBAHIASUR",
+    "name": "San Fernando-Bahía Sur",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.294,
+     36.537
+    ]
+   },
+   "properties": {
+    "id": "EST-CADIZ",
+    "name": "Cádiz",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  }
+ ]
+}

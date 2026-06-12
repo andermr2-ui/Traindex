@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.6917,
+      40.4225
+     ],
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -4.00815,
+      40.62638
+     ],
+     [
+      -4.06603,
+      40.73766
+     ],
+     [
+      -4.12539,
+      40.70563
+     ],
+     [
+      -4.15774,
+      40.71689
+     ],
+     [
+      -4.1814,
+      40.71494
+     ],
+     [
+      -4.18952,
+      40.74084
+     ],
+     [
+      -4.11362,
+      40.93404
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "382",
+    "name": "Regional 53 Madrid - Segovia (se requiere transbordo en Cercedilla)",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.4225
+    ]
+   },
+   "properties": {
+    "id": "EST-RECOLETOS",
+    "name": "Recoletos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTIN",
+    "name": "Madrid-Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.00815,
+     40.62638
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLALBADEGUADARRAMA",
+    "name": "Villalba de Guadarrama",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.06603,
+     40.73766
+    ]
+   },
+   "properties": {
+    "id": "EST-CERCEDILLA",
+    "name": "Cercedilla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.12539,
+     40.70563
+    ]
+   },
+   "properties": {
+    "id": "EST-TABLADA",
+    "name": "Tablada",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.15774,
+     40.71689
+    ]
+   },
+   "properties": {
+    "id": "EST-GUDILLOS",
+    "name": "Gudillos",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1814,
+     40.71494
+    ]
+   },
+   "properties": {
+    "id": "EST-SANRAFAEL",
+    "name": "San Rafael",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.18952,
+     40.74084
+    ]
+   },
+   "properties": {
+    "id": "EST-ELESPINAR",
+    "name": "El Espinar",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11362,
+     40.93404
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGOVIA",
+    "name": "Segovia",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

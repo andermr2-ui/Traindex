@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.47263,
+      39.43168
+     ],
+     [
+      -0.46093,
+      39.4361
+     ],
+     [
+      -0.39777,
+      39.45509
+     ],
+     [
+      -0.4095,
+      39.458
+     ],
+     [
+      -0.38465,
+      39.45936
+     ],
+     [
+      -0.37928,
+      39.4636
+     ],
+     [
+      -0.36602,
+      39.47311
+     ],
+     [
+      -0.33863,
+      39.46486
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "209",
+    "name": "L7 Torrent Avinguda - Marítim",
+    "type": "Metro",
+    "operator": "Metrovalencia",
+    "stroke": "#EA5912",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47263,
+     39.43168
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRENTAVINGUDA",
+    "name": "Torrent Avinguda",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.46093,
+     39.4361
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRENT",
+    "name": "Torrent",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39777,
+     39.45509
+    ]
+   },
+   "properties": {
+    "id": "EST-SAFRANAR",
+    "name": "Safranar",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.4095,
+     39.458
+    ]
+   },
+   "properties": {
+    "id": "EST-PATRAIX",
+    "name": "Patraix",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38465,
+     39.45936
+    ]
+   },
+   "properties": {
+    "id": "EST-JESUS",
+    "name": "Jesús",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37928,
+     39.4636
+    ]
+   },
+   "properties": {
+    "id": "EST-BAILEN",
+    "name": "Bailén",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36602,
+     39.47311
+    ]
+   },
+   "properties": {
+    "id": "EST-ALAMEDA",
+    "name": "Alameda",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.33863,
+     39.46486
+    ]
+   },
+   "properties": {
+    "id": "EST-MARITIM",
+    "name": "Marítim",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA5912"
+   }
+  }
+ ]
+}

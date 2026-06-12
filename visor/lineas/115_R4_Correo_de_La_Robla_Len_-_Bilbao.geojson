@@ -1,0 +1,2268 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.52214,
+      42.4055
+     ],
+     [
+      -5.56132,
+      42.6291
+     ],
+     [
+      -5.53796,
+      42.68227
+     ],
+     [
+      -5.52995,
+      42.71871
+     ],
+     [
+      -5.51642,
+      42.75472
+     ],
+     [
+      -5.51191,
+      42.77153
+     ],
+     [
+      -5.50703,
+      42.79091
+     ],
+     [
+      -5.50822,
+      42.80634
+     ],
+     [
+      -5.62648,
+      42.80399
+     ],
+     [
+      -5.62641,
+      42.80399
+     ],
+     [
+      -5.50736,
+      42.84072
+     ],
+     [
+      -5.52217,
+      42.84114
+     ],
+     [
+      -5.50736,
+      42.84072
+     ],
+     [
+      -5.62641,
+      42.80399
+     ],
+     [
+      -5.48701,
+      42.84966
+     ],
+     [
+      -5.44283,
+      42.85473
+     ],
+     [
+      -5.42873,
+      42.85591
+     ],
+     [
+      -5.41207,
+      42.85511
+     ],
+     [
+      -5.40324,
+      42.86494
+     ],
+     [
+      -5.38997,
+      42.85959
+     ],
+     [
+      -5.33952,
+      42.85855
+     ],
+     [
+      -5.3345,
+      42.86463
+     ],
+     [
+      -5.32871,
+      42.86278
+     ],
+     [
+      -5.31818,
+      42.83857
+     ],
+     [
+      -5.21402,
+      42.80889
+     ],
+     [
+      -5.18003,
+      42.80978
+     ],
+     [
+      -5.12748,
+      42.78615
+     ],
+     [
+      -5.13091,
+      42.80318
+     ],
+     [
+      -5.07096,
+      42.76789
+     ],
+     [
+      -5.28308,
+      42.81238
+     ],
+     [
+      -5.04132,
+      42.7703
+     ],
+     [
+      -5.02714,
+      42.78328
+     ],
+     [
+      -5.00559,
+      42.77981
+     ],
+     [
+      -4.97248,
+      42.7876
+     ],
+     [
+      -4.92968,
+      42.76528
+     ],
+     [
+      -4.90536,
+      42.78668
+     ],
+     [
+      -4.85188,
+      42.79097
+     ],
+     [
+      -4.85188,
+      42.79097
+     ],
+     [
+      -4.74178,
+      42.80196
+     ],
+     [
+      -4.60194,
+      42.81211
+     ],
+     [
+      -4.68605,
+      42.81855
+     ],
+     [
+      -4.4944,
+      42.83933
+     ],
+     [
+      -4.38611,
+      42.85131
+     ],
+     [
+      -4.23375,
+      42.78527
+     ],
+     [
+      -4.16506,
+      42.87121
+     ],
+     [
+      -4.07531,
+      42.91032
+     ],
+     [
+      -4.04268,
+      42.9321
+     ],
+     [
+      -3.98261,
+      42.98795
+     ],
+     [
+      -3.94475,
+      42.99152
+     ],
+     [
+      -3.85841,
+      42.99637
+     ],
+     [
+      -3.84486,
+      43.00579
+     ],
+     [
+      -3.88,
+      42.96
+     ],
+     [
+      -3.75683,
+      43.01241
+     ],
+     [
+      -3.68835,
+      43.04527
+     ],
+     [
+      -3.45763,
+      43.0884
+     ],
+     [
+      -3.64949,
+      43.17974
+     ],
+     [
+      -3.61968,
+      43.06058
+     ],
+     [
+      -3.68835,
+      43.04527
+     ],
+     [
+      -3.45763,
+      43.0884
+     ],
+     [
+      -3.64949,
+      43.17974
+     ],
+     [
+      -3.64949,
+      43.17974
+     ],
+     [
+      -3.50392,
+      43.20202
+     ],
+     [
+      -3.12,
+      43.21
+     ],
+     [
+      -3.43834,
+      43.28247
+     ],
+     [
+      -3.43828,
+      43.28203
+     ],
+     [
+      -3.44564,
+      43.31366
+     ],
+     [
+      -3.42105,
+      43.34653
+     ],
+     [
+      -3.43336,
+      43.35883
+     ],
+     [
+      -3.46936,
+      43.39418
+     ],
+     [
+      -3.49051,
+      43.41708
+     ],
+     [
+      -3.52496,
+      43.42303
+     ],
+     [
+      -3.57707,
+      43.41363
+     ],
+     [
+      -3.66666,
+      43.40502
+     ],
+     [
+      -3.70366,
+      43.41124
+     ],
+     [
+      -3.73816,
+      43.39942
+     ],
+     [
+      -3.76655,
+      43.40105
+     ],
+     [
+      -3.8209,
+      43.40396
+     ],
+     [
+      -3.84096,
+      43.41612
+     ],
+     [
+      -3.81102,
+      43.4583
+     ],
+     [
+      -3.19827,
+      43.23335
+     ],
+     [
+      -3.10896,
+      43.2105
+     ],
+     [
+      -3.10896,
+      43.2105
+     ],
+     [
+      -3.13333,
+      43.21283
+     ],
+     [
+      -3.13853,
+      43.21095
+     ],
+     [
+      -3.18981,
+      43.19654
+     ],
+     [
+      -3.19746,
+      43.19006
+     ],
+     [
+      -3.18981,
+      43.19654
+     ],
+     [
+      -3.10896,
+      43.2105
+     ],
+     [
+      -3.13333,
+      43.21283
+     ],
+     [
+      -3.13853,
+      43.21095
+     ],
+     [
+      -3.05048,
+      43.20205
+     ],
+     [
+      -3.09533,
+      43.20896
+     ],
+     [
+      -3.10896,
+      43.2105
+     ],
+     [
+      -3.05048,
+      43.20205
+     ],
+     [
+      -3.01643,
+      43.23336
+     ],
+     [
+      -2.98998,
+      43.24782
+     ],
+     [
+      -2.97199,
+      43.25544
+     ],
+     [
+      -2.97268,
+      43.26171
+     ],
+     [
+      -2.97203,
+      43.27771
+     ],
+     [
+      -2.95322,
+      43.25965
+     ],
+     [
+      -2.92524,
+      43.29188
+     ],
+     [
+      -2.9265,
+      43.25991
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "115",
+    "name": "R4 Correo de La Robla León - Bilbao",
+    "type": "Regional",
+    "operator": "Renfe Cercanías AM",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 109,
+    "coords_sta": 102
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.52214,
+     42.4055
+    ]
+   },
+   "properties": {
+    "id": "EST-LEON",
+    "name": "León",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.56132,
+     42.6291
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAROMANA",
+    "name": "Villa Romana",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.53796,
+     42.68227
+    ]
+   },
+   "properties": {
+    "id": "EST-SANFELIZ",
+    "name": "San Feliz",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.52995,
+     42.71871
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDERILLA",
+    "name": "Valderilla",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.51642,
+     42.75472
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANEDA",
+    "name": "Manzaneda",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.51191,
+     42.77153
+    ]
+   },
+   "properties": {
+    "id": "EST-MATUECA",
+    "name": "Matueca",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.50703,
+     42.79091
+    ]
+   },
+   "properties": {
+    "id": "EST-PEDRUN",
+    "name": "Pedrún",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.50822,
+     42.80634
+    ]
+   },
+   "properties": {
+    "id": "EST-PARDAVE",
+    "name": "Pardavé",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.62648,
+     42.80399
+    ]
+   },
+   "properties": {
+    "id": "EST-LAROBLA",
+    "name": "La Robla",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.62641,
+     42.80399
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCEDO",
+    "name": "Alcedo",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.50736,
+     42.84072
+    ]
+   },
+   "properties": {
+    "id": "EST-ROBLES",
+    "name": "Robles",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.52217,
+     42.84114
+    ]
+   },
+   "properties": {
+    "id": "EST-MATALLANA",
+    "name": "Matallana",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.50736,
+     42.84072
+    ]
+   },
+   "properties": {
+    "id": "EST-ROBLES",
+    "name": "Robles",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.62641,
+     42.80399
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCEDO",
+    "name": "Alcedo",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.48701,
+     42.84966
+    ]
+   },
+   "properties": {
+    "id": "EST-LAVALCUEVA",
+    "name": "La Valcueva",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.44283,
+     42.85473
+    ]
+   },
+   "properties": {
+    "id": "EST-AVIADOS",
+    "name": "Aviados",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.42873,
+     42.85591
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPOHERMOSO",
+    "name": "Campohermoso",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.41207,
+     42.85511
+    ]
+   },
+   "properties": {
+    "id": "EST-LAVECILLA",
+    "name": "La Vecilla",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.40324,
+     42.86494
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDEPIELAGO",
+    "name": "Valdepiélago",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.38997,
+     42.85959
+    ]
+   },
+   "properties": {
+    "id": "EST-OTERO",
+    "name": "Otero",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.33952,
+     42.85855
+    ]
+   },
+   "properties": {
+    "id": "EST-LAMATADELARIBA",
+    "name": "La Mata de la Riba",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.3345,
+     42.86463
+    ]
+   },
+   "properties": {
+    "id": "EST-BARRIODELASOLLAS",
+    "name": "Barrio de las Ollas",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.32871,
+     42.86278
+    ]
+   },
+   "properties": {
+    "id": "EST-BONAR",
+    "name": "Boñar",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.31818,
+     42.83857
+    ]
+   },
+   "properties": {
+    "id": "EST-LALOSILLA",
+    "name": "La Losilla",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.21402,
+     42.80889
+    ]
+   },
+   "properties": {
+    "id": "EST-LAERCINA",
+    "name": "La Ercina",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.18003,
+     42.80978
+    ]
+   },
+   "properties": {
+    "id": "EST-YUGUEROS",
+    "name": "Yugueros",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.12748,
+     42.78615
+    ]
+   },
+   "properties": {
+    "id": "EST-SORRIBA",
+    "name": "Sorriba",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.13091,
+     42.80318
+    ]
+   },
+   "properties": {
+    "id": "EST-CISTIERNA",
+    "name": "Cistierna",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.07096,
+     42.76789
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLEDELASCASAS",
+    "name": "Valle de las Casas",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.28308,
+     42.81238
+    ]
+   },
+   "properties": {
+    "id": "EST-BARRILLOS",
+    "name": "Barrillos",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.04132,
+     42.7703
+    ]
+   },
+   "properties": {
+    "id": "EST-LALLAMADELAGUZPENA",
+    "name": "La Llama de la Guzpeña",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.02714,
+     42.78328
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADODELAGUZPENA",
+    "name": "Prado de la Guzpeña",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.00559,
+     42.77981
+    ]
+   },
+   "properties": {
+    "id": "EST-CEREZALDELAGUZPENA",
+    "name": "Cerezal de la Guzpeña",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.97248,
+     42.7876
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTEALMUHEY",
+    "name": "Puente Almuhey",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.92968,
+     42.76528
+    ]
+   },
+   "properties": {
+    "id": "EST-VALCUENDE",
+    "name": "Valcuende",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.90536,
+     42.78668
+    ]
+   },
+   "properties": {
+    "id": "EST-LAESPINA",
+    "name": "La Espina",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.85188,
+     42.79097
+    ]
+   },
+   "properties": {
+    "id": "EST-GUARDOAPEADERO",
+    "name": "Guardo-Apeadero",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.85188,
+     42.79097
+    ]
+   },
+   "properties": {
+    "id": "EST-GUARDO",
+    "name": "Guardo",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.74178,
+     42.80196
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIBAÑEZDELAPENA",
+    "name": "Santibáñez de la Peña",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.60194,
+     42.81211
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTREJONDELAPENA",
+    "name": "Castrejón de la Peña",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.68605,
+     42.81855
+    ]
+   },
+   "properties": {
+    "id": "EST-TARILONTE",
+    "name": "Tarilonte",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.4944,
+     42.83933
+    ]
+   },
+   "properties": {
+    "id": "EST-VADOCERVERA",
+    "name": "Vado-Cervera",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.38611,
+     42.85131
+    ]
+   },
+   "properties": {
+    "id": "EST-SALINASDEPISUERGA",
+    "name": "Salinas de Pisuerga",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.23375,
+     42.78527
+    ]
+   },
+   "properties": {
+    "id": "EST-AGUILARDECAMPOO",
+    "name": "Aguilar de Campoo",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.16506,
+     42.87121
+    ]
+   },
+   "properties": {
+    "id": "EST-MATAPORQUERA",
+    "name": "Mataporquera",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.07531,
+     42.91032
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSCARABEOS",
+    "name": "Los Carabeos",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.04268,
+     42.9321
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTESCLAROS",
+    "name": "Montes Claros",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.98261,
+     42.98795
+    ]
+   },
+   "properties": {
+    "id": "EST-LLANO",
+    "name": "Llano",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.94475,
+     42.99152
+    ]
+   },
+   "properties": {
+    "id": "EST-ARIJA",
+    "name": "Arija",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.85841,
+     42.99637
+    ]
+   },
+   "properties": {
+    "id": "EST-CABANASDEVIRTUS",
+    "name": "Cabañas de Virtus",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84486,
+     43.00579
+    ]
+   },
+   "properties": {
+    "id": "EST-SONCILLO",
+    "name": "Soncillo",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.88,
+     42.96
+    ]
+   },
+   "properties": {
+    "id": "EST-DOSANTECEBALLOS",
+    "name": "Dosante-Ceballos",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.75683,
+     43.01241
+    ]
+   },
+   "properties": {
+    "id": "EST-PEDROSA",
+    "name": "Pedrosa",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68835,
+     43.04527
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTOSCUEVA",
+    "name": "Sotoscueva",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.45763,
+     43.0884
+    ]
+   },
+   "properties": {
+    "id": "EST-BERCEDO",
+    "name": "Bercedo",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64949,
+     43.17974
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPINOSADELOSMONTEROS",
+    "name": "Espinosa de los Monteros",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61968,
+     43.06058
+    ]
+   },
+   "properties": {
+    "id": "EST-REDONDO",
+    "name": "Redondo",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68835,
+     43.04527
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTOSCUEVA",
+    "name": "Sotoscueva",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.45763,
+     43.0884
+    ]
+   },
+   "properties": {
+    "id": "EST-BERCEDO",
+    "name": "Bercedo",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64949,
+     43.17974
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPINOSADELOSMONTEROS",
+    "name": "Espinosa de los Monteros",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64949,
+     43.17974
+    ]
+   },
+   "properties": {
+    "id": "EST-SOBA",
+    "name": "Soba",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.50392,
+     43.20202
+    ]
+   },
+   "properties": {
+    "id": "EST-REGULES",
+    "name": "Regules",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.12,
+     43.21
+    ]
+   },
+   "properties": {
+    "id": "EST-LANESTOSA",
+    "name": "Lanestosa",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.43834,
+     43.28247
+    ]
+   },
+   "properties": {
+    "id": "EST-RAMALES",
+    "name": "Ramales",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.43828,
+     43.28203
+    ]
+   },
+   "properties": {
+    "id": "EST-GIBAJA",
+    "name": "Gibaja",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.44564,
+     43.31366
+    ]
+   },
+   "properties": {
+    "id": "EST-UDALLA",
+    "name": "Udalla",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.42105,
+     43.34653
+    ]
+   },
+   "properties": {
+    "id": "EST-MARRON",
+    "name": "Marrón",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.43336,
+     43.35883
+    ]
+   },
+   "properties": {
+    "id": "EST-LIMPIAS",
+    "name": "Limpias",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.46936,
+     43.39418
+    ]
+   },
+   "properties": {
+    "id": "EST-TRETO",
+    "name": "Treto",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.49051,
+     43.41708
+    ]
+   },
+   "properties": {
+    "id": "EST-CICERO",
+    "name": "Cicero",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.52496,
+     43.42303
+    ]
+   },
+   "properties": {
+    "id": "EST-GAMA",
+    "name": "Gama",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.57707,
+     43.41363
+    ]
+   },
+   "properties": {
+    "id": "EST-BERANGA",
+    "name": "Beranga",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66666,
+     43.40502
+    ]
+   },
+   "properties": {
+    "id": "EST-HOZDEANERO",
+    "name": "Hoz de Anero",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70366,
+     43.41124
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVERDEDEPONTONES",
+    "name": "Villaverde de Pontones",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73816,
+     43.39942
+    ]
+   },
+   "properties": {
+    "id": "EST-OREJO",
+    "name": "Orejo",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76655,
+     43.40105
+    ]
+   },
+   "properties": {
+    "id": "EST-HERAS",
+    "name": "Heras",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8209,
+     43.40396
+    ]
+   },
+   "properties": {
+    "id": "EST-ASTILLERO",
+    "name": "Astillero",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84096,
+     43.41612
+    ]
+   },
+   "properties": {
+    "id": "EST-MALIANO",
+    "name": "Maliaño",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81102,
+     43.4583
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDER",
+    "name": "Santander",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.19827,
+     43.23335
+    ]
+   },
+   "properties": {
+    "id": "EST-TRASLAVINA",
+    "name": "Traslaviña",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.10896,
+     43.2105
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANGURENAPEADERO",
+    "name": "Aranguren-Apeadero",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.10896,
+     43.2105
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANGUREN",
+    "name": "Aranguren",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.13333,
+     43.21283
+    ]
+   },
+   "properties": {
+    "id": "EST-ZALLA",
+    "name": "Zalla",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.13853,
+     43.21095
+    ]
+   },
+   "properties": {
+    "id": "EST-COLEGIO",
+    "name": "Colegio",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18981,
+     43.19654
+    ]
+   },
+   "properties": {
+    "id": "EST-BALMASEDA",
+    "name": "Balmaseda",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.19746,
+     43.19006
+    ]
+   },
+   "properties": {
+    "id": "EST-LACALZADA",
+    "name": "La Calzada",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18981,
+     43.19654
+    ]
+   },
+   "properties": {
+    "id": "EST-BALMASEDA",
+    "name": "Balmaseda",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.10896,
+     43.2105
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANGUREN",
+    "name": "Aranguren",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.13333,
+     43.21283
+    ]
+   },
+   "properties": {
+    "id": "EST-ZALLA",
+    "name": "Zalla",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.13853,
+     43.21095
+    ]
+   },
+   "properties": {
+    "id": "EST-COLEGIO",
+    "name": "Colegio",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.05048,
+     43.20205
+    ]
+   },
+   "properties": {
+    "id": "EST-SODUPE",
+    "name": "Sodupe",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.09533,
+     43.20896
+    ]
+   },
+   "properties": {
+    "id": "EST-GUENES",
+    "name": "Güeñes",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.10896,
+     43.2105
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANGUREN",
+    "name": "Aranguren",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.05048,
+     43.20205
+    ]
+   },
+   "properties": {
+    "id": "EST-SODUPE",
+    "name": "Sodupe",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.01643,
+     43.23336
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAMILLO",
+    "name": "Zaramillo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.98998,
+     43.24782
+    ]
+   },
+   "properties": {
+    "id": "EST-IRAUREGUI",
+    "name": "Irauregui",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97199,
+     43.25544
+    ]
+   },
+   "properties": {
+    "id": "EST-KASTREXANA",
+    "name": "Kastrexana",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97268,
+     43.26171
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAAGUEDA",
+    "name": "Santa Águeda",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97203,
+     43.27771
+    ]
+   },
+   "properties": {
+    "id": "EST-ZORROTZA",
+    "name": "Zorrotza",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.95322,
+     43.25965
+    ]
+   },
+   "properties": {
+    "id": "EST-BASURTOHOSPITAL",
+    "name": "Basurto-Hospital",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92524,
+     43.29188
+    ]
+   },
+   "properties": {
+    "id": "EST-AMEZOLA",
+    "name": "Amézola",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9265,
+     43.25991
+    ]
+   },
+   "properties": {
+    "id": "EST-BILBAOCONCORDIA",
+    "name": "Bilbao-Concordia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

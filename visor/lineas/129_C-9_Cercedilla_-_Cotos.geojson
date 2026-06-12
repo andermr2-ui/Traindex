@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.06603,
+      40.73766
+     ],
+     [
+      -4.00474,
+      40.78438
+     ],
+     [
+      -3.96456,
+      40.82232
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "129",
+    "name": "C-9 Cercedilla - Cotos",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 3,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.06603,
+     40.73766
+    ]
+   },
+   "properties": {
+    "id": "EST-CERCEDILLA",
+    "name": "Cercedilla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.00474,
+     40.78438
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTODENAVACERRADA",
+    "name": "Puerto de Navacerrada",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.96456,
+     40.82232
+    ]
+   },
+   "properties": {
+    "id": "EST-COTOS",
+    "name": "Cotos",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

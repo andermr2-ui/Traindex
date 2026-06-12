@@ -1,0 +1,3822 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Traindex — Visor Ferroviario de España V16</title>
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@4.1.0/dist/maplibre-gl.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/maplibre-gl@4.1.0/dist/maplibre-gl.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/@tmcw/togeojson@5.8.1/dist/togeojson.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+<script src="data_v16.js"></script>
+
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --bg: #0b0b0f;
+    --surface: #13131c;
+    --surface-hover: #1b1b28;
+    --surface-active: #222235;
+    --border: rgba(255, 255, 255, 0.08);
+    --border-active: rgba(37, 99, 235, 0.4);
+    --text: #f3f4f6;
+    --text-muted: #8b8ba3;
+    --accent: #2563eb;
+    --accent-glow: rgba(37, 99, 235, 0.35);
+    --panel-w: 390px;
+    --header-h: 64px;
+    --success: #10b981;
+    --danger: #ef4444;
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+    height: var(--header-h);
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    z-index: 100;
+    flex-shrink: 0;
+    backdrop-filter: blur(12px);
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  .logo-icon {
+    width: 36px;
+    height: 36px;
+    background: linear-gradient(135deg, var(--accent), #7c3aed);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    box-shadow: 0 0 16px var(--accent-glow);
+  }
+
+  .logo-text {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+  }
+
+  .logo-sub {
+    font-size: 11px;
+    color: var(--text-muted);
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+
+  .header-right {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .btn {
+    background: var(--surface-hover);
+    border: 1px solid var(--border);
+    color: var(--text);
+    padding: 8px 14px;
+    border-radius: 8px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .btn:hover {
+    background: var(--surface-active);
+    border-color: rgba(255,255,255,0.15);
+  }
+
+  .btn-primary {
+    background: var(--accent);
+    border-color: transparent;
+    color: #fff;
+    box-shadow: 0 4px 12px var(--accent-glow);
+  }
+
+  .btn-primary:hover {
+    background: #3b82f6;
+    transform: translateY(-1px);
+    box-shadow: 0 6px 16px var(--accent-glow);
+  }
+
+  .btn-danger {
+    background: rgba(239, 68, 68, 0.1);
+    border-color: rgba(239, 68, 68, 0.2);
+    color: #fca5a5;
+  }
+
+  .btn-danger:hover {
+    background: var(--danger);
+    color: #fff;
+    border-color: transparent;
+  }
+
+  .btn-active {
+    background: var(--success) !important;
+    color: #fff !important;
+    border-color: transparent !important;
+    box-shadow: 0 0 16px rgba(16, 185, 129, 0.4);
+  }
+
+  .main {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  /* PANEL LATERAL */
+  .panel {
+    width: var(--panel-w);
+    background: var(--surface);
+    border-right: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    flex-shrink: 0;
+    transition: width 0.35s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.35s ease;
+  }
+
+  .panel.collapsed {
+    width: 0 !important;
+    border-right: none !important;
+  }
+
+  .panel-sections-container {
+    flex: 1;
+    overflow-y: auto;
+  }
+
+  .panel-sections-container::-webkit-scrollbar { width: 4px; }
+  .panel-sections-container::-webkit-scrollbar-thumb { background: var(--border); border-radius: 4px; }
+
+  .panel-section {
+    padding: 16px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .panel-title {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .drop-zone {
+    border: 1.5px dashed rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+    padding: 18px;
+    text-align: center;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.01);
+    transition: all 0.2s;
+  }
+
+  .drop-zone:hover, .drop-zone.drag-over {
+    border-color: var(--accent);
+    background: rgba(37, 99, 235, 0.04);
+  }
+
+  .drop-icon { font-size: 24px; margin-bottom: 6px; }
+  .drop-text { font-size: 12px; color: var(--text-muted); }
+  .drop-text span { color: var(--accent); font-weight: 600; }
+  #file-input { display: none; }
+
+  /* MODO TRAZADO INTELIGENTE */
+  .creator-form {
+    background: var(--surface-hover);
+    padding: 14px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .form-row {
+    display: flex;
+    gap: 10px;
+  }
+
+  .input-text {
+    flex: 1;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    color: #fff;
+    font-size: 12.5px;
+    outline: none;
+    transition: border-color 0.2s;
+  }
+
+  .input-text:focus {
+    border-color: var(--accent);
+  }
+
+  .input-color {
+    width: 42px;
+    height: 35px;
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 0;
+  }
+
+  .trace-modes-selector {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .trace-mode-btn {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 11px;
+    color: var(--text-muted);
+    font-weight: 600;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.2s;
+  }
+
+  .trace-mode-btn.active {
+    border-color: var(--accent);
+    color: #fff;
+    background: rgba(37, 99, 235, 0.1);
+  }
+
+  /* LISTADO DE PUNTOS TRAZADOS */
+  .trace-points-list {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    max-height: 120px;
+    overflow-y: auto;
+    padding: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .trace-point-item {
+    font-size: 11px;
+    padding: 4px 8px;
+    background: var(--surface-hover);
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .trace-point-del {
+    color: var(--danger);
+    cursor: pointer;
+    font-weight: bold;
+  }
+
+  /* ESTADÍSTICAS */
+  .stats-grid {
+    display: flex;
+    gap: 8px;
+  }
+
+  .stat-card {
+    flex: 1;
+    background: var(--surface-hover);
+    border-radius: 10px;
+    padding: 12px 10px;
+    text-align: center;
+    border: 1px solid var(--border);
+  }
+
+  .stat-num {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+  }
+
+  .stat-label {
+    font-size: 9px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    margin-top: 2px;
+    letter-spacing: 0.5px;
+  }
+
+  /* LISTA DE LÍNEAS */
+  .search-wrap {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    background: rgba(0,0,0,0.1);
+  }
+
+  .search-input {
+    width: 100%;
+    background: var(--surface-hover);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    color: #fff;
+    font-size: 12px;
+    outline: none;
+  }
+
+  .search-input:focus {
+    border-color: var(--border-active);
+  }
+
+  .filters-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+    margin-top: 8px;
+  }
+
+  .filter-select {
+    background: var(--surface-hover);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 8px;
+    color: var(--text);
+    font-size: 11px;
+    outline: none;
+    cursor: pointer;
+    width: 100%;
+    transition: border-color 0.15s;
+  }
+
+  .filter-select:hover, .filter-select:focus {
+    border-color: var(--border-active);
+  }
+
+  .lines-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .hierarchy-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid var(--border);
+    padding: 8px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    user-select: none;
+    transition: background 0.15s, border-color 0.15s;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .hierarchy-header:hover {
+    background: var(--surface-hover);
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .country-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 8px;
+  }
+
+  .country-header {
+    background: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.12);
+    font-size: 13.5px;
+    padding: 10px 14px;
+  }
+
+  .region-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-left: 12px;
+    margin-top: 4px;
+  }
+
+  .region-header {
+    background: rgba(255, 255, 255, 0.03);
+    border-color: rgba(255, 255, 255, 0.08);
+    font-size: 12.5px;
+    padding: 9px 12px;
+  }
+
+  .scope-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-left: 12px;
+    margin-top: 4px;
+  }
+
+  .scope-header {
+    background: rgba(255, 255, 255, 0.01);
+    border-color: rgba(255, 255, 255, 0.06);
+    font-size: 11.5px;
+    padding: 8px 10px;
+  }
+
+  .operator-group {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-left: 12px;
+    margin-top: 4px;
+  }
+
+  .operator-header {
+    background: var(--surface-hover);
+    border-color: rgba(255, 255, 255, 0.04);
+    font-size: 11px;
+    padding: 7px 9px;
+  }
+
+  .hierarchy-content {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    margin-top: 2px;
+    margin-bottom: 4px;
+  }
+
+  .hierarchy-content.collapsed {
+    display: none;
+  }
+
+  .operator-content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding-left: 8px;
+    border-left: 1.5px dashed var(--border);
+    margin-left: 10px;
+    margin-top: 4px;
+    margin-bottom: 8px;
+  }
+
+  .switch-mini {
+    position: relative;
+    display: inline-block;
+    width: 32px;
+    height: 18px;
+    flex-shrink: 0;
+  }
+
+  .switch-mini input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+
+  .slider-mini {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 18px;
+    transition: 0.2s;
+  }
+
+  .slider-mini:before {
+    position: absolute;
+    content: "";
+    height: 14px;
+    width: 14px;
+    left: 2px;
+    bottom: 2px;
+    background-color: #fff;
+    border-radius: 50%;
+    transition: 0.2s;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  }
+
+  .switch-mini input:checked + .slider-mini {
+    background-color: #10b981;
+  }
+
+  .switch-mini input:checked + .slider-mini:before {
+    transform: translateX(14px);
+  }
+
+  .line-item {
+    background: var(--surface-hover);
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: border-color 0.2s;
+  }
+
+  .line-item:hover {
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .line-item-main {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .line-dot {
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    color: #fff;
+    font-weight: 700;
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+  }
+
+  .line-info {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .line-name {
+    font-size: 13px;
+    font-weight: 600;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .line-meta {
+    font-size: 11px;
+    color: var(--text-muted);
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    margin-top: 2px;
+  }
+
+  .op-mini-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: rgba(0,0,0,0.2);
+    padding: 2px 6px;
+    border-radius: 4px;
+    border: 1px solid var(--border);
+    font-size: 10px;
+    color: #e2e2e9;
+  }
+
+  .op-mini-logo {
+    width: 12px;
+    height: 12px;
+    object-fit: contain;
+  }
+
+  .line-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: auto;
+  }
+
+  .line-toggle {
+    width: 32px;
+    height: 18px;
+    background: var(--bg);
+    border-radius: 10px;
+    position: relative;
+    cursor: pointer;
+    border: 1px solid var(--border);
+  }
+
+  .line-toggle.active {
+    background: var(--success);
+    border-color: transparent;
+  }
+
+  .line-toggle::after {
+    content: '';
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    background: #fff;
+    border-radius: 50%;
+    top: 2px;
+    left: 2px;
+    transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .line-toggle.active::after {
+    left: 16px;
+  }
+
+  .line-del {
+    font-size: 14px;
+    color: var(--text-muted);
+    cursor: pointer;
+    padding: 2px;
+    transition: color 0.2s;
+  }
+
+  .line-del:hover {
+    color: var(--danger);
+  }
+
+  /* EDITOR DE LÍNEA EXTENDIDO */
+  .line-extended-editor {
+    border-top: 1px solid rgba(255,255,255,0.05);
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .editor-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+
+  .inline-label-input {
+    display: flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+
+  .inline-label-input label {
+    font-size: 9px;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+
+  .inline-label-input input, .inline-label-input select {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 6px 8px;
+    color: #fff;
+    font-size: 11.5px;
+    width: 100%;
+    outline: none;
+  }
+
+  .inline-label-input input:focus, .inline-label-input select:focus {
+    border-color: var(--border-active);
+  }
+
+  .empty-state {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    text-align: center;
+    padding: 40px 20px;
+    gap: 12px;
+  }
+
+  .empty-icon { font-size: 32px; opacity: 0.3; }
+
+  .local-catalog {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .catalog-group,
+  .catalog-subgroup {
+    border: 1px solid rgba(148, 163, 184, 0.18);
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    overflow: hidden;
+  }
+
+  .catalog-group > summary,
+  .catalog-subgroup > summary {
+    cursor: pointer;
+    padding: 10px 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    font-size: 12px;
+    font-weight: 700;
+    color: #f8fafc;
+    list-style: none;
+  }
+
+  .catalog-group details,
+  .catalog-subgroup details {
+    padding-left: 10px;
+  }
+
+  .catalog-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 10px 12px;
+    border-top: 1px solid rgba(148, 163, 184, 0.12);
+    background: rgba(0, 0, 0, 0.04);
+  }
+
+  .catalog-item:first-of-type {
+    border-top: none;
+  }
+
+  .catalog-item-info {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+  }
+
+  .catalog-item-title {
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .catalog-item-description {
+    font-size: 11px;
+    color: var(--text-muted);
+    line-height: 1.4;
+  }
+
+  .catalog-item-meta {
+    font-size: 11px;
+    color: var(--text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .group-count {
+    font-size: 10px;
+    background: rgba(148, 163, 184, 0.18);
+    color: var(--text-muted);
+    padding: 3px 8px;
+    border-radius: 999px;
+    white-space: nowrap;
+  }
+
+  .catalog-btn-load {
+    min-width: 120px;
+  }
+
+  /* MAPA */
+  #map {
+    flex: 1;
+    background: var(--bg);
+    position: relative;
+  }
+
+  /* POPUP EDITOR */
+  .popup-editor {
+    width: 250px;
+  }
+
+  .popup-title {
+    font-weight: 700;
+    margin-bottom: 12px;
+    font-size: 14px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 8px;
+  }
+
+  .popup-field {
+    margin-bottom: 10px;
+  }
+
+  .popup-field label {
+    display: block;
+    font-size: 9px;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
+
+  .popup-input, .popup-select {
+    width: 100%;
+    background: var(--surface-hover);
+    border: 1px solid var(--border);
+    color: #fff;
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    outline: none;
+  }
+
+  .popup-input:focus, .popup-select:focus {
+    border-color: var(--accent);
+  }
+
+  .maplibregl-popup-content {
+    background: var(--surface) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 14px !important;
+    color: var(--text) !important;
+    padding: 16px !important;
+    box-shadow: 0 16px 40px rgba(0,0,0,0.7) !important;
+  }
+
+  .maplibregl-popup-close-button {
+    color: var(--text-muted) !important;
+    padding: 6px 10px !important;
+  }
+
+  /* TOAST NOTIFICACIONES GLOW */
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: #141424;
+    border: 1px solid var(--accent);
+    color: #fff;
+    border-radius: 10px;
+    padding: 14px 24px;
+    font-size: 12.5px;
+    font-weight: 600;
+    z-index: 9999;
+    transition: transform 0.25s cubic-bezier(0.1, 0.8, 0.3, 1);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.6), 0 0 16px var(--accent-glow);
+  }
+
+  .toast.show {
+    transform: translateX(-50%) translateY(0);
+  }
+
+  /* BOTÓN DE COLLAPSE LATERAL PREMIUM */
+  .sidebar-toggle-btn {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    z-index: 10;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text);
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+  }
+  .sidebar-toggle-btn:hover {
+    background: var(--surface-hover);
+    border-color: rgba(255, 255, 255, 0.15);
+    transform: scale(1.05);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.6);
+  }
+
+  /* DISEÑO DE ATLAS FERROVIARIO Y PARADAS */
+  .catalog-item-atlas {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 8px;
+    transition: all 0.2s ease;
+  }
+  .catalog-item-atlas:hover {
+    background: var(--surface-hover);
+    border-color: rgba(255, 255, 255, 0.12);
+  }
+  .atlas-line-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .atlas-line-info {
+    flex: 1;
+    min-width: 0;
+  }
+  .atlas-stops-list {
+    margin-top: 10px;
+    padding-top: 8px;
+    border-top: 1px dashed var(--border);
+  }
+  .stops-title {
+    font-size: 9px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+  .stops-grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    max-height: 120px;
+    overflow-y: auto;
+    padding: 4px 0;
+  }
+  .stop-badge {
+    background: var(--bg);
+    border: 1px solid var(--border);
+    color: #e2e8f0;
+    padding: 3px 6px;
+    border-radius: 6px;
+    font-size: 10.5px;
+    font-weight: 500;
+    transition: all 0.15s ease;
+  }
+  .stop-badge:hover {
+    border-color: var(--accent);
+    color: #fff;
+  }
+  .btn-sm {
+    padding: 4px 8px !important;
+    font-size: 10px !important;
+    border-radius: 6px !important;
+  }
+
+  /* CATÁLOGO V16 */
+  .cat-ccaa-summary {
+    font-size: 13px; font-weight: 700; color: #f8fafc;
+    padding: 8px 10px; cursor: pointer;
+  }
+  .cat-ccaa-body { padding-left: 10px; }
+  .cat-prov-summary {
+    font-size: 12px; font-weight: 700; color: #e2e8f0;
+    padding: 6px 8px; cursor: pointer;
+  }
+  .cat-prov-body { padding-left: 10px; }
+  .cat-type-summary {
+    font-size: 11px; font-weight: 600; color: #94a3b8;
+    padding: 4px 6px; cursor: pointer;
+  }
+  .cat-type-body {
+    padding: 6px 0 6px 6px;
+    border-left: 1.5px dashed var(--border);
+    margin-left: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .group-count {
+    margin-left: auto; font-size: 10px;
+    background: rgba(255,255,255,0.08);
+    padding: 2px 6px; border-radius: 999px;
+  }
+  details.catalog-group, details.catalog-subgroup {
+    margin: 2px 0;
+  }
+</style>
+
+<script>
+
+</script>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-icon">🛤️</div>
+    <div>
+      <div class="logo-text">Cercanías Europa</div>
+      <div class="logo-sub">Base de Datos Traindex — V16</div>
+    </div>
+  </div>
+  <div class="header-right">
+    <button class="btn btn-primary" id="btn-trace-mode" onclick="toggleLineTraceMode()">🚀 Trazar Vía</button>
+    <button class="btn" id="btn-toggle-stations" onclick="toggleStationVisibility()">👁️ Ocultar Estaciones</button>
+    <button class="btn" onclick="hideAllLines()">Ocultar Todo</button>
+    <button class="btn" onclick="showAllLines()">Mostrar Todo</button>
+    <button class="btn btn-danger" onclick="clearAllDatabase()">⚠️ Borrar Base de Datos</button>
+    <button class="btn btn-primary" onclick="document.getElementById('file-input').click()">＋ Importar Archivos</button>
+    <input type="file" id="file-input" accept=".kml,.kmz,.geojson,.json,.csv" multiple>
+  </div>
+</header>
+
+<div class="main">
+  <div class="panel">
+    <div class="panel-sections-container">
+      <div class="panel-section">
+        <div class="panel-title">Catálogo de Líneas</div>
+        <div style="font-size: 12px; margin-bottom: 10px; color: var(--text-muted);">
+          Navegá por <strong>CCAA › Provincia › Tipo de Red</strong>. Hacé clic en <strong>＋Cargar</strong> para ver la traza GeoJSON y las estaciones en el mapa.
+        </div>
+        <div id="local-catalog" class="local-catalog"></div>
+      </div>
+
+      <div class="panel-section">
+        <div class="panel-title">Trazador Inteligente de Vías</div>
+        <div class="creator-form">
+          <div class="form-row">
+            <input type="text" id="new-line-name" class="input-text" placeholder="Nombre de la línea (Ej: Línea R4)">
+            <input type="color" id="new-line-color" class="input-color" value="#3b82f6">
+          </div>
+          
+          <div class="trace-modes-selector">
+            <div id="mode-trace-rail" class="trace-mode-btn active" onclick="setTraceMode('rail')">🧲 Vía OSM (Libre)</div>
+            <div id="mode-trace-station" class="trace-mode-btn" onclick="setTraceMode('station')">🚉 Entre Estaciones</div>
+          </div>
+
+          <div id="trace-points-panel" style="display:none; flex-direction:column; gap:8px;">
+            <div style="font-size:10px; font-weight:700; color:var(--text-muted); text-transform:uppercase;">Puntos del Recorrido:</div>
+            <div class="trace-points-list" id="trace-points-list"></div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="panel-section">
+        <div class="panel-title">Estadísticas de Red</div>
+        <div class="stats-grid">
+          <div class="stat-card">
+            <div class="stat-num" id="stat-lines">0</div>
+            <div class="stat-label">Líneas</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num" id="stat-stations">0</div>
+            <div class="stat-label">Estaciones</div>
+          </div>
+          <div class="stat-card">
+            <div class="stat-num" id="stat-km">0</div>
+            <div class="stat-label">km Total</div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="search-wrap">
+        <input type="text" id="search-input" class="search-input" placeholder="Buscar línea o estación..." oninput="triggerSearch(this.value)">
+        <div class="filters-grid">
+          <select id="filter-country" class="filter-select" onchange="updateNetwork()">
+            <option value="">🌎 Todos los Países</option>
+            <option value="españa">🇪🇸 España</option>
+            <option value="francia">🇫🇷 Francia</option>
+            <option value="suiza">🇨🇭 Suiza</option>
+            <option value="alemania">🇩🇪 Alemania</option>
+            <option value="reino_unido">🇬🇧 Reino Unido</option>
+          </select>
+          <select id="filter-region" class="filter-select" onchange="updateNetwork()">
+            <option value="">🗺️ Todas las Regiones</option>
+            <!-- España -->
+            <option value="catalunya">Cataluña</option>
+            <option value="madrid">Madrid</option>
+            <option value="valencia">C. Valenciana</option>
+            <option value="andalucia">Andalucía</option>
+            <option value="pais_vasco">País Vasco</option>
+            <option value="asturias">Asturias</option>
+            <option value="cantabria">Cantabria</option>
+            <option value="murcia">Murcia</option>
+            <option value="aragon">Aragón</option>
+            <!-- Europa -->
+            <option value="ile_de_france">Île-de-France</option>
+            <option value="rhone_alpes">Ródano-Alpes</option>
+            <option value="zurich">Zúrich</option>
+            <option value="geneva">Ginebra</option>
+            <option value="berlin">Berlín</option>
+            <option value="bayern">Baviera</option>
+            <option value="london">Londres</option>
+            <option value="greater_manchester">Manchester</option>
+          </select>
+          <select id="filter-operator" class="filter-select" onchange="updateNetwork()">
+            <option value="">🚉 Todos los Operadores</option>
+            <option value="rodalies">Rodalies / Cercanías</option>
+            <option value="fgc">FGC</option>
+            <option value="tmb">Metro TMB</option>
+            <option value="renfe">Renfe Operadora</option>
+            <option value="feve">Renfe Feve</option>
+            <option value="euskotren">Euskotren</option>
+            <option value="metrovalencia">Metrovalencia</option>
+            <option value="metro_sevilla">Metro Sevilla</option>
+            <option value="metro_madrid">Metro Madrid</option>
+            <option value="sncf">SNCF</option>
+            <option value="desconocido">Otros Operadores</option>
+          </select>
+          <select id="filter-scope" class="filter-select" onchange="updateNetwork()">
+            <option value="">⚡ Todos los Tipos</option>
+            <option value="metro">🚇 Metro</option>
+            <option value="cercanias">🚆 Cercanías</option>
+            <option value="regional">🚄 Regional / MD</option>
+            <option value="larga_distancia">⚡ Alta Velocidad</option>
+          </select>
+        </div>
+      </div>
+      
+      <div id="lines-container" class="lines-list">
+        <div class="empty-state">
+          <div class="empty-icon">🗺️</div>
+          <div>Cargá archivos KML o KMZ para poblar tu infraestructura de red.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div id="map">
+    <button id="btn-toggle-sidebar" class="sidebar-toggle-btn" onclick="toggleSidebar()" title="Mostrar/Ocultar barra lateral">◀</button>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+function toggleSidebar() {
+  const panel = document.querySelector('.panel');
+  const btn = document.getElementById('btn-toggle-sidebar');
+  if (!panel || !btn) return;
+  panel.classList.toggle('collapsed');
+  
+  if (panel.classList.contains('collapsed')) {
+    btn.innerHTML = '📂';
+    btn.setAttribute('title', 'Mostrar barra lateral');
+  } else {
+    btn.innerHTML = '◀';
+    btn.setAttribute('title', 'Ocultar barra lateral');
+  }
+  
+  // Redimensionar el mapa de forma fluida durante la animación (350ms)
+  let count = 0;
+  const interval = setInterval(() => {
+    if (window.map) window.map.resize();
+    count++;
+    if (count > 35) clearInterval(interval);
+  }, 10);
+}
+
+// --- OPERADORES OFICIALES ---
+const OPERATORS_LIBRARY = {
+  'rodalies': { name: 'Rodalies / Cercanías', logo: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Rodalies_de_Catalunya_logo.svg', mainColor: '#fe5c00' },
+  'fgc': { name: 'FGC', logo: 'https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_FGC.svg', mainColor: '#00aaad' },
+  'tmb': { name: 'Metro TMB', logo: 'https://upload.wikimedia.org/wikipedia/commons/3/3a/Transports_Metropolitans_de_Barcelona_logo.svg', mainColor: '#ee1c25' },
+  'renfe': { name: 'Renfe Operadora', logo: 'https://upload.wikimedia.org/wikipedia/commons/8/8e/Renfe_logo.svg', mainColor: '#9c1f5e' },
+  'feve': { name: 'Renfe Feve', logo: 'https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_FEVE.svg', mainColor: '#004777' },
+  'euskotren': { name: 'Euskotren', logo: 'https://upload.wikimedia.org/wikipedia/commons/4/4c/Euskotren_Logo.svg', mainColor: '#009fe3' },
+  'metrovalencia': { name: 'Metrovalencia', logo: 'https://upload.wikimedia.org/wikipedia/commons/c/ca/Metrovalencia_logo.svg', mainColor: '#e2001a' },
+  'metro_sevilla': { name: 'Metro de Sevilla', logo: 'https://upload.wikimedia.org/wikipedia/commons/c/c5/Metro_de_Sevilla_Logo.svg', mainColor: '#00aaad' },
+  'metro_madrid': { name: 'Metro de Madrid', logo: 'https://upload.wikimedia.org/wikipedia/commons/4/46/Metro_Madrid_Logo.svg', mainColor: '#0072ce' },
+  'sncf': { name: 'SNCF', logo: 'https://upload.wikimedia.org/wikipedia/commons/c/c9/SNCF_logo_2011.svg', mainColor: '#002060' },
+  'desconocido': { name: 'Operador Genérico', logo: '', mainColor: '#7e7e96' }
+};
+
+const COUNTRY_NAMES = {
+  'españa': '🇪🇸 España',
+  'francia': '🇫🇷 Francia',
+  'suiza': '🇨🇭 Suiza',
+  'alemania': '🇩🇪 Alemania',
+  'reino_unido': '🇬🇧 Reino Unido'
+};
+
+const REGION_NAMES = {
+  'catalunya': 'Cataluña',
+  'madrid': 'Madrid',
+  'valencia': 'C. Valenciana',
+  'andalucia': 'Andalucía',
+  'pais_vasco': 'País Vasco',
+  'galicia': 'Galicia',
+  'asturias': 'Asturias',
+  'cantabria': 'Cantabria',
+  'aragon': 'Aragón',
+  'murcia': 'Murcia / Alicante',
+  'ile_de_france': 'Île-de-France (París)',
+  'rhone_alpes': 'Auvergne-Rhône-Alpes (Lyon)',
+  'zurich': 'Zúrich',
+  'geneva': 'Ginebra',
+  'berlin': 'Berlín',
+  'bayern': 'Baviera (Múnich)',
+  'london': 'Gran Londres',
+  'greater_manchester': 'Gran Manchester',
+  'desconocido': 'Región Genérica'
+};
+
+const SCOPE_NAMES = {
+  'metro': { name: '🚇 Urbano / Metro', color: '#10b981' },
+  'cercanias': { name: '🚆 Cercanías / Suburbano', color: '#3b82f6' },
+  'regional': { name: '🌾 Regional / Media Distancia', color: '#f59e0b' },
+  'larga_distancia': { name: '⚡ Alta Velocidad / Larga Distancia', color: '#ec4899' }
+};
+
+function toast(message, duration = 3500) {
+  const toastEl = document.getElementById('toast');
+  if (!toastEl) return;
+  toastEl.textContent = message;
+  toastEl.classList.add('show');
+  clearTimeout(toast.timeoutId);
+  toast.timeoutId = setTimeout(() => toastEl.classList.remove('show'), duration);
+}
+
+function isValidCoordinate(coord) {
+  return Array.isArray(coord) && coord.length >= 2 && Number.isFinite(coord[0]) && Number.isFinite(coord[1]);
+}
+
+function extendBounds(bounds, coord) {
+  if (isValidCoordinate(coord)) {
+    bounds.extend(coord);
+  }
+}
+
+const state = {
+  lines: [],
+  customStations: {},
+  osmStations: {},
+  stations: [],
+  creationMode: false, 
+  traceMode: false, 
+  traceType: 'rail', // 'rail' o 'station'
+  stationsVisible: true,
+  activeTraceLine: null, 
+  clickPoints: [], // coords de los clics hechos
+  traceStations: [], // { name, coords } para el trazado entre estaciones
+  searchTerm: '',
+  collapsedCountries: {},
+  collapsedRegions: {},
+  collapsedScopes: {},
+  collapsedOperators: {},
+  catalogLines: [],
+  catalogStations: [],
+  collapsedCatalogs: {},
+  collapsedProvince: {},
+  collapsedType: {}
+};
+
+// --- ESTRUCTURA ROBUSTA INDEXEDDB ---
+const DB_NAME = "CercaniasEuropaDB_v13";
+const DB_VERSION = 1;
+let db = null;
+
+function initDB() {
+  return new Promise((resolve, reject) => {
+    const request = indexedDB.open(DB_NAME, DB_VERSION);
+    request.onerror = e => reject(e);
+    request.onsuccess = e => {
+      db = e.target.result;
+      resolve(db);
+    };
+    request.onupgradeneeded = e => {
+      const activeDb = e.target.result;
+      if (!activeDb.objectStoreNames.contains("lines")) {
+        activeDb.createObjectStore("lines", { keyPath: "id" });
+      }
+      if (!activeDb.objectStoreNames.contains("customStations")) {
+        activeDb.createObjectStore("customStations", { keyPath: "id" });
+      }
+    };
+  });
+}
+
+function saveLineToDB(line) {
+  if (!db) return;
+  const tx = db.transaction("lines", "readwrite");
+  tx.objectStore("lines").put(JSON.parse(JSON.stringify(line)));
+}
+
+function removeLineFromDB(id) {
+  if (!db) return;
+  const tx = db.transaction("lines", "readwrite");
+  tx.objectStore("lines").delete(id);
+}
+
+function saveCustomStationToDB(station) {
+  if (!db) return;
+  const tx = db.transaction("customStations", "readwrite");
+  tx.objectStore("customStations").put(station);
+}
+
+function removeCustomStationFromDB(id) {
+  if (!db) return;
+  const tx = db.transaction("customStations", "readwrite");
+  tx.objectStore("customStations").delete(id);
+}
+
+// --- INICIALIZACIÓN DEL MAPA ---
+let map;
+try {
+  if (typeof maplibregl === 'undefined') {
+    throw new Error("La librería de mapas MapLibre no pudo ser cargada. Es probable que un ad-blocker o tu red esté bloqueando el acceso a los servidores CDN CDN (unpkg.com / jsdelivr).");
+  }
+  const isFileProtocol = window.location.protocol === 'file:';
+  const mapStyle = {
+    version: 8,
+    sources: {},
+    layers: [
+      {
+        id: 'background',
+        type: 'background',
+        paint: {
+          'background-color': '#f3f3f3'
+        }
+      }
+    ]
+  };
+
+  mapStyle.sources = {
+    'osm': {
+      type: 'raster',
+      tiles: [
+        'https://a.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        'https://b.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        'https://c.tile.openstreetmap.org/{z}/{x}/{y}.png'
+      ],
+      tileSize: 256
+    },
+    'openrailway': {
+      type: 'raster',
+      tiles: [
+        'https://a.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png',
+        'https://b.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png',
+        'https://c.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png'
+      ],
+      tileSize: 256
+    }
+  };
+  mapStyle.layers.push(
+    {
+      id: 'osm',
+      type: 'raster',
+      source: 'osm',
+      paint: {
+        'raster-saturation': -0.6,
+        'raster-brightness-min': 0.6,
+        'raster-brightness-max': 1.0,
+        'raster-contrast': 0.16,
+        'raster-opacity': 0.94
+      }
+    },
+    {
+      id: 'openrailway',
+      type: 'raster',
+      source: 'openrailway',
+      paint: {
+        'raster-opacity': 0.9
+      }
+    }
+  );
+
+  map = new maplibregl.Map({
+    container: 'map',
+    style: mapStyle,
+    center: [2.17, 41.39], zoom: 11
+  });
+  
+  map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right');
+  
+  map.on('load', async () => {
+    try {
+      await initDB();
+      updateDirNetworks();
+    } catch(e) {
+      console.error("Error al arrancar IndexedDB:", e);
+      toast("⚠️ indexedDB falló. Usando modo de memoria local.");
+      updateDirNetworks();
+    }
+    renderLocalCatalog();
+    ; // Intentar carga automática del Atlas (requiere servidor local)
+    
+    // Alerta de protocolo de archivo local (file://)
+    if (window.location.protocol === 'file:') {
+      const selectEl = document.getElementById('dir-country');
+      if (selectEl) {
+        const parentContainer = selectEl.closest('.form-row').parentNode;
+        const banner = document.createElement('div');
+        banner.style.cssText = 'background: rgba(234, 179, 8, 0.12); border: 1px solid #f59e0b; border-radius: 8px; padding: 10px; margin-bottom: 10px; font-size: 11px; line-height: 1.5; color: #fbbf24;';
+        banner.innerHTML = `
+          <strong style="color:#b45309;">⚠️ Modo local (file://)</strong><br>
+          El visor intenta cargar mosaicos remotos, pero Chrome/Edge restringen esas peticiones cuando abrís el HTML directamente desde el disco.<br><br>
+          <strong>Solución rápida:</strong> ejecutá un servidor local desde esta carpeta y abrí la URL recomendada.<br>
+          <code>python serve.py</code> o <code>start_local_server.bat</code><br>
+          <a href="http://localhost:8000/visor_trenes_v14.html" target="_blank" style="color: #f59e0b; font-weight: 700; text-decoration: underline;">http://localhost:8000/visor_trenes_v14.html</a>
+        `;
+        parentContainer.insertBefore(banner, parentContainer.firstChild);
+      }
+    }
+  });
+} catch(err) {
+  console.error("Falla crítica en MapLibre GL JS:", err);
+  document.addEventListener('DOMContentLoaded', () => {
+    const mapDiv = document.getElementById('map');
+    if (mapDiv) {
+      mapDiv.innerHTML = `
+        <div style="display:flex; flex-direction:column; align-items:center; justify-content:center; height:100%; padding:40px; text-align:center; color:var(--text); background:var(--surface); border:1px solid var(--border); border-radius:12px; margin:24px; gap:20px; box-shadow:0 12px 40px rgba(0,0,0,0.5);">
+          <div style="font-size:64px; animation: pulse 2s infinite;">🗺️</div>
+          <h2 style="font-weight:700; color:#fff; letter-spacing:-0.5px;">Error al Cargar el Mapa</h2>
+          <p style="font-size:13px; max-width:440px; color:var(--text-muted); line-height:1.7;">
+            ${err.message}<br><br>
+            <strong>¿Cómo solucionarlo?</strong> Revisa tu conexión a internet o intenta cambiar las URLs de las librerías a un servidor local o CDN alternativo.
+          </p>
+          <button class="btn btn-primary" onclick="location.reload()" style="font-weight:700; padding:10px 24px;">Reintentar Cargar</button>
+        </div>
+      `;
+    }
+  });
+}
+
+async function loadInitialData() {
+  if (!db) return;
+  
+  try {
+    const stations = await new Promise((resolve, reject) => {
+      const tx = db.transaction("customStations", "readonly");
+      const store = tx.objectStore("customStations");
+      const req = store.getAll();
+      req.onsuccess = () => resolve(req.result || []);
+      req.onerror = () => reject(req.error);
+    });
+    stations.forEach(st => {
+      state.customStations[st.id] = st;
+    });
+
+    const lines = await new Promise((resolve, reject) => {
+      const tx = db.transaction("lines", "readonly");
+      const store = tx.objectStore("lines");
+      const req = store.getAll();
+      req.onsuccess = () => resolve(req.result || []);
+      req.onerror = () => reject(req.error);
+    });
+    
+    state.lines = lines;
+    if (state.lines.length > 0) {
+      state.lines.forEach(line => { drawLineOnMap(line); });
+    }
+    
+    if (typeof CATALOGLINES !== 'undefined' && CATALOGLINES.length > 0) {
+      state.catalogLines = CATALOGLINES;
+    }
+    if (typeof CATALOGSTATIONS !== 'undefined') {
+      state.catalogStations = CATALOGSTATIONS;
+      loadCatalogStations();
+    }
+    
+    renderLocalCatalog();
+    updateNetwork();
+    toast(`Catálogo: ${state.catalogLines.length} líneas, ${state.catalogStations.length} estaciones.`);
+    
+  } catch (err) {
+    console.error("Error cargando datos iniciales:", err);
+    toast("Error restaurando infraestructura desde indexedDB.");
+  }
+}
+
+function loadCatalogStations() {
+  if (!state.catalogStations || state.catalogStations.length === 0) return;
+  state.catalogStations.forEach(st => {
+    const id = 'catstation_' + st.id;
+    if (!state.customStations[id]) {
+      state.customStations[id] = {
+        id: id,
+        name: st.name,
+        coords: [st.lon, st.lat],
+        type: 'Estación de Ferrocarril',
+        lines: [],
+        municipio: st.municipio,
+        province: st.province
+      };
+    }
+  });
+}
+
+// --- DETECCIÓN DE OPERADOR AUTOMÁTICA ---
+
+// --- DETECCIÓN DE OPERADOR AUTOMÁTICA ---
+function detectOperator(text) {
+  if(!text) return 'desconocido';
+  const t = text.toLowerCase();
+  if(t.includes('feve') || t.includes('métrica') || t.includes('ram')) return 'feve';
+  if(t.includes('euskotren') || t.includes('donostia') || t.includes('topo')) return 'euskotren';
+  if(t.includes('valencia') || t.includes('fgv') || t.includes('metrovalencia')) return 'metrovalencia';
+  if(t.includes('sevilla') || t.includes('metro de sevilla')) return 'metro_sevilla';
+  if(t.includes('madrid') && (t.includes('metro') || t.includes('l1') || t.includes('l10') || t.includes('l3') || t.includes('l5') || t.includes('l6'))) return 'metro_madrid';
+  if(t.includes('rodalies') || t.includes('renfe md') || t.includes('cercanias') || t.includes('cercanías') || t.includes('cercanies')) return 'rodalies';
+  if(t.includes('fgc') || t.includes('catalans') || t.includes('vallès') || t.includes('llobregat')) return 'fgc';
+  if(t.includes('metro') || t.includes('tmb') || t.includes('l1') || t.includes('l3') || t.includes('l5') || t.includes('l9') || t.includes('l2') || t.includes('l4')) return 'tmb';
+  if(t.includes('renfe') || t.includes('ave') || t.includes('adif') || t.includes('ld')) return 'renfe';
+  if(t.includes('sncf') || t.includes('tgv')) return 'sncf';
+  return 'desconocido';
+}
+
+function detectScope(tags) {
+  if (tags.route === 'subway' || tags.railway === 'subway') return 'metro';
+  
+  const net = (tags.network || '').toLowerCase();
+  const op = (tags.operator || tags.brand || '').toLowerCase();
+  const ref = (tags.ref || '').toLowerCase();
+  const name = (tags.name || '').toLowerCase();
+  
+  // Alta Velocidad / Larga Distancia (LD)
+  if (name.includes('ave') || name.includes('tgv') || name.includes('ice') || name.includes('alta velocidad') || name.includes('larga distancia') || name.includes('ld') || op.includes('sncf inoui') || op.includes('ouigo') || op.includes('iryo') || op.includes('renfe ave') || op.includes('eurostar') || op.includes('thalys') || name.includes('alvia') || name.includes('intercity')) {
+    return 'larga_distancia';
+  }
+  
+  // Regional / Media Distancia
+  if (name.includes('regional') || name.includes('media distancia') || name.includes(' md ') || (ref.startsWith('r') && !ref.match(/^r[1-9]$/)) || tags.service === 'regional' || op.includes('sncf regional') || op.includes('ter') || op.includes('regio') || name.includes('express')) {
+    return 'regional';
+  }
+  
+  // Por defecto, cercanías/suburbano
+  return 'cercanias';
+}
+
+function detectScopeFromFilename(filename) {
+  const fn = filename.toLowerCase();
+  if (fn.includes('metro') || fn.includes('subway') || fn.includes('underground') || fn.includes('tmb') || fn.includes('ratp') || fn.includes('tfl_tube')) {
+    return 'metro';
+  }
+  if (fn.includes('ave') || fn.includes('tgv') || fn.includes('ice') || fn.includes('alta velocidad') || fn.includes('larga distancia') || fn.includes('high speed') || fn.includes('ouigo') || fn.includes('iryo')) {
+    return 'larga_distancia';
+  }
+  if (fn.includes('regional') || fn.includes('media distancia') || fn.includes('md') || fn.includes('express') || fn.includes('ter')) {
+    return 'regional';
+  }
+  return 'cercanias';
+}
+
+// --- AUTOTRAZADO E IMANTADO DE VÍAS INTELIGENTE ---
+function setTraceMode(type) {
+  state.traceType = type;
+  document.getElementById('mode-trace-rail').classList.toggle('active', type === 'rail');
+  document.getElementById('mode-trace-station').classList.toggle('active', type === 'station');
+  
+  if (state.traceMode) {
+    if (type === 'station') {
+      toast("Estaciones listas. Haz clic en las estaciones del mapa para unirlas secuencialmente por vía.");
+      document.getElementById('trace-points-panel').style.display = 'flex';
+      map.getCanvas().style.cursor = 'default';
+      map.off('click', handleRailwayRoutingLibre);
+      map.on('click', 'global_stations_layer', handleStationClickForTrace);
+    } else {
+      toast("Haz clic en las vías del mapa. Se imantará automáticamente a los raíles.");
+      document.getElementById('trace-points-panel').style.display = 'none';
+      map.getCanvas().style.cursor = 'crosshair';
+      map.off('click', 'global_stations_layer', handleStationClickForTrace);
+      map.on('click', handleRailwayRoutingLibre);
+    }
+  }
+}
+
+function toggleLineTraceMode() {
+  const nameInput = document.getElementById('new-line-name').value.trim();
+  if(!state.traceMode && !nameInput) { alert("Introducí un nombre para la nueva línea."); return; }
+
+  state.traceMode = !state.traceMode;
+  const btn = document.getElementById('btn-trace-mode');
+
+  if(state.traceMode) {
+    btn.classList.add('btn-active'); btn.textContent = "⏹️ Guardar Trazado";
+    state.clickPoints = [];
+    state.traceStations = [];
+    document.getElementById('trace-points-list').innerHTML = '';
+    
+    state.activeTraceLine = {
+      id: 'line_manual_' + Date.now(),
+      name: nameInput,
+      ref: nameInput.substring(0,3).toUpperCase(),
+      operator: detectOperator(nameInput),
+      color: document.getElementById('new-line-color').value,
+      visible: true,
+      km: 0,
+      linesGeoJSON: { type: 'FeatureCollection', features: [] },
+      pointsGeoJSON: { type: 'FeatureCollection', features: [] }
+    };
+
+    setTraceMode(state.traceType);
+  } else {
+    // Guardar Línea
+    btn.classList.remove('btn-active'); btn.textContent = "🚀 Activar Autotrazado";
+    map.getCanvas().style.cursor = '';
+    map.off('click', handleRailwayRoutingLibre);
+    map.off('click', 'global_stations_layer', handleStationClickForTrace);
+    document.getElementById('trace-points-panel').style.display = 'none';
+
+    if (state.activeTraceLine && state.activeTraceLine.linesGeoJSON.features.length > 0) {
+      // Calcular kilómetros finales
+      let totalKm = 0;
+      state.activeTraceLine.linesGeoJSON.features.forEach(f => {
+        const coords = f.geometry.coordinates;
+        for(let i=1; i<coords.length; i++) {
+          totalKm += haversine(coords[i-1], coords[i]);
+        }
+      });
+      state.activeTraceLine.km = Math.round(totalKm);
+
+      state.lines.push(state.activeTraceLine);
+      saveLineToDB(state.activeTraceLine);
+      toast(`✓ Trayecto '${state.activeTraceLine.name}' guardado (${state.activeTraceLine.km} km)`);
+    } else {
+      const id = state.activeTraceLine?.id;
+      if(id && map.getLayer(id + '_lyr')) map.removeLayer(id + '_lyr');
+      if(id && map.getSource(id + '_src')) map.removeSource(id + '_src');
+      toast("⚠️ Trazado cancelado o vacío.");
+    }
+    state.activeTraceLine = null;
+    document.getElementById('new-line-name').value = "";
+    updateNetwork();
+  }
+}
+
+// MODO LIBRE: Snapping a la vía más cercana
+async function handleRailwayRoutingLibre(e) {
+  const currentClick = [e.lngLat.lng, e.lngLat.lat];
+  toast("Buscando raíl más cercano...");
+  const snappedPoint = await snapToNearestRailway(currentClick);
+  state.clickPoints.push(snappedPoint);
+
+  if (state.clickPoints.length === 1) {
+    state.activeTraceLine.linesGeoJSON.features = [{
+      type: "Feature", geometry: { type: "LineString", coordinates: [snappedPoint, snappedPoint] }, properties: {}
+    }];
+    refreshTraceLayerOnMap();
+    return;
+  }
+
+  const prevPoint = state.clickPoints[state.clickPoints.length - 2];
+  const trackCoords = await getRailwayPathBetweenPoints(prevPoint, snappedPoint);
+  
+  let newGeometry;
+  if (trackCoords && trackCoords.length > 1) {
+    const existing = state.activeTraceLine.linesGeoJSON.features[0].geometry.coordinates;
+    // Combinamos evitando duplicar el vértice final
+    newGeometry = existing.slice(0, -1).concat(trackCoords);
+  } else {
+    // Si falla el pathfinding, trazamos línea recta
+    newGeometry = state.activeTraceLine.linesGeoJSON.features[0].geometry.coordinates.concat([snappedPoint]);
+  }
+  
+  state.activeTraceLine.linesGeoJSON.features[0].geometry.coordinates = newGeometry;
+  refreshTraceLayerOnMap();
+}
+
+// MODO ESTACIONES: Conectando estaciones secuencialmente por vías
+async function handleStationClickForTrace(e) {
+  e.preventDefault();
+  const f = e.features[0].properties;
+  const geom = e.features[0].geometry;
+  const stationName = f.name;
+  const stationCoords = geom.coordinates;
+
+  toast(`Conectando con ${stationName}...`);
+  state.traceStations.push({ name: stationName, coords: stationCoords });
+  
+  // Agregar visualmente a la lista del trazador
+  const container = document.getElementById('trace-points-list');
+  const div = document.createElement('div');
+  div.className = 'trace-point-item';
+  div.innerHTML = `<span>🚉 ${stationName}</span>`;
+  container.appendChild(div);
+
+  // Agregar estación a los puntos de la línea trazada
+  state.activeTraceLine.pointsGeoJSON.features.push({
+    type: "Feature",
+    geometry: { type: "Point", coordinates: stationCoords },
+    properties: { name: stationName }
+  });
+
+  if (state.traceStations.length === 1) {
+    state.activeTraceLine.linesGeoJSON.features = [{
+      type: "Feature", geometry: { type: "LineString", coordinates: [stationCoords, stationCoords] }, properties: {}
+    }];
+    refreshTraceLayerOnMap();
+    return;
+  }
+
+  const prevStation = state.traceStations[state.traceStations.length - 2];
+  // Imantar coordenadas entre estaciones por vía real
+  const snappedPrev = await snapToNearestRailway(prevStation.coords);
+  const snappedCurrent = await snapToNearestRailway(stationCoords);
+  
+  const trackCoords = await getRailwayPathBetweenPoints(snappedPrev, snappedCurrent);
+  
+  let newGeometry;
+  if (trackCoords && trackCoords.length > 1) {
+    const existing = state.activeTraceLine.linesGeoJSON.features[0].geometry.coordinates;
+    newGeometry = existing.slice(0, -1).concat(trackCoords).concat([stationCoords]);
+  } else {
+    newGeometry = state.activeTraceLine.linesGeoJSON.features[0].geometry.coordinates.concat([stationCoords]);
+  }
+
+  state.activeTraceLine.linesGeoJSON.features[0].geometry.coordinates = newGeometry;
+  refreshTraceLayerOnMap();
+  toast(`✓ Enlazada con éxito a ${stationName}`);
+}
+
+function refreshTraceLayerOnMap() {
+  const id = state.activeTraceLine.id;
+  if (map.getSource(id + '_src')) {
+    map.getSource(id + '_src').setData(state.activeTraceLine.linesGeoJSON);
+  } else {
+    map.addSource(id + '_src', { type: 'geojson', data: state.activeTraceLine.linesGeoJSON });
+    map.addLayer({
+      id: id + '_lyr',
+      type: 'line',
+      source: id + '_src',
+      paint: { 'line-color': state.activeTraceLine.color, 'line-width': 4.5 },
+      layout: { 'line-cap': 'round', 'line-join': 'round' }
+    });
+  }
+}
+
+// --- OVERPASS PRECISION APIS ---
+async function snapToNearestRailway([lng, lat]) {
+  const query = `[out:json][timeout:5];(way["railway"](around:280,${lat},${lng}););out geom;`;
+  try {
+    const res = await fetch(`https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`);
+    const data = await res.json();
+    if (data.elements && data.elements.length > 0) {
+      let closest = [lng, lat], minD = Infinity;
+      data.elements.forEach(el => {
+        el.geometry?.forEach(pt => {
+          const d = haversine([lng, lat], [pt.lon, pt.lat]);
+          if(d < minD){ minD=d; closest=[pt.lon, pt.lat]; }
+        });
+      });
+      return closest;
+    }
+  } catch(e){}
+  return [lng, lat];
+}
+
+async function getRailwayPathBetweenPoints(p1, p2) {
+  const minLat = Math.min(p1[1], p2[1]) - 0.02, maxLat = Math.max(p1[1], p2[1]) + 0.02;
+  const minLng = Math.min(p1[0], p2[0]) - 0.02, maxLng = Math.max(p1[0], p2[0]) + 0.02;
+  const query = `[out:json][timeout:8];way["railway"](${minLat},${minLng},${maxLat},${maxLng});out geom;`;
+  try {
+    const res = await fetch(`https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`);
+    const data = await res.json();
+    if (data.elements && data.elements.length > 0) {
+      let frags = data.elements.filter(el => el.geometry).map(el => el.geometry.map(g => [g.lon, g.lat]));
+      let current = p1, path = [current], visited = new Set();
+      
+      for (let s = 0; s < 100; s++) {
+        let bestF = null, rev = false, minD = Infinity, matchIdx = -1;
+        
+        // Buscar segmentos de vía adyacentes continuos
+        frags.forEach((fr, idx) => {
+          if (visited.has(idx)) return;
+          const dS = haversine(current, fr[0]);
+          const dE = haversine(current, fr[fr.length-1]);
+          if (dS < minD) { minD = dS; bestF = fr; rev = false; matchIdx = idx; }
+          if (dE < minD) { minD = dE; bestF = fr; rev = true; matchIdx = idx; }
+        });
+        
+        // Tolerancia reducida a 60m para evitar saltar a vías paralelas o andenes incorrectos
+        if (bestF && minD < 0.06) {
+          visited.add(matchIdx);
+          let coords = rev ? [...bestF].reverse() : bestF;
+          path = path.concat(coords.slice(1));
+          current = path[path.length - 1];
+          if (haversine(current, p2) < 0.05) break;
+        } else {
+          // Si hay saltos/desvíos, buscar un segmento en un radio de 150m pero guiado por la dirección hacia p2
+          let bestJumpF = null, jumpRev = false, minJumpD = Infinity, jumpIdx = -1;
+          frags.forEach((fr, idx) => {
+            if (visited.has(idx)) return;
+            const dS = haversine(current, fr[0]);
+            const dE = haversine(current, fr[fr.length-1]);
+            
+            if (dS < 0.15 && dS < minJumpD) {
+              const distToTarget = haversine(fr[fr.length-1], p2);
+              if (distToTarget < haversine(current, p2) + 0.05) {
+                minJumpD = dS; bestJumpF = fr; jumpRev = false; jumpIdx = idx;
+              }
+            }
+            if (dE < 0.15 && dE < minJumpD) {
+              const distToTarget = haversine(fr[0], p2);
+              if (distToTarget < haversine(current, p2) + 0.05) {
+                minJumpD = dE; bestJumpF = fr; jumpRev = true; jumpIdx = idx;
+              }
+            }
+          });
+          
+          if (bestJumpF) {
+            visited.add(jumpIdx);
+            let coords = jumpRev ? [...bestJumpF].reverse() : bestJumpF;
+            path = path.concat(coords.slice(1));
+            current = path[path.length - 1];
+            if (haversine(current, p2) < 0.05) break;
+          } else {
+            break;
+          }
+        }
+      }
+      path.push(p2);
+      return path;
+    }
+  } catch(e){}
+  return null;
+}
+
+async function downloadFullRailwayNetworkFromOSM() {
+  const hubSelector = document.getElementById('hub-selector');
+  const hubKey = hubSelector ? hubSelector.value : 'barcelona';
+  const hubs = {
+    'barcelona': { lat: 41.3851, lng: 2.1734, radius: 45000, name: 'Barcelona', country: 'españa', region: 'catalunya' },
+    'madrid': { lat: 40.4168, lng: -3.7037, radius: 45000, name: 'Madrid', country: 'españa', region: 'madrid' },
+    'valencia': { lat: 39.4699, lng: -0.3763, radius: 40000, name: 'Valencia', country: 'españa', region: 'valencia' },
+    'sevilla': { lat: 37.3891, lng: -5.9845, radius: 35000, name: 'Sevilla', country: 'españa', region: 'andalucia' },
+    'bilbao': { lat: 43.2630, lng: -2.9350, radius: 35000, name: 'Bilbao', country: 'españa', region: 'pais_vasco' },
+    'malaga': { lat: 36.7213, lng: -4.4214, radius: 35000, name: 'Málaga', country: 'españa', region: 'andalucia' },
+    'asturias': { lat: 43.3614, lng: -5.8502, radius: 40000, name: 'Asturias', country: 'españa', region: 'asturias' },
+    'cantabria': { lat: 43.4623, lng: -3.8099, radius: 30000, name: 'Cantabria', country: 'españa', region: 'cantabria' },
+    'murcia': { lat: 37.9922, lng: -1.1307, radius: 45000, name: 'Murcia/Alicante', country: 'españa', region: 'murcia' },
+    'zaragoza': { lat: 41.6488, lng: -0.8891, radius: 25000, name: 'Zaragoza', country: 'españa', region: 'aragon' },
+    'san_sebastian': { lat: 43.3183, lng: -1.9812, radius: 25000, name: 'San Sebastián', country: 'españa', region: 'pais_vasco' },
+    
+    // Francia
+    'paris': { lat: 48.8566, lng: 2.3522, radius: 35000, name: 'París', country: 'francia', region: 'ile_de_france' },
+    'lyon': { lat: 45.75, lng: 4.85, radius: 25000, name: 'Lyon', country: 'francia', region: 'rhone_alpes' },
+    
+    // Suiza
+    'zurich': { lat: 47.3769, lng: 8.5417, radius: 30000, name: 'Zúrich', country: 'suiza', region: 'zurich' },
+    'geneva': { lat: 46.2044, lng: 6.1432, radius: 25000, name: 'Ginebra', country: 'suiza', region: 'geneva' },
+    
+    // Alemania
+    'berlin': { lat: 52.5200, lng: 13.4050, radius: 35000, name: 'Berlín', country: 'alemania', region: 'berlin' },
+    'munich': { lat: 48.1351, lng: 11.5820, radius: 30000, name: 'Múnich', country: 'alemania', region: 'bayern' },
+    
+    // Reino Unido
+    'london': { lat: 51.5074, lng: -0.1278, radius: 40000, name: 'Londres', country: 'reino_unido', region: 'london' },
+    'manchester': { lat: 53.4808, lng: -2.2426, radius: 30000, name: 'Manchester', country: 'reino_unido', region: 'greater_manchester' }
+  };
+  
+  const hub = hubs[hubKey] || hubs['barcelona'];
+  toast(`⏳ Descargando red de ${hub.name} de OpenStreetMap... (puede demorar unos segundos)`);
+  
+  const query = `[out:json][timeout:90];
+(
+  relation["route"="subway"](around:${hub.radius},${hub.lat},${hub.lng});
+  relation["route"="train"](around:${hub.radius},${hub.lat},${hub.lng});
+  relation["route"="light_rail"](around:${hub.radius},${hub.lat},${hub.lng});
+);
+out body;
+>;
+out skel qt;`;
+ 
+  try {
+    const res = await fetch(`https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`);
+    if (!res.ok) throw new Error("Error en la conexión con Overpass");
+    const data = await res.json();
+    
+    if (!data.elements || data.elements.length === 0) {
+      toast(`⚠️ No se encontraron rutas ferroviarias en ${hub.name}.`);
+      return;
+    }
+
+    toast("⚙️ Procesando y estructurando la red...");
+    const nodes = {}, ways = {}, relations = [];
+ 
+    data.elements.forEach(el => {
+      if (el.type === 'node') {
+        nodes[el.id] = [el.lon, el.lat];
+        if (el.tags && el.tags.name) {
+          nodes[el.id].name = el.tags.name;
+          nodes[el.id].operator = el.tags.operator || el.tags.brand || '';
+          nodes[el.id].type = el.tags.railway === 'station' ? 'Estación de Ferrocarril' : 'Parada de Metro';
+        }
+      } else if (el.type === 'way') {
+        ways[el.id] = el.geometry ? el.geometry.map(g => [g.lon, g.lat]) : (el.nodes ? el.nodes.map(nId => nodes[nId]).filter(Boolean) : []);
+        ways[el.id].tags = el.tags || {};
+      } else if (el.type === 'relation') {
+        relations.push(el);
+      }
+    });
+
+    let importedLinesCount = 0;
+    let importedStationsCount = 0;
+
+    relations.forEach(rel => {
+      const tags = rel.tags || {};
+      const rawName = tags.name || tags.ref || `Línea ${rel.id}`;
+      
+      // Evitar duplicar nombres
+      if (state.lines.some(l => l.name.toLowerCase() === rawName.toLowerCase())) return;
+
+      const lineFeatures = [];
+      const pointFeatures = [];
+
+      if (rel.members) {
+        rel.members.forEach(mem => {
+          if (mem.type === 'way') {
+            const wayCoords = ways[mem.ref];
+            if (wayCoords && wayCoords.length >= 2) {
+              lineFeatures.push({
+                type: 'Feature',
+                geometry: { type: 'LineString', coordinates: wayCoords },
+                properties: {}
+              });
+            }
+          } else if (mem.type === 'node') {
+            const nodeCoords = nodes[mem.ref];
+            if (nodeCoords && nodeCoords.name) {
+              pointFeatures.push({
+                type: 'Feature',
+                geometry: { type: 'Point', coordinates: nodeCoords },
+                properties: { name: nodeCoords.name }
+              });
+            }
+          }
+        });
+      }
+
+      if (lineFeatures.length === 0 && pointFeatures.length === 0) return;
+
+      const cleanName = rawName;
+      const detectedOp = detectOperator(cleanName || tags.operator || tags.brand || '');
+      let defaultColor = tags.colour || tags.color || (OPERATORS_LIBRARY[detectedOp] ? OPERATORS_LIBRARY[detectedOp].mainColor : '#3b82f6');
+      if (defaultColor && !defaultColor.startsWith('#') && /^[0-9a-fA-F]{6}$/.test(defaultColor)) defaultColor = '#' + defaultColor;
+
+      let totalKm = 0;
+      lineFeatures.forEach(f => {
+        const coords = f.geometry.coordinates;
+        for(let i=1; i<coords.length; i++) {
+          totalKm += haversine(coords[i-1], coords[i]);
+        }
+      });
+
+      const lineId = 'line_osm_' + rel.id;
+      const newLineData = {
+        id: lineId,
+        name: cleanName,
+        ref: tags.ref || cleanName.substring(0, 3).toUpperCase(),
+        operator: detectedOp,
+        color: defaultColor,
+        iconUrl: '',
+        officialColor: '',
+        visible: true,
+        km: Math.round(totalKm),
+        country: hub.country,
+        region: hub.region,
+        scope: detectScope(tags),
+        linesGeoJSON: { type: 'FeatureCollection', features: lineFeatures },
+        pointsGeoJSON: { type: 'FeatureCollection', features: pointFeatures }
+      };
+
+      state.lines.push(newLineData);
+      saveLineToDB(newLineData);
+      drawLineOnMap(newLineData);
+      importedLinesCount++;
+
+      // Registrar estaciones en la base de datos local unificada
+      pointFeatures.forEach(f => {
+        const sName = f.properties.name;
+        const coords = f.geometry.coordinates;
+        let sId = null;
+        Object.keys(state.customStations).forEach(key => {
+          const val = state.customStations[key];
+          if (haversine(coords, val.coords) < 0.035 || sName.toLowerCase() === val.name.toLowerCase()) {
+            sId = key;
+          }
+        });
+
+        if (sId) {
+          const ex = state.customStations[sId];
+          if (!ex.lines.includes(cleanName)) ex.lines.push(cleanName);
+          saveCustomStationToDB(ex);
+        } else {
+          const newSId = 'station_osm_' + Math.random().toString(36).substring(2, 7);
+          const newStation = {
+            id: newSId,
+            name: sName,
+            coords: coords,
+            type: 'Estación de Ferrocarril',
+            operator: detectedOp,
+            lines: [cleanName]
+          };
+          state.customStations[newSId] = newStation;
+          saveCustomStationToDB(newStation);
+          importedStationsCount++;
+        }
+      });
+    });
+
+    updateNetwork();
+    
+    // Centrar mapa dinámicamente en el núcleo descargado
+    map.flyTo({
+      center: [hub.lng, hub.lat],
+      zoom: hubKey === 'barcelona' || hubKey === 'madrid' ? 10.5 : 11.5,
+      essential: true
+    });
+
+    toast(`🎉 ¡Red de ${hub.name} integrada! ${importedLinesCount} líneas y ${importedStationsCount} estaciones añadidas.`);
+  } catch (err) {
+    console.error(err);
+    toast("❌ Error al descargar datos de OpenStreetMap.");
+  }
+}
+
+// --- IMANTACIÓN FORZADA DE LÍNEA COMPLETA ---
+async function snapEntireLineToRailways(lineId) {
+  const line = state.lines.find(l => l.id === lineId);
+  if(!line) return;
+  toast("Alineando trazado con las vías reales de OSM...");
+  
+  let targetFeatures = line.linesGeoJSON.features;
+  for(let f of targetFeatures) {
+    if(f.geometry.type === 'LineString') {
+      let origCoords = f.geometry.coordinates;
+      let newCoords = [];
+      let sampleRate = origCoords.length > 60 ? Math.ceil(origCoords.length / 20) : 3;
+      for(let i=0; i<origCoords.length; i+=sampleRate) {
+        let snapped = await snapToNearestRailway(origCoords[i]);
+        newCoords.push(snapped);
+      }
+      
+      let routedCoords = [newCoords[0]];
+      for(let i=0; i<newCoords.length-1; i++) {
+        let segment = await getRailwayPathBetweenPoints(newCoords[i], newCoords[i+1]);
+        if(segment) {
+          routedCoords = routedCoords.concat(segment.slice(1));
+        } else {
+          routedCoords.push(newCoords[i+1]);
+        }
+      }
+      f.geometry.coordinates = routedCoords;
+    }
+  }
+  
+  // Recalcular Kilómetros de esta línea
+  let lineKm = 0;
+  targetFeatures.forEach(f => {
+    if (f.geometry.type === 'LineString') {
+      const coords = f.geometry.coordinates;
+      for(let i=1; i<coords.length; i++) {
+        lineKm += haversine(coords[i-1], coords[i]);
+      }
+    }
+  });
+  line.km = Math.round(lineKm);
+
+  if (map.getSource(line.id + '_src')) {
+    map.getSource(line.id + '_src').setData(line.linesGeoJSON);
+  }
+  saveLineToDB(line);
+  updateNetwork();
+  toast("✓ Trazado de precisión finalizado.");
+}
+
+// --- BUSCADOR GENERAL ---
+function triggerSearch(val) {
+  state.searchTerm = val.trim().toLowerCase();
+  renderLinesList();
+}
+
+// --- CARGA DE ESTACIONES OSM ---
+async function fetchStationsFromOSM() {
+  const currentZoom = map.getZoom();
+  if (currentZoom < 11.0) {
+    alert(`⚠️ Zoom muy alejado (${currentZoom.toFixed(1)}). Por favor acércate a la zona de interés para no saturar Overpass.`);
+    return;
+  }
+
+  const bounds = map.getBounds();
+  toast("Leyendo nodos de estaciones físicas desde OpenStreetMap...");
+  const query = `[out:json][timeout:15];node["railway"="station"](${bounds.getSouth()},${bounds.getWest()},${bounds.getNorth()},${bounds.getEast()});out;`;
+  try {
+    const res = await fetch(`https://overpass-api.de/api/interpreter?data=${encodeURIComponent(query)}`);
+    const data = await res.json();
+    if(data.elements) {
+      data.elements.forEach(el => {
+        const detectedOp = detectOperator(el.tags.operator || el.tags.brand || '');
+        state.osmStations[el.id] = {
+          name: el.tags.name || "Estación Oficial",
+          operator: detectedOp,
+          coords: [el.lon, el.lat],
+          status: 'activo'
+        };
+      });
+      toast(`✓ Se cargaron ${data.elements.length} estaciones físicas reales.`);
+      updateNetwork();
+    }
+  } catch(e) { 
+    toast("❌ Sobrecarga en el servidor Overpass. Probá en un área más pequeña."); 
+  }
+}
+
+// --- PARSER DE KML DIRECTO Y COMPLEJO (RECURSIVO DE FOLDERS) ---
+function parseKMLDocument(xmlDoc) {
+  const styles = {};
+  
+  // 1. Extraer estilos y colores (KML usa formato aabbggrr)
+  const styleNodes = xmlDoc.querySelectorAll('Style, StyleMap');
+  styleNodes.forEach(node => {
+    const id = node.getAttribute('id');
+    if (!id) return;
+    const colorNode = node.querySelector('LineStyle > color');
+    if (colorNode) {
+      const kmlCol = colorNode.textContent.trim();
+      if (kmlCol.length === 8) {
+        // Convertir aabbggrr -> #rrggbb
+        const r = kmlCol.substring(6, 8);
+        const g = kmlCol.substring(4, 6);
+        const b = kmlCol.substring(2, 4);
+        styles[id] = `#${r}${g}${b}`;
+      }
+    }
+  });
+
+  const features = [];
+  const placemarks = xmlDoc.querySelectorAll('Placemark');
+
+  placemarks.forEach(pm => {
+    const name = pm.querySelector('name')?.textContent || 'Vía';
+    const desc = pm.querySelector('description')?.textContent || '';
+    let styleUrl = pm.querySelector('styleUrl')?.textContent || '';
+    if (styleUrl.startsWith('#')) styleUrl = styleUrl.substring(1);
+
+    // Buscar nombres de Folder recursivos
+    let parentFolder = '';
+    let parent = pm.parentElement;
+    while (parent) {
+      if (parent.tagName === 'Folder') {
+        parentFolder = parent.querySelector('name')?.textContent || '';
+        break;
+      }
+      parent = parent.parentElement;
+    }
+
+    // LineStrings
+    const lineStrings = pm.querySelectorAll('LineString');
+    lineStrings.forEach(ls => {
+      const coords = parseKMLCoords(ls.querySelector('coordinates')?.textContent);
+      if (coords.length > 0) {
+        features.push({
+          type: 'Feature',
+          geometry: { type: 'LineString', coordinates: coords },
+          properties: { name, desc, parentFolder, color: styles[styleUrl] || null }
+        });
+      }
+    });
+
+    // Points
+    const points = pm.querySelectorAll('Point');
+    points.forEach(pt => {
+      const coords = parseKMLCoords(pt.querySelector('coordinates')?.textContent);
+      if (coords.length > 0) {
+        features.push({
+          type: 'Feature',
+          geometry: { type: 'Point', coordinates: coords[0] },
+          properties: { name, desc, parentFolder }
+        });
+      }
+    });
+  });
+
+  return features;
+}
+
+function parseKMLCoords(str) {
+  if (!str) return [];
+  return str.trim().split(/\s+/).map(row => {
+    const pts = row.split(',').map(Number);
+    return [pts[0], pts[1]];
+  }).filter(c => !isNaN(c[0]) && !isNaN(c[1]));
+}
+
+// --- GESTIÓN DE ARCHIVOS KML / KMZ ---
+const dropZone = document.getElementById('drop-zone');
+if (dropZone) {
+  dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('drag-over'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('drag-over'));
+  dropZone.addEventListener('drop', e => { e.preventDefault(); dropZone.classList.remove('drag-over'); handleFiles(e.dataTransfer.files); });
+}
+document.getElementById('file-input').addEventListener('change', e => handleFiles(e.target.files));
+
+function handleFiles(files) {
+  Array.from(files).forEach(file => {
+    const reader = new FileReader();
+    reader.onload = async function(e) {
+      try {
+        const buffer = e.target.result;
+        
+        // CSV del Atlas Ferroviario
+        if (file.name.toLowerCase().endsWith('.csv')) {
+          const csvText = new TextDecoder("utf-8").decode(buffer);
+          console.log("CSV loaded - use catalog system in V16");
+          toast(`✅ Atlas cargado: ${file.name} (${state.catalogLines.length} líneas)`);
+          return;
+        }
+
+        // GeoJSON support
+        if (file.name.toLowerCase().endsWith('.geojson') || file.name.toLowerCase().endsWith('.json')) {
+          const jsonText = new TextDecoder("utf-8").decode(buffer);
+          processAndAddGeoJSON(jsonText, file.name);
+          return;
+        }
+
+        const arr = new Uint8Array(buffer).subarray(0, 4);
+        let hex = "";
+        for(let i=0; i<4; i++) hex += arr[i].toString(16).padStart(2, '0');
+        
+        // Firma de cabecera ZIP (KMZ): 504b0304
+        if (hex.startsWith("504b03")) {
+          const zip = await JSZip.loadAsync(buffer);
+          const kmlKey = Object.keys(zip.files).find(n => n.toLowerCase().endsWith('.kml'));
+          if (kmlKey) {
+            const kmlText = await zip.file(kmlKey).async("string");
+            processAndAddKMLText(kmlText, file.name);
+          } else {
+            toast("❌ KMZ no contiene ningún archivo KML válido.");
+          }
+        } else {
+          // Leer como KML plano
+          const kmlText = new TextDecoder("utf-8").decode(buffer);
+          processAndAddKMLText(kmlText, file.name);
+        }
+      } catch(err) {
+        toast("❌ Archivo ilegible o dañado.");
+      }
+    };
+    reader.readAsArrayBuffer(file);
+  });
+}
+
+function processAndAddGeoJSON(text, filename) {
+  try {
+    const geojson = JSON.parse(text);
+    importGeoJSONData(geojson, filename);
+  } catch(e) {
+    console.error(e);
+    toast("❌ Error al procesar GeoJSON.");
+  }
+}
+
+function processAndAddKMLText(text, filename) {
+  try {
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(text.trim(), 'text/xml');
+    if (xmlDoc.getElementsByTagName("parsererror").length > 0) {
+      toast('❌ Estructura XML corrupta.');
+      return;
+    }
+
+    const parsedFeatures = parseKMLDocument(xmlDoc);
+    if (parsedFeatures.length === 0) {
+      toast('⚠️ KML sin coordenadas ni puntos vectoriales.');
+      return;
+    }
+
+    const id = 'line_' + Date.now() + '_' + Math.random().toString(36).substring(2, 7);
+    const cleanName = filename.replace(/\.(kml|kmz)$/i, '').replace(/_/g, ' ');
+    const lineFeatures = parsedFeatures.filter(f => f.geometry.type === 'LineString');
+    let pointFeatures = parsedFeatures.filter(f => f.geometry.type === 'Point');
+
+    // Si no hay puntos explícitos, generar automáticamente desde extremos de líneas
+    if (pointFeatures.length === 0 && lineFeatures.length > 0) {
+      const autoStations = new Map();
+      lineFeatures.forEach(lf => {
+        const coords = lf.geometry.coordinates;
+        if (coords.length >= 2) {
+          // Primer punto
+          const key1 = coords[0].join(',');
+          if (!autoStations.has(key1)) {
+            autoStations.set(key1, {
+              type: 'Feature',
+              geometry: { type: 'Point', coordinates: coords[0] },
+              properties: { name: 'Estación ' + (autoStations.size + 1), auto: true }
+            });
+          }
+          // Último punto
+          const keyLast = coords[coords.length - 1].join(',');
+          if (!autoStations.has(keyLast)) {
+            autoStations.set(keyLast, {
+              type: 'Feature',
+              geometry: { type: 'Point', coordinates: coords[coords.length - 1] },
+              properties: { name: 'Estación ' + (autoStations.size + 1), auto: true }
+            });
+          }
+        }
+      });
+      pointFeatures = Array.from(autoStations.values());
+    }
+
+    // Detectar color principal de estilos o asignar uno del set
+    const styleColor = lineFeatures.find(f => f.properties.color)?.properties.color;
+    const detectedOp = detectOperator(cleanName);
+    const defaultColor = styleColor || (OPERATORS_LIBRARY[detectedOp] ? OPERATORS_LIBRARY[detectedOp].mainColor : '#3b82f6');
+
+    // Calcular Kilómetros
+    let totalKm = 0;
+    lineFeatures.forEach(f => {
+      const coords = f.geometry.coordinates;
+      for(let i=1; i<coords.length; i++) {
+        totalKm += haversine(coords[i-1], coords[i]);
+      }
+    });
+
+    const hubSelector = document.getElementById('hub-selector');
+    const activeHubKey = hubSelector ? hubSelector.value : 'barcelona';
+    const hubMapping = {
+      'barcelona': { country: 'españa', region: 'catalunya' },
+      'madrid': { country: 'españa', region: 'madrid' },
+      'valencia': { country: 'españa', region: 'valencia' },
+      'sevilla': { country: 'españa', region: 'andalucia' },
+      'bilbao': { country: 'españa', region: 'pais_vasco' },
+      'malaga': { country: 'españa', region: 'andalucia' },
+      'asturias': { country: 'españa', region: 'asturias' },
+      'cantabria': { country: 'españa', region: 'cantabria' },
+      'murcia': { country: 'españa', region: 'murcia' },
+      'zaragoza': { country: 'españa', region: 'aragon' },
+      'san_sebastian': { country: 'españa', region: 'pais_vasco' },
+      'paris': { country: 'francia', region: 'ile_de_france' },
+      'lyon': { country: 'francia', region: 'rhone_alpes' },
+      'zurich': { country: 'suiza', region: 'zurich' },
+      'geneva': { country: 'suiza', region: 'geneva' },
+      'berlin': { country: 'alemania', region: 'berlin' },
+      'munich': { country: 'alemania', region: 'bayern' },
+      'london': { country: 'reino_unido', region: 'london' },
+      'manchester': { country: 'reino_unido', region: 'greater_manchester' }
+    };
+    const activeHub = hubMapping[activeHubKey] || { country: 'españa', region: 'catalunya' };
+
+    const newLineData = {
+      id,
+      name: cleanName,
+      ref: cleanName.substring(0, 3).toUpperCase(),
+      operator: detectedOp,
+      color: defaultColor,
+      visible: true,
+      km: Math.round(totalKm),
+      country: activeHub.country,
+      region: activeHub.region,
+      scope: detectScopeFromFilename(filename),
+      iconUrl: '',
+      officialColor: styleColor || '',
+      linesGeoJSON: { type: 'FeatureCollection', features: lineFeatures },
+      pointsGeoJSON: { type: 'FeatureCollection', features: pointFeatures }
+    };
+
+    state.lines.push(newLineData);
+    saveLineToDB(newLineData);
+    drawLineOnMap(newLineData);
+    updateNetwork();
+    
+    // Zoom automático a la traza importada
+    const bounds = new maplibregl.LngLatBounds();
+    lineFeatures.forEach(lf => lf.geometry.coordinates.forEach(coord => extendBounds(bounds, coord)));
+    pointFeatures.forEach(pf => extendBounds(bounds, pf.geometry.coordinates));
+
+    if (!bounds.isEmpty()) {
+      map.fitBounds(bounds, { padding: 50, maxZoom: 13 });
+    }
+
+    toast(`✓ Importada con éxito: ${cleanName}`);
+  } catch(e) {
+    console.error("Error al importar:", e);
+    toast('❌ Error en el parseador de KML.');
+  }
+}
+
+function drawLineOnMap(line) {
+  if (map.getSource(line.id + '_src')) return;
+  map.addSource(line.id + '_src', { type: 'geojson', data: line.linesGeoJSON });
+  map.addLayer({
+    id: line.id + '_lyr_bg',
+    type: 'line',
+    source: line.id + '_src',
+    paint: {
+      'line-color': '#ffffff',
+      'line-width': 6,
+      'line-opacity': 0.85
+    },
+    layout: {
+      'line-cap': 'round',
+      'line-join': 'round',
+      'line-sort-key': line.km ? -(line.km + 1) : -1
+    }
+  });
+  map.addLayer({
+    id: line.id + '_lyr',
+    type: 'line',
+    source: line.id + '_src',
+    paint: {
+      'line-color': line.color || '#ff0000',
+      'line-width': 5.5,
+      'line-opacity': 1,
+      'line-blur': 0.75
+    },
+    layout: {
+      'line-cap': 'round',
+      'line-join': 'round',
+      'line-sort-key': line.km ? -line.km : 0
+    }
+  });
+
+  const bounds = new maplibregl.LngLatBounds();
+  (line.linesGeoJSON?.features || []).forEach(feature => {
+    const coords = feature.geometry && feature.geometry.coordinates;
+    if (!coords) return;
+
+    if (feature.geometry.type === 'LineString') {
+      coords.forEach(coord => extendBounds(bounds, coord));
+    } else if (feature.geometry.type === 'MultiLineString') {
+      coords.flat().forEach(coord => extendBounds(bounds, coord));
+    }
+  });
+  if (!bounds.isEmpty()) {
+    const currentBounds = map.getBounds();
+    if (!currentBounds.contains(bounds)) {
+      map.fitBounds(bounds, { padding: 40, maxZoom: 13, duration: 500 });
+    }
+  }
+}
+
+// --- UNIFICADOR DE ESTACIONES (RADIO DE TOLERANCIA 35 METROS) ---
+function updateNetwork() {
+  const mergedStations = new Map();
+  let calculatedTotalKm = 0;
+
+  const fCountry = document.getElementById('filter-country')?.value || '';
+  const fRegion = document.getElementById('filter-region')?.value || '';
+  const fOperator = document.getElementById('filter-operator')?.value || '';
+  const fScope = document.getElementById('filter-scope')?.value || '';
+
+  // 1. Integrar estaciones físicas oficiales de OSM
+  Object.keys(state.osmStations).forEach(id => {
+    const st = state.osmStations[id];
+    // Filtering OSM physical stations based on operator filter too!
+    if (fOperator && st.operator !== fOperator) return;
+    mergedStations.set("osm_" + id, {
+      name: st.name,
+      coords: st.coords,
+      operator: st.operator,
+      scope: st.scope || 'generic',
+      lines: [],
+      status: st.status
+    });
+  });
+
+  // 2. Unificar estaciones flotantes y KML
+  state.lines.forEach(line => {
+    let match = true;
+    if (fCountry && line.country !== fCountry) match = false;
+    if (fRegion && line.region !== fRegion) match = false;
+    if (fOperator && line.operator !== fOperator) match = false;
+    if (fScope && line.scope !== fScope) match = false;
+
+    const finalVisible = line.visible && match;
+    if (map.getLayer(line.id + '_lyr')) {
+      map.setLayoutProperty(line.id + '_lyr', 'visibility', finalVisible ? 'visible' : 'none');
+    }
+    if (map.getLayer(line.id + '_lyr_bg')) {
+      map.setLayoutProperty(line.id + '_lyr_bg', 'visibility', finalVisible ? 'visible' : 'none');
+    }
+
+    if (!finalVisible) return;
+    calculatedTotalKm += line.km;
+
+    line.pointsGeoJSON.features.forEach(f => {
+      const rawName = (f.properties.name || f.properties.Name || 'Estación').trim();
+      const coords = f.geometry.coordinates;
+      
+      let matchedKey = null;
+      mergedStations.forEach((val, key) => {
+        // Tolerancia estricta de 35 metros (~ 0.035 km)
+        if (haversine(coords, val.coords) < 0.035 || rawName.toLowerCase() === val.name.toLowerCase()) {
+          matchedKey = key;
+        }
+      });
+
+      if (matchedKey) {
+        const ex = mergedStations.get(matchedKey);
+        if(!ex.lines.some(l => l.ref === line.ref)) {
+          ex.lines.push({ ref: line.ref, color: line.color, scope: line.scope || 'generic', operator: line.operator });
+        }
+        if (!ex.scope || ex.scope === 'generic') {
+          ex.scope = line.scope || ex.scope || 'generic';
+        }
+      } else {
+        const key = "kml_" + rawName.toLowerCase() + "_" + Math.random().toString(36).substring(2,5);
+        mergedStations.set(key, {
+          name: rawName,
+          coords: coords,
+          operator: line.operator,
+          scope: line.scope || 'generic',
+          lines: [{ ref: line.ref, color: line.color, scope: line.scope || 'generic', operator: line.operator }],
+          status: 'activo'
+        });
+      }
+    });
+  });
+
+  // 3. Integrar estaciones creadas manualmente
+  Object.keys(state.customStations).forEach(id => {
+    const st = state.customStations[id];
+    mergedStations.set("manual_" + id, {
+      name: st.name,
+      coords: st.coords,
+      operator: st.operator || 'desconocido',
+      scope: st.scope || 'generic',
+      lines: [],
+      status: st.status
+    });
+  });
+
+  // Mapeo espacial limpio en GeoJSON
+  const features = [];
+  mergedStations.forEach((val, id) => {
+    features.push({
+      type: 'Feature',
+      geometry: { type: 'Point', coordinates: val.coords },
+      properties: {
+        id: id,
+        name: val.name,
+        operator: val.operator,
+        scope: val.scope || 'generic',
+        status: val.status,
+        lines: JSON.stringify(val.lines)
+      }
+    });
+  });
+
+  if (map.getLayer('stations_layer')) map.removeLayer('stations_layer');
+  if (map.getSource('stations_source')) map.removeSource('stations_source');
+
+  if (features.length > 0) {
+    map.addSource('stations_source', { type: 'geojson', data: { type: 'FeatureCollection', features } });
+    map.addLayer({
+      id: 'stations_layer',
+      type: 'circle',
+      source: 'stations_source',
+      layout: {
+        'visibility': state.stationsVisible ? 'visible' : 'none'
+      },
+      paint: {
+        'circle-radius': ['interpolate', ['linear'], ['zoom'], 4, 4, 13, 10],
+        'circle-opacity': ['step', ['zoom'],
+          0,
+          4, 0.7,
+          7, 0.8,
+          10, 0.9,
+          13, 1
+        ],
+        'circle-color': [
+          'match', ['get', 'operator'],
+          'rodalies', '#fe5c00',
+          'fgc', '#00aaad',
+          'tmb', '#ee1c25',
+          'renfe', '#9c1f5e',
+          'metro_madrid', '#0072ce',
+          'sncf', '#002060',
+          '#3b82f6'
+        ],
+        'circle-stroke-width': 2,
+        'circle-stroke-color': '#0b0b0f'
+      }
+    });
+    
+    map.off('click', 'stations_layer', handleStationPopupOrTraceClick);
+    map.on('click', 'stations_layer', handleStationPopupOrTraceClick);
+    
+    map.on('mouseenter', 'stations_layer', () => { if(!state.traceMode) map.getCanvas().style.cursor = 'pointer'; });
+    map.on('mouseleave', 'stations_layer', () => { if(!state.traceMode) map.getCanvas().style.cursor = ''; });
+  }
+
+  // Actualizar marcadores numéricos de red
+  document.getElementById('stat-lines').textContent = state.lines.length;
+  document.getElementById('stat-stations').textContent = mergedStations.size;
+  document.getElementById('stat-km').textContent = calculatedTotalKm;
+
+  renderLinesList();
+  renderLocalCatalog();
+}
+
+function handleStationPopupOrTraceClick(e) {
+  if (state.traceMode && state.traceType === 'station') {
+    // Si estamos en modo de trazado por estaciones, este evento lo absorbe el trazador
+    return;
+  }
+  openStationEditor(e);
+}
+
+// --- EDITOR INTERACTIVO DE ESTACIÓN (POPUP) ---
+function openStationEditor(e) {
+  if (state.creationMode) return;
+  const f = e.features[0].properties;
+  const geom = e.features[0].geometry;
+  const opInfo = OPERATORS_LIBRARY[f.operator] || OPERATORS_LIBRARY['desconocido'];
+  const linesArr = JSON.parse(f.lines || '[]');
+
+  let badgesHtml = linesArr.map(l => 
+    `<span style="background:${l.color}; color:#fff; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:700; margin-right:4px;">${l.ref}</span>`
+  ).join('');
+
+  const html = `
+    <div class="popup-editor">
+      <div class="popup-title">
+        ${opInfo.logo ? `<img src="${opInfo.logo}" style="width:16px; height:16px; object-fit:contain;">` : '🚉'}
+        <span>Detalles de Estación</span>
+      </div>
+      <div class="popup-field">
+        <label>Nombre Comercial</label>
+        <input type="text" id="pop-st-name" class="popup-input" value="${f.name}">
+      </div>
+      <div class="popup-field">
+        <label>Operador Primario</label>
+        <select id="pop-st-op" class="popup-select">
+          <option value="rodalies" ${f.operator === 'rodalies' ? 'selected' : ''}>Rodalies de Catalunya</option>
+          <option value="fgc" ${f.operator === 'fgc' ? 'selected' : ''}>FGC</option>
+          <option value="tmb" ${f.operator === 'tmb' ? 'selected' : ''}>Metro TMB</option>
+          <option value="renfe" ${f.operator === 'renfe' ? 'selected' : ''}>Renfe Operadora</option>
+          <option value="sncf" ${f.operator === 'sncf' ? 'selected' : ''}>SNCF</option>
+          <option value="desconocido" ${f.operator === 'desconocido' ? 'selected' : ''}>Otro / Genérico</option>
+        </select>
+      </div>
+      <div class="popup-field">
+        <label>Estado del Servicio</label>
+        <select id="pop-st-status" class="popup-select">
+          <option value="activo" ${f.status === 'activo' ? 'selected' : ''}>En Servicio</option>
+          <option value="desuso" ${f.status === 'desuso' ? 'selected' : ''}>Fuera de Servicio</option>
+        </select>
+      </div>
+      ${linesArr.length > 0 ? `<div class="popup-field"><label>Líneas que conectan</label><div style="margin-top:4px;">${badgesHtml}</div></div>` : ''}
+      <button class="btn btn-primary" style="width:100%; justify-content:center; margin-top:8px;" onclick="saveStation('${f.id}', ${geom.coordinates[0]}, ${geom.coordinates[1]})">
+        Guardar Configuración
+      </button>
+    </div>`;
+    
+  new maplibregl.Popup({ offset: 10 }).setLngLat(geom.coordinates).setHTML(html).addTo(map);
+}
+
+function saveStation(id, lon, lat) {
+  const name = document.getElementById('pop-st-name').value.trim();
+  const operator = document.getElementById('pop-st-op').value;
+  const status = document.getElementById('pop-st-status').value;
+
+  if (id.startsWith("osm_")) {
+    const osmId = id.replace("osm_", "");
+    state.osmStations[osmId].name = name;
+    state.osmStations[osmId].operator = operator;
+    state.osmStations[osmId].status = status;
+  } else {
+    const manualId = id.replace("manual_", "");
+    state.customStations[manualId] = { id: manualId, name, operator, status, coords: [lon, lat] };
+    saveCustomStationToDB(state.customStations[manualId]);
+  }
+
+  // Cerrar popups activos
+  const popups = document.getElementsByClassName('maplibregl-popup');
+  while(popups[0]) popups[0].remove();
+  
+  updateNetwork();
+  toast("✓ Estación guardada correctamente.");
+}
+
+// --- CREACIÓN MANUAL DE ESTACIÓN FLOTANTE ---
+function toggleStationCreationMode() {
+  if (state.traceMode) return;
+  state.creationMode = !state.creationMode;
+  const btn = document.getElementById('btn-add-station');
+  if(state.creationMode) {
+    btn.classList.add('btn-active'); btn.textContent = "🎯 Clic en el Mapa";
+    map.getCanvas().style.cursor = 'crosshair';
+    map.on('click', handleMapClickForManualStation);
+  } else {
+    btn.classList.remove('btn-active'); btn.textContent = "＋ Crear Estación Manual";
+    map.getCanvas().style.cursor = '';
+    map.off('click', handleMapClickForManualStation);
+  }
+}
+
+function handleMapClickForManualStation(e) {
+  const name = prompt("Nombre de la nueva Estación:");
+  if (name && name.trim()) {
+    const id = 'man_' + Date.now();
+    const st = { id, name: name.trim(), operator: 'desconocido', status: 'activo', coords: [e.lngLat.lng, e.lngLat.lat] };
+    state.customStations[id] = st;
+    saveCustomStationToDB(st);
+    updateNetwork();
+    toast(`✓ Creada la estación: ${st.name}`);
+  }
+  toggleStationCreationMode();
+}
+
+// --- RENDERIZADO DEL PANEL LATERAL CON ACCIONES ---
+function renderLinesList() {
+  const container = document.getElementById('lines-container');
+  if (!container) return;
+
+  if (state.lines.length === 0) {
+    container.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">🗺️</div>
+        <div>No hay líneas cargadas. Usá el catálogo para cargar líneas desde la base de datos.</div>
+      </div>`;
+    return;
+  }
+
+  const fOperator = document.getElementById('filter-operator')?.value || '';
+  const fScope = document.getElementById('filter-scope')?.value || '';
+
+  const filtered = state.lines.filter(l => {
+    const matchesSearch = l.name.toLowerCase().includes(state.searchTerm);
+    if (!matchesSearch) return false;
+    if (fOperator && l.operator !== fOperator) return false;
+    if (fScope && l.scope !== fScope) return false;
+    return true;
+  });
+
+  if (filtered.length === 0) {
+    container.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-icon">🔍</div>
+        <div>Sin resultados para tu búsqueda.</div>
+      </div>`;
+    return;
+  }
+
+  const createLineHtml = (l) => {
+    const opInfo = OPERATORS_LIBRARY[l.operator] || OPERATORS_LIBRARY['desconocido'];
+    return `
+      <div class="line-item">
+        <div class="line-item-main" onclick="focusOnLine('${l.id}')" style="cursor:pointer;">
+          ${l.iconUrl ? '<img class="line-card-icon" src="' + l.iconUrl + '" alt="icon" loading="lazy">' : ''}
+          <div class="line-dot" style="background:${l.color}">${l.ref || ''}</div>
+          <div class="line-info">
+            <div class="line-name">${l.name}</div>
+            <div class="line-meta">
+              <span class="op-mini-badge">
+                ${opInfo.logo ? '<img src="' + opInfo.logo + '" class="op-mini-logo">' : '🚊'}
+                ${opInfo.name}
+              </span>
+              <span style="color:var(--text-muted)">~${l.km} km</span>
+            </div>
+          </div>
+          <div class="line-actions" onclick="event.stopPropagation();">
+            <div class="line-toggle ${l.visible ? 'active' : ''}" onclick="toggleLineVisibility('${l.id}')"></div>
+            <div class="line-del" onclick="deleteLine('${l.id}')">✕</div>
+          </div>
+        </div>
+      </div>
+    `;
+  };
+
+  container.innerHTML = filtered.map(createLineHtml).join('');
+}
+
+function parseCSV(text) {
+  const lines = [];
+  let row = [""];
+  let inQuotes = false;
+
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    const next = text[i + 1];
+
+    if (c === '"') {
+      if (inQuotes && next === '"') {
+        row[row.length - 1] += '"';
+        i++;
+      } else {
+        inQuotes = !inQuotes;
+      }
+    } else if (c === ',' && !inQuotes) {
+      row.push('');
+    } else if ((c === '\r' || c === '\n') && !inQuotes) {
+      if (c === '\r' && next === '\n') { i++; }
+      lines.push(row);
+      row = [''];
+    } else {
+      row[row.length - 1] += c;
+    }
+  }
+  if (row.length > 1 || row[0] !== '') {
+    lines.push(row);
+  }
+  return lines;
+}
+
+// processAtlasCSV removed
+
+// loadAtlasCSV removed
+
+// toggleStopsCollapse removed
+
+// normalizeFolderName removed
+
+// normalizeLineName removed
+
+async function toggleCatalogLineGeoJSON(id) {
+  const item = state.catalogLines.find(x => x.id == id);
+  if (!item) return;
+
+  const lineId = 'catline_' + id;
+  const isLoaded = state.lines.some(l => l.id === lineId);
+
+  if (isLoaded) {
+    const idx = state.lines.findIndex(l => l.id === lineId);
+    if (idx !== -1) {
+      const l = state.lines[idx];
+      if (map.getLayer(l.id + '_lyr')) map.removeLayer(l.id + '_lyr');
+      if (map.getLayer(l.id + '_lyr_bg')) map.removeLayer(l.id + '_lyr_bg');
+      if (map.getSource(l.id + '_src')) map.removeSource(l.id + '_src');
+      state.lines.splice(idx, 1);
+      removeLineFromDB(l.id);
+      updateNetwork();
+      toast(`Quitada: ${item.name}`);
+      renderLocalCatalog();
+    }
+    return;
+  }
+
+  toast(`Cargando traza para ${item.name}...`);
+  
+  try {
+    const geojsonFile = item.geojson;
+    const res = await fetch('geojson/' + geojsonFile, { cache: 'no-store' });
+    if (res.ok) {
+      const geojson = await res.json();
+      importCatalogLineGeoJSON(geojson, item);
+      return;
+    }
+  } catch (err) {}
+  
+  // Fallback: try loading _all_routes.geojson
+  try {
+    const res = await fetch('geojson/_all_routes.geojson', { cache: 'no-store' });
+    if (res.ok) {
+      const allRoutes = await res.json();
+      const features = allRoutes.features.filter(f => {
+        const props = f.properties || {};
+        return props.id == id || props.name === item.name;
+      });
+      if (features.length > 0) {
+        importCatalogLineGeoJSON({ type: 'FeatureCollection', features }, item);
+        return;
+      }
+    }
+  } catch (err) {}
+  
+  toast(`No se encontró GeoJSON para ${item.name}. Las estaciones se muestran igual.`);
+  // Still show the line (with stations only)
+  importCatalogLineGeoJSON(null, item);
+}
+
+async function toggleCatalogLineGeoJSON(id) {
+  const item = state.catalogLines.find(x => x.id == id);
+  if (!item) return;
+
+  const lineId = 'catline_' + id;
+  const isLoaded = state.lines.some(l => l.id === lineId);
+
+  if (isLoaded) {
+    const idx = state.lines.findIndex(l => l.id === lineId);
+    if (idx !== -1) {
+      const l = state.lines[idx];
+      if (map.getLayer(l.id + '_lyr')) map.removeLayer(l.id + '_lyr');
+      if (map.getLayer(l.id + '_lyr_bg')) map.removeLayer(l.id + '_lyr_bg');
+      if (map.getSource(l.id + '_src')) map.removeSource(l.id + '_src');
+      state.lines.splice(idx, 1);
+      removeLineFromDB(l.id);
+      updateNetwork();
+      toast("Quitada: " + item.name);
+      renderLocalCatalog();
+    }
+    return;
+  }
+
+  toast("Cargando traza para " + item.name + "...");
+  
+  try {
+    const res = await fetch("geojson/" + item.geojson, { cache: "no-store" });
+    if (res.ok) {
+      const geojson = await res.json();
+      importCatalogLineGeoJSON(geojson, item);
+      return;
+    }
+  } catch (err) {}
+  
+  try {
+    const res = await fetch("geojson/_all_routes.geojson", { cache: "no-store" });
+    if (res.ok) {
+      const allRoutes = await res.json();
+      const features = allRoutes.features.filter(f => {
+        const props = f.properties || {};
+        return props.id == id || props.name === item.name;
+      });
+      if (features.length > 0) {
+        importCatalogLineGeoJSON({ type: "FeatureCollection", features }, item);
+        return;
+      }
+    }
+  } catch (err) {}
+  
+  toast("No se encontró GeoJSON para " + item.name + ". Mostrando solo estaciones.");
+  importCatalogLineGeoJSON(null, item);
+}
+
+function importCatalogLineGeoJSON(geojson, item) {
+  const lineId = 'catline_' + item.id;
+  
+  let lineFeatures = [];
+  let totalKm = 0;
+  
+  if (geojson && geojson.features) {
+    lineFeatures = geojson.features.filter(f => f.geometry && (f.geometry.type === 'LineString' || f.geometry.type === 'MultiLineString'));
+    lineFeatures.forEach(lf => { totalKm += computeGeometryLength(lf.geometry); });
+  }
+
+  const newLineData = {
+    id: lineId,
+    name: item.name,
+    ref: item.name.substring(0, 3).toUpperCase(),
+    operator: detectOperator(item.operator),
+    color: item.color,
+    visible: true,
+    km: Math.round(totalKm) || 0,
+    country: 'españa',
+    region: (item.ccaa && item.ccaa[0]) ? item.ccaa[0].toLowerCase() : 'desconocido',
+    scope: detectScopeFromFilename(item.type),
+    linesGeoJSON: { type: 'FeatureCollection', features: lineFeatures },
+    pointsGeoJSON: { type: 'FeatureCollection', features: [] }
+  };
+
+  // Add station points from catalog
+  const stopsFeatures = [];
+  if (state.catalogStations && item.ccaa && item.provinces) {
+    // Find stations that belong to this line via line IDs in the station data
+    state.catalogStations.forEach(st => {
+      // Match stations that share the same province + CCAA (approximate)
+      const stProv = st.province;
+      const stCCAA = st.ccaa;
+      if (item.provinces.includes(stProv) && item.ccaa.includes(stCCAA)) {
+        stopsFeatures.push({
+          type: 'Feature',
+          geometry: { type: 'Point', coordinates: [st.lon, st.lat] },
+          properties: { name: st.name, id: st.id }
+        });
+      }
+    });
+  }
+  
+  if (lineFeatures.length === 0 && stopsFeatures.length === 0) {
+    toast('No hay datos GeoJSON ni estaciones para esta línea.');
+    return;
+  }
+  
+  newLineData.pointsGeoJSON.features = stopsFeatures;
+
+  state.lines.push(newLineData);
+  saveLineToDB(newLineData);
+  drawLineOnMap(newLineData);
+  updateNetwork();
+
+  if (lineFeatures.length > 0) {
+    const bounds = new maplibregl.LngLatBounds();
+    lineFeatures.forEach(lf => {
+      const coords = getGeometryCoordinates(lf.geometry);
+      coords.forEach(pt => extendBounds(bounds, pt));
+    });
+    if (!bounds.isEmpty()) {
+      map.fitBounds(bounds, { padding: 50, maxZoom: 13 });
+    }
+  } else if (stopsFeatures.length > 0) {
+    const bounds = new maplibregl.LngLatBounds();
+    stopsFeatures.forEach(pf => {
+      const coords = getGeometryCoordinates(pf.geometry);
+      coords.forEach(pt => extendBounds(bounds, pt));
+    });
+    if (!bounds.isEmpty()) {
+      map.fitBounds(bounds, { padding: 50, maxZoom: 13 });
+    }
+  }
+
+  toast(`Línea ${item.name} cargada (${newLineData.km} km, ${stopsFeatures.length} estaciones)`);
+  renderLocalCatalog();
+}
+function renderLocalCatalog() {
+  const container = document.getElementById('local-catalog');
+  if (!container) return;
+
+  if (!state.catalogLines || state.catalogLines.length === 0) {
+    container.innerHTML = '<div class="empty-state"><div class="empty-icon">\ud83d\udce6</div><div>No hay datos del catálogo.</div></div>';
+    return;
+  }
+
+  const lines = state.catalogLines;
+  const tree = {};
+
+  lines.forEach(function(line) {
+    if (!line.ccaa || line.ccaa.length === 0) return;
+    line.ccaa.forEach(function(cc) {
+      if (!tree[cc]) { tree[cc] = { provinces: [], byProv: {} }; }
+      
+      var provsForCC = [];
+      if (line.ccaa_prov_map && line.ccaa_prov_map[cc]) {
+        provsForCC = line.ccaa_prov_map[cc];
+      } else if (line.provinces && line.provinces.length > 0) {
+        var official = (typeof OFFICIALPROVINCES !== 'undefined' && OFFICIALPROVINCES[cc]) || [];
+        provsForCC = line.provinces.filter(function(p) { return official.indexOf(p) >= 0; });
+      }
+      if (provsForCC.length === 0) { provsForCC = ['General']; }
+      
+      provsForCC.forEach(function(prov) {
+        if (tree[cc].provinces.indexOf(prov) < 0) { tree[cc].provinces.push(prov); }
+        if (!tree[cc].byProv[prov]) { tree[cc].byProv[prov] = {}; }
+        var type = line.type || 'Otros';
+        if (!tree[cc].byProv[prov][type]) { tree[cc].byProv[prov][type] = []; }
+        tree[cc].byProv[prov][type].push(line);
+      });
+    });
+  });
+
+  var ccaaOrder = [
+    'Andalucia', 'Aragon', 'Principado de Asturias', 'Islas Baleares',
+    'Canarias', 'Cantabria', 'Castilla y Leon', 'Castilla-La Mancha',
+    'Cataluna', 'Comunidad Valenciana', 'Extremadura', 'Galicia',
+    'Madrid', 'Region de Murcia', 'Navarra', 'Pais Vasco', 'La Rioja'
+  ];
+  var sortedCCAAs = Object.keys(tree).sort(function(a, b) {
+    var ia = ccaaOrder.indexOf(a);
+    var ib = ccaaOrder.indexOf(b);
+    if (ia === -1 && ib === -1) return a.localeCompare(b);
+    if (ia === -1) return 1;
+    if (ib === -1) return -1;
+    return ia - ib;
+  });
+
+  container.innerHTML = sortedCCAAs.map(function(ccaaKey) {
+    var node = tree[ccaaKey];
+    node.provinces.sort();
+    var ccaaCount = 0;
+    Object.keys(node.byProv).forEach(function(pk) {
+      Object.keys(node.byProv[pk]).forEach(function(tk) {
+        ccaaCount += node.byProv[pk][tk].length;
+      });
+    });
+    var isCCollapsed = state.collapsedCatalogs[ccaaKey];
+    
+    return '<details class="catalog-group" ' + (!isCCollapsed ? 'open' : '') + 
+      ' ontoggle="state.collapsedCatalogs[\'' + ccaaKey + '\'] = !this.open">' +
+      '<summary class="cat-ccaa-summary">\ud83d\uddfa\ufe0f ' + ccaaKey + ' <span class="group-count">' + ccaaCount + '</span></summary>' +
+      '<div class="cat-ccaa-body">' +
+      node.provinces.map(function(provKey) {
+        var provNode = node.byProv[provKey];
+        var provCount = 0;
+        Object.keys(provNode).forEach(function(tk) { provCount += provNode[tk].length; });
+        var isPCollapsed = state.collapsedProvince[ccaaKey + '_' + provKey];
+        return '<details class="catalog-subgroup" ' + (!isPCollapsed ? 'open' : '') + 
+          ' ontoggle="state.collapsedProvince[\'' + ccaaKey + '_' + provKey + '\'] = !this.open">' +
+          '<summary class="cat-prov-summary">\ud83d\udccd ' + provKey + ' <span class="group-count">' + provCount + '</span></summary>' +
+          '<div class="cat-prov-body">' +
+          Object.keys(provNode).sort().map(function(typeKey) {
+            var typeLines = provNode[typeKey];
+            var isTCollapsed = state.collapsedType[ccaaKey + '_' + provKey + '_' + typeKey];
+            return '<details class="catalog-subgroup" ' + (!isTCollapsed ? 'open' : '') + 
+              ' ontoggle="state.collapsedType[\'' + ccaaKey + '_' + provKey + '_' + typeKey + '\'] = !this.open">' +
+              '<summary class="cat-type-summary">\ud83d\ude86 ' + typeKey + ' <span class="group-count">' + typeLines.length + '</span></summary>' +
+              '<div class="cat-type-body">' +
+              typeLines.map(function(line) { return createCatalogLineHtml(line); }).join('') +
+              '</div></details>';
+          }).join('') +
+          '</div></details>';
+      }).join('') +
+      '</div></details>';
+  }).join('');
+}
+
+function toggleOperatorAccordion(opKey) {
+  state.collapsedOperators[opKey] = !state.collapsedOperators[opKey];
+  renderLinesList();
+}
+
+function toggleOperatorVisibility(opKey, visible) {
+  state.lines.forEach(l => {
+    if (l.operator === opKey) {
+      l.visible = visible;
+      saveLineToDB(l);
+      if (map.getLayer(l.id + '_lyr')) {
+        map.setLayoutProperty(l.id + '_lyr', 'visibility', visible ? 'visible' : 'none');
+      }
+    }
+  });
+  updateNetwork();
+}
+
+function updateLineMetadata(id, field, value) {
+  const line = state.lines.find(l => l.id === id);
+  if(line) {
+    line[field] = value;
+    if(field === 'color' && map.getLayer(id + '_lyr')) {
+      map.setPaintProperty(id + '_lyr', 'line-color', value);
+    }
+    saveLineToDB(line);
+    updateNetwork();
+  }
+}
+
+function focusOnLine(id) {
+  const line = state.lines.find(l => l.id === id);
+  if (!line) return;
+  
+  const allCoords = [];
+  line.linesGeoJSON.features.forEach(f => allCoords.push(...getFeatureCoordinates(f)));
+  line.pointsGeoJSON.features.forEach(f => allCoords.push(...getFeatureCoordinates(f)));
+
+  if (allCoords.length > 0) {
+    const bounds = allCoords.reduce((b, coord) => b.extend(coord), new maplibregl.LngLatBounds(allCoords[0], allCoords[0]));
+    map.fitBounds(bounds, { padding: 60, maxZoom: 13 });
+  }
+}
+
+function toggleLineVisibility(id) {
+  const l = state.lines.find(l => l.id === id);
+  if(l) {
+    l.visible = !l.visible;
+    if (map.getLayer(id + '_lyr')) {
+      map.setLayoutProperty(id + '_lyr', 'visibility', l.visible ? 'visible' : 'none');
+    }
+    saveLineToDB(l);
+    updateNetwork();
+  }
+}
+
+function deleteLine(id) {
+  if(!confirm("¿Seguro que querés borrar esta línea de la red?")) return;
+  const idx = state.lines.findIndex(l => l.id === id);
+  if(idx !== -1) {
+    if(map.getLayer(id + '_lyr')) map.removeLayer(id + '_lyr');
+    if(map.getSource(id + '_src')) map.removeSource(id + '_src');
+    state.lines.splice(idx, 1);
+    removeLineFromDB(id);
+    updateNetwork();
+    toast("Línea eliminada.");
+  }
+}
+
+function showAllLines() {
+  state.lines.forEach(l => {
+    l.visible = true;
+    if (map.getLayer(l.id + '_lyr')) map.setLayoutProperty(l.id + '_lyr', 'visibility', 'visible');
+    saveLineToDB(l);
+  });
+  updateNetwork();
+}
+
+function hideAllLines() {
+  state.lines.forEach(l => {
+    l.visible = false;
+    if (map.getLayer(l.id + '_lyr')) map.setLayoutProperty(l.id + '_lyr', 'visibility', 'none');
+    saveLineToDB(l);
+  });
+  updateNetwork();
+}
+
+function toggleStationVisibility() {
+  state.stationsVisible = !state.stationsVisible;
+  ['stations_layer', 'catalog_stations_layer'].forEach(layerId => {
+    const layer = map.getLayer(layerId);
+    if (layer) {
+      map.setLayoutProperty(layerId, 'visibility', state.stationsVisible ? 'visible' : 'none');
+    }
+  });
+  const button = document.getElementById('btn-toggle-stations');
+  if (button) {
+    button.textContent = state.stationsVisible ? '👁️ Ocultar Estaciones' : '🚫 Mostrar Estaciones';
+  }
+}
+
+// --- LIMPIEZA TOTAL ---
+function clearAllDatabase() {
+  if(confirm("⚠️ ¿Estás completamente seguro de borrar absolutamente toda la infraestructura de la base de datos? Esto no se puede deshacer.")){
+    if (db) {
+      const txL = db.transaction("lines", "readwrite");
+      txL.objectStore("lines").clear();
+      const txS = db.transaction("customStations", "readwrite");
+      txS.objectStore("customStations").clear();
+    }
+    location.reload();
+  }
+}
+
+// --- UTILS ---
+function haversine([lon1, lat1], [lon2, lat2]) {
+  const R = 6371; // km
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLon = (lon2 - lon1) * Math.PI / 180;
+  const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLon/2)**2;
+  return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+}
+
+function getGeometryCoordinates(geometry) {
+  if (!geometry || !geometry.type || !geometry.coordinates) return [];
+  if (geometry.type === 'LineString' || geometry.type === 'MultiPoint') {
+    return geometry.coordinates;
+  }
+  if (geometry.type === 'MultiLineString' || geometry.type === 'Polygon') {
+    return geometry.coordinates.flat();
+  }
+  if (geometry.type === 'Point') {
+    return [geometry.coordinates];
+  }
+  return [];
+}
+
+function getFeatureCoordinates(feature) {
+  return feature && feature.geometry ? getGeometryCoordinates(feature.geometry) : [];
+}
+
+function computeGeometryLength(geometry) {
+  const coords = getGeometryCoordinates(geometry);
+  let total = 0;
+  for (let i = 1; i < coords.length; i++) {
+    total += haversine(coords[i - 1], coords[i]);
+  }
+  return total;
+}
+
+function getFeatureColor(properties) {
+  const rawColor = properties?.colour || properties?.color || properties?.stroke || properties?.fill;
+  if (typeof rawColor === 'string') {
+    if (rawColor.startsWith('#')) return rawColor;
+    if (/^[0-9a-fA-F]{6}$/.test(rawColor)) return `#${rawColor}`;
+  }
+  return null;
+}
+
+async function loadLocalGeoJSONFiles() {
+  const candidatePaths = ['output/lines.geojson', 'output/regional_lines.geojson'];
+  let importedCount = 0;
+
+  for (const path of candidatePaths) {
+    try {
+      const res = await fetch(path, { cache: 'no-store' });
+      if (!res.ok) continue;
+      const geojson = await res.json();
+      if (geojson) {
+        importGeoJSONData(geojson, path);
+        importedCount++;
+      }
+    } catch (err) {
+      console.warn(`No se pudo cargar ${path}:`, err);
+    }
+  }
+
+  if (importedCount > 0) {
+    toast(`✅ Se cargaron los GeoJSON locales de salida (${importedCount} archivos).`);
+  }
+}
+
+function importGeoJSONData(geojson, sourceName = 'GeoJSON') {
+  const features = geojson.type === 'FeatureCollection'
+    ? geojson.features
+    : geojson.type === 'Feature'
+      ? [geojson]
+      : Array.isArray(geojson)
+        ? geojson
+        : [];
+
+  if (features.length === 0) {
+    toast(`⚠️ ${sourceName} está vacío o no es un FeatureCollection válido.`);
+    return;
+  }
+
+  const lineFeatures = features.filter(f => f.geometry && (f.geometry.type === 'LineString' || f.geometry.type === 'MultiLineString'));
+  const pointFeatures = features.filter(f => f.geometry && (f.geometry.type === 'Point' || f.geometry.type === 'MultiPoint'));
+
+  if (lineFeatures.length === 0 && pointFeatures.length > 0) {
+    let count = 0;
+    pointFeatures.forEach(f => {
+      const name = f.properties?.name || f.properties?.nombre || 'Estación Importada';
+      const coords = getGeometryCoordinates(f.geometry)[0];
+      if (coords && coords.length >= 2) {
+        const id = 'station_' + Date.now() + '_' + Math.random().toString(36).substring(2, 7);
+        const newStation = {
+          id,
+          name,
+          coords: [coords[0], coords[1]],
+          type: f.properties?.type || 'Estación de Ferrocarril',
+          lines: []
+        };
+        state.customStations[id] = newStation;
+        saveCustomStationToDB(newStation);
+        count++;
+      }
+    });
+    updateNetwork();
+    toast(`🚉 ¡Importadas ${count} estaciones correctamente!`);
+    return;
+  }
+
+  if (lineFeatures.length > 1) {
+    let importedLines = 0;
+    lineFeatures.forEach((feature, index) => {
+      const name = feature.properties?.name || feature.properties?.ref || `${sourceName} ${index + 1}`;
+      const detectOp = detectOperator(name);
+      const color = getFeatureColor(feature.properties) || OPERATORS_LIBRARY[detectOp]?.mainColor || '#3b82f6';
+      const km = computeGeometryLength(feature.geometry);
+      const lineId = 'line_' + Date.now() + '_' + Math.random().toString(36).substring(2, 7) + '_' + index;
+      const newLineData = {
+        id: lineId,
+        name,
+        ref: (feature.properties?.ref || name).substring(0, 3).toUpperCase(),
+        operator: detectOp,
+        color,
+        iconUrl: '',
+        officialColor: feature.properties?.color || '',
+        visible: true,
+        km: Math.round(km),
+        country: feature.properties?.country || 'españa',
+        region: feature.properties?.region || 'desconocido',
+        scope: feature.properties?.scope || detectScope(feature.properties || {}),
+        linesGeoJSON: { type: 'FeatureCollection', features: [feature] },
+        pointsGeoJSON: { type: 'FeatureCollection', features: [] }
+      };
+      state.lines.push(newLineData);
+      saveLineToDB(newLineData);
+      drawLineOnMap(newLineData);
+      importedLines++;
+    });
+
+    if (pointFeatures.length > 0) {
+      pointFeatures.forEach(f => {
+        const coords = getGeometryCoordinates(f.geometry)[0];
+        if (!coords || coords.length < 2) return;
+        const id = 'station_' + Date.now() + '_' + Math.random().toString(36).substring(2, 7);
+        const newStation = {
+          id,
+          name: f.properties?.name || 'Estación Importada',
+          coords: [coords[0], coords[1]],
+          type: f.properties?.type || 'Estación de Ferrocarril',
+          lines: []
+        };
+        state.customStations[id] = newStation;
+        saveCustomStationToDB(newStation);
+      });
+    }
+
+    updateNetwork();
+    toast(`✅ Importadas ${importedLines} líneas desde ${sourceName}.`);
+    return;
+  }
+
+  // Si hay una sola línea o varios lineFeatures agrupables,
+  // mantenemos la lógica original para crear una sola entrada.
+  processGeoJSONFeatureCollection(features, sourceName);
+}
+
+function processGeoJSONFeatureCollection(features, filename) {
+  const lineFeatures = features.filter(f => f.geometry && (f.geometry.type === 'LineString' || f.geometry.type === 'MultiLineString'));
+  const pointFeatures = features.filter(f => f.geometry && (f.geometry.type === 'Point' || f.geometry.type === 'MultiPoint'));
+
+  if (lineFeatures.length === 0 && pointFeatures.length > 0) {
+    let count = 0;
+    pointFeatures.forEach(f => {
+      const name = f.properties?.name || f.properties?.nombre || 'Estación Importada';
+      const coords = getGeometryCoordinates(f.geometry)[0];
+      if (coords && coords.length >= 2) {
+        const id = 'station_' + Date.now() + '_' + Math.random().toString(36).substring(2, 7);
+        const newStation = {
+          id,
+          name,
+          coords: [coords[0], coords[1]],
+          type: f.properties?.type || 'Estación de Ferrocarril',
+          lines: []
+        };
+        state.customStations[id] = newStation;
+        saveCustomStationToDB(newStation);
+        count++;
+      }
+    });
+    updateNetwork();
+    toast(`🚉 ¡Importadas ${count} estaciones correctamente!`);
+    return;
+  }
+
+  const cleanName = filename.replace(/\.(geojson|json)$/i, '').replace(/_/g, ' ');
+  const detectedOp = detectOperator(cleanName);
+  const defaultColor = getFeatureColor(lineFeatures[0]?.properties) || OPERATORS_LIBRARY[detectedOp]?.mainColor || '#3b82f6';
+
+  let totalKm = 0;
+  lineFeatures.forEach(f => {
+    totalKm += computeGeometryLength(f.geometry);
+  });
+
+  const hubSelector = document.getElementById('hub-selector');
+  const activeHubKey = hubSelector ? hubSelector.value : 'barcelona';
+  const hubMapping = {
+    'barcelona': { country: 'españa', region: 'catalunya' },
+    'madrid': { country: 'españa', region: 'madrid' },
+    'valencia': { country: 'españa', region: 'valencia' },
+    'sevilla': { country: 'españa', region: 'andalucia' },
+    'bilbao': { country: 'españa', region: 'pais_vasco' },
+    'malaga': { country: 'españa', region: 'andalucia' },
+    'asturias': { country: 'españa', region: 'asturias' },
+    'cantabria': { country: 'españa', region: 'cantabria' },
+    'murcia': { country: 'españa', region: 'murcia' },
+    'zaragoza': { country: 'españa', region: 'aragon' },
+    'san_sebastian': { country: 'españa', region: 'pais_vasco' },
+    'paris': { country: 'francia', region: 'ile_de_france' },
+    'lyon': { country: 'francia', region: 'rhone_alpes' },
+    'zurich': { country: 'suiza', region: 'zurich' },
+    'geneva': { country: 'suiza', region: 'geneva' },
+    'berlin': { country: 'alemania', region: 'berlin' },
+    'munich': { country: 'alemania', region: 'bayern' },
+    'london': { country: 'reino_unido', region: 'london' },
+    'manchester': { country: 'reino_unido', region: 'greater_manchester' }
+  };
+  const activeHub = hubMapping[activeHubKey] || { country: 'españa', region: 'catalunya' };
+
+  const newLineData = {
+    id: 'line_' + Date.now() + '_' + Math.random().toString(36).substring(2, 7),
+    name: cleanName,
+    ref: cleanName.substring(0, 3).toUpperCase(),
+    operator: detectedOp,
+    color: defaultColor,
+    iconUrl: '',
+    officialColor: styleColor || '',
+    visible: true,
+    km: Math.round(totalKm),
+    country: activeHub.country,
+    region: activeHub.region,
+    scope: detectScopeFromFilename(filename),
+    linesGeoJSON: { type: 'FeatureCollection', features: lineFeatures },
+    pointsGeoJSON: { type: 'FeatureCollection', features: pointFeatures }
+  };
+
+  state.lines.push(newLineData);
+  saveLineToDB(newLineData);
+  drawLineOnMap(newLineData);
+  updateNetwork();
+
+  const allCoordinates = [];
+  lineFeatures.forEach(f => allCoordinates.push(...getFeatureCoordinates(f)));
+  pointFeatures.forEach(pf => allCoordinates.push(...getFeatureCoordinates(pf)));
+
+  if (allCoordinates.length > 0) {
+    const bounds = allCoordinates.reduce((b, coord) => b.extend(coord), new maplibregl.LngLatBounds(allCoordinates[0], allCoordinates[0]));
+    map.fitBounds(bounds, { padding: 50, maxZoom: 13 });
+  }
+
+  toast(`✅ ¡Importada la línea "${cleanName}" (${Math.round(totalKm)} km)!`);
+}
+const DIR_NETWORKS = {
+  españa: [
+    { id: 'es-madrid', name: '🚄 Cercanías Madrid', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías Madrid"](40.0,-4.5,41.0,-3.0);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Madrid.geojson', region: 'madrid', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-rodalies', name: '🚄 Rodalies Catalunya', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Rodalies de Catalunya|Rodalies de Barcelona|Rodalies de Girona|Rodalies de Tarragona"](40.5,0.5,42.5,3.3);out body;>;out skel qt;`, filename: 'España_Renfe_Rodalies_Catalunya.geojson', region: 'catalunya', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-valencia', name: '🚄 Cercanías Valencia', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías Valencia"](38.8,-1.2,39.9,-0.1);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Valencia.geojson', region: 'valencia', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-sevilla', name: '🚄 Cercanías Sevilla', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías Sevilla"](36.9,-6.4,37.8,-5.4);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Sevilla.geojson', region: 'andalucia', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-malaga', name: '🚄 Cercanías Málaga', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías Málaga"](36.4,-4.9,36.8,-4.4);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Malaga.geojson', region: 'andalucia', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-bilbao', name: '🚄 Cercanías Bilbao / Euskotren', query: `[out:json][timeout:30];relation["route"~"train|light_rail"]["network"~"Cercanías Bilbao|Euskotren"](43.1,-3.2,43.5,-2.5);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Bilbao.geojson', region: 'pais_vasco', scope: 'cercanias', operator: 'euskotren' },
+    { id: 'es-sanseb', name: '🚄 Cercanías San Sebastián', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías San Sebastián"](42.9,-2.4,43.4,-1.7);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_San_Sebastian.geojson', region: 'pais_vasco', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-murcia', name: '🚄 Cercanías Murcia / Alicante', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías Murcia|Cercanías Alicante"](37.8,-1.5,38.5,-0.4);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Murcia_Alicante.geojson', region: 'murcia', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-zaragoza', name: '🚄 Cercanías Zaragoza', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías Zaragoza"](41.5,-1.1,41.8,-0.7);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Zaragoza.geojson', region: 'aragon', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-asturias', name: '🚄 Cercanías Asturias (Feve)', query: `[out:json][timeout:30];relation["route"~"train|light_rail"]["network"~"Cercanías Asturias|Feve"](43.1,-6.1,43.7,-5.4);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Asturias.geojson', region: 'asturias', scope: 'cercanias', operator: 'feve' },
+    { id: 'es-cantabria', name: '🚄 Cercanías Cantabria (Feve)', query: `[out:json][timeout:30];relation["route"~"train|light_rail"]["network"~"Cercanías Santander|Feve"](43.1,-4.2,43.6,-3.6);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Santander.geojson', region: 'cantabria', scope: 'cercanias', operator: 'feve' },
+    { id: 'es-cadiz', name: '🚄 Cercanías Cádiz', query: `[out:json][timeout:30];relation["route"="train"]["network"~"Cercanías Cádiz"](36.3,-6.4,36.8,-5.8);out body;>;out skel qt;`, filename: 'España_Renfe_Cercanias_Cadiz.geojson', region: 'andalucia', scope: 'cercanias', operator: 'renfe' },
+    { id: 'es-ave', name: '🚄 Alta Velocidad (AVE)', query: `[out:json][timeout:45];relation["route"="train"]["operator"~"Renfe"]["service"~"high_speed|AVE|ave"](36.0,-9.5,43.8,3.3);out body;>;out skel qt;`, filename: 'España_Renfe_AVE_Alta_Velocidad.geojson', region: 'españa', scope: 'ave', operator: 'renfe' },
+    { id: 'es-metro-madrid', name: '🚇 Metro de Madrid', query: `[out:json][timeout:30];relation["route"="subway"]["operator"~"Metro de Madrid"](40.3,-3.9,40.6,-3.5);out body;>;out skel qt;`, filename: 'España_Metro_Madrid.geojson', region: 'madrid', scope: 'metro_madrid', operator: 'metro_madrid' },
+    { id: 'es-metro-bcn', name: '🚇 Metro de Barcelona (TMB)', query: `[out:json][timeout:30];relation["route"="subway"]["operator"~"TMB"](41.3,2.0,41.5,2.3);out body;>;out skel qt;`, filename: 'España_Metro_Barcelona.geojson', region: 'catalunya', scope: 'metro', operator: 'tmb' },
+    { id: 'es-metro-valencia', name: '🚇 Metrovalencia (FGV)', query: `[out:json][timeout:30];relation["route"~"subway|light_rail"]["operator"~"FGV|Metrovalencia"](39.3,-0.6,39.7,-0.2);out body;>;out skel qt;`, filename: 'España_Metrovalencia.geojson', region: 'valencia', scope: 'metro', operator: 'metrovalencia' }
+  ],
+  francia: [
+    { id: 'fr-paris-metro', name: '🚇 París Metro (RATP)', query: `[out:json][timeout:30];relation["route"="subway"]["operator"~"RATP"](48.7,2.1,48.9,2.5);out body;>;out skel qt;`, filename: 'Francia_Paris_Metro.geojson', region: 'ile_de_france', scope: 'metro', operator: 'sncf' }
+  ],
+  suiza: [
+    { id: 'ch-zurich-sbahn', name: '🚄 Zúrich S-Bahn (SBB)', query: `[out:json][timeout:30];relation["route"="train"]["operator"~"SBB|S-Bahn Züri"](47.2,8.2,47.6,8.8);out body;>;out skel qt;`, filename: 'Suiza_SBB_CFF_FFS_Zurich.geojson', region: 'zurich', scope: 'cercanias', operator: 'desconocido' }
+  ],
+  alemania: [
+    { id: 'de-berlin-sbahn', name: '🚄 Berlín S-Bahn (DB)', query: `[out:json][timeout:30];relation["route"="train"]["network"~"S-Bahn Berlin"](52.3,13.0,52.7,13.7);out body;>;out skel qt;`, filename: 'Alemania_Berlin_S_Bahn.geojson', region: 'berlin', scope: 'cercanias', operator: 'desconocido' }
+  ],
+  reino_unido: [
+    { id: 'uk-london-tube', name: '🚇 Londres Underground', query: `[out:json][timeout:30];relation["route"="subway"]["operator"~"London Underground"](51.3,-0.6,51.7,0.3);out body;>;out skel qt;`, filename: 'Reino_Unido_London_Underground.geojson', region: 'london', scope: 'metro', operator: 'desconocido' }
+  ]
+};
+
+function updateDirNetworks() {
+  const countrySelect = document.getElementById('dir-country');
+  const netSelect = document.getElementById('dir-network');
+  if (!countrySelect || !netSelect) return;
+  const country = countrySelect.value;
+  netSelect.innerHTML = '';
+  
+  const list = DIR_NETWORKS[country] || [];
+  list.forEach(net => {
+    const opt = document.createElement('option');
+    opt.value = net.id;
+    opt.textContent = net.name;
+    netSelect.appendChild(opt);
+  });
+}
+
+async function robustFetchOverpass(query) {
+  const instances = [
+    'https://overpass-api.de/api/interpreter',
+    'https://overpass.kumi.systems/api/interpreter',
+    'https://overpass.nchc.org.tw/api/interpreter',
+    'https://overpass.osm.ch/api/interpreter'
+  ];
+  
+  let lastError;
+  for (const baseUrl of instances) {
+    try {
+      console.log(`Intentando conectar con instancia Overpass: ${baseUrl}...`);
+      const url = `${baseUrl}?data=${encodeURIComponent(query)}`;
+      const res = await fetch(url);
+      if (res.ok) {
+        const data = await res.json();
+        if (data && data.elements) {
+          console.log(`✓ Conexión exitosa con Overpass: ${baseUrl}`);
+          return data;
+        }
+      }
+      console.warn(`Instancia ${baseUrl} retornó estado: ${res.status}`);
+    } catch (err) {
+      console.warn(`Falla de conexión con instancia ${baseUrl}:`, err.message);
+      lastError = err;
+    }
+  }
+  throw new Error("Todas las instancias del servidor Overpass fallaron o están bloqueadas por tu firewall/proveedor. Si estás abriendo el archivo localmente como file://, tu navegador está bloqueando las consultas externas.");
+}
+
+async function downloadSelectedDirNetwork(saveToDisk) {
+  const country = document.getElementById('dir-country').value;
+  const netId = document.getElementById('dir-network').value;
+  const list = DIR_NETWORKS[country] || [];
+  const net = list.find(n => n.id === netId);
+  
+  if (!net) {
+    toast("⚠️ Por favor selecciona una red válida.");
+    return;
+  }
+  
+  toast(`⏳ Descargando ${net.name} desde OpenStreetMap...`);
+  
+  try {
+    const data = await robustFetchOverpass(net.query);
+    
+    if (!data.elements || data.elements.length === 0) {
+      toast("⚠️ No se encontraron elementos en la red de Overpass.");
+      return;
+    }
+    
+    toast("⚙️ Procesando y estructurando la red...");
+    const nodes = {}, ways = {}, relations = [];
+    
+    data.elements.forEach(el => {
+      if (el.type === 'node') {
+        nodes[el.id] = [el.lon, el.lat];
+        if (el.tags && el.tags.name) {
+          nodes[el.id].name = el.tags.name;
+          nodes[el.id].operator = el.tags.operator || el.tags.brand || '';
+          nodes[el.id].type = el.tags.railway === 'station' ? 'Estación de Ferrocarril' : 'Parada de Metro';
+        }
+      } else if (el.type === 'way') {
+        ways[el.id] = el.geometry ? el.geometry.map(g => [g.lon, g.lat]) : (el.nodes ? el.nodes.map(nId => nodes[nId]).filter(Boolean) : []);
+        ways[el.id].tags = el.tags || {};
+      } else if (el.type === 'relation') {
+        relations.push(el);
+      }
+    });
+    
+    const globalFeatures = [];
+    let importedLinesCount = 0;
+    let importedStationsCount = 0;
+    const importedLines = [];
+
+    relations.forEach(rel => {
+      const tags = rel.tags || {};
+      const name = tags.name || tags.ref || `Línea ${rel.id}`;
+      const color = tags.color || OPERATORS_LIBRARY[net.operator]?.mainColor || '#3b82f6';
+      const ref = tags.ref || '';
+      
+      const lineFeatures = [];
+      const pointFeatures = [];
+      
+      if (rel.members) {
+        rel.members.forEach(mem => {
+          if (mem.type === 'way') {
+            const wayCoords = ways[mem.ref];
+            if (wayCoords && wayCoords.length >= 2) {
+              lineFeatures.push({
+                type: 'Feature',
+                geometry: { type: 'LineString', coordinates: wayCoords },
+                properties: {}
+              });
+            }
+          } else if (mem.type === 'node') {
+            const nodeCoords = nodes[mem.ref];
+            if (nodeCoords && nodeCoords.name) {
+              pointFeatures.push({
+                type: 'Feature',
+                geometry: { type: 'Point', coordinates: nodeCoords },
+                properties: { name: nodeCoords.name }
+              });
+            }
+          }
+        });
+      }
+      
+      if (lineFeatures.length > 0) {
+        // Para la descarga global GeoJSON
+        const coords = lineFeatures.map(f => f.geometry.coordinates);
+        globalFeatures.push({
+          type: 'Feature',
+          geometry: { type: 'MultiLineString', coordinates: coords },
+          properties: {
+            name: name,
+            ref: ref,
+            operator: net.operator,
+            color: color,
+            country: country.charAt(0).toUpperCase() + country.slice(1),
+            region: net.region,
+            scope: net.scope
+          }
+        });
+
+        pointFeatures.forEach(pf => {
+          globalFeatures.push({
+            type: 'Feature',
+            geometry: pf.geometry,
+            properties: {
+              name: pf.properties.name,
+              type: 'Estación',
+              operator: net.operator,
+              country: country.charAt(0).toUpperCase() + country.slice(1),
+              region: net.region,
+              scope: net.scope
+            }
+          });
+        });
+
+        if (!saveToDisk) {
+          // Procesar y crear objeto de línea compatible con el visualizador e IndexedDB
+          let totalKm = 0;
+          lineFeatures.forEach(lf => {
+            const coords = lf.geometry.coordinates;
+            for(let i=1; i<coords.length; i++) {
+              totalKm += haversine(coords[i-1], coords[i]);
+            }
+          });
+
+          const lineObj = {
+            id: 'line_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9),
+            name: name,
+            ref: ref || name.substring(0, 3).toUpperCase(),
+            operator: net.operator,
+            color: color,
+            country: country.charAt(0).toUpperCase() + country.slice(1),
+            region: net.region,
+            scope: net.scope,
+            visible: true,
+            km: Math.round(totalKm),
+            linesGeoJSON: { type: 'FeatureCollection', features: lineFeatures },
+            pointsGeoJSON: { type: 'FeatureCollection', features: pointFeatures }
+          };
+
+          if (!state.lines.some(l => l.name.toLowerCase() === lineObj.name.toLowerCase())) {
+            state.lines.push(lineObj);
+            importedLines.push(lineObj);
+            importedLinesCount++;
+            saveLineToDB(lineObj);
+            drawLineOnMap(lineObj); // Dibuja la línea en el mapa inmediatamente!
+          }
+
+          // Procesar y registrar estaciones de la línea
+          pointFeatures.forEach(pf => {
+            const coax = getGeometryCoordinates(pf.geometry)[0] || [];
+            if (!coax || coax.length < 2) return;
+            const stationObj = {
+              id: 'station_' + Date.now() + '_' + Math.random().toString(36).substr(2, 9),
+              name: pf.properties?.name || 'Estación',
+              type: 'Estación',
+              operator: net.operator,
+              country: country.charAt(0).toUpperCase() + country.slice(1),
+              region: net.region,
+              scope: net.scope,
+              coords: [coax[0], coax[1]]
+            };
+            const duplicate = Object.values(state.customStations).some(s => s.name.toLowerCase() === stationObj.name.toLowerCase() && Math.abs(s.coords[0] - stationObj.coords[0]) < 0.0001 && Math.abs(s.coords[1] - stationObj.coords[1]) < 0.0001);
+            if (!duplicate) {
+              state.customStations[stationObj.id] = stationObj;
+              saveCustomStationToDB(stationObj);
+              importedStationsCount++;
+            }
+          });
+        }
+      }
+    });
+    
+    if (saveToDisk) {
+      const featureCollection = {
+        type: 'FeatureCollection',
+        features: globalFeatures
+      };
+      const blob = new Blob([JSON.stringify(featureCollection, null, 2)], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = net.filename;
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+      URL.revokeObjectURL(url);
+      toast(`✅ Archivo descargado con éxito en tu PC: ${net.filename}`);
+    } else {
+      updateNetwork(); // Actualiza fuentes unificadas en el mapa y barra lateral!
+      
+      if (importedLines.length > 0) {
+        const bounds = new maplibregl.LngLatBounds();
+        importedLines.forEach(l => {
+          l.linesGeoJSON.features.forEach(lf => {
+            lf.geometry.coordinates.forEach(pt => bounds.extend(pt));
+          });
+        });
+        map.fitBounds(bounds, { padding: 40 });
+      }
+      
+      toast(`✅ Cargado con éxito: ${importedLinesCount} líneas y ${importedStationsCount} estaciones.`);
+    }
+  } catch (error) {
+    console.error(error);
+    toast(`❌ Error en la descarga desde el navegador: ${error.message}`);
+  }
+}
+
+async function downloadEntireDatabase() {
+  const countries = Object.keys(DIR_NETWORKS);
+  const allNetworks = [];
+  countries.forEach(country => {
+    DIR_NETWORKS[country].forEach(net => {
+      allNetworks.push({ country, net });
+    });
+  });
+  
+  toast(`🚀 Iniciando descarga por lotes de ${allNetworks.length} redes de Europa...`);
+  
+  for (let i = 0; i < allNetworks.length; i++) {
+    const { country, net } = allNetworks[i];
+    toast(`⏳ Descargando [${i+1}/${allNetworks.length}]: ${net.name}...`);
+    
+    try {
+      // Configurar dinámicamente los selectores en el DOM para la descarga
+      document.getElementById('dir-country').value = country;
+      updateDirNetworks();
+      document.getElementById('dir-network').value = net.id;
+      
+      // Ejecutar la descarga y forzar el guardado en disco
+      await downloadSelectedDirNetwork(true);
+    } catch (err) {
+      console.error(`Error descargando la red ${net.name}:`, err);
+      toast(`⚠️ Falla en lote al descargar ${net.name}: ${err.message}`);
+    }
+    
+    // Intervalo de 2.5 segundos para respetar los rate limits de los servidores públicos de Overpass
+    await new Promise(resolve => setTimeout(resolve, 2500));
+  }
+  
+  toast("🎉 ¡Base de datos descargada con éxito! Revisa tu carpeta de Descargas.");
+}
+</script>
+</body>
+</html>

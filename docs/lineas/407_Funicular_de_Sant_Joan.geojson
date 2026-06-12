@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.83634,
+      41.59197
+     ],
+     [
+      1.83336,
+      41.58876
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "407",
+    "name": "Funicular de Sant Joan",
+    "type": "Funicular",
+    "operator": "FGC",
+    "stroke": "#A0522D",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.83634,
+     41.59197
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTSERRAT",
+    "name": "Montserrat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A0522D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.83336,
+     41.58876
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTJOAN",
+    "name": "Sant Joan",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A0522D"
+   }
+  }
+ ]
+}

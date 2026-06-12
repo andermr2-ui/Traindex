@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.89774,
+      43.24387
+     ],
+     [
+      -2.89869,
+      43.25869
+     ],
+     [
+      -2.90643,
+      43.25916
+     ],
+     [
+      -2.91372,
+      43.26373
+     ],
+     [
+      -2.92182,
+      43.26017
+     ],
+     [
+      -2.91995,
+      43.26684
+     ],
+     [
+      -2.92546,
+      43.26903
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "272",
+    "name": "L3 Kukullaga - Matiko",
+    "type": "Metro",
+    "operator": "Euskotren",
+    "stroke": "#8CB924",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89774,
+     43.24387
+    ]
+   },
+   "properties": {
+    "id": "EST-KUKULLAGAETXEBARRI",
+    "name": "Kukullaga-Etxebarri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8CB924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89869,
+     43.25869
+    ]
+   },
+   "properties": {
+    "id": "EST-OTXARKOAGABILBAO",
+    "name": "Otxarkoaga-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8CB924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.90643,
+     43.25916
+    ]
+   },
+   "properties": {
+    "id": "EST-TXURDINAGABILBAO",
+    "name": "Txurdinaga-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8CB924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91372,
+     43.26373
+    ]
+   },
+   "properties": {
+    "id": "EST-ZURBARANBARRIBILBAO",
+    "name": "Zurbaranbarri-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8CB924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92182,
+     43.26017
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAZPIKALEAKCASCOVIEJO",
+    "name": "Zazpikaleak-Casco Viejo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8CB924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91995,
+     43.26684
+    ]
+   },
+   "properties": {
+    "id": "EST-URIBARRIBILBAO",
+    "name": "Uribarri-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8CB924"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92546,
+     43.26903
+    ]
+   },
+   "properties": {
+    "id": "EST-MATIKOBILBAO",
+    "name": "Matiko-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8CB924"
+   }
+  }
+ ]
+}

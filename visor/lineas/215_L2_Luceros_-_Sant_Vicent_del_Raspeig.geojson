@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49062,
+      38.34603
+     ],
+     [
+      -0.48483,
+      38.34816
+     ],
+     [
+      -0.47567,
+      38.35209
+     ],
+     [
+      -0.47312,
+      38.36023
+     ],
+     [
+      -0.47951,
+      38.36322
+     ],
+     [
+      -0.49056,
+      38.37658
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "215",
+    "name": "L2 Luceros - Sant Vicent del Raspeig",
+    "type": "Tranvía",
+    "operator": "TRAM d'Alacant",
+    "stroke": "#009639",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49062,
+     38.34603
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCEROS",
+    "name": "Luceros",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48483,
+     38.34816
+    ]
+   },
+   "properties": {
+    "id": "EST-MERCADO",
+    "name": "Mercado",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47567,
+     38.35209
+    ]
+   },
+   "properties": {
+    "id": "EST-MARQCASTILLO",
+    "name": "Marq-Castillo",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47312,
+     38.36023
+    ]
+   },
+   "properties": {
+    "id": "EST-BULEVARDELPLA",
+    "name": "Bulevar del Plà",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47951,
+     38.36322
+    ]
+   },
+   "properties": {
+    "id": "EST-GARBINET",
+    "name": "Garbinet",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49056,
+     38.37658
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRGENDELREMEDIO",
+    "name": "Virgen del Remedio",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  }
+ ]
+}

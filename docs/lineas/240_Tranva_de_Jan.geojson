@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.78879,
+      37.77267
+     ],
+     [
+      -3.7894,
+      37.77665
+     ],
+     [
+      -3.79104,
+      37.77349
+     ],
+     [
+      -3.775,
+      37.785
+     ],
+     [
+      -3.77971,
+      37.79532
+     ],
+     [
+      -3.76493,
+      37.82378
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "240",
+    "name": "Tranvía de Jaén",
+    "type": "Tranvía",
+    "operator": "(Pendiente de operación)",
+    "stroke": "#A5A5A5",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78879,
+     37.77267
+    ]
+   },
+   "properties": {
+    "id": "EST-LASBATALLAS",
+    "name": "Las Batallas",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A5A5A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7894,
+     37.77665
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSPERFUMES",
+    "name": "Los Perfumes",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A5A5A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79104,
+     37.77349
+    ]
+   },
+   "properties": {
+    "id": "EST-DONANTESDESANGRE",
+    "name": "Donantes de Sangre",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A5A5A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.775,
+     37.785
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPUSLAGUNILLAS",
+    "name": "Campus Lagunillas",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A5A5A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.77971,
+     37.79532
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADSANITARIA",
+    "name": "Ciudad Sanitaria",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A5A5A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76493,
+     37.82378
+    ]
+   },
+   "properties": {
+    "id": "EST-VACIACOSTALES",
+    "name": "Vaciacostales",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A5A5A5"
+   }
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -4.56137,
+      37.02948
+     ],
+     [
+      -3.60863,
+      37.18369
+     ],
+     [
+      -3.12702,
+      37.31688
+     ],
+     [
+      -2.43628,
+      36.88346
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "339",
+    "name": "Alvia Madrid - Almería",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#5F259F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.56137,
+     37.02948
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERAAV",
+    "name": "Antequera AV",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60863,
+     37.18369
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANADA",
+    "name": "Granada",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.12702,
+     37.31688
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADIX",
+    "name": "Guadix",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.43628,
+     36.88346
+    ]
+   },
+   "properties": {
+    "id": "EST-HUERCALVIATOR",
+    "name": "Huércal-Viator",
+    "province": "Almería",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  }
+ ]
+}

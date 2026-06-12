@@ -1,0 +1,794 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.52579,
+      41.18608
+     ],
+     [
+      1.53813,
+      41.2209
+     ],
+     [
+      1.60041,
+      41.27367
+     ],
+     [
+      1.66009,
+      41.31459
+     ],
+     [
+      1.70339,
+      41.34462
+     ],
+     [
+      1.79468,
+      41.42033
+     ],
+     [
+      1.86538,
+      41.44862
+     ],
+     [
+      1.87254,
+      41.49773
+     ],
+     [
+      1.9267,
+      41.47909
+     ],
+     [
+      1.96779,
+      41.47328
+     ],
+     [
+      2.00256,
+      41.4355
+     ],
+     [
+      2.02099,
+      41.40994
+     ],
+     [
+      2.07056,
+      41.35752
+     ],
+     [
+      2.10094,
+      41.36424
+     ],
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.18091,
+      41.39211
+     ],
+     [
+      2.18702,
+      41.42262
+     ],
+     [
+      2.19114,
+      41.43663
+     ],
+     [
+      2.17994,
+      41.45922
+     ],
+     [
+      2.18003,
+      41.46993
+     ],
+     [
+      2.18538,
+      41.4839
+     ],
+     [
+      2.14762,
+      41.49263
+     ],
+     [
+      2.11825,
+      41.51357
+     ],
+     [
+      2.10517,
+      41.52866
+     ],
+     [
+      2.11589,
+      41.54641
+     ],
+     [
+      2.09655,
+      41.56169
+     ],
+     [
+      2.03974,
+      41.56745
+     ],
+     [
+      2.01426,
+      41.56987
+     ],
+     [
+      1.97399,
+      41.56912
+     ],
+     [
+      1.95707,
+      41.56389
+     ],
+     [
+      1.89392,
+      41.60189
+     ],
+     [
+      1.85477,
+      41.64054
+     ],
+     [
+      1.86232,
+      41.66886
+     ],
+     [
+      1.82663,
+      41.72026
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "153",
+    "name": "R4 Sant Vicenç de Calders - Manresa",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#F17A24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 41,
+    "coords_sta": 35
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.52579,
+     41.18608
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECALDERS",
+    "name": "Sant Vicenç de Calders",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.53813,
+     41.2209
+    ]
+   },
+   "properties": {
+    "id": "EST-ELVENDRELL",
+    "name": "El Vendrell",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.60041,
+     41.27367
+    ]
+   },
+   "properties": {
+    "id": "EST-LARBOC",
+    "name": "L'Arboç",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.66009,
+     41.31459
+    ]
+   },
+   "properties": {
+    "id": "EST-ELSMONJOS",
+    "name": "Els Monjos",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.70339,
+     41.34462
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAFRANCADELPENEDES",
+    "name": "Vilafranca del Penedès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.79468,
+     41.42033
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTSADURNIDANOIA",
+    "name": "Sant Sadurní d'Anoia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.86538,
+     41.44862
+    ]
+   },
+   "properties": {
+    "id": "EST-GELIDA",
+    "name": "Gelida",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.87254,
+     41.49773
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTESTEVESESROVIRES",
+    "name": "Sant Esteve Sesrovires",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9267,
+     41.47909
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTORELLCENTRAL",
+    "name": "Martorell Central",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.96779,
+     41.47328
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLBISBAL",
+    "name": "Castellbisbal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.00256,
+     41.4355
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPAPIOL",
+    "name": "El Papiol",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.02099,
+     41.40994
+    ]
+   },
+   "properties": {
+    "id": "EST-MOLINSDEREI",
+    "name": "Molins de Rei",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07056,
+     41.35752
+    ]
+   },
+   "properties": {
+    "id": "EST-CORNELLA",
+    "name": "Cornellà",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10094,
+     41.36424
+    ]
+   },
+   "properties": {
+    "id": "EST-LHOSPITALETDELLOBREGAT",
+    "name": "L'Hospitalet de Llobregat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACACATALUNYA",
+    "name": "Plaça Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18091,
+     41.39211
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCDETRIOMF",
+    "name": "Arc de Triomf",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18702,
+     41.42262
+    ]
+   },
+   "properties": {
+    "id": "EST-LASAGRERAMERIDIANA",
+    "name": "La Sagrera-Meridiana",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19114,
+     41.43663
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDREUARENAL",
+    "name": "Sant Andreu Arenal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17994,
+     41.45922
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREBARO",
+    "name": "Torre Baró",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18003,
+     41.46993
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTCADABIFURCACIO",
+    "name": "Montcada Bifurcació",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18538,
+     41.4839
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTCADAIREIXACMANRESA",
+    "name": "Montcada i Reixac-Manresa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14762,
+     41.49263
+    ]
+   },
+   "properties": {
+    "id": "EST-CERDANYOLADELVALLES",
+    "name": "Cerdanyola del Vallès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11825,
+     41.51357
+    ]
+   },
+   "properties": {
+    "id": "EST-BARBERADELVALLES",
+    "name": "Barberà del Vallès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10517,
+     41.52866
+    ]
+   },
+   "properties": {
+    "id": "EST-SABADELLSUD",
+    "name": "Sabadell Sud",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11589,
+     41.54641
+    ]
+   },
+   "properties": {
+    "id": "EST-SABADELLCENTRE",
+    "name": "Sabadell Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09655,
+     41.56169
+    ]
+   },
+   "properties": {
+    "id": "EST-SABADELLNORD",
+    "name": "Sabadell Nord",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.03974,
+     41.56745
+    ]
+   },
+   "properties": {
+    "id": "EST-TERRASSAEST",
+    "name": "Terrassa Est",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01426,
+     41.56987
+    ]
+   },
+   "properties": {
+    "id": "EST-TERRASSA",
+    "name": "Terrassa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.97399,
+     41.56912
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTMIQUELDEGONTERES",
+    "name": "St. Miquel de Gonteres-Viladecavalls",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.95707,
+     41.56389
+    ]
+   },
+   "properties": {
+    "id": "EST-VILADECAVALLS",
+    "name": "Viladecavalls",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.89392,
+     41.60189
+    ]
+   },
+   "properties": {
+    "id": "EST-VACARISSES",
+    "name": "Vacarisses",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.85477,
+     41.64054
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLBELLIEVILARMONISTROL",
+    "name": "Castellbell i el Vilar-Monistrol de Montserrat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.86232,
+     41.66886
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECASTELLET",
+    "name": "Sant Vicente de Castellet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.82663,
+     41.72026
+    ]
+   },
+   "properties": {
+    "id": "EST-MANRESA",
+    "name": "Manresa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  }
+ ]
+}

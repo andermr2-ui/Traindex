@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -4.09476,
+      40.91014
+     ],
+     [
+      -4.7272,
+      41.64334
+     ],
+     [
+      -3.66632,
+      42.37117
+     ],
+     [
+      -2.94114,
+      42.6908
+     ],
+     [
+      -2.6727,
+      42.8413
+     ],
+     [
+      -2.31988,
+      43.08701
+     ],
+     [
+      -2.07914,
+      43.13564
+     ],
+     [
+      -2.00642,
+      43.31915
+     ],
+     [
+      -1.80058,
+      43.33921
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "338",
+    "name": "Alvia Madrid - Irún (Donostia)",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#5F259F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.09476,
+     40.91014
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGOVIAGUIOMAR",
+    "name": "Segovia-Guiomar",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7272,
+     41.64334
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADOLIDCAMPOGRANDE",
+    "name": "Valladolid-Campo Grande",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66632,
+     42.37117
+    ]
+   },
+   "properties": {
+    "id": "EST-BURGOSROSADELIMA",
+    "name": "Burgos-Rosa de Lima",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94114,
+     42.6908
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRANDADEEBRO",
+    "name": "Miranda de Ebro",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6727,
+     42.8413
+    ]
+   },
+   "properties": {
+    "id": "EST-VITORIAGASTEIZ",
+    "name": "Vitoria-Gasteiz",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.31988,
+     43.08701
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUMARRAGA",
+    "name": "Zumárraga",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07914,
+     43.13564
+    ]
+   },
+   "properties": {
+    "id": "EST-TOLOSA",
+    "name": "Tolosa",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.00642,
+     43.31915
+    ]
+   },
+   "properties": {
+    "id": "EST-SANSEBASTIANDONOSTIA",
+    "name": "San Sebastián-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.80058,
+     43.33921
+    ]
+   },
+   "properties": {
+    "id": "EST-IRUN",
+    "name": "Irún",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.735,
+      40.392
+     ],
+     [
+      -3.70969,
+      40.31853
+     ],
+     [
+      -3.78717,
+      40.28666
+     ],
+     [
+      -3.81582,
+      40.28585
+     ],
+     [
+      -3.79828,
+      40.28229
+     ],
+     [
+      -3.79248,
+      40.29672
+     ],
+     [
+      -3.80745,
+      40.28522
+     ],
+     [
+      -3.83677,
+      40.29674
+     ],
+     [
+      -3.88226,
+      40.33095
+     ],
+     [
+      -3.86483,
+      40.32171
+     ],
+     [
+      -3.84283,
+      40.34155
+     ],
+     [
+      -3.87442,
+      40.31631
+     ],
+     [
+      -3.82078,
+      40.3495
+     ],
+     [
+      -3.83199,
+      40.34994
+     ],
+     [
+      -3.74811,
+      40.34409
+     ],
+     [
+      -3.81202,
+      40.34521
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "142",
+    "name": "Línea 12 Circular MetroSur",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#006F42",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.735,
+     40.392
+    ]
+   },
+   "properties": {
+    "id": "EST-UGENA",
+    "name": "Ugena",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70969,
+     40.31853
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCASAR",
+    "name": "El Casar",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78717,
+     40.28666
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUEDELOSESTADOS",
+    "name": "Parque de los Estados",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81582,
+     40.28585
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALDEFUENLABRADA",
+    "name": "Hospital de Fuenlabrada",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79828,
+     40.28229
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENLABRADACENTRAL",
+    "name": "Fuenlabrada Central",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79248,
+     40.29672
+    ]
+   },
+   "properties": {
+    "id": "EST-LASERNA",
+    "name": "La Serna",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80745,
+     40.28522
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUEEUROPA",
+    "name": "Parque Europa",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83677,
+     40.29674
+    ]
+   },
+   "properties": {
+    "id": "EST-LORANCA",
+    "name": "Loranca",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.88226,
+     40.33095
+    ]
+   },
+   "properties": {
+    "id": "EST-MOSTOLESELSOTO",
+    "name": "Móstoles-El Soto",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.86483,
+     40.32171
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADILLO",
+    "name": "Pradillo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84283,
+     40.34155
+    ]
+   },
+   "properties": {
+    "id": "EST-LASRETAMAS",
+    "name": "Las Retamas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.87442,
+     40.31631
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALDEMOSTOLES",
+    "name": "Hospital de Móstoles",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.82078,
+     40.3495
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUEDELISBOA",
+    "name": "Parque de Lisboa",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83199,
+     40.34994
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCORCONCENTRAL",
+    "name": "Alcorcón Central",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.74811,
+     40.34409
+    ]
+   },
+   "properties": {
+    "id": "EST-LEGANESNORTE",
+    "name": "Leganés Norte",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81202,
+     40.34521
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTADELSUR",
+    "name": "Puerta del Sur",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  }
+ ]
+}

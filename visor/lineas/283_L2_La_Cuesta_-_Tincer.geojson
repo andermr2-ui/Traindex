@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -16.29013,
+      28.48398
+     ],
+     [
+      -16.29267,
+      28.45759
+     ],
+     [
+      -16.29146,
+      28.44729
+     ],
+     [
+      -16.30458,
+      28.44377
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "283",
+    "name": "L2 La Cuesta - Tincer",
+    "type": "Tranvía",
+    "operator": "Metrotenerife",
+    "stroke": "#224375",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.29013,
+     28.48398
+    ]
+   },
+   "properties": {
+    "id": "EST-LACUESTA",
+    "name": "La Cuesta",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#224375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.29267,
+     28.45759
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALUNIVERSITARIO",
+    "name": "Hospital Universitario",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#224375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.29146,
+     28.44729
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCARDONAL",
+    "name": "El Cardonal",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#224375"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.30458,
+     28.44377
+    ]
+   },
+   "properties": {
+    "id": "EST-TINCER",
+    "name": "Tincer",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#224375"
+   }
+  }
+ ]
+}

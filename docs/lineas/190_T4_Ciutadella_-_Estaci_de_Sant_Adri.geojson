@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.19348,
+      41.38785
+     ],
+     [
+      2.18627,
+      41.395
+     ],
+     [
+      2.1869,
+      41.39755
+     ],
+     [
+      2.18752,
+      41.40221
+     ],
+     [
+      2.19151,
+      41.40439
+     ],
+     [
+      2.19826,
+      41.40621
+     ],
+     [
+      2.98933,
+      42.17229
+     ],
+     [
+      2.20911,
+      41.40801
+     ],
+     [
+      2.43625,
+      41.52955
+     ],
+     [
+      2.21668,
+      41.41178
+     ],
+     [
+      2.15996,
+      41.39596
+     ],
+     [
+      2.22621,
+      41.41886
+     ],
+     [
+      2.23055,
+      41.42433
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "190",
+    "name": "T4 Ciutadella - Estació de Sant Adrià",
+    "type": "Tranvía",
+    "operator": "Tram",
+    "stroke": "#00A89C",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19348,
+     41.38785
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUTADELLAVILAOLIMPICA",
+    "name": "Ciutadella | Vila Olímpica",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18627,
+     41.395
+    ]
+   },
+   "properties": {
+    "id": "EST-MARINA",
+    "name": "Marina",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1869,
+     41.39755
+    ]
+   },
+   "properties": {
+    "id": "EST-AUDITORITEATRENACIONAL",
+    "name": "Auditori | Teatre Nacional",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18752,
+     41.40221
+    ]
+   },
+   "properties": {
+    "id": "EST-GLORIES",
+    "name": "Glòries",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19151,
+     41.40439
+    ]
+   },
+   "properties": {
+    "id": "EST-CALARANYO",
+    "name": "Ca l'Aranyó",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19826,
+     41.40621
+    ]
+   },
+   "properties": {
+    "id": "EST-PEREIV",
+    "name": "Pere IV",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.98933,
+     42.17229
+    ]
+   },
+   "properties": {
+    "id": "EST-FLUVIA",
+    "name": "Fluvià",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20911,
+     41.40801
+    ]
+   },
+   "properties": {
+    "id": "EST-SELVADEMAR",
+    "name": "Selva de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.43625,
+     41.52955
+    ]
+   },
+   "properties": {
+    "id": "EST-ELMARESME",
+    "name": "El Maresme",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21668,
+     41.41178
+    ]
+   },
+   "properties": {
+    "id": "EST-FORUM",
+    "name": "Fòrum",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15996,
+     41.39596
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPUSDIAGONALBESOS",
+    "name": "Campus Diagonal-Besòs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.22621,
+     41.41886
+    ]
+   },
+   "properties": {
+    "id": "EST-PORTFORUM",
+    "name": "Port Fòrum",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23055,
+     41.42433
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTACIODESANTADRIA",
+    "name": "Estació de Sant Adrià",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  }
+ ]
+}

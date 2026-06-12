@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.27357,
+      41.19217
+     ],
+     [
+      1.04528,
+      41.08111
+     ],
+     [
+      0.52288,
+      40.80712
+     ],
+     [
+      0.45545,
+      40.47175
+     ],
+     [
+      0.41986,
+      40.47243
+     ],
+     [
+      0.05777,
+      40.05805
+     ],
+     [
+      -0.00226,
+      39.97506
+     ],
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -0.86795,
+      38.63227
+     ],
+     [
+      -0.8011,
+      38.4849
+     ],
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -0.6951,
+      38.27179
+     ],
+     [
+      -0.9498,
+      38.08126
+     ],
+     [
+      -1.13346,
+      37.97658
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "33",
+    "name": "Intercity Barcelona - Murcia",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#2C3539",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.27357,
+     41.19217
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDETARRAGONA",
+    "name": "Camp de Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.04528,
+     41.08111
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMBRILS",
+    "name": "Cambrils",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.52288,
+     40.80712
+    ]
+   },
+   "properties": {
+    "id": "EST-LALDEAAMPOSTATORTOSA",
+    "name": "L'Aldea-Amposta-Tortosa",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.45545,
+     40.47175
+    ]
+   },
+   "properties": {
+    "id": "EST-VINAROS",
+    "name": "Vinaròs",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.41986,
+     40.47243
+    ]
+   },
+   "properties": {
+    "id": "EST-BENICARLOPENISCOLA",
+    "name": "Benicarló-Peñíscola",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.05777,
+     40.05805
+    ]
+   },
+   "properties": {
+    "id": "EST-BENICASSIM",
+    "name": "Benicàssim",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.00226,
+     39.97506
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLODELAPLANA",
+    "name": "Castelló de la Plana",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86795,
+     38.63227
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLENA",
+    "name": "Villena",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8011,
+     38.4849
+    ]
+   },
+   "properties": {
+    "id": "EST-ELDAPETRER",
+    "name": "Elda-Petrer",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALICANTERMINAL",
+    "name": "Alicante-Terminal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.6951,
+     38.27179
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCHEPARQUE",
+    "name": "Elche-Parque",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9498,
+     38.08126
+    ]
+   },
+   "properties": {
+    "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+    "name": "Orihuela-Miguel Hernández",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13346,
+     37.97658
+    ]
+   },
+   "properties": {
+    "id": "EST-MURCIADELCARMEN",
+    "name": "Murcia del Carmen",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  }
+ ]
+}

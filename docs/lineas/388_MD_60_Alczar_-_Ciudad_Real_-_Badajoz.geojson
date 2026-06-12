@@ -1,0 +1,420 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -3.3706,
+      39.0059
+     ],
+     [
+      -3.60408,
+      39.06141
+     ],
+     [
+      -3.70965,
+      38.89551
+     ],
+     [
+      -3.91314,
+      38.98487
+     ],
+     [
+      -4.11194,
+      38.69129
+     ],
+     [
+      -4.73031,
+      38.74053
+     ],
+     [
+      -5.22708,
+      38.72394
+     ],
+     [
+      -5.63343,
+      38.76423
+     ],
+     [
+      -5.7965,
+      38.96868
+     ],
+     [
+      -5.89129,
+      39.08594
+     ],
+     [
+      -6.34305,
+      38.92159
+     ],
+     [
+      -6.40788,
+      38.93625
+     ],
+     [
+      -6.47721,
+      38.91537
+     ],
+     [
+      -6.59867,
+      38.91358
+     ],
+     [
+      -6.59867,
+      38.91358
+     ],
+     [
+      -6.69002,
+      38.92177
+     ],
+     [
+      -6.98162,
+      38.89073
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "388",
+    "name": "MD 60 Alcázar - Ciudad Real - Badajoz",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3706,
+     39.0059
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANARES",
+    "name": "Manzanares",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60408,
+     39.06141
+    ]
+   },
+   "properties": {
+    "id": "EST-DAIMIEL",
+    "name": "Daimiel",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70965,
+     38.89551
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMAGRO",
+    "name": "Almagro",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11194,
+     38.69129
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOLLANO",
+    "name": "Puertollano",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.73031,
+     38.74053
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMADENALMADENEJOS",
+    "name": "Almadén-Almadenejos",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.22708,
+     38.72394
+    ]
+   },
+   "properties": {
+    "id": "EST-CABEZADELBUEY",
+    "name": "Cabeza del Buey",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.63343,
+     38.76423
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTUERA",
+    "name": "Castuera",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.7965,
+     38.96868
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUEVADELASERENA",
+    "name": "Villanueva de la Serena",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.89129,
+     39.08594
+    ]
+   },
+   "properties": {
+    "id": "EST-DONBENITO",
+    "name": "Don Benito",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.34305,
+     38.92159
+    ]
+   },
+   "properties": {
+    "id": "EST-MERIDA",
+    "name": "Mérida",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.40788,
+     38.93625
+    ]
+   },
+   "properties": {
+    "id": "EST-ALJUCEN",
+    "name": "Aljucén",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.47721,
+     38.91537
+    ]
+   },
+   "properties": {
+    "id": "EST-GARROVILLALASVEGAS",
+    "name": "Garrovilla-Las Vegas",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59867,
+     38.91358
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTIJO",
+    "name": "Montijo",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59867,
+     38.91358
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTIJOELMOLINO",
+    "name": "Montijo-El Molino",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.69002,
+     38.92177
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADIANA",
+    "name": "Guadiana",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98162,
+     38.89073
+    ]
+   },
+   "properties": {
+    "id": "EST-BADAJOZ",
+    "name": "Badajoz",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

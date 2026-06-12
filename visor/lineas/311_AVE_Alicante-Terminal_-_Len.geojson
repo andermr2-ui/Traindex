@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -1.85687,
+      38.99485
+     ],
+     [
+      -2.14369,
+      40.03396
+     ],
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -4.7272,
+      41.64334
+     ],
+     [
+      -4.53386,
+      42.01573
+     ],
+     [
+      -6.52214,
+      42.4055
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "311",
+    "name": "AVE Alicante-Terminal - León",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALICANTERMINAL",
+    "name": "Alicante-Terminal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85687,
+     38.99485
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBACETELOSLLANOS",
+    "name": "Albacete-Los Llanos",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.14369,
+     40.03396
+    ]
+   },
+   "properties": {
+    "id": "EST-CUENCAFERNANDOZOBEL",
+    "name": "Cuenca-Fernando Zóbel",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7272,
+     41.64334
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADOLIDCAMPOGRANDE",
+    "name": "Valladolid-Campo Grande",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.53386,
+     42.01573
+    ]
+   },
+   "properties": {
+    "id": "EST-PALENCIA",
+    "name": "Palencia",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.52214,
+     42.4055
+    ]
+   },
+   "properties": {
+    "id": "EST-LEON",
+    "name": "León",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

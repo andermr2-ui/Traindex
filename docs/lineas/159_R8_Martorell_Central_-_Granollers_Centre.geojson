@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.9267,
+      41.47909
+     ],
+     [
+      1.96779,
+      41.47328
+     ],
+     [
+      2.24538,
+      41.54972
+     ],
+     [
+      2.29161,
+      41.59965
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "159",
+    "name": "R8 Martorell Central - Granollers Centre",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#94297A",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9267,
+     41.47909
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTORELLCENTRAL",
+    "name": "Martorell Central",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.96779,
+     41.47328
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLBISBAL",
+    "name": "Castellbisbal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.24538,
+     41.54972
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTMELO",
+    "name": "Montmeló",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.29161,
+     41.59965
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANOLLERSCENTRE",
+    "name": "Granollers Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  }
+ ]
+}

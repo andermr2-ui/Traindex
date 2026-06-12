@@ -1,0 +1,398 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.00815,
+      40.62638
+     ],
+     [
+      -3.98261,
+      40.60065
+     ],
+     [
+      -3.95702,
+      40.57459
+     ],
+     [
+      -3.89647,
+      40.55201
+     ],
+     [
+      -3.72559,
+      40.4953
+     ],
+     [
+      -3.69496,
+      40.48815
+     ],
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.6917,
+      40.4225
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.68011,
+      40.39572
+     ],
+     [
+      -3.69412,
+      40.39933
+     ],
+     [
+      -3.71194,
+      40.40204
+     ],
+     [
+      -3.71933,
+      40.42096
+     ],
+     [
+      -3.66306,
+      40.48468
+     ],
+     [
+      -3.61642,
+      40.48181
+     ],
+     [
+      -3.59284,
+      40.49243
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "130",
+    "name": "C-10 Villalba - Príncipe Pío - Atocha - T4",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#94297A",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.00815,
+     40.62638
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLALBA",
+    "name": "Villalba",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.98261,
+     40.60065
+    ]
+   },
+   "properties": {
+    "id": "EST-GALAPAGARLANAVATA",
+    "name": "Galapagar-La Navata",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.95702,
+     40.57459
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRELODONES",
+    "name": "Torrelodones",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.89647,
+     40.55201
+    ]
+   },
+   "properties": {
+    "id": "EST-LASMATAS",
+    "name": "Las Matas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.72559,
+     40.4953
+    ]
+   },
+   "properties": {
+    "id": "EST-PITIS",
+    "name": "Pitis",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69496,
+     40.48815
+    ]
+   },
+   "properties": {
+    "id": "EST-RAMONYCAJAL",
+    "name": "Ramón y Cajal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-CHAMARTIN",
+    "name": "Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.4225
+    ]
+   },
+   "properties": {
+    "id": "EST-RECOLETOS",
+    "name": "Recoletos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHA",
+    "name": "Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68011,
+     40.39572
+    ]
+   },
+   "properties": {
+    "id": "EST-MENDEZALVARO",
+    "name": "Méndez Álvaro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69412,
+     40.39933
+    ]
+   },
+   "properties": {
+    "id": "EST-DELICIAS",
+    "name": "Delicias",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71194,
+     40.40204
+    ]
+   },
+   "properties": {
+    "id": "EST-PIRAMIDES",
+    "name": "Pirámides",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71933,
+     40.42096
+    ]
+   },
+   "properties": {
+    "id": "EST-PRINCIPEPIO",
+    "name": "Príncipe Pío",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66306,
+     40.48468
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENTEDELAMORA",
+    "name": "Fuente de la Mora",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61642,
+     40.48181
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDEBEBAS",
+    "name": "Valdebebas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.59284,
+     40.49243
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPUERTOT4",
+    "name": "Aeropuerto T4",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#94297A"
+   }
+  }
+ ]
+}

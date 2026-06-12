@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.71787,
+      40.38536
+     ],
+     [
+      -3.708,
+      40.379
+     ],
+     [
+      -3.86483,
+      40.32171
+     ],
+     [
+      -3.69439,
+      40.36999
+     ],
+     [
+      -3.71832,
+      40.32418
+     ],
+     [
+      -5.727,
+      37.59012
+     ],
+     [
+      -3.77766,
+      40.3582
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "141",
+    "name": "Línea 11 Plaza Elíptica - La Fortuna",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#006F42",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71787,
+     40.38536
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZAELIPTICA",
+    "name": "Plaza Elíptica",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.708,
+     40.379
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADOLONGO",
+    "name": "Pradolongo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.86483,
+     40.32171
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADILLO",
+    "name": "Pradillo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69439,
+     40.36999
+    ]
+   },
+   "properties": {
+    "id": "EST-SANFERMINORCASUR",
+    "name": "San Fermín-Orcasur",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71832,
+     40.32418
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSESPARTALES",
+    "name": "Los Espartales",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.727,
+     37.59012
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSROSALES",
+    "name": "Los Rosales",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.77766,
+     40.3582
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFORTUNA",
+    "name": "La Fortuna",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  }
+ ]
+}

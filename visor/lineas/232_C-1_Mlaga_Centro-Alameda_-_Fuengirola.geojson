@@ -1,0 +1,354 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.45505,
+      36.7009
+     ],
+     [
+      -4.48311,
+      36.69258
+     ],
+     [
+      -4.49016,
+      36.67775
+     ],
+     [
+      -4.48033,
+      36.65621
+     ],
+     [
+      -4.4855,
+      36.64475
+     ],
+     [
+      -4.49237,
+      36.64216
+     ],
+     [
+      -4.49105,
+      36.64341
+     ],
+     [
+      -4.5095,
+      36.61365
+     ],
+     [
+      -4.51544,
+      36.60989
+     ],
+     [
+      -4.53652,
+      36.59908
+     ],
+     [
+      -4.56708,
+      36.5823
+     ],
+     [
+      -4.59388,
+      36.57037
+     ],
+     [
+      -4.60657,
+      36.56497
+     ],
+     [
+      -4.61459,
+      36.55462
+     ],
+     [
+      -4.62398,
+      36.54181
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "232",
+    "name": "C-1 Málaga Centro-Alameda - Fuengirola",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.45505,
+     36.7009
+    ]
+   },
+   "properties": {
+    "id": "EST-VICTORIAKENT",
+    "name": "Victoria Kent",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.48311,
+     36.69258
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALHORCE",
+    "name": "Guadalhorce",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.49016,
+     36.67775
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPUERTOMALAGA",
+    "name": "Aeropuerto",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.48033,
+     36.65621
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZAMAYOR",
+    "name": "Plaza Mayor",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.4855,
+     36.64475
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSALAMOS",
+    "name": "Los Álamos",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.49237,
+     36.64216
+    ]
+   },
+   "properties": {
+    "id": "EST-LACOLINA",
+    "name": "La Colina",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.49105,
+     36.64341
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREMOLINOS",
+    "name": "Torremolinos",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.5095,
+     36.61365
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTEMARALTO",
+    "name": "Montemar Alto",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.51544,
+     36.60989
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPINILLO",
+    "name": "El Pinillo",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.53652,
+     36.59908
+    ]
+   },
+   "properties": {
+    "id": "EST-BENALMADENAARROYODELAMIEL",
+    "name": "Benalmádena-Arroyo de la Miel",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.56708,
+     36.5823
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREMUELLE",
+    "name": "Torremuelle",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.59388,
+     36.57037
+    ]
+   },
+   "properties": {
+    "id": "EST-CARVAJAL",
+    "name": "Carvajal",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.60657,
+     36.56497
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREBLANCAMALAGA",
+    "name": "Torreblanca",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.61459,
+     36.55462
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSBOLICHES",
+    "name": "Los Boliches",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.62398,
+     36.54181
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENGIROLA",
+    "name": "Fuengirola",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

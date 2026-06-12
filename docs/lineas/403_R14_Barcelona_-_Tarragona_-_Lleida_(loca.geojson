@@ -1,0 +1,486 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.16538,
+      41.39254
+     ],
+     [
+      2.15215,
+      41.39976
+     ],
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.73082,
+      41.22018
+     ],
+     [
+      1.52579,
+      41.18608
+     ],
+     [
+      1.40571,
+      41.14279
+     ],
+     [
+      1.3733,
+      41.13661
+     ],
+     [
+      1.25354,
+      41.11122
+     ],
+     [
+      1.15044,
+      41.11288
+     ],
+     [
+      1.09994,
+      41.1606
+     ],
+     [
+      1.17417,
+      41.2616
+     ],
+     [
+      1.195,
+      41.30604
+     ],
+     [
+      1.17649,
+      41.33763
+     ],
+     [
+      1.16571,
+      41.37652
+     ],
+     [
+      1.10327,
+      41.40047
+     ],
+     [
+      1.04603,
+      41.40269
+     ],
+     [
+      0.97035,
+      41.4251
+     ],
+     [
+      2.0732,
+      41.44486
+     ],
+     [
+      0.82553,
+      41.54392
+     ],
+     [
+      0.651,
+      41.6237
+     ],
+     [
+      0.651,
+      41.6237
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "403",
+    "name": "R14 Barcelona - Tarragona - Lleida (local)",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 21,
+    "coords_sta": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16538,
+     41.39254
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONAPASSEIGDEGRACIA",
+    "name": "Barcelona-Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15215,
+     41.39976
+    ]
+   },
+   "properties": {
+    "id": "EST-GRACIA-Barcelona-Barcelona",
+    "name": "Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.73082,
+     41.22018
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVAILAGELTRU",
+    "name": "Vilanova i la Geltrú",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.52579,
+     41.18608
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECALDERS",
+    "name": "Sant Vicenç de Calders",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.40571,
+     41.14279
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREDEMBARRA",
+    "name": "Torredembarra",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3733,
+     41.13661
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTAFULLATAMARIT",
+    "name": "Altafulla-Tamarit",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.25354,
+     41.11122
+    ]
+   },
+   "properties": {
+    "id": "EST-TARRAGONA",
+    "name": "Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.15044,
+     41.11288
+    ]
+   },
+   "properties": {
+    "id": "EST-VILASECA",
+    "name": "Vila-seca",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.09994,
+     41.1606
+    ]
+   },
+   "properties": {
+    "id": "EST-REUS",
+    "name": "Reus",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.17417,
+     41.2616
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOVER",
+    "name": "Alcover",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.195,
+     41.30604
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPLANAPICAMOIXONS",
+    "name": "La Plana-Picamoixons",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.17649,
+     41.33763
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAVERD",
+    "name": "Vilaverd",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.16571,
+     41.37652
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTBLANC",
+    "name": "Montblanc",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.10327,
+     41.40047
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPLUGADEFRANCOLI",
+    "name": "Espluga de Francolí",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.04603,
+     41.40269
+    ]
+   },
+   "properties": {
+    "id": "EST-VIMBODI",
+    "name": "Vimbodí",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.97035,
+     41.4251
+    ]
+   },
+   "properties": {
+    "id": "EST-VINAIXA",
+    "name": "Vinaixa",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.0732,
+     41.44486
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFLORESTA",
+    "name": "La Floresta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.82553,
+     41.54392
+    ]
+   },
+   "properties": {
+    "id": "EST-JUNEDA",
+    "name": "Juneda",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.651,
+     41.6237
+    ]
+   },
+   "properties": {
+    "id": "EST-LERIDAPIRINEOS",
+    "name": "Lérida-Pirineos",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.651,
+     41.6237
+    ]
+   },
+   "properties": {
+    "id": "EST-LERIDAPIRINEOS",
+    "name": "Lérida-Pirineos",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0.63304,
+      41.62073
+     ],
+     [
+      0.68571,
+      41.65425
+     ],
+     [
+      0.72791,
+      41.68736
+     ],
+     [
+      0.763,
+      41.7165
+     ],
+     [
+      0.81469,
+      41.78922
+     ],
+     [
+      0.81205,
+      41.82329
+     ],
+     [
+      0.83263,
+      41.86641
+     ],
+     [
+      0.72791,
+      41.68736
+     ],
+     [
+      0.85252,
+      41.93186
+     ],
+     [
+      0.85155,
+      42.00676
+     ],
+     [
+      0.88287,
+      42.05859
+     ],
+     [
+      0.88808,
+      42.10138
+     ],
+     [
+      0.89243,
+      42.14692
+     ],
+     [
+      0.94046,
+      42.20684
+     ],
+     [
+      0.96616,
+      42.24
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "162",
+    "name": "RL2 Lleida Pirineus - La Pobla de Segur",
+    "type": "Rodalies",
+    "operator": "FGC",
+    "stroke": "#A8862A",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.63304,
+     41.62073
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEIDAPIRINEUS",
+    "name": "Lleida Pirineus",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.68571,
+     41.65425
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOLETGE",
+    "name": "Alcoletge",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.72791,
+     41.68736
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVADELABARCA",
+    "name": "Vilanova de la Barca",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.763,
+     41.7165
+    ]
+   },
+   "properties": {
+    "id": "EST-TERMENS",
+    "name": "Térmens",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.81469,
+     41.78922
+    ]
+   },
+   "properties": {
+    "id": "EST-BALAGUER",
+    "name": "Balaguer",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.81205,
+     41.82329
+    ]
+   },
+   "properties": {
+    "id": "EST-GERB",
+    "name": "Gerb",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.83263,
+     41.86641
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTLLORENCDEMONTGAI",
+    "name": "Sant Llorenç de Montgai",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.72791,
+     41.68736
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVADELASAL",
+    "name": "Vilanova de la Sal",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.85252,
+     41.93186
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTALINYA",
+    "name": "Santa Linya",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.85155,
+     42.00676
+    ]
+   },
+   "properties": {
+    "id": "EST-AGER",
+    "name": "Àger",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.88287,
+     42.05859
+    ]
+   },
+   "properties": {
+    "id": "EST-CELLERSLLIMIANA",
+    "name": "Cellers-Llimiana",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.88808,
+     42.10138
+    ]
+   },
+   "properties": {
+    "id": "EST-TREMP",
+    "name": "Tremp",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.89243,
+     42.14692
+    ]
+   },
+   "properties": {
+    "id": "EST-PALAUDENOGUERA",
+    "name": "Palau de Noguera",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.94046,
+     42.20684
+    ]
+   },
+   "properties": {
+    "id": "EST-SALASDEPALLARS",
+    "name": "Salàs de Pallars",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.96616,
+     42.24
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPOBLADESEGUR",
+    "name": "La Pobla de Segur",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A8862A"
+   }
+  }
+ ]
+}

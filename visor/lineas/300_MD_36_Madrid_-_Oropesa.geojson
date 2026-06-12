@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -4.82654,
+      39.97063
+     ],
+     [
+      -5.18621,
+      39.92185
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "300",
+    "name": "MD 36 Madrid - Oropesa",
+    "type": "Media Distancia AV",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 3,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.82654,
+     39.97063
+    ]
+   },
+   "properties": {
+    "id": "EST-TALAVERADELAREINA",
+    "name": "Talavera de la Reina",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.18621,
+     39.92185
+    ]
+   },
+   "properties": {
+    "id": "EST-OROPESADETOLEDO",
+    "name": "Oropesa de Toledo",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.27357,
+      41.19217
+     ],
+     [
+      0.63304,
+      41.62073
+     ],
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -1.59767,
+      42.0595
+     ],
+     [
+      -1.69244,
+      42.17287
+     ],
+     [
+      -1.67121,
+      42.52575
+     ],
+     [
+      -1.66149,
+      42.82505
+     ],
+     [
+      -2.31988,
+      43.08701
+     ],
+     [
+      -2.07914,
+      43.13564
+     ],
+     [
+      -1.80058,
+      43.33921
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "26",
+    "name": "Alvia Barcelona - Irún",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#0071BC",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 12,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.27357,
+     41.19217
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDETARRAGONA",
+    "name": "Camp de Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.63304,
+     41.62073
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEIDAPIRINEUS",
+    "name": "Lleida Pirineus",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59767,
+     42.0595
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELADENAVARRA",
+    "name": "Tudela de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67121,
+     42.52575
+    ]
+   },
+   "properties": {
+    "id": "EST-TAFALLA",
+    "name": "Tafalla",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66149,
+     42.82505
+    ]
+   },
+   "properties": {
+    "id": "EST-PAMPLONA",
+    "name": "Pamplona",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.31988,
+     43.08701
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUMARRAGA",
+    "name": "Zumárraga",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07914,
+     43.13564
+    ]
+   },
+   "properties": {
+    "id": "EST-TOLOSA",
+    "name": "Tolosa",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.80058,
+     43.33921
+    ]
+   },
+   "properties": {
+    "id": "EST-IRUN",
+    "name": "Irún",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  }
+ ]
+}

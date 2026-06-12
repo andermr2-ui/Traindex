@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -0.6951,
+      38.27179
+     ],
+     [
+      -0.9498,
+      38.08126
+     ],
+     [
+      -0.99549,
+      38.04715
+     ],
+     [
+      -1.13346,
+      37.97658
+     ],
+     [
+      -1.20816,
+      37.9665
+     ],
+     [
+      -1.34728,
+      37.88705
+     ],
+     [
+      -1.41449,
+      37.84935
+     ],
+     [
+      -1.57478,
+      37.86234
+     ],
+     [
+      -1.69632,
+      37.67193
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "96",
+    "name": "MD 61 Alicante - Lorca",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALICANTERMINAL",
+    "name": "Alicante-Terminal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.6951,
+     38.27179
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCHEPARQUE",
+    "name": "Elche-Parque",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9498,
+     38.08126
+    ]
+   },
+   "properties": {
+    "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+    "name": "Orihuela-Miguel Hernández",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.99549,
+     38.04715
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIEL",
+    "name": "Beniel",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13346,
+     37.97658
+    ]
+   },
+   "properties": {
+    "id": "EST-MURCIADELCARMEN",
+    "name": "Murcia del Carmen",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.20816,
+     37.9665
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCANTARILLALOSROMANOS",
+    "name": "Alcantarilla-Los Romanos",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34728,
+     37.88705
+    ]
+   },
+   "properties": {
+    "id": "EST-LIBRILLA",
+    "name": "Librilla",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41449,
+     37.84935
+    ]
+   },
+   "properties": {
+    "id": "EST-ALHAMADEMURCIA",
+    "name": "Alhama de Murcia",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57478,
+     37.86234
+    ]
+   },
+   "properties": {
+    "id": "EST-TOTANA",
+    "name": "Totana",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69632,
+     37.67193
+    ]
+   },
+   "properties": {
+    "id": "EST-LORCASUTULLENA",
+    "name": "Lorca Sutullena",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

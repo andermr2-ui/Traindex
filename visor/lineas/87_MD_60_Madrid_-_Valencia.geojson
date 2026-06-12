@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.00978,
+      40.0065
+     ],
+     [
+      -2.68219,
+      40.14602
+     ],
+     [
+      -2.14369,
+      40.03396
+     ],
+     [
+      -1.67888,
+      40.09937
+     ],
+     [
+      -1.40317,
+      39.64495
+     ],
+     [
+      -1.13473,
+      39.52175
+     ],
+     [
+      -0.7874,
+      39.4271
+     ],
+     [
+      -0.37719,
+      39.46691
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "87",
+    "name": "MD 60 Madrid - Valencia",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.00978,
+     40.0065
+    ]
+   },
+   "properties": {
+    "id": "EST-TARANCON",
+    "name": "Tarancón",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68219,
+     40.14602
+    ]
+   },
+   "properties": {
+    "id": "EST-HUETE",
+    "name": "Huete",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.14369,
+     40.03396
+    ]
+   },
+   "properties": {
+    "id": "EST-CUENCA",
+    "name": "Cuenca",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67888,
+     40.09937
+    ]
+   },
+   "properties": {
+    "id": "EST-CARBONERASDEGUADAZAON",
+    "name": "Carboneras de Guadazaón",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40317,
+     39.64495
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPORROBLES",
+    "name": "Camporrobles",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13473,
+     39.52175
+    ]
+   },
+   "properties": {
+    "id": "EST-UTIEL",
+    "name": "Utiel",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.7874,
+     39.4271
+    ]
+   },
+   "properties": {
+    "id": "EST-BUNOL",
+    "name": "Buñol",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

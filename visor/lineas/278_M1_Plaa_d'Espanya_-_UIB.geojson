@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.65413,
+      39.5763
+     ],
+     [
+      2.65997,
+      39.58005
+     ],
+     [
+      2.66579,
+      39.58417
+     ],
+     [
+      2.67149,
+      39.59547
+     ],
+     [
+      2.66095,
+      39.6203
+     ],
+     [
+      2.648,
+      39.63461
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "278",
+    "name": "M1 Plaça d'Espanya - UIB",
+    "type": "Metro",
+    "operator": "SFM",
+    "stroke": "#00A550",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.65413,
+     39.5763
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTACIOINTERMODAL",
+    "name": "Estació Intermodal",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.65997,
+     39.58005
+    ]
+   },
+   "properties": {
+    "id": "EST-JACINTVERDAGUER",
+    "name": "Jacint Verdaguer",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.66579,
+     39.58417
+    ]
+   },
+   "properties": {
+    "id": "EST-SONCOSTASONFORTESA",
+    "name": "Son Costa-Son Fortesa",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.67149,
+     39.59547
+    ]
+   },
+   "properties": {
+    "id": "EST-SONFUSTERVELL",
+    "name": "Son Fuster Vell",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.66095,
+     39.6203
+    ]
+   },
+   "properties": {
+    "id": "EST-SONSARDINA",
+    "name": "Son Sardina",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.648,
+     39.63461
+    ]
+   },
+   "properties": {
+    "id": "EST-UIB",
+    "name": "UIB",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  }
+ ]
+}

@@ -1,0 +1,398 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.45018,
+      36.12664
+     ],
+     [
+      -5.4608,
+      36.17386
+     ],
+     [
+      -5.43229,
+      36.21377
+     ],
+     [
+      -5.42997,
+      36.27665
+     ],
+     [
+      -5.43417,
+      36.42426
+     ],
+     [
+      -5.419,
+      36.4679
+     ],
+     [
+      -5.38682,
+      36.54024
+     ],
+     [
+      -5.33263,
+      36.59738
+     ],
+     [
+      -5.28134,
+      36.66064
+     ],
+     [
+      -5.24614,
+      36.71371
+     ],
+     [
+      -5.14057,
+      36.79095
+     ],
+     [
+      -5.16196,
+      36.74859
+     ],
+     [
+      -5.12135,
+      36.8626
+     ],
+     [
+      -5.01989,
+      37.00094
+     ],
+     [
+      -4.8635,
+      37.03203
+     ],
+     [
+      -4.72798,
+      37.03764
+     ],
+     [
+      -4.71971,
+      37.07017
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "52",
+    "name": "MD 70 Algeciras - Antequera",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.45018,
+     36.12664
+    ]
+   },
+   "properties": {
+    "id": "EST-ALGECIRAS",
+    "name": "Algeciras",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.4608,
+     36.17386
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSBARRIOS",
+    "name": "Los Barrios",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.43229,
+     36.21377
+    ]
+   },
+   "properties": {
+    "id": "EST-SANROQUELALINEA",
+    "name": "San Roque-La Línea",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.42997,
+     36.27665
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMORAIMA",
+    "name": "Almoraima",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.43417,
+     36.42426
+    ]
+   },
+   "properties": {
+    "id": "EST-JIMENADELAFRONTERA",
+    "name": "Jimena de la Frontera",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.419,
+     36.4679
+    ]
+   },
+   "properties": {
+    "id": "EST-SANPABLO",
+    "name": "San Pablo",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.38682,
+     36.54024
+    ]
+   },
+   "properties": {
+    "id": "EST-GAUCIN",
+    "name": "Gaucín",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.33263,
+     36.59738
+    ]
+   },
+   "properties": {
+    "id": "EST-CORTESDELAFRONTERA",
+    "name": "Cortes de la Frontera",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.28134,
+     36.66064
+    ]
+   },
+   "properties": {
+    "id": "EST-JIMERADELIBAR",
+    "name": "Jimera de Líbar",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.24614,
+     36.71371
+    ]
+   },
+   "properties": {
+    "id": "EST-BENAOJANMONTEJAQUE",
+    "name": "Benaoján-Montejaque",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.14057,
+     36.79095
+    ]
+   },
+   "properties": {
+    "id": "EST-ARRIATE",
+    "name": "Arriate",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.16196,
+     36.74859
+    ]
+   },
+   "properties": {
+    "id": "EST-RONDA",
+    "name": "Ronda",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.12135,
+     36.8626
+    ]
+   },
+   "properties": {
+    "id": "EST-SETENIL",
+    "name": "Setenil",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.01989,
+     37.00094
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMARGENCANETELAREAL",
+    "name": "Almargen-Cañete la Real",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.8635,
+     37.03203
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPILLOS",
+    "name": "Campillos",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.72798,
+     37.03764
+    ]
+   },
+   "properties": {
+    "id": "EST-BOBADILLA",
+    "name": "Bobadilla",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.71971,
+     37.07017
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERASANTAANA",
+    "name": "Antequera-Santa Ana",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

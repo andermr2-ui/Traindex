@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.29295,
+      37.71814
+     ],
+     [
+      -5.10678,
+      37.80374
+     ],
+     [
+      -4.91377,
+      37.84797
+     ],
+     [
+      -4.85027,
+      37.86746
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -4.72063,
+      37.9126
+     ],
+     [
+      -4.67481,
+      37.93298
+     ],
+     [
+      -4.28369,
+      37.98129
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "345",
+    "name": "Proximidad Córdoba - Palma del Río",
+    "type": "Proximidad",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.29295,
+     37.71814
+    ]
+   },
+   "properties": {
+    "id": "EST-PALMADELRIO",
+    "name": "Palma del Río",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.10678,
+     37.80374
+    ]
+   },
+   "properties": {
+    "id": "EST-POSADAS",
+    "name": "Posadas",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.91377,
+     37.84797
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLARRUBIADECORDOBA",
+    "name": "Villarrubia de Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.85027,
+     37.86746
+    ]
+   },
+   "properties": {
+    "id": "EST-ELHIGUERON",
+    "name": "El Higuerón",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.72063,
+     37.9126
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPUSUNIVERSITARIODERABANALES",
+    "name": "Campus Universitario de Rabanales",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.67481,
+     37.93298
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOLEADECORDOBA",
+    "name": "Alcolea de Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.28369,
+     37.98129
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLADELRIO",
+    "name": "Villa del Río",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

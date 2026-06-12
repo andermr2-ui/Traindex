@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.98162,
+      38.89073
+     ],
+     [
+      -7.02588,
+      38.88305
+     ],
+     [
+      -8.47375,
+      39.46165
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "107",
+    "name": "Regional Internacional (Raia) Badajoz - Entroncamento",
+    "type": "Regional Internacional",
+    "operator": "CP",
+    "stroke": "#00508F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98162,
+     38.89073
+    ]
+   },
+   "properties": {
+    "id": "EST-BADAJOZ",
+    "name": "Badajoz",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00508F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.02588,
+     38.88305
+    ]
+   },
+   "properties": {
+    "id": "EST-ELVAS",
+    "name": "Elvas",
+    "province": "Portugal",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00508F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.47375,
+     39.46165
+    ]
+   },
+   "properties": {
+    "id": "EST-ENTRONCAMENTO",
+    "name": "Entroncamento",
+    "province": "Portugal",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00508F"
+   }
+  }
+ ]
+}

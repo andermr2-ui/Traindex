@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.40985,
+      42.13275
+     ],
+     [
+      -0.53843,
+      41.97557
+     ],
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -1.63842,
+      41.34636
+     ],
+     [
+      -3.18225,
+      40.64408
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -4.78952,
+      37.88851
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "319",
+    "name": "AVE Huesca - Sevilla-Santa Justa",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40985,
+     42.13275
+    ]
+   },
+   "properties": {
+    "id": "EST-HUESCA",
+    "name": "Huesca",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.53843,
+     41.97557
+    ]
+   },
+   "properties": {
+    "id": "EST-TARDIENTA",
+    "name": "Tardienta",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63842,
+     41.34636
+    ]
+   },
+   "properties": {
+    "id": "EST-CALATAYUD",
+    "name": "Calatayud",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18225,
+     40.64408
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALAJARAYEBES",
+    "name": "Guadalajara-Yebes",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.78952,
+     37.88851
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBACENTRAL",
+    "name": "Córdoba-Central",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

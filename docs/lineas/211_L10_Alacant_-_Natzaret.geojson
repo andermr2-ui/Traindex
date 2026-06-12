@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -0.37777,
+      39.46613
+     ],
+     [
+      -0.36431,
+      39.45784
+     ],
+     [
+      -0.37146,
+      39.44153
+     ],
+     [
+      -0.35255,
+      39.45576
+     ],
+     [
+      -0.34718,
+      39.45305
+     ],
+     [
+      -0.3336,
+      39.45005
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "211",
+    "name": "L10 Alacant - Natzaret",
+    "type": "Tranvía",
+    "operator": "Metrovalencia",
+    "stroke": "#90A2AE",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALACANT",
+    "name": "Alacant",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#90A2AE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37777,
+     39.46613
+    ]
+   },
+   "properties": {
+    "id": "EST-RUSSAFA",
+    "name": "Russafa",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#90A2AE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36431,
+     39.45784
+    ]
+   },
+   "properties": {
+    "id": "EST-AMADOGRANELL",
+    "name": "Amado Granell",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#90A2AE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37146,
+     39.44153
+    ]
+   },
+   "properties": {
+    "id": "EST-QUATRECARRERES",
+    "name": "Quatre Carreres",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#90A2AE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.35255,
+     39.45576
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUTATARTISICIENCIES",
+    "name": "Ciutat Arts i Ciències",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#90A2AE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.34718,
+     39.45305
+    ]
+   },
+   "properties": {
+    "id": "EST-OCEANOGRAFIC",
+    "name": "Oceanogràfic",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#90A2AE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3336,
+     39.45005
+    ]
+   },
+   "properties": {
+    "id": "EST-NATZARET",
+    "name": "Natzaret",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#90A2AE"
+   }
+  }
+ ]
+}

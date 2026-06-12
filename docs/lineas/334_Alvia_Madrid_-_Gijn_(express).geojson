@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -4.7272,
+      41.64334
+     ],
+     [
+      -4.53386,
+      42.01573
+     ],
+     [
+      -6.52214,
+      42.4055
+     ],
+     [
+      -5.83113,
+      43.15865
+     ],
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.67563,
+      43.53773
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "334",
+    "name": "Alvia Madrid - Gijón (express)",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#5F259F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7272,
+     41.64334
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADOLIDCAMPOGRANDE",
+    "name": "Valladolid-Campo Grande",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.53386,
+     42.01573
+    ]
+   },
+   "properties": {
+    "id": "EST-PALENCIA",
+    "name": "Palencia",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.52214,
+     42.4055
+    ]
+   },
+   "properties": {
+    "id": "EST-LEON",
+    "name": "León",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.83113,
+     43.15865
+    ]
+   },
+   "properties": {
+    "id": "EST-POLADELENA",
+    "name": "Pola de Lena",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67563,
+     43.53773
+    ]
+   },
+   "properties": {
+    "id": "EST-GIJON",
+    "name": "Gijón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  }
+ ]
+}

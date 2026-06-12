@@ -1,0 +1,640 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.18225,
+      40.64408
+     ],
+     [
+      -3.26534,
+      40.56101
+     ],
+     [
+      -3.29857,
+      40.53463
+     ],
+     [
+      -3.3353,
+      40.50544
+     ],
+     [
+      -3.36619,
+      40.48906
+     ],
+     [
+      -3.39299,
+      40.48035
+     ],
+     [
+      -3.44142,
+      40.46386
+     ],
+     [
+      -3.47973,
+      40.45473
+     ],
+     [
+      -3.56101,
+      40.42373
+     ],
+     [
+      -3.60889,
+      40.4042
+     ],
+     [
+      -3.60909,
+      40.38713
+     ],
+     [
+      -3.62479,
+      40.38206
+     ],
+     [
+      -3.65609,
+      40.37617
+     ],
+     [
+      -3.66802,
+      40.38163
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.6917,
+      40.4225
+     ],
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -3.69496,
+      40.48815
+     ],
+     [
+      -3.72559,
+      40.4953
+     ],
+     [
+      -3.89647,
+      40.55201
+     ],
+     [
+      -3.95702,
+      40.57459
+     ],
+     [
+      -3.98261,
+      40.60065
+     ],
+     [
+      -4.00815,
+      40.62638
+     ],
+     [
+      -4.02208,
+      40.63905
+     ],
+     [
+      -4.03532,
+      40.65824
+     ],
+     [
+      -4.03519,
+      40.69257
+     ],
+     [
+      -4.06603,
+      40.73766
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "127",
+    "name": "C-8a Santa María de la Alameda-Peguerinos - Villalba - Madrid-Chamartín - Guadalajara",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 30,
+    "coords_sta": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18225,
+     40.64408
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALAJARA",
+    "name": "Guadalajara",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.26534,
+     40.56101
+    ]
+   },
+   "properties": {
+    "id": "EST-AZUQUECA",
+    "name": "Azuqueca",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.29857,
+     40.53463
+    ]
+   },
+   "properties": {
+    "id": "EST-MECO",
+    "name": "Meco",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3353,
+     40.50544
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCALADEHENARESUNIVERSIDAD",
+    "name": "Alcalá de Henares Universidad",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.36619,
+     40.48906
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCALADEHENARES",
+    "name": "Alcalá de Henares",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.39299,
+     40.48035
+    ]
+   },
+   "properties": {
+    "id": "EST-LAGARENA",
+    "name": "La Garena",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.44142,
+     40.46386
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTODELHENARES",
+    "name": "Soto del Henares",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.47973,
+     40.45473
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREJONDEARDOZ",
+    "name": "Torrejón de Ardoz",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.56101,
+     40.42373
+    ]
+   },
+   "properties": {
+    "id": "EST-COSLADA",
+    "name": "Coslada",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60889,
+     40.4042
+    ]
+   },
+   "properties": {
+    "id": "EST-VICALVARO",
+    "name": "Vicálvaro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60909,
+     40.38713
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAEUGENIA",
+    "name": "Santa Eugenia",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.62479,
+     40.38206
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLECAS",
+    "name": "Vallecas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65609,
+     40.37617
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPOZO",
+    "name": "El Pozo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66802,
+     40.38163
+    ]
+   },
+   "properties": {
+    "id": "EST-ASAMBLEADEMADRIDENTREVIAS",
+    "name": "Asamblea de Madrid-Entrevías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHA",
+    "name": "Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.4225
+    ]
+   },
+   "properties": {
+    "id": "EST-RECOLETOS",
+    "name": "Recoletos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69496,
+     40.48815
+    ]
+   },
+   "properties": {
+    "id": "EST-RAMONYCAJAL",
+    "name": "Ramón y Cajal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.72559,
+     40.4953
+    ]
+   },
+   "properties": {
+    "id": "EST-PITIS",
+    "name": "Pitis",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.89647,
+     40.55201
+    ]
+   },
+   "properties": {
+    "id": "EST-LASMATAS",
+    "name": "Las Matas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.95702,
+     40.57459
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRELODONES",
+    "name": "Torrelodones",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.98261,
+     40.60065
+    ]
+   },
+   "properties": {
+    "id": "EST-GALAPAGARLANAVATA",
+    "name": "Galapagar-La Navata",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.00815,
+     40.62638
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLALBADEGUADARRAMA",
+    "name": "Villalba de Guadarrama",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.02208,
+     40.63905
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSNEGRALES",
+    "name": "Los Negrales",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.03532,
+     40.65824
+    ]
+   },
+   "properties": {
+    "id": "EST-ALPEDRETE",
+    "name": "Alpedrete",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.03519,
+     40.69257
+    ]
+   },
+   "properties": {
+    "id": "EST-COLLADOMEDIANO",
+    "name": "Collado Mediano",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.06603,
+     40.73766
+    ]
+   },
+   "properties": {
+    "id": "EST-CERCEDILLA",
+    "name": "Cercedilla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

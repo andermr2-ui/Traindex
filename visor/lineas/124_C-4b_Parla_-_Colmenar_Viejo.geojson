@@ -1,0 +1,354 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.76936,
+      40.24105
+     ],
+     [
+      -3.73751,
+      40.28824
+     ],
+     [
+      -3.73407,
+      40.30971
+     ],
+     [
+      -3.72731,
+      40.32296
+     ],
+     [
+      -3.71177,
+      40.34103
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.70339,
+      40.41694
+     ],
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.65439,
+      40.5474
+     ],
+     [
+      -3.69496,
+      40.48815
+     ],
+     [
+      -3.71654,
+      40.49104
+     ],
+     [
+      -3.71383,
+      40.55847
+     ],
+     [
+      -3.71565,
+      40.59891
+     ],
+     [
+      -3.77656,
+      40.6452
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "124",
+    "name": "C-4b Parla - Colmenar Viejo",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#2251A2",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76936,
+     40.24105
+    ]
+   },
+   "properties": {
+    "id": "EST-PARLA",
+    "name": "Parla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73751,
+     40.28824
+    ]
+   },
+   "properties": {
+    "id": "EST-GETAFESECTOR3",
+    "name": "Getafe Sector 3",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73407,
+     40.30971
+    ]
+   },
+   "properties": {
+    "id": "EST-GETAFECENTRO",
+    "name": "Getafe Centro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.72731,
+     40.32296
+    ]
+   },
+   "properties": {
+    "id": "EST-LASMARGARITASUNIVERSIDAD",
+    "name": "Las Margaritas Universidad",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71177,
+     40.34103
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVERDEALTO",
+    "name": "Villaverde Alto",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHA",
+    "name": "Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70339,
+     40.41694
+    ]
+   },
+   "properties": {
+    "id": "EST-SOL",
+    "name": "Sol",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-CHAMARTIN",
+    "name": "Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65439,
+     40.5474
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDELASFUENTES",
+    "name": "Valdelasfuentes",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69496,
+     40.48815
+    ]
+   },
+   "properties": {
+    "id": "EST-RAMONYCAJAL",
+    "name": "Ramón y Cajal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71654,
+     40.49104
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRASIERRAPACODELUCIA",
+    "name": "Mirasierra-Paco de Lucía",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71383,
+     40.55847
+    ]
+   },
+   "properties": {
+    "id": "EST-ELGOLOSO",
+    "name": "El Goloso",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71565,
+     40.59891
+    ]
+   },
+   "properties": {
+    "id": "EST-TRESCANTOS",
+    "name": "Tres Cantos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.77656,
+     40.6452
+    ]
+   },
+   "properties": {
+    "id": "EST-COLMENARVIEJO",
+    "name": "Colmenar Viejo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  }
+ ]
+}

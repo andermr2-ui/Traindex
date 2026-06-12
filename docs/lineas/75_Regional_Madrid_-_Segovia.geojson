@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.71903,
+      40.4216
+     ],
+     [
+      -4.00815,
+      40.62638
+     ],
+     [
+      -4.06603,
+      40.73766
+     ],
+     [
+      -4.12539,
+      40.70563
+     ],
+     [
+      -4.15774,
+      40.71689
+     ],
+     [
+      -4.1814,
+      40.71494
+     ],
+     [
+      -4.18952,
+      40.74084
+     ],
+     [
+      -4.11362,
+      40.93404
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "75",
+    "name": "Regional Madrid - Segovia",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71903,
+     40.4216
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPRINCIPEPIO",
+    "name": "Madrid-Príncipe Pío",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.00815,
+     40.62638
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLALBA",
+    "name": "Villalba",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.06603,
+     40.73766
+    ]
+   },
+   "properties": {
+    "id": "EST-CERCEDILLA",
+    "name": "Cercedilla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.12539,
+     40.70563
+    ]
+   },
+   "properties": {
+    "id": "EST-TABLADA",
+    "name": "Tablada",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.15774,
+     40.71689
+    ]
+   },
+   "properties": {
+    "id": "EST-GUDILLOS",
+    "name": "Gudillos",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1814,
+     40.71494
+    ]
+   },
+   "properties": {
+    "id": "EST-SANRAFAEL",
+    "name": "San Rafael",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.18952,
+     40.74084
+    ]
+   },
+   "properties": {
+    "id": "EST-ELESPINAR",
+    "name": "El Espinar",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11362,
+     40.93404
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGOVIA",
+    "name": "Segovia",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

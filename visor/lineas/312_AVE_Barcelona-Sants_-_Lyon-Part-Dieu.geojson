@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      2.81629,
+      41.97917
+     ],
+     [
+      2.94268,
+      42.2647
+     ],
+     [
+      2.697,
+      42.77732
+     ],
+     [
+      3.88032,
+      43.60425
+     ],
+     [
+      4.36625,
+      43.83237
+     ],
+     [
+      4.97843,
+      44.99193
+     ],
+     [
+      4.97843,
+      44.99193
+     ],
+     [
+      4.86016,
+      45.76057
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "312",
+    "name": "AVE Barcelona-Sants - Lyon-Part-Dieu",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.81629,
+     41.97917
+    ]
+   },
+   "properties": {
+    "id": "EST-GERONA",
+    "name": "Gerona",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.94268,
+     42.2647
+    ]
+   },
+   "properties": {
+    "id": "EST-FIGUERASVILAFANT",
+    "name": "Figueras-Vilafant",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.697,
+     42.77732
+    ]
+   },
+   "properties": {
+    "id": "EST-PERPINAN",
+    "name": "Perpiñán",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.88032,
+     43.60425
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTPELLIERSAINTROCH",
+    "name": "Montpellier-Saint-Roch",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.36625,
+     43.83237
+    ]
+   },
+   "properties": {
+    "id": "EST-NIMES",
+    "name": "Nimes",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97843,
+     44.99193
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCETGV",
+    "name": "Valence TGV",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.97843,
+     44.99193
+    ]
+   },
+   "properties": {
+    "id": "EST-RHONEALPESSUD",
+    "name": "Rhône-Alpes Sud",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.86016,
+     45.76057
+    ]
+   },
+   "properties": {
+    "id": "EST-LYONPARTDIEU",
+    "name": "Lyon-Part-Dieu",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

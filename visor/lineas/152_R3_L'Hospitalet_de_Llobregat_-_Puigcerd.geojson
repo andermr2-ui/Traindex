@@ -1,0 +1,662 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.10094,
+      41.36424
+     ],
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      2.16538,
+      41.39254
+     ],
+     [
+      2.18091,
+      41.39211
+     ],
+     [
+      2.18702,
+      41.42262
+     ],
+     [
+      2.19114,
+      41.43663
+     ],
+     [
+      2.17994,
+      41.45922
+     ],
+     [
+      2.18003,
+      41.46993
+     ],
+     [
+      2.18538,
+      41.4839
+     ],
+     [
+      2.19426,
+      41.52172
+     ],
+     [
+      2.20597,
+      41.53646
+     ],
+     [
+      2.22591,
+      41.55604
+     ],
+     [
+      2.27658,
+      41.61124
+     ],
+     [
+      2.29497,
+      41.62985
+     ],
+     [
+      2.28866,
+      41.68449
+     ],
+     [
+      2.27156,
+      41.72089
+     ],
+     [
+      2.24919,
+      41.76072
+     ],
+     [
+      2.22281,
+      41.79941
+     ],
+     [
+      2.24726,
+      41.84189
+     ],
+     [
+      2.26911,
+      41.99986
+     ],
+     [
+      2.25998,
+      42.05214
+     ],
+     [
+      2.24193,
+      42.06467
+     ],
+     [
+      2.21765,
+      42.10483
+     ],
+     [
+      2.19616,
+      42.19551
+     ],
+     [
+      2.16577,
+      42.22165
+     ],
+     [
+      2.16546,
+      42.29919
+     ],
+     [
+      2.09979,
+      42.31431
+     ],
+     [
+      2.01513,
+      42.32075
+     ],
+     [
+      1.92456,
+      42.42937
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "152",
+    "name": "R3 L'Hospitalet de Llobregat - Puigcerdà / Latour-de-Carol",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#E30613",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 36,
+    "coords_sta": 29
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10094,
+     41.36424
+    ]
+   },
+   "properties": {
+    "id": "EST-LHOSPITALETDELLOBREGAT",
+    "name": "L'Hospitalet de Llobregat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16538,
+     41.39254
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONAPASSEIGDEGRACIA",
+    "name": "Barcelona-Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18091,
+     41.39211
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCDETRIOMF",
+    "name": "Arc de Triomf",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18702,
+     41.42262
+    ]
+   },
+   "properties": {
+    "id": "EST-LASAGRERAMERIDIANA",
+    "name": "La Sagrera-Meridiana",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19114,
+     41.43663
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDREUARENAL",
+    "name": "Sant Andreu Arenal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17994,
+     41.45922
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREBARO",
+    "name": "Torre Baró",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18003,
+     41.46993
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTCADABIFURCACIO",
+    "name": "Montcada Bifurcació",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18538,
+     41.4839
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTCADAIREIXACMANRESA",
+    "name": "Montcada i Reixac-Manresa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19426,
+     41.52172
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAPERPETUADEMOGODA",
+    "name": "Santa Perpètua de Mogoda La Florida",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20597,
+     41.53646
+    ]
+   },
+   "properties": {
+    "id": "EST-MOLLETSANTAROSA",
+    "name": "Mollet-Santa Rosa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.22591,
+     41.55604
+    ]
+   },
+   "properties": {
+    "id": "EST-PARETSDELVALLES",
+    "name": "Parets del Vallès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.27658,
+     41.61124
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANOLLERSCANOVELLES",
+    "name": "Granollers-Canovelles",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.29497,
+     41.62985
+    ]
+   },
+   "properties": {
+    "id": "EST-LESFRANQUESESDELVALLES",
+    "name": "Les Franqueses del Vallès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.28866,
+     41.68449
+    ]
+   },
+   "properties": {
+    "id": "EST-LAGARRIGA",
+    "name": "La Garriga",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.27156,
+     41.72089
+    ]
+   },
+   "properties": {
+    "id": "EST-FIGARO",
+    "name": "Figaró",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.24919,
+     41.76072
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTMARTIDECENTELLES",
+    "name": "Sant Martí de Centelles",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.22281,
+     41.79941
+    ]
+   },
+   "properties": {
+    "id": "EST-CENTELLES",
+    "name": "Centelles",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.24726,
+     41.84189
+    ]
+   },
+   "properties": {
+    "id": "EST-BALENYATONASEVA",
+    "name": "Balenyà-Tona-Seva",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.26911,
+     41.99986
+    ]
+   },
+   "properties": {
+    "id": "EST-MANLLEU",
+    "name": "Manlleu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.25998,
+     42.05214
+    ]
+   },
+   "properties": {
+    "id": "EST-TORELLO",
+    "name": "Torelló",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.24193,
+     42.06467
+    ]
+   },
+   "properties": {
+    "id": "EST-BORGONYA",
+    "name": "Borgonyà",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21765,
+     42.10483
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTQUIRZEDEBESORA",
+    "name": "San Quirze de Besora",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19616,
+     42.19551
+    ]
+   },
+   "properties": {
+    "id": "EST-RIPOLL",
+    "name": "Ripoll",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16577,
+     42.22165
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDEVANOL",
+    "name": "Campdevànol",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16546,
+     42.29919
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBESDEFRESER",
+    "name": "Ribes de Freser",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09979,
+     42.31431
+    ]
+   },
+   "properties": {
+    "id": "EST-PLANOLES",
+    "name": "Planoles",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01513,
+     42.32075
+    ]
+   },
+   "properties": {
+    "id": "EST-TOSES",
+    "name": "Toses",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.92456,
+     42.42937
+    ]
+   },
+   "properties": {
+    "id": "EST-PUIGCERDA",
+    "name": "Puigcerdà",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  }
+ ]
+}

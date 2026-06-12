@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.13346,
+      37.97658
+     ],
+     [
+      -0.83407,
+      37.77891
+     ],
+     [
+      -0.96706,
+      37.74694
+     ],
+     [
+      -0.97497,
+      37.60503
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "97",
+    "name": "Regional Murcia - Cartagena",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13346,
+     37.97658
+    ]
+   },
+   "properties": {
+    "id": "EST-MURCIADELCARMEN",
+    "name": "Murcia del Carmen",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.83407,
+     37.77891
+    ]
+   },
+   "properties": {
+    "id": "EST-BALSICASMARMENOR",
+    "name": "Balsicas-Mar Menor",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.96706,
+     37.74694
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREPACHECO",
+    "name": "Torre-Pacheco",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.97497,
+     37.60503
+    ]
+   },
+   "properties": {
+    "id": "EST-CARTAGENA",
+    "name": "Cartagena",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

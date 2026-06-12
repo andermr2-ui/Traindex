@@ -1,0 +1,398 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.34305,
+      38.92159
+     ],
+     [
+      -6.39953,
+      38.68468
+     ],
+     [
+      -6.35223,
+      38.56447
+     ],
+     [
+      -6.37731,
+      38.44717
+     ],
+     [
+      -6.40518,
+      38.41395
+     ],
+     [
+      -6.00962,
+      38.23775
+     ],
+     [
+      -5.90041,
+      38.16367
+     ],
+     [
+      -5.80333,
+      38.09037
+     ],
+     [
+      -5.70425,
+      37.9327
+     ],
+     [
+      -5.76197,
+      37.84038
+     ],
+     [
+      -5.71499,
+      37.65825
+     ],
+     [
+      -5.73101,
+      37.63547
+     ],
+     [
+      -5.7317,
+      37.60929
+     ],
+     [
+      -5.727,
+      37.59012
+     ],
+     [
+      -5.80325,
+      37.57474
+     ],
+     [
+      -5.86677,
+      37.5461
+     ],
+     [
+      -5.9399,
+      37.47994
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "56",
+    "name": "MD 74 Mérida - Sevilla",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.34305,
+     38.92159
+    ]
+   },
+   "properties": {
+    "id": "EST-MERIDA",
+    "name": "Mérida",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.39953,
+     38.68468
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMENDRALEJO",
+    "name": "Almendralejo",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.35223,
+     38.56447
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAFRANCADELOSBARROS",
+    "name": "Villafranca de los Barros",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.37731,
+     38.44717
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSSANTOSDEMAIMONA",
+    "name": "Los Santos de Maimona",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.40518,
+     38.41395
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAFRA",
+    "name": "Zafra",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.00962,
+     38.23775
+    ]
+   },
+   "properties": {
+    "id": "EST-LLERENA",
+    "name": "Llerena",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.90041,
+     38.16367
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENTEDELARCO",
+    "name": "Fuente del Arco",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.80333,
+     38.09037
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALCANAL",
+    "name": "Guadalcanal",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.70425,
+     37.9327
+    ]
+   },
+   "properties": {
+    "id": "EST-CAZALLACONSTANTINA",
+    "name": "Cazalla-Constantina",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.76197,
+     37.84038
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPEDROSO",
+    "name": "El Pedroso",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.71499,
+     37.65825
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUEVADELRIOMINAS",
+    "name": "Villanueva del Río Minas",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.73101,
+     37.63547
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOLEADELRIO",
+    "name": "Alcolea del Río",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.7317,
+     37.60929
+    ]
+   },
+   "properties": {
+    "id": "EST-TOCINA",
+    "name": "Tocina",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.727,
+     37.59012
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSROSALES",
+    "name": "Los Rosales",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.80325,
+     37.57474
+    ]
+   },
+   "properties": {
+    "id": "EST-CANTILLANA",
+    "name": "Cantillana",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86677,
+     37.5461
+    ]
+   },
+   "properties": {
+    "id": "EST-BRENES",
+    "name": "Brenes",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9399,
+     37.47994
+    ]
+   },
+   "properties": {
+    "id": "EST-LARINCONADA",
+    "name": "La Rinconada",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

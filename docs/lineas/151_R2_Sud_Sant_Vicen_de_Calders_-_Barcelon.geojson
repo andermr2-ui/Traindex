@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.52579,
+      41.18608
+     ],
+     [
+      1.57502,
+      41.18956
+     ],
+     [
+      1.60645,
+      41.19246
+     ],
+     [
+      1.63154,
+      41.19476
+     ],
+     [
+      1.6761,
+      41.20421
+     ],
+     [
+      1.73082,
+      41.22018
+     ],
+     [
+      1.80973,
+      41.2392
+     ],
+     [
+      1.9026,
+      41.2543
+     ],
+     [
+      1.9794,
+      41.27871
+     ],
+     [
+      2.01035,
+      41.30305
+     ],
+     [
+      2.02743,
+      41.30929
+     ],
+     [
+      2.08926,
+      41.33089
+     ],
+     [
+      2.1072,
+      41.34465
+     ],
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      2.16828,
+      41.38944
+     ],
+     [
+      2.18556,
+      41.38439
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "151",
+    "name": "R2 Sud Sant Vicenç de Calders - Barcelona-Estació de França",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#00A54F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.52579,
+     41.18608
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECALDERS",
+    "name": "Sant Vicenç de Calders",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.57502,
+     41.18956
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAFELL",
+    "name": "Calafell",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.60645,
+     41.19246
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGURDECALAFELL",
+    "name": "Segur de Calafell",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.63154,
+     41.19476
+    ]
+   },
+   "properties": {
+    "id": "EST-CUNIT",
+    "name": "Cunit",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.6761,
+     41.20421
+    ]
+   },
+   "properties": {
+    "id": "EST-CUBELLES",
+    "name": "Cubelles",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.73082,
+     41.22018
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVAILAGELTRU",
+    "name": "Vilanova i la Geltrú",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.80973,
+     41.2392
+    ]
+   },
+   "properties": {
+    "id": "EST-SITGES",
+    "name": "Sitges",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9026,
+     41.2543
+    ]
+   },
+   "properties": {
+    "id": "EST-GARRAF",
+    "name": "Garraf",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9794,
+     41.27871
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLDEFELS",
+    "name": "Castelldefels",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01035,
+     41.30305
+    ]
+   },
+   "properties": {
+    "id": "EST-GAVA",
+    "name": "Gavà",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.02743,
+     41.30929
+    ]
+   },
+   "properties": {
+    "id": "EST-VILADECANS",
+    "name": "Viladecans",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.08926,
+     41.33089
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPRATDELLOBREGAT",
+    "name": "El Prat de Llobregat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1072,
+     41.34465
+    ]
+   },
+   "properties": {
+    "id": "EST-BELLVITGE",
+    "name": "Bellvitge",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16828,
+     41.38944
+    ]
+   },
+   "properties": {
+    "id": "EST-PASSEIGDEGRACIA",
+    "name": "Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18556,
+     41.38439
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONAESTACIODEFRANCA",
+    "name": "Barcelona Estació de França",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  }
+ ]
+}

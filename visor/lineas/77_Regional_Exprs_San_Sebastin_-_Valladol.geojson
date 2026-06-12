@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.07914,
+      43.13564
+     ],
+     [
+      -2.31988,
+      43.08701
+     ],
+     [
+      -2.18131,
+      42.89541
+     ],
+     [
+      -2.6727,
+      42.8413
+     ],
+     [
+      -2.94114,
+      42.6908
+     ],
+     [
+      -3.31908,
+      42.54273
+     ],
+     [
+      -3.66632,
+      42.37117
+     ],
+     [
+      -4.53386,
+      42.01573
+     ],
+     [
+      -4.7272,
+      41.64334
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "77",
+    "name": "Regional Exprés San Sebastián - Valladolid",
+    "type": "Regional Exprés",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07914,
+     43.13564
+    ]
+   },
+   "properties": {
+    "id": "EST-TOLOSA",
+    "name": "Tolosa",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.31988,
+     43.08701
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUMARRAGA",
+    "name": "Zumárraga",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.18131,
+     42.89541
+    ]
+   },
+   "properties": {
+    "id": "EST-ALSASUA",
+    "name": "Alsasua",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6727,
+     42.8413
+    ]
+   },
+   "properties": {
+    "id": "EST-VITORIAGASTEIZ",
+    "name": "Vitoria-Gasteiz",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94114,
+     42.6908
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRANDADEEBRO",
+    "name": "Miranda de Ebro",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.31908,
+     42.54273
+    ]
+   },
+   "properties": {
+    "id": "EST-BRIVIESCA",
+    "name": "Briviesca",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66632,
+     42.37117
+    ]
+   },
+   "properties": {
+    "id": "EST-BURGOSROSADELIMA",
+    "name": "Burgos-Rosa de Lima",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.53386,
+     42.01573
+    ]
+   },
+   "properties": {
+    "id": "EST-PALENCIA",
+    "name": "Palencia",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7272,
+     41.64334
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADOLIDCAMPOGRANDE",
+    "name": "Valladolid-Campo Grande",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

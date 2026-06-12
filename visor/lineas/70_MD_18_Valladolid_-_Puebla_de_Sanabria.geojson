@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.7272,
+      41.64334
+     ],
+     [
+      -4.90968,
+      41.31726
+     ],
+     [
+      -5.73978,
+      41.516
+     ],
+     [
+      -5.99324,
+      41.65288
+     ],
+     [
+      -6.34716,
+      41.6997
+     ],
+     [
+      -6.45336,
+      41.73022
+     ],
+     [
+      -6.62699,
+      42.04552
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "70",
+    "name": "MD 18 Valladolid - Puebla de Sanabria",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7272,
+     41.64334
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADOLIDCAMPOGRANDE",
+    "name": "Valladolid-Campo Grande",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.90968,
+     41.31726
+    ]
+   },
+   "properties": {
+    "id": "EST-MEDINADELCAMPO",
+    "name": "Medina del Campo",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.73978,
+     41.516
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAMORA",
+    "name": "Zamora",
+    "province": "Zamora",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.99324,
+     41.65288
+    ]
+   },
+   "properties": {
+    "id": "EST-CARBAJALESDEALBA",
+    "name": "Carbajales de Alba",
+    "province": "Zamora",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.34716,
+     41.6997
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCANICES",
+    "name": "Alcañices",
+    "province": "Zamora",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.45336,
+     41.73022
+    ]
+   },
+   "properties": {
+    "id": "EST-SEJASDEALISTE",
+    "name": "Sejas de Aliste",
+    "province": "Zamora",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.62699,
+     42.04552
+    ]
+   },
+   "properties": {
+    "id": "EST-PUEBLADESANABRIA",
+    "name": "Puebla de Sanabria",
+    "province": "Zamora",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

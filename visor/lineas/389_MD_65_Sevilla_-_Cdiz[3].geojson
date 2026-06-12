@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.97911,
+      37.37821
+     ],
+     [
+      -5.97582,
+      37.36281
+     ],
+     [
+      -5.92332,
+      37.28722
+     ],
+     [
+      -5.79024,
+      37.18334
+     ],
+     [
+      -5.94541,
+      37.01851
+     ],
+     [
+      -6.0952,
+      36.91154
+     ],
+     [
+      -6.06645,
+      36.75123
+     ],
+     [
+      -6.1261,
+      36.67981
+     ],
+     [
+      -6.217,
+      36.6042
+     ],
+     [
+      -6.1853,
+      36.53083
+     ],
+     [
+      -6.20688,
+      36.46792
+     ],
+     [
+      -6.27205,
+      36.50292
+     ],
+     [
+      -6.27696,
+      36.5135
+     ],
+     [
+      -6.294,
+      36.537
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "389",
+    "name": "MD 65 Sevilla - Cádiz[3]",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 15,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97911,
+     37.37821
+    ]
+   },
+   "properties": {
+    "id": "EST-SEVILLASANBERNARDO",
+    "name": "Sevilla-San Bernardo",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97582,
+     37.36281
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRGENDELROCIO",
+    "name": "Virgen del Rocío",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92332,
+     37.28722
+    ]
+   },
+   "properties": {
+    "id": "EST-DOSHERMANAS",
+    "name": "Dos Hermanas",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.79024,
+     37.18334
+    ]
+   },
+   "properties": {
+    "id": "EST-UTRERA",
+    "name": "Utrera",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.94541,
+     37.01851
+    ]
+   },
+   "properties": {
+    "id": "EST-LASCABEZASDESANJUAN",
+    "name": "Las Cabezas de San Juan",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.0952,
+     36.91154
+    ]
+   },
+   "properties": {
+    "id": "EST-LEBRIJA",
+    "name": "Lebrija",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.06645,
+     36.75123
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPUERTODEJEREZ",
+    "name": "Aeropuerto de Jerez",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.1261,
+     36.67981
+    ]
+   },
+   "properties": {
+    "id": "EST-JEREZDELAFRONTERA",
+    "name": "Jerez de la Frontera",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.217,
+     36.6042
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPUERTODESANTAMARIA",
+    "name": "El Puerto de Santa María",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.1853,
+     36.53083
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOREAL",
+    "name": "Puerto Real",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20688,
+     36.46792
+    ]
+   },
+   "properties": {
+    "id": "EST-SANFERNANDOBAHIASUR",
+    "name": "San Fernando-Bahía Sur",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.27205,
+     36.50292
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTADIO",
+    "name": "Estadio",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.27696,
+     36.5135
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGUNDAAGUADA",
+    "name": "Segunda Aguada",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.294,
+     36.537
+    ]
+   },
+   "properties": {
+    "id": "EST-CADIZ",
+    "name": "Cádiz",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

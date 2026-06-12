@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -0.8011,
+      38.4849
+     ],
+     [
+      -0.86795,
+      38.63227
+     ],
+     [
+      -0.95956,
+      38.71627
+     ],
+     [
+      -1.10557,
+      38.86765
+     ],
+     [
+      -1.85687,
+      38.99485
+     ],
+     [
+      -2.16292,
+      39.19932
+     ],
+     [
+      -2.59851,
+      39.26072
+     ],
+     [
+      -2.77539,
+      39.27854
+     ],
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -3.3706,
+      39.0059
+     ],
+     [
+      -3.60408,
+      39.06141
+     ],
+     [
+      -3.70965,
+      38.89551
+     ],
+     [
+      -3.91314,
+      38.98487
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "375",
+    "name": "MD 45 Alicante - Albacete - Alcázar - Ciudad Real",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALICANTERMINAL",
+    "name": "Alicante-Terminal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8011,
+     38.4849
+    ]
+   },
+   "properties": {
+    "id": "EST-ELDAPETRER",
+    "name": "Elda-Petrer",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86795,
+     38.63227
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLENA",
+    "name": "Villena",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.95956,
+     38.71627
+    ]
+   },
+   "properties": {
+    "id": "EST-CAUDETE",
+    "name": "Caudete",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.10557,
+     38.86765
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMANSA",
+    "name": "Almansa",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85687,
+     38.99485
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBACETELOSLLANOS",
+    "name": "Albacete-Los Llanos",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.16292,
+     39.19932
+    ]
+   },
+   "properties": {
+    "id": "EST-LARODA",
+    "name": "La Roda",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.59851,
+     39.26072
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLARROBLEDO",
+    "name": "Villarrobledo",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.77539,
+     39.27854
+    ]
+   },
+   "properties": {
+    "id": "EST-SOCUELLAMOS",
+    "name": "Socuéllamos",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3706,
+     39.0059
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANARES",
+    "name": "Manzanares",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60408,
+     39.06141
+    ]
+   },
+   "properties": {
+    "id": "EST-DAIMIEL",
+    "name": "Daimiel",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70965,
+     38.89551
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMAGRO",
+    "name": "Almagro",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

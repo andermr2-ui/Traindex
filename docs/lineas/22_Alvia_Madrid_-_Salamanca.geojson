@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -4.09476,
+      40.91014
+     ],
+     [
+      -4.92299,
+      41.29133
+     ],
+     [
+      -5.64706,
+      40.9718
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "22",
+    "name": "Alvia Madrid - Salamanca",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#5F259F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.09476,
+     40.91014
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGOVIAGUIOMAR",
+    "name": "Segovia-Guiomar",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.92299,
+     41.29133
+    ]
+   },
+   "properties": {
+    "id": "EST-MEDINADELCAMPOAV",
+    "name": "Medina del Campo AV",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.64706,
+     40.9718
+    ]
+   },
+   "properties": {
+    "id": "EST-SALAMANCA",
+    "name": "Salamanca",
+    "province": "Salamanca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  }
+ ]
+}

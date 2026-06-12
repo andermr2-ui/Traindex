@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.9364,
+      37.40368
+     ],
+     [
+      -5.93933,
+      37.37082
+     ],
+     [
+      -5.97582,
+      37.36281
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "228",
+    "name": "C-4 Circular",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9364,
+     37.40368
+    ]
+   },
+   "properties": {
+    "id": "EST-PALACIODECONGRESOS",
+    "name": "Palacio de Congresos",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.93933,
+     37.37082
+    ]
+   },
+   "properties": {
+    "id": "EST-PADREPIOPALMETE",
+    "name": "Padre Pío-Palmete",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97582,
+     37.36281
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRGENDELROCIO",
+    "name": "Virgen del Rocío",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

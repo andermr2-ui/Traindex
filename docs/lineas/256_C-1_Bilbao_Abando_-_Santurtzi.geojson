@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.9325,
+      43.25647
+     ],
+     [
+      -2.94313,
+      43.25454
+     ],
+     [
+      -2.94611,
+      43.2586
+     ],
+     [
+      -2.95527,
+      43.26419
+     ],
+     [
+      -2.97203,
+      43.27771
+     ],
+     [
+      -2.96982,
+      43.29101
+     ],
+     [
+      -2.98467,
+      43.30053
+     ],
+     [
+      -3.00569,
+      43.30917
+     ],
+     [
+      -3.00479,
+      43.31281
+     ],
+     [
+      -3.02074,
+      43.31767
+     ],
+     [
+      -3.02537,
+      43.32197
+     ],
+     [
+      -3.03039,
+      43.32851
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "256",
+    "name": "C-1 Bilbao Abando - Santurtzi",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9325,
+     43.25647
+    ]
+   },
+   "properties": {
+    "id": "EST-ZABALBURU",
+    "name": "Zabalburu",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94313,
+     43.25454
+    ]
+   },
+   "properties": {
+    "id": "EST-AMETZOLA",
+    "name": "Ametzola",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94611,
+     43.2586
+    ]
+   },
+   "properties": {
+    "id": "EST-AUTONOMIA",
+    "name": "Autonomía",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.95527,
+     43.26419
+    ]
+   },
+   "properties": {
+    "id": "EST-OLABEAGA",
+    "name": "Olabeaga",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97203,
+     43.27771
+    ]
+   },
+   "properties": {
+    "id": "EST-ZORROTZA",
+    "name": "Zorrotza",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.96982,
+     43.29101
+    ]
+   },
+   "properties": {
+    "id": "EST-LUTXANA",
+    "name": "Lutxana",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.98467,
+     43.30053
+    ]
+   },
+   "properties": {
+    "id": "EST-DESERTUBARAKALDO",
+    "name": "Desertu-Barakaldo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.00569,
+     43.30917
+    ]
+   },
+   "properties": {
+    "id": "EST-SESTAO",
+    "name": "Sestao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.00479,
+     43.31281
+    ]
+   },
+   "properties": {
+    "id": "EST-LAIBERIA",
+    "name": "La Iberia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.02074,
+     43.31767
+    ]
+   },
+   "properties": {
+    "id": "EST-PORTUGALETE",
+    "name": "Portugalete",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.02537,
+     43.32197
+    ]
+   },
+   "properties": {
+    "id": "EST-PENOTA",
+    "name": "Peñota",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.03039,
+     43.32851
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTURTZI",
+    "name": "Santurtzi",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.15798,
+      41.39287
+     ],
+     [
+      2.15215,
+      41.39976
+     ],
+     [
+      2.14281,
+      41.39867
+     ],
+     [
+      2.13615,
+      41.39779
+     ],
+     [
+      2.13087,
+      41.39778
+     ],
+     [
+      2.11141,
+      41.40905
+     ],
+     [
+      2.09692,
+      41.42008
+     ],
+     [
+      2.09166,
+      41.42751
+     ],
+     [
+      2.0732,
+      41.44486
+     ],
+     [
+      2.06835,
+      41.45784
+     ],
+     [
+      2.07824,
+      41.46797
+     ],
+     [
+      2.06191,
+      41.46922
+     ],
+     [
+      2.03737,
+      41.47531
+     ],
+     [
+      2.03346,
+      41.52871
+     ],
+     [
+      2.00758,
+      41.5603
+     ],
+     [
+      2.01905,
+      41.56336
+     ],
+     [
+      2.01608,
+      41.5704
+     ],
+     [
+      2.01335,
+      41.5804
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "167",
+    "name": "S1 Barcelona Plaça Catalunya - Terrassa Naciones Unides",
+    "type": "Suburbano",
+    "operator": "FGC",
+    "stroke": "#F7A800",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 21,
+    "coords_sta": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACACATALUNYA",
+    "name": "Plaça Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15798,
+     41.39287
+    ]
+   },
+   "properties": {
+    "id": "EST-PROVENCA",
+    "name": "Provença",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15215,
+     41.39976
+    ]
+   },
+   "properties": {
+    "id": "EST-GRACIA-Barcelona-Barcelona",
+    "name": "Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14281,
+     41.39867
+    ]
+   },
+   "properties": {
+    "id": "EST-MUNTANER",
+    "name": "Muntaner",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13615,
+     41.39779
+    ]
+   },
+   "properties": {
+    "id": "EST-LABONANOVA",
+    "name": "La Bonanova",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13087,
+     41.39778
+    ]
+   },
+   "properties": {
+    "id": "EST-LESTRESTORRES",
+    "name": "Les Tres Torres",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11141,
+     41.40905
+    ]
+   },
+   "properties": {
+    "id": "EST-PEUDELFUNICULAR",
+    "name": "Peu del Funicular",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09692,
+     41.42008
+    ]
+   },
+   "properties": {
+    "id": "EST-BAIXADORDEVALLVIDRERA",
+    "name": "Baixador de Vallvidrera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09166,
+     41.42751
+    ]
+   },
+   "properties": {
+    "id": "EST-LESPLANES",
+    "name": "Les Planes",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.0732,
+     41.44486
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFLORESTA",
+    "name": "La Floresta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.06835,
+     41.45784
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLDOREIX",
+    "name": "Valldoreix",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07824,
+     41.46797
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTCUGAT",
+    "name": "Sant Cugat Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.06191,
+     41.46922
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRASOL",
+    "name": "Mira-sol",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.03737,
+     41.47531
+    ]
+   },
+   "properties": {
+    "id": "EST-RUBI",
+    "name": "Rubí Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.03346,
+     41.52871
+    ]
+   },
+   "properties": {
+    "id": "EST-LESFONTS",
+    "name": "Les Fonts",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.00758,
+     41.5603
+    ]
+   },
+   "properties": {
+    "id": "EST-TERRASSARAMBLA",
+    "name": "Terrassa Rambla",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01905,
+     41.56336
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLPARADISUNIVERSITAT",
+    "name": "Vallparadís Universitat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01608,
+     41.5704
+    ]
+   },
+   "properties": {
+    "id": "EST-TERRASSAESTACIODELNORD",
+    "name": "Terrassa Estació del Nord",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01335,
+     41.5804
+    ]
+   },
+   "properties": {
+    "id": "EST-TERRASSANACIONSUNIDES",
+    "name": "Terrassa Nacions Unides",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F7A800"
+   }
+  }
+ ]
+}

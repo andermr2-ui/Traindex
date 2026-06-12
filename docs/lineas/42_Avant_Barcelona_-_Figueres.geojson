@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.17096,
+      41.39502
+     ],
+     [
+      2.94268,
+      42.2647
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "42",
+    "name": "Avant Barcelona - Figueres",
+    "type": "Media Distancia AV",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17096,
+     41.39502
+    ]
+   },
+   "properties": {
+    "id": "EST-GIRONABCN",
+    "name": "Girona",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.94268,
+     42.2647
+    ]
+   },
+   "properties": {
+    "id": "EST-FIGUERESVILAFANT",
+    "name": "Figueres Vilafant",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

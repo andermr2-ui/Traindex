@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -0.37777,
+      39.46613
+     ],
+     [
+      -0.36431,
+      39.45784
+     ],
+     [
+      -0.37146,
+      39.44153
+     ],
+     [
+      -0.35255,
+      39.45576
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "213",
+    "name": "L12 Alacant - Ciutat de les Arts i les Ciències",
+    "type": "Tranvía",
+    "operator": "Metrovalencia",
+    "stroke": "#00A99D",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALACANT",
+    "name": "Alacant",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A99D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37777,
+     39.46613
+    ]
+   },
+   "properties": {
+    "id": "EST-RUSSAFA",
+    "name": "Russafa",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A99D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36431,
+     39.45784
+    ]
+   },
+   "properties": {
+    "id": "EST-AMADOGRANELL",
+    "name": "Amado Granell",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A99D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37146,
+     39.44153
+    ]
+   },
+   "properties": {
+    "id": "EST-QUATRECARRERES",
+    "name": "Quatre Carreres",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A99D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.35255,
+     39.45576
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUTATARTISICIENCIES",
+    "name": "Ciutat Arts i Ciències",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A99D"
+   }
+  }
+ ]
+}

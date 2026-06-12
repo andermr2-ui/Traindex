@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.38121,
+      39.46005
+     ],
+     [
+      -0.27141,
+      39.67567
+     ],
+     [
+      -0.09654,
+      39.93296
+     ],
+     [
+      -0.00226,
+      39.97506
+     ],
+     [
+      0.05777,
+      40.05805
+     ],
+     [
+      0.13727,
+      40.09457
+     ],
+     [
+      0.20278,
+      40.17389
+     ],
+     [
+      0.22868,
+      40.30465
+     ],
+     [
+      0.41986,
+      40.47243
+     ],
+     [
+      0.45545,
+      40.47175
+     ],
+     [
+      0.44929,
+      40.59592
+     ],
+     [
+      0.52288,
+      40.80712
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "379",
+    "name": "Regional Exprés 50 Valencia - Castellón de la Plana - Vinaroz - Tortosa",
+    "type": "Regional Exprés",
+    "operator": "Renfe",
+    "stroke": "#32CD32",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 12,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38121,
+     39.46005
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIAJOAQUINSOROLLA",
+    "name": "Valencia-Joaquín Sorolla",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.27141,
+     39.67567
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGUNT",
+    "name": "Sagunt",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.09654,
+     39.93296
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAREAL",
+    "name": "Vila-real",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.00226,
+     39.97506
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLODELAPLANA",
+    "name": "Castelló de la Plana",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.05777,
+     40.05805
+    ]
+   },
+   "properties": {
+    "id": "EST-BENICASSIM",
+    "name": "Benicàssim",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.13727,
+     40.09457
+    ]
+   },
+   "properties": {
+    "id": "EST-OROPESA",
+    "name": "Oropesa",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.20278,
+     40.17389
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREBLANCA-Castelln-Torreblanca",
+    "name": "Torreblanca",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.22868,
+     40.30465
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCALADEXIVERT",
+    "name": "Alcalà de Xivert",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.41986,
+     40.47243
+    ]
+   },
+   "properties": {
+    "id": "EST-BENICARLOPENISCOLA",
+    "name": "Benicarló-Peñíscola",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.45545,
+     40.47175
+    ]
+   },
+   "properties": {
+    "id": "EST-VINAROS",
+    "name": "Vinaròs",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.44929,
+     40.59592
+    ]
+   },
+   "properties": {
+    "id": "EST-ULLDECONAALCANARLASENIA",
+    "name": "Ulldecona-Alcanar-La Sénia",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.52288,
+     40.80712
+    ]
+   },
+   "properties": {
+    "id": "EST-LALDEAAMPOSTATORTOSA",
+    "name": "L'Aldea-Amposta-Tortosa",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  }
+ ]
+}

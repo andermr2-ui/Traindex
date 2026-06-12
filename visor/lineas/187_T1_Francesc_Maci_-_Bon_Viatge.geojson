@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.14323,
+      41.39222
+     ],
+     [
+      2.13653,
+      41.39047
+     ],
+     [
+      2.12622,
+      41.38794
+     ],
+     [
+      2.1216,
+      41.38673
+     ],
+     [
+      2.11786,
+      41.38581
+     ],
+     [
+      2.11169,
+      41.38424
+     ],
+     [
+      2.11487,
+      41.38073
+     ],
+     [
+      2.11204,
+      41.3759
+     ],
+     [
+      2.06625,
+      41.35634
+     ],
+     [
+      2.05892,
+      41.36468
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "187",
+    "name": "T1 Francesc Macià - Bon Viatge",
+    "type": "Tranvía",
+    "operator": "Tram",
+    "stroke": "#009A51",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14323,
+     41.39222
+    ]
+   },
+   "properties": {
+    "id": "EST-FRANCESCMACIA",
+    "name": "Francesc Macià",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13653,
+     41.39047
+    ]
+   },
+   "properties": {
+    "id": "EST-LILLA",
+    "name": "L'Illa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.12622,
+     41.38794
+    ]
+   },
+   "properties": {
+    "id": "EST-MARIACRISTINA",
+    "name": "Maria Cristina",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1216,
+     41.38673
+    ]
+   },
+   "properties": {
+    "id": "EST-PIUSXII",
+    "name": "Pius XII",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11786,
+     41.38581
+    ]
+   },
+   "properties": {
+    "id": "EST-PALAUREIAL",
+    "name": "Palau Reial",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11169,
+     41.38424
+    ]
+   },
+   "properties": {
+    "id": "EST-ZONAUNIVERSITARIA",
+    "name": "Zona Universitària",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11487,
+     41.38073
+    ]
+   },
+   "properties": {
+    "id": "EST-AVINGUDADEXILE",
+    "name": "Avinguda de Xile",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11204,
+     41.3759
+    ]
+   },
+   "properties": {
+    "id": "EST-ERNESTLLUCH",
+    "name": "Ernest Lluch",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.06625,
+     41.35634
+    ]
+   },
+   "properties": {
+    "id": "EST-FONTSANTAFATJO",
+    "name": "Fontsanta | Fatjó",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.05892,
+     41.36468
+    ]
+   },
+   "properties": {
+    "id": "EST-BONVIATGE",
+    "name": "Bon Viatge",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009A51"
+   }
+  }
+ ]
+}

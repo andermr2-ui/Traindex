@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0.63304,
+      41.62073
+     ],
+     [
+      0.68571,
+      41.65425
+     ],
+     [
+      0.72791,
+      41.68736
+     ],
+     [
+      0.763,
+      41.7165
+     ],
+     [
+      0.80557,
+      41.75575
+     ],
+     [
+      0.81469,
+      41.78922
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "161",
+    "name": "RL1 Lleida Pirineus - Balaguer",
+    "type": "Rodalies",
+    "operator": "FGC",
+    "stroke": "#9E6B30",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.63304,
+     41.62073
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEIDAPIRINEUS",
+    "name": "Lleida Pirineus",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9E6B30"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.68571,
+     41.65425
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOLETGE",
+    "name": "Alcoletge",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9E6B30"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.72791,
+     41.68736
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVADELABARCA",
+    "name": "Vilanova de la Barca",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9E6B30"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.763,
+     41.7165
+    ]
+   },
+   "properties": {
+    "id": "EST-TERMENS",
+    "name": "Térmens",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9E6B30"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.80557,
+     41.75575
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLFOGONADEBALAGUER",
+    "name": "Vallfogona de Balaguer",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9E6B30"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.81469,
+     41.78922
+    ]
+   },
+   "properties": {
+    "id": "EST-BALAGUER",
+    "name": "Balaguer",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9E6B30"
+   }
+  }
+ ]
+}

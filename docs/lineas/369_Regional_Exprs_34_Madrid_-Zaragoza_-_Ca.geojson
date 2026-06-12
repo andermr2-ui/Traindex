@@ -1,0 +1,706 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.63842,
+      41.34636
+     ],
+     [
+      -0.8959,
+      41.65274
+     ],
+     [
+      -0.89134,
+      41.64392
+     ],
+     [
+      -0.86832,
+      41.63319
+     ],
+     [
+      -0.61838,
+      41.51524
+     ],
+     [
+      -0.49073,
+      41.41944
+     ],
+     [
+      -0.42702,
+      41.32049
+     ],
+     [
+      -0.43819,
+      41.22451
+     ],
+     [
+      -0.36874,
+      41.18208
+     ],
+     [
+      -0.04274,
+      41.23991
+     ],
+     [
+      0.07606,
+      41.22955
+     ],
+     [
+      0.13895,
+      41.22957
+     ],
+     [
+      0.24239,
+      41.21373
+     ],
+     [
+      -0.94395,
+      40.21239
+     ],
+     [
+      -0.61838,
+      41.51524
+     ],
+     [
+      0.54015,
+      41.22942
+     ],
+     [
+      0.56905,
+      41.18232
+     ],
+     [
+      -1.28742,
+      40.92637
+     ],
+     [
+      0.81051,
+      41.13093
+     ],
+     [
+      0.85864,
+      41.13316
+     ],
+     [
+      0.97578,
+      41.14005
+     ],
+     [
+      1.02207,
+      41.16641
+     ],
+     [
+      1.09994,
+      41.1606
+     ],
+     [
+      1.15044,
+      41.11288
+     ],
+     [
+      1.25354,
+      41.11122
+     ],
+     [
+      1.3733,
+      41.13661
+     ],
+     [
+      1.40571,
+      41.14279
+     ],
+     [
+      1.52579,
+      41.18608
+     ],
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      2.15215,
+      41.39976
+     ],
+     [
+      2.16538,
+      41.39254
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "369",
+    "name": "Regional Exprés 34 Madrid -Zaragoza - Caspe - Barcelona",
+    "type": "Regional Exprés",
+    "operator": "Renfe",
+    "stroke": "#32CD32",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 31,
+    "coords_sta": 31
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63842,
+     41.34636
+    ]
+   },
+   "properties": {
+    "id": "EST-CALATAYUD",
+    "name": "Calatayud",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8959,
+     41.65274
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAPORTILLO",
+    "name": "Zaragoza-Portillo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.89134,
+     41.64392
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAGOYA",
+    "name": "Zaragoza-Goya",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86832,
+     41.63319
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAMIRAFLORES",
+    "name": "Zaragoza-Miraflores",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.61838,
+     41.51524
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENTESDEEBRO",
+    "name": "Fuentes de Ebro",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49073,
+     41.41944
+    ]
+   },
+   "properties": {
+    "id": "EST-QUINTO",
+    "name": "Quinto",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.42702,
+     41.32049
+    ]
+   },
+   "properties": {
+    "id": "EST-LAZAIDASASTAGO",
+    "name": "La Zaida-Sástago",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43819,
+     41.22451
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPUEBLADEHIJAR",
+    "name": "La Puebla de Híjar",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36874,
+     41.18208
+    ]
+   },
+   "properties": {
+    "id": "EST-SAMPER",
+    "name": "Samper",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.04274,
+     41.23991
+    ]
+   },
+   "properties": {
+    "id": "EST-CASPE",
+    "name": "Caspe",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.07606,
+     41.22955
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDEPILAS",
+    "name": "Val de Pilas",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.13895,
+     41.22957
+    ]
+   },
+   "properties": {
+    "id": "EST-FABARA",
+    "name": "Fabara",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.24239,
+     41.21373
+    ]
+   },
+   "properties": {
+    "id": "EST-NONASPE",
+    "name": "Nonaspe",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.94395,
+     40.21239
+    ]
+   },
+   "properties": {
+    "id": "EST-PUEBLADEVALVERDE",
+    "name": "Puebla de Valverde",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.61838,
+     41.51524
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENTESDEEBRO",
+    "name": "Fuentes de Ebro",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.54015,
+     41.22942
+    ]
+   },
+   "properties": {
+    "id": "EST-FLIX",
+    "name": "Flix",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.56905,
+     41.18232
+    ]
+   },
+   "properties": {
+    "id": "EST-ASCO",
+    "name": "Ascó",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.28742,
+     40.92637
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAMOCHANUEVA",
+    "name": "Calamocha Nueva",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.81051,
+     41.13093
+    ]
+   },
+   "properties": {
+    "id": "EST-MARCAFALSET",
+    "name": "Marçà-Falset",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.85864,
+     41.13316
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADELL",
+    "name": "Pradell",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.97578,
+     41.14005
+    ]
+   },
+   "properties": {
+    "id": "EST-RIUDECANYESBOTARELL",
+    "name": "Riudecanyes-Botarell",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.02207,
+     41.16641
+    ]
+   },
+   "properties": {
+    "id": "EST-LESBORGESDELCAMP",
+    "name": "Les Borges del Camp",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.09994,
+     41.1606
+    ]
+   },
+   "properties": {
+    "id": "EST-REUS",
+    "name": "Reus",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.15044,
+     41.11288
+    ]
+   },
+   "properties": {
+    "id": "EST-VILASECA",
+    "name": "Vila-seca",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.25354,
+     41.11122
+    ]
+   },
+   "properties": {
+    "id": "EST-TARRAGONA",
+    "name": "Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3733,
+     41.13661
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTAFULLATAMARIT",
+    "name": "Altafulla-Tamarit",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.40571,
+     41.14279
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREDEMBARRA",
+    "name": "Torredembarra",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.52579,
+     41.18608
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECALDERS",
+    "name": "Sant Vicenç de Calders",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15215,
+     41.39976
+    ]
+   },
+   "properties": {
+    "id": "EST-GRACIA-Barcelona-Barcelona",
+    "name": "Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16538,
+     41.39254
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONAPASSEIGDEGRACIA",
+    "name": "Barcelona-Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  }
+ ]
+}

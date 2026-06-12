@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -0.76676,
+      38.24539
+     ],
+     [
+      -0.87556,
+      38.13675
+     ],
+     [
+      -0.9498,
+      38.08126
+     ],
+     [
+      -0.99549,
+      38.04715
+     ],
+     [
+      -1.13346,
+      37.97658
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "343",
+    "name": "Avant Alicante - Murcia",
+    "type": "Avant",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALICANTERMINAL",
+    "name": "Alicante-Terminal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.76676,
+     38.24539
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCHEAV",
+    "name": "Elche AV",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.87556,
+     38.13675
+    ]
+   },
+   "properties": {
+    "id": "EST-CALLOSADESEGURACOX",
+    "name": "Callosa de Segura-Cox",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9498,
+     38.08126
+    ]
+   },
+   "properties": {
+    "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+    "name": "Orihuela-Miguel Hernández",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.99549,
+     38.04715
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIEL",
+    "name": "Beniel",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13346,
+     37.97658
+    ]
+   },
+   "properties": {
+    "id": "EST-MURCIADELCARMEN",
+    "name": "Murcia del Carmen",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

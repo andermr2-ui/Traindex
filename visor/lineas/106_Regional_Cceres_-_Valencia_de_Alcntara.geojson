@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.38572,
+      39.46118
+     ],
+     [
+      -6.53447,
+      39.46807
+     ],
+     [
+      -7.11698,
+      39.38155
+     ],
+     [
+      -7.23072,
+      39.42694
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "106",
+    "name": "Regional Cáceres - Valencia de Alcántara",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.38572,
+     39.46118
+    ]
+   },
+   "properties": {
+    "id": "EST-CACERES",
+    "name": "Cáceres",
+    "province": "Cáceres",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.53447,
+     39.46807
+    ]
+   },
+   "properties": {
+    "id": "EST-ARROYOMALPARTIDA",
+    "name": "Arroyo-Malpartida",
+    "province": "Cáceres",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.11698,
+     39.38155
+    ]
+   },
+   "properties": {
+    "id": "EST-SANVICENTEDEALCANTARA",
+    "name": "San Vicente de Alcántara",
+    "province": "Cáceres",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.23072,
+     39.42694
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIADEALCANTARA",
+    "name": "Valencia de Alcántara",
+    "province": "Cáceres",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

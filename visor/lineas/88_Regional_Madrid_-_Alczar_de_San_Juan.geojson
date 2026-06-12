@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.61825,
+      40.03483
+     ],
+     [
+      -3.33025,
+      39.62197
+     ],
+     [
+      -3.20537,
+      39.39566
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "88",
+    "name": "Regional Madrid - Alcázar de San Juan",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61825,
+     40.03483
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANJUEZ",
+    "name": "Aranjuez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.33025,
+     39.62197
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLACANAS",
+    "name": "Villacañas",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

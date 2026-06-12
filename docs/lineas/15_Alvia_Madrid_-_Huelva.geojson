@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -6.55436,
+      37.39079
+     ],
+     [
+      -6.94485,
+      37.25262
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "15",
+    "name": "Alvia Madrid - Huelva",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#5F259F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.55436,
+     37.39079
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPALMADELCONDADO",
+    "name": "La Palma del Condado",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94485,
+     37.25262
+    ]
+   },
+   "properties": {
+    "id": "EST-HUELVA",
+    "name": "Huelva",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5F259F"
+   }
+  }
+ ]
+}

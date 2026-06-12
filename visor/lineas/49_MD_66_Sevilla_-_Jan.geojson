@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.727,
+      37.59012
+     ],
+     [
+      -5.53108,
+      37.66129
+     ],
+     [
+      -5.3476,
+      37.7164
+     ],
+     [
+      -5.29295,
+      37.71814
+     ],
+     [
+      -5.10678,
+      37.80374
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -4.28369,
+      37.98129
+     ],
+     [
+      -4.06603,
+      38.02797
+     ],
+     [
+      -3.83216,
+      38.01026
+     ],
+     [
+      -3.79079,
+      37.77998
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "49",
+    "name": "MD 66 Sevilla - Jaén",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.727,
+     37.59012
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSROSALES",
+    "name": "Los Rosales",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.53108,
+     37.66129
+    ]
+   },
+   "properties": {
+    "id": "EST-LORADELRIO",
+    "name": "Lora del Río",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.3476,
+     37.7164
+    ]
+   },
+   "properties": {
+    "id": "EST-PENAFLOR",
+    "name": "Peñaflor",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.29295,
+     37.71814
+    ]
+   },
+   "properties": {
+    "id": "EST-PALMADELRIO",
+    "name": "Palma del Río",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.10678,
+     37.80374
+    ]
+   },
+   "properties": {
+    "id": "EST-POSADAS",
+    "name": "Posadas",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.28369,
+     37.98129
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLADELRIO",
+    "name": "Villa del Río",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.06603,
+     38.02797
+    ]
+   },
+   "properties": {
+    "id": "EST-ANDUJAR",
+    "name": "Andújar",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83216,
+     38.01026
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPELUY",
+    "name": "Espeluy",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79079,
+     37.77998
+    ]
+   },
+   "properties": {
+    "id": "EST-JAEN",
+    "name": "Jaén",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

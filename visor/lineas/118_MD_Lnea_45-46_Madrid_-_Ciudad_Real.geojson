@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.61825,
+      40.03483
+     ],
+     [
+      -3.73859,
+      39.94957
+     ],
+     [
+      -3.33025,
+      39.62197
+     ],
+     [
+      -3.26637,
+      39.50422
+     ],
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -3.3706,
+      39.0059
+     ],
+     [
+      -3.60408,
+      39.06141
+     ],
+     [
+      -3.70965,
+      38.89551
+     ],
+     [
+      -3.91314,
+      38.98487
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "118",
+    "name": "MD Línea 45/46 Madrid - Ciudad Real",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#F37021",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61825,
+     40.03483
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANJUEZ",
+    "name": "Aranjuez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73859,
+     39.94957
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTILLEJOANOVER",
+    "name": "Castillejo-Añover",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.33025,
+     39.62197
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLACANAS",
+    "name": "Villacañas",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.26637,
+     39.50422
+    ]
+   },
+   "properties": {
+    "id": "EST-QUERO",
+    "name": "Quero",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3706,
+     39.0059
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANARES",
+    "name": "Manzanares",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60408,
+     39.06141
+    ]
+   },
+   "properties": {
+    "id": "EST-DAIMIEL",
+    "name": "Daimiel",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70965,
+     38.89551
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMAGRO",
+    "name": "Almagro",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  }
+ ]
+}

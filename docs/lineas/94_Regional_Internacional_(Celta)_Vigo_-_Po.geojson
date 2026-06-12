@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.71188,
+      42.23952
+     ],
+     [
+      -8.63929,
+      42.0247
+     ],
+     [
+      -8.58471,
+      41.14919
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "94",
+    "name": "Regional Internacional (Celta) Vigo - Porto",
+    "type": "Regional Internacional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.71188,
+     42.23952
+    ]
+   },
+   "properties": {
+    "id": "EST-VIGOGUIXAR",
+    "name": "Vigo-Guixar",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.63929,
+     42.0247
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCADOMINHO",
+    "name": "Valença do Minho",
+    "province": "Portugal",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.58471,
+     41.14919
+    ]
+   },
+   "properties": {
+    "id": "EST-PORTOCAMPANHA",
+    "name": "Porto-Campanhã",
+    "province": "Portugal",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

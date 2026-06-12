@@ -1,0 +1,420 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -0.8959,
+      41.65274
+     ],
+     [
+      -0.89134,
+      41.64392
+     ],
+     [
+      -0.86832,
+      41.63319
+     ],
+     [
+      -0.53843,
+      41.97557
+     ],
+     [
+      -0.40985,
+      42.13275
+     ],
+     [
+      -0.56099,
+      42.20504
+     ],
+     [
+      -0.68243,
+      42.27552
+     ],
+     [
+      -0.73147,
+      42.34424
+     ],
+     [
+      -0.73147,
+      42.34424
+     ],
+     [
+      -0.69581,
+      42.38025
+     ],
+     [
+      -0.64308,
+      42.4032
+     ],
+     [
+      -0.49928,
+      42.39785
+     ],
+     [
+      -0.37335,
+      42.52022
+     ],
+     [
+      -0.53846,
+      42.57773
+     ],
+     [
+      -0.55516,
+      42.64995
+     ],
+     [
+      -0.52346,
+      42.68846
+     ],
+     [
+      -0.51317,
+      42.75068
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "385",
+    "name": "Regional 56 Zaragoza - Huesca - Canfranc",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8959,
+     41.65274
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAPORTILLO",
+    "name": "Zaragoza-Portillo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.89134,
+     41.64392
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAGOYA",
+    "name": "Zaragoza-Goya",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86832,
+     41.63319
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAMIRAFLORES",
+    "name": "Zaragoza-Miraflores",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.53843,
+     41.97557
+    ]
+   },
+   "properties": {
+    "id": "EST-TARDIENTA",
+    "name": "Tardienta",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40985,
+     42.13275
+    ]
+   },
+   "properties": {
+    "id": "EST-HUESCA",
+    "name": "Huesca",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.56099,
+     42.20504
+    ]
+   },
+   "properties": {
+    "id": "EST-PLASENCIADELMONTE",
+    "name": "Plasencia del Monte",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.68243,
+     42.27552
+    ]
+   },
+   "properties": {
+    "id": "EST-AYERBE",
+    "name": "Ayerbe",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.73147,
+     42.34424
+    ]
+   },
+   "properties": {
+    "id": "EST-RIGLOSCONCILIO",
+    "name": "Riglos Concilio",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.73147,
+     42.34424
+    ]
+   },
+   "properties": {
+    "id": "EST-RIGLOS",
+    "name": "Riglos",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.69581,
+     42.38025
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIAYLAPENA",
+    "name": "Santa María y La Peña",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.64308,
+     42.4032
+    ]
+   },
+   "properties": {
+    "id": "EST-ANZANIGO",
+    "name": "Anzánigo",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49928,
+     42.39785
+    ]
+   },
+   "properties": {
+    "id": "EST-CALDEARENASAQUILUE",
+    "name": "Caldearenas-Aquilué",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37335,
+     42.52022
+    ]
+   },
+   "properties": {
+    "id": "EST-SABINANIGO",
+    "name": "Sabiñánigo",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.53846,
+     42.57773
+    ]
+   },
+   "properties": {
+    "id": "EST-JACA",
+    "name": "Jaca",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.55516,
+     42.64995
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTIELLOPUEBLO",
+    "name": "Castiello Pueblo",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52346,
+     42.68846
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUALETRANZ",
+    "name": "Villanúa-Letranz",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.51317,
+     42.75068
+    ]
+   },
+   "properties": {
+    "id": "EST-CANFRANC",
+    "name": "Canfranc",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

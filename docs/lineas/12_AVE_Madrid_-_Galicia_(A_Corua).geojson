@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -4.09476,
+      40.91014
+     ],
+     [
+      -4.92299,
+      41.29133
+     ],
+     [
+      -5.73978,
+      41.516
+     ],
+     [
+      -7.87255,
+      42.35069
+     ],
+     [
+      -8.5452,
+      42.87044
+     ],
+     [
+      -8.41215,
+      43.35037
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "12",
+    "name": "AVE Madrid - Galicia (A Coruña)",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTIN",
+    "name": "Madrid-Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.09476,
+     40.91014
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGOVIAGUIOMAR",
+    "name": "Segovia-Guiomar",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.92299,
+     41.29133
+    ]
+   },
+   "properties": {
+    "id": "EST-MEDINADELCAMPOAV",
+    "name": "Medina del Campo AV",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.73978,
+     41.516
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAMORA",
+    "name": "Zamora",
+    "province": "Zamora",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.5452,
+     42.87044
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIAGODECOMPOSTELA",
+    "name": "Santiago de Compostela",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41215,
+     43.35037
+    ]
+   },
+   "properties": {
+    "id": "EST-ACORUNA",
+    "name": "A Coruña",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

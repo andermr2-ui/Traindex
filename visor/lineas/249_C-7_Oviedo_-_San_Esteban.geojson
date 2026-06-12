@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.86482,
+      43.3652
+     ],
+     [
+      -5.86482,
+      43.3652
+     ],
+     [
+      -5.88327,
+      43.3639
+     ],
+     [
+      -5.89687,
+      43.35968
+     ],
+     [
+      -5.91779,
+      43.35532
+     ],
+     [
+      -5.96504,
+      43.35647
+     ],
+     [
+      -5.96758,
+      43.34856
+     ],
+     [
+      -6.06373,
+      43.39443
+     ],
+     [
+      -6.01017,
+      43.38989
+     ],
+     [
+      -6.04518,
+      43.40293
+     ],
+     [
+      -6.06373,
+      43.39443
+     ],
+     [
+      -6.0599,
+      43.42559
+     ],
+     [
+      -6.06579,
+      43.43991
+     ],
+     [
+      -6.07716,
+      43.44886
+     ],
+     [
+      -6.09706,
+      43.46942
+     ],
+     [
+      -6.11062,
+      43.49114
+     ],
+     [
+      -6.08201,
+      43.51645
+     ],
+     [
+      -6.11062,
+      43.49114
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "249",
+    "name": "C-7 Oviedo - San Esteban",
+    "type": "Cercanías AM",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 20,
+    "coords_sta": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86482,
+     43.3652
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLOBIN",
+    "name": "Vallobín",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86482,
+     43.3652
+    ]
+   },
+   "properties": {
+    "id": "EST-ARGANOSA",
+    "name": "Argañosa",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.88327,
+     43.3639
+    ]
+   },
+   "properties": {
+    "id": "EST-LASCAMPAS",
+    "name": "Las Campas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.89687,
+     43.35968
+    ]
+   },
+   "properties": {
+    "id": "EST-LASMAZAS",
+    "name": "Las Mazas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.91779,
+     43.35532
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCLAUDIO",
+    "name": "San Claudio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.96504,
+     43.35647
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTOUDRION",
+    "name": "Soto-Udrión",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.96758,
+     43.34856
+    ]
+   },
+   "properties": {
+    "id": "EST-TRUBIA",
+    "name": "Trubia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.06373,
+     43.39443
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIADEGRADO",
+    "name": "Santa María de Grado",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.01017,
+     43.38989
+    ]
+   },
+   "properties": {
+    "id": "EST-VEGADEANZO",
+    "name": "Vega de Anzo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.04518,
+     43.40293
+    ]
+   },
+   "properties": {
+    "id": "EST-PENAFLORASTURIAS",
+    "name": "Peñaflor",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.06373,
+     43.39443
+    ]
+   },
+   "properties": {
+    "id": "EST-GRADO",
+    "name": "Grado",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.0599,
+     43.42559
+    ]
+   },
+   "properties": {
+    "id": "EST-SANDICHE",
+    "name": "Sandiche",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.06579,
+     43.43991
+    ]
+   },
+   "properties": {
+    "id": "EST-ACES",
+    "name": "Aces",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.07716,
+     43.44886
+    ]
+   },
+   "properties": {
+    "id": "EST-SANROMAN",
+    "name": "San Román",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.09706,
+     43.46942
+    ]
+   },
+   "properties": {
+    "id": "EST-BEIFAR",
+    "name": "Beifar",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.11062,
+     43.49114
+    ]
+   },
+   "properties": {
+    "id": "EST-PRAVIA",
+    "name": "Pravia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.08201,
+     43.51645
+    ]
+   },
+   "properties": {
+    "id": "EST-SANRANON",
+    "name": "San Ranón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.11062,
+     43.49114
+    ]
+   },
+   "properties": {
+    "id": "EST-SANESTEBANDEPRAVIA",
+    "name": "San Esteban de Pravia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

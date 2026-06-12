@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.16943,
+      41.37441
+     ],
+     [
+      2.16327,
+      41.37979
+     ],
+     [
+      2.16828,
+      41.38944
+     ],
+     [
+      2.17552,
+      41.39482
+     ],
+     [
+      2.17945,
+      41.40052
+     ],
+     [
+      2.17388,
+      41.40403
+     ],
+     [
+      2.18252,
+      41.40707
+     ],
+     [
+      2.18692,
+      41.41014
+     ],
+     [
+      2.31007,
+      41.98456
+     ],
+     [
+      2.20073,
+      41.41906
+     ],
+     [
+      2.20977,
+      41.42989
+     ],
+     [
+      2.21757,
+      41.43372
+     ],
+     [
+      2.22786,
+      41.43532
+     ],
+     [
+      2.23369,
+      41.44044
+     ],
+     [
+      2.23805,
+      41.44394
+     ],
+     [
+      2.24422,
+      41.44896
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "174",
+    "name": "L2 Paral·lel - Badalona Pompeu Fabra",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#93278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16943,
+     41.37441
+    ]
+   },
+   "properties": {
+    "id": "EST-PARALLEL",
+    "name": "Paral·lel",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16327,
+     41.37979
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANTONI",
+    "name": "Sant Antoni",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16828,
+     41.38944
+    ]
+   },
+   "properties": {
+    "id": "EST-PASSEIGDEGRACIA",
+    "name": "Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17552,
+     41.39482
+    ]
+   },
+   "properties": {
+    "id": "EST-TETUAN",
+    "name": "Tetuan",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17945,
+     41.40052
+    ]
+   },
+   "properties": {
+    "id": "EST-MONUMENTAL",
+    "name": "Monumental",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17388,
+     41.40403
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGRADAFAMILIA-Barcelona-Barcelona",
+    "name": "Sagrada Família",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18252,
+     41.40707
+    ]
+   },
+   "properties": {
+    "id": "EST-ENCANTS",
+    "name": "Encants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18692,
+     41.41014
+    ]
+   },
+   "properties": {
+    "id": "EST-CLOT",
+    "name": "Clot",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.31007,
+     41.98456
+    ]
+   },
+   "properties": {
+    "id": "EST-BACDERODA",
+    "name": "Bac de Roda",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20073,
+     41.41906
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTMARTI",
+    "name": "Sant Martí",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20977,
+     41.42989
+    ]
+   },
+   "properties": {
+    "id": "EST-VERNEDA",
+    "name": "Verneda",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21757,
+     41.43372
+    ]
+   },
+   "properties": {
+    "id": "EST-ARTIGUESSANTADRIA",
+    "name": "Artigues | Sant Adrià",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.22786,
+     41.43532
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTROC",
+    "name": "Sant Roc",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23369,
+     41.44044
+    ]
+   },
+   "properties": {
+    "id": "EST-GORG",
+    "name": "Gorg",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23805,
+     41.44394
+    ]
+   },
+   "properties": {
+    "id": "EST-PEPVENTURA",
+    "name": "Pep Ventura",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.24422,
+     41.44896
+    ]
+   },
+   "properties": {
+    "id": "EST-BADALONAPOMPEUFABRA",
+    "name": "Badalona Pompeu Fabra",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#93278F"
+   }
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.84922,
+      41.61036
+     ],
+     [
+      1.84331,
+      41.61549
+     ],
+     [
+      1.83634,
+      41.59197
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "197",
+    "name": "Cremallera de Montserrat",
+    "type": "Cremallera",
+    "operator": "FGC",
+    "stroke": "#231F20",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 3,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.84922,
+     41.61036
+    ]
+   },
+   "properties": {
+    "id": "EST-MONISTROLENLLAC",
+    "name": "Monistrol Enllaç",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#231F20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.84331,
+     41.61549
+    ]
+   },
+   "properties": {
+    "id": "EST-MONISTROLVILA",
+    "name": "Monistrol-Vila",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#231F20"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.83634,
+     41.59197
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTSERRAT",
+    "name": "Montserrat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#231F20"
+   }
+  }
+ ]
+}

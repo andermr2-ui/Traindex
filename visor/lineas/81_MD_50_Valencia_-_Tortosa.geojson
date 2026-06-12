@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.33467,
+      39.47007
+     ],
+     [
+      -0.27141,
+      39.67567
+     ],
+     [
+      -0.15224,
+      39.85297
+     ],
+     [
+      -0.00226,
+      39.97506
+     ],
+     [
+      0.05777,
+      40.05805
+     ],
+     [
+      0.13727,
+      40.09457
+     ],
+     [
+      0.20278,
+      40.17389
+     ],
+     [
+      0.22868,
+      40.30465
+     ],
+     [
+      0.41986,
+      40.47243
+     ],
+     [
+      0.45545,
+      40.47175
+     ],
+     [
+      0.44929,
+      40.59592
+     ],
+     [
+      0.52288,
+      40.80712
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "81",
+    "name": "MD 50 Valencia - Tortosa",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.33467,
+     39.47007
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIACABANYAL",
+    "name": "València-Cabanyal",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.27141,
+     39.67567
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGUNT",
+    "name": "Sagunt",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.15224,
+     39.85297
+    ]
+   },
+   "properties": {
+    "id": "EST-NULESLAVILAVELLA",
+    "name": "Nules-La Vilavella",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.00226,
+     39.97506
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLODELAPLANA",
+    "name": "Castelló de la Plana",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.05777,
+     40.05805
+    ]
+   },
+   "properties": {
+    "id": "EST-BENICASSIM",
+    "name": "Benicàssim",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.13727,
+     40.09457
+    ]
+   },
+   "properties": {
+    "id": "EST-OROPESA",
+    "name": "Oropesa",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.20278,
+     40.17389
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREBLANCA-Castelln-Torreblanca",
+    "name": "Torreblanca",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.22868,
+     40.30465
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCALADEXIVERT",
+    "name": "Alcalà de Xivert",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.41986,
+     40.47243
+    ]
+   },
+   "properties": {
+    "id": "EST-BENICARLOPENISCOLA",
+    "name": "Benicarló-Peñíscola",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.45545,
+     40.47175
+    ]
+   },
+   "properties": {
+    "id": "EST-VINAROS",
+    "name": "Vinaròs",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.44929,
+     40.59592
+    ]
+   },
+   "properties": {
+    "id": "EST-ULLDECONAALCANARLASENIA",
+    "name": "Ulldecona-Alcanar-La Sénia",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.52288,
+     40.80712
+    ]
+   },
+   "properties": {
+    "id": "EST-LALDEAAMPOSTATORTOSA",
+    "name": "L'Aldea-Amposta-Tortosa",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

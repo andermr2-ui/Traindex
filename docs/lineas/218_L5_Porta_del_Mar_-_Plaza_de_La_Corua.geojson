@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.473,
+      38.34906
+     ],
+     [
+      -0.43801,
+      38.36545
+     ],
+     [
+      -0.42865,
+      38.37482
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "218",
+    "name": "L5 Porta del Mar - Plaza de La Coruña",
+    "type": "Tranvía",
+    "operator": "TRAM d'Alacant",
+    "stroke": "#8D1743",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.473,
+     38.34906
+    ]
+   },
+   "properties": {
+    "id": "EST-SANGUETA",
+    "name": "Sangueta",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8D1743"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43801,
+     38.36545
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCENTUM",
+    "name": "Lucentum",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8D1743"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.42865,
+     38.37482
+    ]
+   },
+   "properties": {
+    "id": "EST-CONDOMINA",
+    "name": "Condomina",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8D1743"
+   }
+  }
+ ]
+}

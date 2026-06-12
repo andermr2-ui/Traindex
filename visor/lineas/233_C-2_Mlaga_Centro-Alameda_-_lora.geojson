@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.45505,
+      36.7009
+     ],
+     [
+      -4.47831,
+      36.69851
+     ],
+     [
+      -4.54554,
+      36.70509
+     ],
+     [
+      -4.60857,
+      36.73386
+     ],
+     [
+      -4.66477,
+      36.7329
+     ],
+     [
+      -4.712,
+      36.76431
+     ],
+     [
+      -4.6994,
+      36.81971
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "233",
+    "name": "C-2 Málaga Centro-Alameda - Álora",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.45505,
+     36.7009
+    ]
+   },
+   "properties": {
+    "id": "EST-VICTORIAKENT",
+    "name": "Victoria Kent",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.47831,
+     36.69851
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSPRADOS",
+    "name": "Los Prados",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.54554,
+     36.70509
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPANILLAS",
+    "name": "Campanillas",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.60857,
+     36.73386
+    ]
+   },
+   "properties": {
+    "id": "EST-CARTAMA",
+    "name": "Cártama",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.66477,
+     36.7329
+    ]
+   },
+   "properties": {
+    "id": "EST-ALJAIMA",
+    "name": "Aljaima",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.712,
+     36.76431
+    ]
+   },
+   "properties": {
+    "id": "EST-PIZARRA",
+    "name": "Pizarra",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.6994,
+     36.81971
+    ]
+   },
+   "properties": {
+    "id": "EST-ALORA",
+    "name": "Álora",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

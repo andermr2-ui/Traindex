@@ -1,0 +1,552 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.27357,
+      41.19217
+     ],
+     [
+      1.04528,
+      41.08111
+     ],
+     [
+      0.52288,
+      40.80712
+     ],
+     [
+      0.45545,
+      40.47175
+     ],
+     [
+      0.41986,
+      40.47243
+     ],
+     [
+      -0.00226,
+      39.97506
+     ],
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -1.85687,
+      38.99485
+     ],
+     [
+      -2.59851,
+      39.26072
+     ],
+     [
+      -2.77539,
+      39.27854
+     ],
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -3.3706,
+      39.0059
+     ],
+     [
+      -3.39614,
+      38.76328
+     ],
+     [
+      -3.5177,
+      38.21573
+     ],
+     [
+      -3.58914,
+      38.06908
+     ],
+     [
+      -3.83216,
+      38.01026
+     ],
+     [
+      -4.06603,
+      38.02797
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -6.1261,
+      36.67981
+     ],
+     [
+      -6.217,
+      36.6042
+     ],
+     [
+      -6.20688,
+      36.46792
+     ],
+     [
+      -6.294,
+      36.537
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "29",
+    "name": "Intercity Torre del Oro",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#2C3539",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 25,
+    "coords_sta": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.27357,
+     41.19217
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDETARRAGONA",
+    "name": "Camp de Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.04528,
+     41.08111
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMBRILS",
+    "name": "Cambrils",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.52288,
+     40.80712
+    ]
+   },
+   "properties": {
+    "id": "EST-LALDEAAMPOSTATORTOSA",
+    "name": "L'Aldea-Amposta-Tortosa",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.45545,
+     40.47175
+    ]
+   },
+   "properties": {
+    "id": "EST-VINAROS",
+    "name": "Vinaròs",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.41986,
+     40.47243
+    ]
+   },
+   "properties": {
+    "id": "EST-BENICARLOPENISCOLA",
+    "name": "Benicarló-Peñíscola",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.00226,
+     39.97506
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLODELAPLANA",
+    "name": "Castelló de la Plana",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85687,
+     38.99485
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBACETELOSLLANOS",
+    "name": "Albacete-Los Llanos",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.59851,
+     39.26072
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLARROBLEDO",
+    "name": "Villarrobledo",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.77539,
+     39.27854
+    ]
+   },
+   "properties": {
+    "id": "EST-SOCUELLAMOS",
+    "name": "Socuéllamos",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3706,
+     39.0059
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANARES",
+    "name": "Manzanares",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.39614,
+     38.76328
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDEPENAS",
+    "name": "Valdepeñas",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5177,
+     38.21573
+    ]
+   },
+   "properties": {
+    "id": "EST-VILCHES",
+    "name": "Vilches",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.58914,
+     38.06908
+    ]
+   },
+   "properties": {
+    "id": "EST-LINARESBAEZA",
+    "name": "Linares-Baeza",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83216,
+     38.01026
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPELUY",
+    "name": "Espeluy",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.06603,
+     38.02797
+    ]
+   },
+   "properties": {
+    "id": "EST-ANDUJAR",
+    "name": "Andújar",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.1261,
+     36.67981
+    ]
+   },
+   "properties": {
+    "id": "EST-JEREZDELAFRONTERA",
+    "name": "Jerez de la Frontera",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.217,
+     36.6042
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPUERTODESANTAMARIA",
+    "name": "El Puerto de Santa María",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20688,
+     36.46792
+    ]
+   },
+   "properties": {
+    "id": "EST-SANFERNANDOBAHIASUR",
+    "name": "San Fernando-Bahía Sur",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.294,
+     36.537
+    ]
+   },
+   "properties": {
+    "id": "EST-CADIZ",
+    "name": "Cádiz",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  }
+ ]
+}

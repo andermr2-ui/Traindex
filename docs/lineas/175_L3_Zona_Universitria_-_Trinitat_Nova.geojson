@@ -1,0 +1,552 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.11169,
+      41.38424
+     ],
+     [
+      2.11786,
+      41.38581
+     ],
+     [
+      2.12622,
+      41.38794
+     ],
+     [
+      2.13088,
+      41.38413
+     ],
+     [
+      2.13563,
+      41.38182
+     ],
+     [
+      2.14111,
+      41.38147
+     ],
+     [
+      2.14952,
+      41.37557
+     ],
+     [
+      2.16057,
+      41.37498
+     ],
+     [
+      2.16943,
+      41.37441
+     ],
+     [
+      2.17577,
+      41.37667
+     ],
+     [
+      2.17307,
+      41.3814
+     ],
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.16828,
+      41.38944
+     ],
+     [
+      2.15996,
+      41.39596
+     ],
+     [
+      2.15298,
+      41.40206
+     ],
+     [
+      2.15002,
+      41.40616
+     ],
+     [
+      2.14452,
+      41.41191
+     ],
+     [
+      2.14113,
+      41.41754
+     ],
+     [
+      2.1424,
+      41.42491
+     ],
+     [
+      2.14838,
+      41.43554
+     ],
+     [
+      2.15688,
+      41.438
+     ],
+     [
+      2.16644,
+      41.44177
+     ],
+     [
+      2.17578,
+      41.44736
+     ],
+     [
+      2.18416,
+      41.44948
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "175",
+    "name": "L3 Zona Universitària - Trinitat Nova",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#00A651",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 25,
+    "coords_sta": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11169,
+     41.38424
+    ]
+   },
+   "properties": {
+    "id": "EST-ZONAUNIVERSITARIA",
+    "name": "Zona Universitària",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11786,
+     41.38581
+    ]
+   },
+   "properties": {
+    "id": "EST-PALAUREIAL",
+    "name": "Palau Reial",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.12622,
+     41.38794
+    ]
+   },
+   "properties": {
+    "id": "EST-MARIACRISTINA",
+    "name": "Maria Cristina",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13088,
+     41.38413
+    ]
+   },
+   "properties": {
+    "id": "EST-LESCORTS",
+    "name": "Les Corts",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13563,
+     41.38182
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACADELCENTRE",
+    "name": "Plaça del Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14111,
+     41.38147
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTSESTACIO",
+    "name": "Sants Estació",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14952,
+     41.37557
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPANYA",
+    "name": "Espanya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16057,
+     41.37498
+    ]
+   },
+   "properties": {
+    "id": "EST-POBLESEC",
+    "name": "Poble Sec",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16943,
+     41.37441
+    ]
+   },
+   "properties": {
+    "id": "EST-PARALLEL",
+    "name": "Paral·lel",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17577,
+     41.37667
+    ]
+   },
+   "properties": {
+    "id": "EST-DRASSANES",
+    "name": "Drassanes",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17307,
+     41.3814
+    ]
+   },
+   "properties": {
+    "id": "EST-LICEU",
+    "name": "Liceu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-CATALUNYA",
+    "name": "Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16828,
+     41.38944
+    ]
+   },
+   "properties": {
+    "id": "EST-PASSEIGDEGRACIA",
+    "name": "Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15996,
+     41.39596
+    ]
+   },
+   "properties": {
+    "id": "EST-DIAGONAL",
+    "name": "Diagonal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15298,
+     41.40206
+    ]
+   },
+   "properties": {
+    "id": "EST-FONTANA",
+    "name": "Fontana",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15002,
+     41.40616
+    ]
+   },
+   "properties": {
+    "id": "EST-LESSEPS",
+    "name": "Lesseps",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14452,
+     41.41191
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLCARCA",
+    "name": "Vallcarca",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14113,
+     41.41754
+    ]
+   },
+   "properties": {
+    "id": "EST-PENITENTS",
+    "name": "Penitents",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1424,
+     41.42491
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLDHEBRON",
+    "name": "Vall d'Hebron",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14838,
+     41.43554
+    ]
+   },
+   "properties": {
+    "id": "EST-MUNDET",
+    "name": "Mundet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15688,
+     41.438
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLDAURA",
+    "name": "Valldaura",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16644,
+     41.44177
+    ]
+   },
+   "properties": {
+    "id": "EST-CANYELLES",
+    "name": "Canyelles",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17578,
+     41.44736
+    ]
+   },
+   "properties": {
+    "id": "EST-ROQUETES",
+    "name": "Roquetes",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18416,
+     41.44948
+    ]
+   },
+   "properties": {
+    "id": "EST-TRINITATNOVA",
+    "name": "Trinitat Nova",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A651"
+   }
+  }
+ ]
+}

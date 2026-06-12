@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -0.75309,
+      38.87813
+     ],
+     [
+      -0.86795,
+      38.63227
+     ],
+     [
+      -0.8142,
+      38.54472
+     ],
+     [
+      -0.8011,
+      38.4849
+     ],
+     [
+      -0.77755,
+      38.40726
+     ],
+     [
+      -0.49606,
+      38.34498
+     ],
+     [
+      -0.58276,
+      38.28965
+     ],
+     [
+      -0.6951,
+      38.27179
+     ],
+     [
+      -0.7063,
+      38.26904
+     ],
+     [
+      -0.78156,
+      38.22451
+     ],
+     [
+      -0.83835,
+      38.16725
+     ],
+     [
+      -0.87441,
+      38.12267
+     ],
+     [
+      -0.9498,
+      38.08126
+     ],
+     [
+      -0.99549,
+      38.04715
+     ],
+     [
+      -1.13346,
+      37.97658
+     ],
+     [
+      -0.83407,
+      37.77891
+     ],
+     [
+      -0.96706,
+      37.74694
+     ],
+     [
+      -0.97497,
+      37.60503
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "374",
+    "name": "MD 44 Valencia - Alicante - Murcia - Cartagena",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 19,
+    "coords_sta": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.75309,
+     38.87813
+    ]
+   },
+   "properties": {
+    "id": "EST-MOIXENT",
+    "name": "Moixent",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86795,
+     38.63227
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLENA",
+    "name": "Villena",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8142,
+     38.54472
+    ]
+   },
+   "properties": {
+    "id": "EST-SAX",
+    "name": "Sax",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8011,
+     38.4849
+    ]
+   },
+   "properties": {
+    "id": "EST-ELDAPETRER",
+    "name": "Elda-Petrer",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.77755,
+     38.40726
+    ]
+   },
+   "properties": {
+    "id": "EST-NOVELDAASPE",
+    "name": "Novelda-Aspe",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49606,
+     38.34498
+    ]
+   },
+   "properties": {
+    "id": "EST-ALICANTERMINAL",
+    "name": "Alicante-Terminal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.58276,
+     38.28965
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRELLANO",
+    "name": "Torrellano",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.6951,
+     38.27179
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCHEPARQUE",
+    "name": "Elche-Parque",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.7063,
+     38.26904
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCHECARRUS",
+    "name": "Elche-Carrús",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.78156,
+     38.22451
+    ]
+   },
+   "properties": {
+    "id": "EST-CREVILLENT",
+    "name": "Crevillent",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.83835,
+     38.16725
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBATERACATRAL",
+    "name": "Albatera-Catral",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.87441,
+     38.12267
+    ]
+   },
+   "properties": {
+    "id": "EST-CALLOSADESEGURA",
+    "name": "Callosa de Segura",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9498,
+     38.08126
+    ]
+   },
+   "properties": {
+    "id": "EST-ORIHUELAMIGUELHERNANDEZ",
+    "name": "Orihuela-Miguel Hernández",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.99549,
+     38.04715
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIEL",
+    "name": "Beniel",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13346,
+     37.97658
+    ]
+   },
+   "properties": {
+    "id": "EST-MURCIADELCARMEN",
+    "name": "Murcia del Carmen",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.83407,
+     37.77891
+    ]
+   },
+   "properties": {
+    "id": "EST-BALSICASMARMENOR",
+    "name": "Balsicas-Mar Menor",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.96706,
+     37.74694
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREPACHECO",
+    "name": "Torre-Pacheco",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.97497,
+     37.60503
+    ]
+   },
+   "properties": {
+    "id": "EST-CARTAGENA",
+    "name": "Cartagena",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

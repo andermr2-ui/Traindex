@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.39259,
+      39.42233
+     ],
+     [
+      -0.39532,
+      39.40917
+     ],
+     [
+      -0.39919,
+      39.40007
+     ],
+     [
+      -0.41494,
+      39.36175
+     ],
+     [
+      -0.42999,
+      39.2842
+     ],
+     [
+      -0.44093,
+      39.19315
+     ],
+     [
+      -0.45068,
+      39.1532
+     ],
+     [
+      -0.45455,
+      39.12051
+     ],
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -0.58651,
+      38.96917
+     ],
+     [
+      -0.68533,
+      38.91134
+     ],
+     [
+      -0.75309,
+      38.87813
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "200",
+    "name": "C-2 Valencia-Nord - Moixent",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39259,
+     39.42233
+    ]
+   },
+   "properties": {
+    "id": "EST-ALFAFARBENETUSSER",
+    "name": "Alfafar-Benetússer",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39532,
+     39.40917
+    ]
+   },
+   "properties": {
+    "id": "EST-MASSANASSA",
+    "name": "Massanassa",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39919,
+     39.40007
+    ]
+   },
+   "properties": {
+    "id": "EST-CATARROJA",
+    "name": "Catarroja",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.41494,
+     39.36175
+    ]
+   },
+   "properties": {
+    "id": "EST-SILLA",
+    "name": "Silla",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.42999,
+     39.2842
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIFAIOALMUSSAFES",
+    "name": "Benifaió-Almussafes",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.44093,
+     39.19315
+    ]
+   },
+   "properties": {
+    "id": "EST-ALGEMESI",
+    "name": "Algemesí",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.45068,
+     39.1532
+    ]
+   },
+   "properties": {
+    "id": "EST-ALZIRA",
+    "name": "Alzira",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.45455,
+     39.12051
+    ]
+   },
+   "properties": {
+    "id": "EST-CARCAIXENT",
+    "name": "Carcaixent",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.58651,
+     38.96917
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCUDIADECRESPINS",
+    "name": "Alcúdia de Crespins",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.68533,
+     38.91134
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADA",
+    "name": "Vallada",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.75309,
+     38.87813
+    ]
+   },
+   "properties": {
+    "id": "EST-MOIXENT",
+    "name": "Moixent",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

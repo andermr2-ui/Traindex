@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -16.25162,
+      28.46631
+     ],
+     [
+      -16.25579,
+      28.4673
+     ],
+     [
+      -16.27106,
+      28.46742
+     ],
+     [
+      -16.27831,
+      28.45428
+     ],
+     [
+      -16.28698,
+      28.44914
+     ],
+     [
+      -16.29146,
+      28.44729
+     ],
+     [
+      -16.29267,
+      28.45759
+     ],
+     [
+      -16.29459,
+      28.44945
+     ],
+     [
+      -16.3021,
+      28.46873
+     ],
+     [
+      -16.30921,
+      28.47634
+     ],
+     [
+      -16.80343,
+      28.17222
+     ],
+     [
+      -16.31677,
+      28.4809
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "282",
+    "name": "L1 Santa Cruz - La Laguna",
+    "type": "Tranvía",
+    "operator": "Metrotenerife",
+    "stroke": "#A61A11",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 19,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.25162,
+     28.46631
+    ]
+   },
+   "properties": {
+    "id": "EST-TEATROGUIMERA",
+    "name": "Teatro Guimerá",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.25579,
+     28.4673
+    ]
+   },
+   "properties": {
+    "id": "EST-WEYLER",
+    "name": "Weyler",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.27106,
+     28.46742
+    ]
+   },
+   "properties": {
+    "id": "EST-CRUZDELSENOR",
+    "name": "Cruz del Señor",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.27831,
+     28.45428
+    ]
+   },
+   "properties": {
+    "id": "EST-CHIMISAY",
+    "name": "Chimisay",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.28698,
+     28.44914
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALLACANDELARIA",
+    "name": "Hospital La Candelaria",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.29146,
+     28.44729
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCARDONAL",
+    "name": "El Cardonal",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.29267,
+     28.45759
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALUNIVERSITARIO",
+    "name": "Hospital Universitario",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.29459,
+     28.44945
+    ]
+   },
+   "properties": {
+    "id": "EST-LASMANTECAS",
+    "name": "Las Mantecas",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.3021,
+     28.46873
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPUSGUAJARA",
+    "name": "Campus Guajara",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.30921,
+     28.47634
+    ]
+   },
+   "properties": {
+    "id": "EST-MUSEODELACIENCIA",
+    "name": "Museo de la Ciencia",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.80343,
+     28.17222
+    ]
+   },
+   "properties": {
+    "id": "EST-CRUZDEPIEDRA",
+    "name": "Cruz de Piedra",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.31677,
+     28.4809
+    ]
+   },
+   "properties": {
+    "id": "EST-PADREANCHIETA",
+    "name": "Padre Anchieta",
+    "province": "Santa Cruz de Tenerife",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A61A11"
+   }
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.15798,
+      41.39287
+     ],
+     [
+      2.15215,
+      41.39976
+     ],
+     [
+      2.14281,
+      41.39867
+     ],
+     [
+      2.13615,
+      41.39779
+     ],
+     [
+      2.13087,
+      41.39778
+     ],
+     [
+      2.11141,
+      41.40905
+     ],
+     [
+      2.09692,
+      41.42008
+     ],
+     [
+      2.09166,
+      41.42751
+     ],
+     [
+      2.0732,
+      41.44486
+     ],
+     [
+      2.06835,
+      41.45784
+     ],
+     [
+      2.07824,
+      41.46797
+     ],
+     [
+      2.07286,
+      41.48129
+     ],
+     [
+      1.83336,
+      41.58876
+     ],
+     [
+      2.09058,
+      41.50084
+     ],
+     [
+      2.10242,
+      41.503
+     ],
+     [
+      2.15215,
+      41.39976
+     ],
+     [
+      2.10875,
+      41.54746
+     ],
+     [
+      2.10028,
+      41.55505
+     ],
+     [
+      2.09655,
+      41.56169
+     ],
+     [
+      2.08991,
+      41.57123
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "168",
+    "name": "S2 Barcelona Plaça Catalunya - Sabadell Parc del Nord",
+    "type": "Suburbano",
+    "operator": "FGC",
+    "stroke": "#B1CA5E",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 24,
+    "coords_sta": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACACATALUNYA",
+    "name": "Plaça Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15798,
+     41.39287
+    ]
+   },
+   "properties": {
+    "id": "EST-PROVENCA",
+    "name": "Provença",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15215,
+     41.39976
+    ]
+   },
+   "properties": {
+    "id": "EST-GRACIA-Barcelona-Barcelona",
+    "name": "Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14281,
+     41.39867
+    ]
+   },
+   "properties": {
+    "id": "EST-MUNTANER",
+    "name": "Muntaner",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13615,
+     41.39779
+    ]
+   },
+   "properties": {
+    "id": "EST-LABONANOVA",
+    "name": "La Bonanova",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13087,
+     41.39778
+    ]
+   },
+   "properties": {
+    "id": "EST-LESTRESTORRES",
+    "name": "Les Tres Torres",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11141,
+     41.40905
+    ]
+   },
+   "properties": {
+    "id": "EST-PEUDELFUNICULAR",
+    "name": "Peu del Funicular",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09692,
+     41.42008
+    ]
+   },
+   "properties": {
+    "id": "EST-BAIXADORDEVALLVIDRERA",
+    "name": "Baixador de Vallvidrera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09166,
+     41.42751
+    ]
+   },
+   "properties": {
+    "id": "EST-LESPLANES",
+    "name": "Les Planes",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.0732,
+     41.44486
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFLORESTA",
+    "name": "La Floresta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.06835,
+     41.45784
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLDOREIX",
+    "name": "Valldoreix",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07824,
+     41.46797
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTCUGAT",
+    "name": "Sant Cugat Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07286,
+     41.48129
+    ]
+   },
+   "properties": {
+    "id": "EST-VOLPELLERES",
+    "name": "Volpelleres",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.83336,
+     41.58876
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTJOAN",
+    "name": "Sant Joan",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09058,
+     41.50084
+    ]
+   },
+   "properties": {
+    "id": "EST-BELLATERRA",
+    "name": "Bellaterra",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10242,
+     41.503
+    ]
+   },
+   "properties": {
+    "id": "EST-UNIVERSITATAUTONOMA",
+    "name": "Universitat Autònoma",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15215,
+     41.39976
+    ]
+   },
+   "properties": {
+    "id": "EST-CANFEUGRACIA",
+    "name": "Can Feu | Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10875,
+     41.54746
+    ]
+   },
+   "properties": {
+    "id": "EST-SABADELLPLACAMAJOR",
+    "name": "Sabadell Plaça Major",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10028,
+     41.55505
+    ]
+   },
+   "properties": {
+    "id": "EST-LACREUALTA",
+    "name": "La Creu Alta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09655,
+     41.56169
+    ]
+   },
+   "properties": {
+    "id": "EST-SABADELLNORD",
+    "name": "Sabadell Nord",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.08991,
+     41.57123
+    ]
+   },
+   "properties": {
+    "id": "EST-SABADELLPARCDELNORD",
+    "name": "Sabadell Parc del Nord",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B1CA5E"
+   }
+  }
+ ]
+}

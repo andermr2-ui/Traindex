@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.7272,
+      41.64334
+     ],
+     [
+      -4.49627,
+      41.9174
+     ],
+     [
+      -4.53386,
+      42.01573
+     ],
+     [
+      -4.43198,
+      41.9765
+     ],
+     [
+      -4.19855,
+      42.07996
+     ],
+     [
+      -3.99962,
+      42.21566
+     ],
+     [
+      -3.31908,
+      42.54273
+     ],
+     [
+      -3.11282,
+      42.63021
+     ],
+     [
+      -2.94114,
+      42.6908
+     ],
+     [
+      -2.6727,
+      42.8413
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "361",
+    "name": "MD 21 Valladolid - Burgos - Vitoria",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7272,
+     41.64334
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADOLIDCAMPOGRANDE",
+    "name": "Valladolid-Campo Grande",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.49627,
+     41.9174
+    ]
+   },
+   "properties": {
+    "id": "EST-VENTADEBANOS",
+    "name": "Venta de Baños",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.53386,
+     42.01573
+    ]
+   },
+   "properties": {
+    "id": "EST-PALENCIA",
+    "name": "Palencia",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.43198,
+     41.9765
+    ]
+   },
+   "properties": {
+    "id": "EST-MAGAZ",
+    "name": "Magaz",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.19855,
+     42.07996
+    ]
+   },
+   "properties": {
+    "id": "EST-QUINTANADELPUENTE",
+    "name": "Quintana del Puente",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.99962,
+     42.21566
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAQUIRAN",
+    "name": "Villaquirán",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.31908,
+     42.54273
+    ]
+   },
+   "properties": {
+    "id": "EST-BRIVIESCA",
+    "name": "Briviesca",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.11282,
+     42.63021
+    ]
+   },
+   "properties": {
+    "id": "EST-PANCORBO",
+    "name": "Pancorbo",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94114,
+     42.6908
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRANDADEEBRO",
+    "name": "Miranda de Ebro",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6727,
+     42.8413
+    ]
+   },
+   "properties": {
+    "id": "EST-VITORIAGASTEIZ",
+    "name": "Vitoria-Gasteiz",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

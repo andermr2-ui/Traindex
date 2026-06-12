@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.91314,
+      38.98487
+     ],
+     [
+      -4.11194,
+      38.69129
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -4.71971,
+      37.07017
+     ],
+     [
+      -5.16196,
+      36.74859
+     ],
+     [
+      -5.43229,
+      36.21377
+     ],
+     [
+      -5.45018,
+      36.12664
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "30",
+    "name": "Intercity Madrid - Algeciras",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#2C3539",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11194,
+     38.69129
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOLLANO",
+    "name": "Puertollano",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUEVADECORDOBALOSPEDROCHES",
+    "name": "Villanueva de Córdoba-Los Pedroches",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.71971,
+     37.07017
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERASANTAANA",
+    "name": "Antequera-Santa Ana",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.16196,
+     36.74859
+    ]
+   },
+   "properties": {
+    "id": "EST-RONDA",
+    "name": "Ronda",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.43229,
+     36.21377
+    ]
+   },
+   "properties": {
+    "id": "EST-SANROQUELALINEA",
+    "name": "San Roque-La Línea",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.45018,
+     36.12664
+    ]
+   },
+   "properties": {
+    "id": "EST-ALGECIRAS",
+    "name": "Algeciras",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  }
+ ]
+}

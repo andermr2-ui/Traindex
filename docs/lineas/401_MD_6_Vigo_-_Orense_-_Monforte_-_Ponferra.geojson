@@ -1,0 +1,794 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.71188,
+      42.23952
+     ],
+     [
+      -8.60372,
+      42.28549
+     ],
+     [
+      -8.62217,
+      42.16414
+     ],
+     [
+      -8.62254,
+      42.06567
+     ],
+     [
+      -8.56641,
+      42.0557
+     ],
+     [
+      -8.49522,
+      42.08171
+     ],
+     [
+      -8.4201,
+      42.07542
+     ],
+     [
+      -8.35596,
+      42.09214
+     ],
+     [
+      -8.23489,
+      42.13668
+     ],
+     [
+      -8.17,
+      42.16
+     ],
+     [
+      -8.1848,
+      42.21994
+     ],
+     [
+      -8.13902,
+      42.29304
+     ],
+     [
+      -7.87255,
+      42.35069
+     ],
+     [
+      -7.80252,
+      42.40104
+     ],
+     [
+      -7.73559,
+      42.45115
+     ],
+     [
+      -7.62927,
+      42.45791
+     ],
+     [
+      -7.25,
+      42.4
+     ],
+     [
+      -7.50314,
+      42.52952
+     ],
+     [
+      -7.28721,
+      42.46517
+     ],
+     [
+      -7.19455,
+      42.3937
+     ],
+     [
+      -7.11325,
+      42.39261
+     ],
+     [
+      -6.98505,
+      42.41826
+     ],
+     [
+      -6.98505,
+      42.41826
+     ],
+     [
+      -6.91194,
+      42.41477
+     ],
+     [
+      -6.82946,
+      42.42064
+     ],
+     [
+      -6.75104,
+      42.53685
+     ],
+     [
+      -6.60249,
+      42.54566
+     ],
+     [
+      -6.42221,
+      42.60954
+     ],
+     [
+      -6.20097,
+      42.63278
+     ],
+     [
+      -6.04706,
+      42.4594
+     ],
+     [
+      -6.00803,
+      42.42439
+     ],
+     [
+      -5.96406,
+      42.41444
+     ],
+     [
+      -5.8875,
+      42.43347
+     ],
+     [
+      -5.83896,
+      42.46459
+     ],
+     [
+      -6.52214,
+      42.4055
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "401",
+    "name": "MD 6 Vigo - Orense - Monforte - Ponferrada - León",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 36,
+    "coords_sta": 35
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.71188,
+     42.23952
+    ]
+   },
+   "properties": {
+    "id": "EST-VIGOGUIXAR",
+    "name": "Vigo-Guixar",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.60372,
+     42.28549
+    ]
+   },
+   "properties": {
+    "id": "EST-REDONDELA",
+    "name": "Redondela",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.62217,
+     42.16414
+    ]
+   },
+   "properties": {
+    "id": "EST-OPORRINO",
+    "name": "O Porriño",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.62254,
+     42.06567
+    ]
+   },
+   "properties": {
+    "id": "EST-GUILLAREY",
+    "name": "Guillarey",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.56641,
+     42.0557
+    ]
+   },
+   "properties": {
+    "id": "EST-CALDELAS",
+    "name": "Caldelas",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.49522,
+     42.08171
+    ]
+   },
+   "properties": {
+    "id": "EST-SALVATERRA",
+    "name": "Salvaterra",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.4201,
+     42.07542
+    ]
+   },
+   "properties": {
+    "id": "EST-ASNEVES",
+    "name": "As Neves",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.35596,
+     42.09214
+    ]
+   },
+   "properties": {
+    "id": "EST-SELA",
+    "name": "Sela",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.23489,
+     42.13668
+    ]
+   },
+   "properties": {
+    "id": "EST-POUSACRECENTE",
+    "name": "Pousa Crecente",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.17,
+     42.16
+    ]
+   },
+   "properties": {
+    "id": "EST-FRIEIRA",
+    "name": "Frieira",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.1848,
+     42.21994
+    ]
+   },
+   "properties": {
+    "id": "EST-FILGUEIRA",
+    "name": "Filgueira",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.13902,
+     42.29304
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBADAVIA",
+    "name": "Ribadavia",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.80252,
+     42.40104
+    ]
+   },
+   "properties": {
+    "id": "EST-BARRADEMINO",
+    "name": "Barra de Miño",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.73559,
+     42.45115
+    ]
+   },
+   "properties": {
+    "id": "EST-OSPEARES",
+    "name": "Os Peares",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.62927,
+     42.45791
+    ]
+   },
+   "properties": {
+    "id": "EST-AREAS",
+    "name": "Áreas",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.25,
+     42.4
+    ]
+   },
+   "properties": {
+    "id": "EST-CANABAL",
+    "name": "Canabal",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.50314,
+     42.52952
+    ]
+   },
+   "properties": {
+    "id": "EST-MONFORTEDELEMOS",
+    "name": "Monforte de Lemos",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.28721,
+     42.46517
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCLODIOQUIROGA",
+    "name": "San Clodio-Quiroga",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.19455,
+     42.3937
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTEFURADO",
+    "name": "Montefurado",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.11325,
+     42.39261
+    ]
+   },
+   "properties": {
+    "id": "EST-LARUAPETIN",
+    "name": "La Rúa-Petín",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98505,
+     42.41826
+    ]
+   },
+   "properties": {
+    "id": "EST-OBARCODEVALDEORRAS",
+    "name": "O Barco de Valdeorras",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98505,
+     42.41826
+    ]
+   },
+   "properties": {
+    "id": "EST-ELBARCODEVALDEORRAS",
+    "name": "El Barco de Valdeorras",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.91194,
+     42.41477
+    ]
+   },
+   "properties": {
+    "id": "EST-SOBRADELO",
+    "name": "Sobradelo",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.82946,
+     42.42064
+    ]
+   },
+   "properties": {
+    "id": "EST-QUERENO",
+    "name": "Quereño",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.75104,
+     42.53685
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLADEPALOS",
+    "name": "Villadepalos",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.60249,
+     42.54566
+    ]
+   },
+   "properties": {
+    "id": "EST-PONFERRADA",
+    "name": "Ponferrada",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.42221,
+     42.60954
+    ]
+   },
+   "properties": {
+    "id": "EST-BEMBIBRE",
+    "name": "Bembibre",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20097,
+     42.63278
+    ]
+   },
+   "properties": {
+    "id": "EST-BRANUELAS",
+    "name": "Brañuelas",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.04706,
+     42.4594
+    ]
+   },
+   "properties": {
+    "id": "EST-ASTORGA",
+    "name": "Astorga",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.00803,
+     42.42439
+    ]
+   },
+   "properties": {
+    "id": "EST-NISTAL",
+    "name": "Nistal",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.96406,
+     42.41444
+    ]
+   },
+   "properties": {
+    "id": "EST-BARRIENTOS",
+    "name": "Barrientos",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.8875,
+     42.43347
+    ]
+   },
+   "properties": {
+    "id": "EST-VEGUELLINA",
+    "name": "Veguellina",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.83896,
+     42.46459
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVANTE",
+    "name": "Villavante",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.52214,
+     42.4055
+    ]
+   },
+   "properties": {
+    "id": "EST-LEON",
+    "name": "León",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

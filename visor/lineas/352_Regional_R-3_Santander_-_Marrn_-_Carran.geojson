@@ -1,0 +1,640 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.81102,
+      43.4583
+     ],
+     [
+      -3.82781,
+      43.45404
+     ],
+     [
+      -3.84724,
+      43.4444
+     ],
+     [
+      -3.84041,
+      43.42746
+     ],
+     [
+      -3.84096,
+      43.41612
+     ],
+     [
+      -3.8209,
+      43.40396
+     ],
+     [
+      -3.81489,
+      43.39727
+     ],
+     [
+      -3.80377,
+      43.39373
+     ],
+     [
+      -3.76655,
+      43.40105
+     ],
+     [
+      -3.73816,
+      43.39942
+     ],
+     [
+      -3.70366,
+      43.41124
+     ],
+     [
+      -3.66666,
+      43.40502
+     ],
+     [
+      -3.57707,
+      43.41363
+     ],
+     [
+      -3.52496,
+      43.42303
+     ],
+     [
+      -3.49051,
+      43.41708
+     ],
+     [
+      -3.46936,
+      43.39418
+     ],
+     [
+      -3.43336,
+      43.35883
+     ],
+     [
+      -3.42105,
+      43.34653
+     ],
+     [
+      -3.44564,
+      43.31366
+     ],
+     [
+      -3.43828,
+      43.28203
+     ],
+     [
+      -3.19827,
+      43.23335
+     ],
+     [
+      -3.10896,
+      43.2105
+     ],
+     [
+      -3.05048,
+      43.20205
+     ],
+     [
+      -3.01643,
+      43.23336
+     ],
+     [
+      -2.98998,
+      43.24782
+     ],
+     [
+      -2.95322,
+      43.25965
+     ],
+     [
+      -2.92524,
+      43.29188
+     ],
+     [
+      -2.92546,
+      43.26903
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "352",
+    "name": "Regional R-3 Santander - Marrón - Carranza - Bilbao",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 28,
+    "coords_sta": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81102,
+     43.4583
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDER",
+    "name": "Santander",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.82781,
+     43.45404
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDECILLA",
+    "name": "Valdecilla",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84724,
+     43.4444
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVAMONTANA",
+    "name": "Nueva Montaña",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84041,
+     43.42746
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLEREAL",
+    "name": "Valle Real",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84096,
+     43.41612
+    ]
+   },
+   "properties": {
+    "id": "EST-MALIANOLAVIDRIERA",
+    "name": "Maliaño-La Vidriera",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8209,
+     43.40396
+    ]
+   },
+   "properties": {
+    "id": "EST-ASTILLERO",
+    "name": "Astillero",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81489,
+     43.39727
+    ]
+   },
+   "properties": {
+    "id": "EST-LACANTABRICA",
+    "name": "La Cantábrica",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80377,
+     43.39373
+    ]
+   },
+   "properties": {
+    "id": "EST-SANSALVADOR",
+    "name": "San Salvador",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76655,
+     43.40105
+    ]
+   },
+   "properties": {
+    "id": "EST-HERAS",
+    "name": "Heras",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73816,
+     43.39942
+    ]
+   },
+   "properties": {
+    "id": "EST-OREJO",
+    "name": "Orejo",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70366,
+     43.41124
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVERDEDEPONTONES",
+    "name": "Villaverde de Pontones",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66666,
+     43.40502
+    ]
+   },
+   "properties": {
+    "id": "EST-HOZDEANERO",
+    "name": "Hoz de Anero",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.57707,
+     43.41363
+    ]
+   },
+   "properties": {
+    "id": "EST-BERANGA",
+    "name": "Beranga",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.52496,
+     43.42303
+    ]
+   },
+   "properties": {
+    "id": "EST-GAMA",
+    "name": "Gama",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.49051,
+     43.41708
+    ]
+   },
+   "properties": {
+    "id": "EST-CICERO",
+    "name": "Cicero",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.46936,
+     43.39418
+    ]
+   },
+   "properties": {
+    "id": "EST-TRETO",
+    "name": "Treto",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.43336,
+     43.35883
+    ]
+   },
+   "properties": {
+    "id": "EST-LIMPIAS",
+    "name": "Limpias",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.42105,
+     43.34653
+    ]
+   },
+   "properties": {
+    "id": "EST-MARRON",
+    "name": "Marrón",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.44564,
+     43.31366
+    ]
+   },
+   "properties": {
+    "id": "EST-UDALLA",
+    "name": "Udalla",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.43828,
+     43.28203
+    ]
+   },
+   "properties": {
+    "id": "EST-GIBAJA",
+    "name": "Gibaja",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.19827,
+     43.23335
+    ]
+   },
+   "properties": {
+    "id": "EST-TRASLAVINA",
+    "name": "Traslaviña",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.10896,
+     43.2105
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANGUREN",
+    "name": "Aranguren",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.05048,
+     43.20205
+    ]
+   },
+   "properties": {
+    "id": "EST-SODUPE",
+    "name": "Sodupe",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.01643,
+     43.23336
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAMILLO",
+    "name": "Zaramillo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.98998,
+     43.24782
+    ]
+   },
+   "properties": {
+    "id": "EST-IRAUREGUI",
+    "name": "Irauregui",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.95322,
+     43.25965
+    ]
+   },
+   "properties": {
+    "id": "EST-BASURTOHOSPITAL",
+    "name": "Basurto-Hospital",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92524,
+     43.29188
+    ]
+   },
+   "properties": {
+    "id": "EST-AMEZOLA",
+    "name": "Amézola",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92546,
+     43.26903
+    ]
+   },
+   "properties": {
+    "id": "EST-MATIKOBILBAO",
+    "name": "Matiko-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

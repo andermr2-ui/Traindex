@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.92596,
+      43.26872
+     ],
+     [
+      -2.92596,
+      43.26872
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "268",
+    "name": "Funicular de Artxanda",
+    "type": "Funicular",
+    "operator": "Ayuntamiento de Bilbao",
+    "stroke": "#E30613",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92596,
+     43.26872
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTANOSPLAZADELFUNICULAR",
+    "name": "Castaños-Plaza del Funicular",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92596,
+     43.26872
+    ]
+   },
+   "properties": {
+    "id": "EST-ARTXANDA",
+    "name": "Artxanda",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  }
+ ]
+}

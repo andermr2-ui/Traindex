@@ -1,0 +1,354 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.10405,
+      39.8965
+     ],
+     [
+      -0.56738,
+      39.48567
+     ],
+     [
+      -0.68627,
+      39.49078
+     ],
+     [
+      -0.72292,
+      39.47105
+     ],
+     [
+      -0.7874,
+      39.4271
+     ],
+     [
+      -1.13473,
+      39.52175
+     ],
+     [
+      -1.13473,
+      39.52175
+     ],
+     [
+      -1.13473,
+      39.52175
+     ],
+     [
+      -1.40317,
+      39.64495
+     ],
+     [
+      -2.14369,
+      40.03396
+     ],
+     [
+      -2.68219,
+      40.14602
+     ],
+     [
+      -3.00978,
+      40.0065
+     ],
+     [
+      -3.61825,
+      40.03483
+     ],
+     [
+      -3.68398,
+      40.35259
+     ],
+     [
+      -3.6886,
+      40.40697
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "377",
+    "name": "Regional 48 Valencia - Cuenca - Madrid",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 15,
+    "coords_sta": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.10405,
+     39.8965
+    ]
+   },
+   "properties": {
+    "id": "EST-BORRIANAALQUERIAS",
+    "name": "Borriana-Alquerías",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.56738,
+     39.48567
+    ]
+   },
+   "properties": {
+    "id": "EST-LORIGUILLAREVA",
+    "name": "Loriguilla-Reva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.68627,
+     39.49078
+    ]
+   },
+   "properties": {
+    "id": "EST-CHESTE",
+    "name": "Cheste",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.72292,
+     39.47105
+    ]
+   },
+   "properties": {
+    "id": "EST-CHIVA",
+    "name": "Chiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.7874,
+     39.4271
+    ]
+   },
+   "properties": {
+    "id": "EST-BUNOL",
+    "name": "Buñol",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13473,
+     39.52175
+    ]
+   },
+   "properties": {
+    "id": "EST-REQUENAUTIEL",
+    "name": "Requena-Utiel",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13473,
+     39.52175
+    ]
+   },
+   "properties": {
+    "id": "EST-UTIEL",
+    "name": "Utiel",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13473,
+     39.52175
+    ]
+   },
+   "properties": {
+    "id": "EST-UTIEL",
+    "name": "Utiel",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40317,
+     39.64495
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPORROBLES",
+    "name": "Camporrobles",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.14369,
+     40.03396
+    ]
+   },
+   "properties": {
+    "id": "EST-CUENCA",
+    "name": "Cuenca",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68219,
+     40.14602
+    ]
+   },
+   "properties": {
+    "id": "EST-HUETE",
+    "name": "Huete",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.00978,
+     40.0065
+    ]
+   },
+   "properties": {
+    "id": "EST-TARANCON",
+    "name": "Tarancón",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61825,
+     40.03483
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANJUEZ",
+    "name": "Aranjuez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68398,
+     40.35259
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVERDEBAJO",
+    "name": "Villaverde Bajo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

@@ -1,0 +1,882 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.36619,
+      40.48906
+     ],
+     [
+      -3.18225,
+      40.64408
+     ],
+     [
+      -3.16307,
+      40.74699
+     ],
+     [
+      -3.13892,
+      40.83117
+     ],
+     [
+      -3.07316,
+      40.90971
+     ],
+     [
+      -3.01438,
+      40.90586
+     ],
+     [
+      -2.93585,
+      40.93
+     ],
+     [
+      -2.84328,
+      40.95385
+     ],
+     [
+      -2.78602,
+      41.00489
+     ],
+     [
+      -2.64622,
+      41.07145
+     ],
+     [
+      -2.49305,
+      41.13631
+     ],
+     [
+      -2.42117,
+      41.16522
+     ],
+     [
+      -2.27769,
+      41.21565
+     ],
+     [
+      -2.17796,
+      41.26407
+     ],
+     [
+      -2.10982,
+      41.2987
+     ],
+     [
+      -2.05996,
+      41.30943
+     ],
+     [
+      -1.95994,
+      41.29604
+     ],
+     [
+      -1.90429,
+      41.29451
+     ],
+     [
+      -1.85549,
+      41.31717
+     ],
+     [
+      -1.78529,
+      41.32438
+     ],
+     [
+      -1.70847,
+      41.32219
+     ],
+     [
+      -1.63842,
+      41.34636
+     ],
+     [
+      -1.59314,
+      41.42132
+     ],
+     [
+      -1.57006,
+      41.43914
+     ],
+     [
+      -1.57006,
+      41.43914
+     ],
+     [
+      -1.56625,
+      41.47855
+     ],
+     [
+      -1.54028,
+      41.47718
+     ],
+     [
+      -1.47818,
+      41.47552
+     ],
+     [
+      -1.40279,
+      41.50128
+     ],
+     [
+      -1.36081,
+      41.5287
+     ],
+     [
+      -1.32546,
+      41.56835
+     ],
+     [
+      -1.30117,
+      41.60972
+     ],
+     [
+      -1.28168,
+      41.63922
+     ],
+     [
+      -1.23436,
+      41.68962
+     ],
+     [
+      -1.16585,
+      41.74526
+     ],
+     [
+      -1.02049,
+      41.72273
+     ],
+     [
+      -0.99849,
+      41.71092
+     ],
+     [
+      -0.91139,
+      41.65857
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "384",
+    "name": "Regional Exprés 55 Madrid - Arcos de Jalón - Zaragoza",
+    "type": "Regional Exprés",
+    "operator": "Renfe",
+    "stroke": "#32CD32",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 39,
+    "coords_sta": 39
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTIN",
+    "name": "Madrid-Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.36619,
+     40.48906
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCALADEHENARES",
+    "name": "Alcalá de Henares",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18225,
+     40.64408
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALAJARA",
+    "name": "Guadalajara",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.16307,
+     40.74699
+    ]
+   },
+   "properties": {
+    "id": "EST-YUNQUERADEHENARES",
+    "name": "Yunquera de Henares",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.13892,
+     40.83117
+    ]
+   },
+   "properties": {
+    "id": "EST-HUMANESDEMOHERNANDO",
+    "name": "Humanes de Mohernando",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.07316,
+     40.90971
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPINOSADEHENARES",
+    "name": "Espinosa de Henares",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.01438,
+     40.90586
+    ]
+   },
+   "properties": {
+    "id": "EST-CARRASCOSADEHENARES",
+    "name": "Carrascosa de Henares",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.93585,
+     40.93
+    ]
+   },
+   "properties": {
+    "id": "EST-JADRAQUE",
+    "name": "Jadraque",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.84328,
+     40.95385
+    ]
+   },
+   "properties": {
+    "id": "EST-MATILLAS",
+    "name": "Matillas",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.78602,
+     41.00489
+    ]
+   },
+   "properties": {
+    "id": "EST-BAIDES",
+    "name": "Baides",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.64622,
+     41.07145
+    ]
+   },
+   "properties": {
+    "id": "EST-SIGUENZA",
+    "name": "Sigüenza",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.49305,
+     41.13631
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRALBA",
+    "name": "Torralba",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.42117,
+     41.16522
+    ]
+   },
+   "properties": {
+    "id": "EST-MEDINACELI",
+    "name": "Medinaceli",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.27769,
+     41.21565
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCOSDEJALON",
+    "name": "Arcos de Jalón",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.17796,
+     41.26407
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIADEHUERTA",
+    "name": "Santa María de Huerta",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.10982,
+     41.2987
+    ]
+   },
+   "properties": {
+    "id": "EST-MONREALDEARIZA",
+    "name": "Monreal de Ariza",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.05996,
+     41.30943
+    ]
+   },
+   "properties": {
+    "id": "EST-ARIZA",
+    "name": "Ariza",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95994,
+     41.29604
+    ]
+   },
+   "properties": {
+    "id": "EST-CETINA",
+    "name": "Cetina",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.90429,
+     41.29451
+    ]
+   },
+   "properties": {
+    "id": "EST-ALHAMADEARAGON",
+    "name": "Alhama de Aragón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85549,
+     41.31717
+    ]
+   },
+   "properties": {
+    "id": "EST-BUBIERCA",
+    "name": "Bubierca",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.78529,
+     41.32438
+    ]
+   },
+   "properties": {
+    "id": "EST-ATECA",
+    "name": "Ateca",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.70847,
+     41.32219
+    ]
+   },
+   "properties": {
+    "id": "EST-TERRER",
+    "name": "Terrer",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63842,
+     41.34636
+    ]
+   },
+   "properties": {
+    "id": "EST-CALATAYUD",
+    "name": "Calatayud",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59314,
+     41.42132
+    ]
+   },
+   "properties": {
+    "id": "EST-EMBIDDEJALON",
+    "name": "Embid de Jalón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57006,
+     41.43914
+    ]
+   },
+   "properties": {
+    "id": "EST-PARACUELLOSSAVINAN",
+    "name": "Paracuellos-Saviñán",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57006,
+     41.43914
+    ]
+   },
+   "properties": {
+    "id": "EST-PARACUELLOSSAVINAN",
+    "name": "Paracuellos-Saviñán",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.56625,
+     41.47855
+    ]
+   },
+   "properties": {
+    "id": "EST-MORES",
+    "name": "Morés",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.54028,
+     41.47718
+    ]
+   },
+   "properties": {
+    "id": "EST-PURROY",
+    "name": "Purroy",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.47818,
+     41.47552
+    ]
+   },
+   "properties": {
+    "id": "EST-MORATADEJALON",
+    "name": "Morata de Jalón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.40279,
+     41.50128
+    ]
+   },
+   "properties": {
+    "id": "EST-RICLALAALMUNIA",
+    "name": "Ricla-La Almunia",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.36081,
+     41.5287
+    ]
+   },
+   "properties": {
+    "id": "EST-CALATORAO",
+    "name": "Calatorao",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32546,
+     41.56835
+    ]
+   },
+   "properties": {
+    "id": "EST-SALILLASDEJALON",
+    "name": "Salillas de Jalón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.30117,
+     41.60972
+    ]
+   },
+   "properties": {
+    "id": "EST-EPILA",
+    "name": "Épila",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.28168,
+     41.63922
+    ]
+   },
+   "properties": {
+    "id": "EST-RUEDADEJALONLUMPIAQUE",
+    "name": "Rueda de Jalón-Lumpiaque",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.23436,
+     41.68962
+    ]
+   },
+   "properties": {
+    "id": "EST-PLASENCIADEJALON",
+    "name": "Plasencia de Jalón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.16585,
+     41.74526
+    ]
+   },
+   "properties": {
+    "id": "EST-GRISEN",
+    "name": "Grisén",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.02049,
+     41.72273
+    ]
+   },
+   "properties": {
+    "id": "EST-CASETAS",
+    "name": "Casetas",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.99849,
+     41.71092
+    ]
+   },
+   "properties": {
+    "id": "EST-UTEBO",
+    "name": "Utebo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  }
+ ]
+}

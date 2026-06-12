@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.35754,
+      39.47241
+     ],
+     [
+      -0.35871,
+      39.49209
+     ],
+     [
+      -0.36235,
+      39.48481
+     ],
+     [
+      -0.36602,
+      39.47311
+     ],
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -0.38621,
+      39.47015
+     ],
+     [
+      -0.40687,
+      39.47076
+     ],
+     [
+      -0.41812,
+      39.47399
+     ],
+     [
+      -0.55943,
+      39.54331
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "210",
+    "name": "L9 Alboraya Peris Aragó - Riba-roja de Túria",
+    "type": "Metro",
+    "operator": "Metrovalencia",
+    "stroke": "#9A0033",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.35754,
+     39.47241
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBORAYAPERISARAGO",
+    "name": "Alboraya Peris Aragó",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.35871,
+     39.49209
+    ]
+   },
+   "properties": {
+    "id": "EST-MACHADO",
+    "name": "Machado",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36235,
+     39.48481
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIMACLET",
+    "name": "Benimaclet",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36602,
+     39.47311
+    ]
+   },
+   "properties": {
+    "id": "EST-ALAMEDA",
+    "name": "Alameda",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38621,
+     39.47015
+    ]
+   },
+   "properties": {
+    "id": "EST-ANGELGUIMERA",
+    "name": "Àngel Guimerà",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40687,
+     39.47076
+    ]
+   },
+   "properties": {
+    "id": "EST-NOUDOCTUBRE",
+    "name": "Nou d'Octubre",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.41812,
+     39.47399
+    ]
+   },
+   "properties": {
+    "id": "EST-MISLATA",
+    "name": "Mislata",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.55943,
+     39.54331
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBAROJADETURIA",
+    "name": "Riba-roja de Túria",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9A0033"
+   }
+  }
+ ]
+}

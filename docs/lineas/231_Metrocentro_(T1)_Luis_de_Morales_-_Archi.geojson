@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.99304,
+      37.38471
+     ],
+     [
+      -5.99436,
+      37.38178
+     ],
+     [
+      -5.9734,
+      37.38224
+     ],
+     [
+      -5.97277,
+      37.38381
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "231",
+    "name": "Metrocentro (T1) Luis de Morales - Archivo de Indias",
+    "type": "Tranvía",
+    "operator": "TUSSAM",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.99304,
+     37.38471
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCHIVODEINDIAS",
+    "name": "Archivo de Indias",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.99436,
+     37.38178
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTADEJEREZ",
+    "name": "Puerta de Jerez",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9734,
+     37.38224
+    ]
+   },
+   "properties": {
+    "id": "EST-EDUARDODATO",
+    "name": "Eduardo Dato",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97277,
+     37.38381
+    ]
+   },
+   "properties": {
+    "id": "EST-LUISDEMORALES",
+    "name": "Luis de Morales",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

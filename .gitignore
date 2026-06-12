@@ -1,0 +1,23 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+.env
+venv/
+.venv/
+
+# Excel temp files
+~$*.xlsx
+
+# Generated intermediate files
+*.csv
+*.js
+geojson/
+
+# Temp files
+*.tmp
+*.swp
+
+# XLSX backups (keep only the main one)
+Base_de_datos_traindex_ESPANA_LIMPIO.xlsx
+Base_de_datos_traindex_ESPAÑA (1).xlsx

@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.60284,
+      40.42356
+     ],
+     [
+      -3.62299,
+      40.42755
+     ],
+     [
+      -3.63826,
+      40.42317
+     ],
+     [
+      -3.66354,
+      40.43106
+     ],
+     [
+      -3.67012,
+      40.40781
+     ],
+     [
+      -3.66967,
+      40.4144
+     ],
+     [
+      -3.68643,
+      40.42046
+     ],
+     [
+      -3.69493,
+      40.41905
+     ],
+     [
+      -3.70941,
+      40.41798
+     ],
+     [
+      -3.70857,
+      40.42043
+     ],
+     [
+      -3.70739,
+      40.42477
+     ],
+     [
+      -3.70576,
+      40.42977
+     ],
+     [
+      -3.70449,
+      40.43318
+     ],
+     [
+      -3.70396,
+      40.44678
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "132",
+    "name": "Línea 2 Las Rosas - Cuatro Caminos",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#FF0000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60284,
+     40.42356
+    ]
+   },
+   "properties": {
+    "id": "EST-LASROSAS",
+    "name": "Las Rosas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.62299,
+     40.42755
+    ]
+   },
+   "properties": {
+    "id": "EST-SIMANCAS",
+    "name": "Simancas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63826,
+     40.42317
+    ]
+   },
+   "properties": {
+    "id": "EST-LAALMUDENA",
+    "name": "La Almudena",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66354,
+     40.43106
+    ]
+   },
+   "properties": {
+    "id": "EST-VENTAS",
+    "name": "Ventas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67012,
+     40.40781
+    ]
+   },
+   "properties": {
+    "id": "EST-CONDEDECASAL",
+    "name": "Conde de Casal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66967,
+     40.4144
+    ]
+   },
+   "properties": {
+    "id": "EST-SAINZDEBARANDA",
+    "name": "Sainz de Baranda",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68643,
+     40.42046
+    ]
+   },
+   "properties": {
+    "id": "EST-RETIRO",
+    "name": "Retiro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69493,
+     40.41905
+    ]
+   },
+   "properties": {
+    "id": "EST-BANCODEESPANA",
+    "name": "Banco de España",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70941,
+     40.41798
+    ]
+   },
+   "properties": {
+    "id": "EST-OPERA",
+    "name": "Ópera",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70857,
+     40.42043
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTODOMINGO",
+    "name": "Santo Domingo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70739,
+     40.42477
+    ]
+   },
+   "properties": {
+    "id": "EST-NOVICIADO",
+    "name": "Noviciado",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70576,
+     40.42977
+    ]
+   },
+   "properties": {
+    "id": "EST-SANBERNARDO",
+    "name": "San Bernardo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70449,
+     40.43318
+    ]
+   },
+   "properties": {
+    "id": "EST-QUEVEDO",
+    "name": "Quevedo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70396,
+     40.44678
+    ]
+   },
+   "properties": {
+    "id": "EST-CUATROCAMINOS",
+    "name": "Cuatro Caminos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF0000"
+   }
+  }
+ ]
+}

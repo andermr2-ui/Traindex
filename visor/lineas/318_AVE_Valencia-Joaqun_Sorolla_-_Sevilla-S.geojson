@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.38121,
+      39.46005
+     ],
+     [
+      -2.14369,
+      40.03396
+     ],
+     [
+      -3.91314,
+      38.98487
+     ],
+     [
+      -4.11194,
+      38.69129
+     ],
+     [
+      -4.78952,
+      37.88851
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "318",
+    "name": "AVE Valencia-Joaquín Sorolla - Sevilla-Santa Justa",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38121,
+     39.46005
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIAJOAQUINSOROLLA",
+    "name": "Valencia-Joaquín Sorolla",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.14369,
+     40.03396
+    ]
+   },
+   "properties": {
+    "id": "EST-CUENCAFERNANDOZOBEL",
+    "name": "Cuenca-Fernando Zóbel",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11194,
+     38.69129
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOLLANO",
+    "name": "Puertollano",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.78952,
+     37.88851
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBACENTRAL",
+    "name": "Córdoba-Central",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

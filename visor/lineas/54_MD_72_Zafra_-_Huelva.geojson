@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.40518,
+      38.41395
+     ],
+     [
+      -6.63754,
+      38.16771
+     ],
+     [
+      -6.6309,
+      38.05308
+     ],
+     [
+      -6.77299,
+      37.92738
+     ],
+     [
+      -6.79735,
+      37.90102
+     ],
+     [
+      -6.87388,
+      37.78718
+     ],
+     [
+      -6.93068,
+      37.73345
+     ],
+     [
+      -6.87629,
+      37.65178
+     ],
+     [
+      -6.96215,
+      37.36789
+     ],
+     [
+      -6.94485,
+      37.25262
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "54",
+    "name": "MD 72 Zafra - Huelva",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.40518,
+     38.41395
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAFRA",
+    "name": "Zafra",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.63754,
+     38.16771
+    ]
+   },
+   "properties": {
+    "id": "EST-FREGENALDELASIERRA",
+    "name": "Fregenal de la Sierra",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6309,
+     38.05308
+    ]
+   },
+   "properties": {
+    "id": "EST-CUMBRESMAYORES",
+    "name": "Cumbres Mayores",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77299,
+     37.92738
+    ]
+   },
+   "properties": {
+    "id": "EST-JABUGOGALAROZA",
+    "name": "Jabugo-Galaroza",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79735,
+     37.90102
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMONASTERCORTEGANA",
+    "name": "Almonaster-Cortegana",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.87388,
+     37.78718
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDELAMUSA",
+    "name": "Valdelamusa",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.93068,
+     37.73345
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCERRODEANDEVALO",
+    "name": "El Cerro de Andévalo",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.87629,
+     37.65178
+    ]
+   },
+   "properties": {
+    "id": "EST-CALANAS",
+    "name": "Calañas",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.96215,
+     37.36789
+    ]
+   },
+   "properties": {
+    "id": "EST-GIBRALEON",
+    "name": "Gibraleón",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94485,
+     37.25262
+    ]
+   },
+   "properties": {
+    "id": "EST-HUELVA",
+    "name": "Huelva",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -0.8959,
+      41.65274
+     ],
+     [
+      -0.89134,
+      41.64392
+     ],
+     [
+      -0.86832,
+      41.63319
+     ],
+     [
+      -0.82216,
+      41.7654
+     ],
+     [
+      -0.76381,
+      41.87719
+     ],
+     [
+      -0.53843,
+      41.97557
+     ],
+     [
+      -0.36931,
+      41.93795
+     ],
+     [
+      -0.28607,
+      41.88355
+     ],
+     [
+      -0.17266,
+      41.81725
+     ],
+     [
+      0.14847,
+      41.90596
+     ],
+     [
+      0.1969,
+      41.91372
+     ],
+     [
+      0.29141,
+      41.84974
+     ],
+     [
+      0.63304,
+      41.62073
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "60",
+    "name": "MD 38 Zaragoza - Lleida",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8959,
+     41.65274
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAPORTILLO",
+    "name": "Zaragoza-Portillo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.89134,
+     41.64392
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAGOYA",
+    "name": "Zaragoza-Goya",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86832,
+     41.63319
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAMIRAFLORES",
+    "name": "Zaragoza-Miraflores",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.82216,
+     41.7654
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUEVADEGALLEGO",
+    "name": "Villanueva de Gállego",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.76381,
+     41.87719
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUERA",
+    "name": "Zuera",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.53843,
+     41.97557
+    ]
+   },
+   "properties": {
+    "id": "EST-TARDIENTA",
+    "name": "Tardienta",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36931,
+     41.93795
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANEN",
+    "name": "Grañén",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.28607,
+     41.88355
+    ]
+   },
+   "properties": {
+    "id": "EST-MARCENPOLENINO",
+    "name": "Marcén-Poleñino",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.17266,
+     41.81725
+    ]
+   },
+   "properties": {
+    "id": "EST-SARINENA",
+    "name": "Sariñena",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.14847,
+     41.90596
+    ]
+   },
+   "properties": {
+    "id": "EST-SELGUA",
+    "name": "Selgua",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.1969,
+     41.91372
+    ]
+   },
+   "properties": {
+    "id": "EST-MONZONRIOCINCA",
+    "name": "Monzón-Río Cinca",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.29141,
+     41.84974
+    ]
+   },
+   "properties": {
+    "id": "EST-BINEFAR",
+    "name": "Binéfar",
+    "province": "Huesca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.63304,
+     41.62073
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEIDAPIRINEUS",
+    "name": "Lleida Pirineus",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

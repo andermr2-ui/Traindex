@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -2.14369,
+      40.03396
+     ],
+     [
+      -1.13473,
+      39.52175
+     ],
+     [
+      -0.38121,
+      39.46005
+     ],
+     [
+      -0.00226,
+      39.97506
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "321",
+    "name": "AVE Madrid-Puerta de Atocha-Almudena Grandes - Castellón de la Plana",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.14369,
+     40.03396
+    ]
+   },
+   "properties": {
+    "id": "EST-CUENCAFERNANDOZOBEL",
+    "name": "Cuenca-Fernando Zóbel",
+    "province": "Cuenca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13473,
+     39.52175
+    ]
+   },
+   "properties": {
+    "id": "EST-REQUENAUTIEL",
+    "name": "Requena-Utiel",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38121,
+     39.46005
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIAJOAQUINSOROLLA",
+    "name": "Valencia-Joaquín Sorolla",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.00226,
+     39.97506
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLODELAPLANA",
+    "name": "Castelló de la Plana",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.14952,
+      41.37557
+     ],
+     [
+      2.13017,
+      41.36116
+     ],
+     [
+      2.10248,
+      41.35891
+     ],
+     [
+      2.04295,
+      41.34849
+     ],
+     [
+      1.9267,
+      41.47909
+     ],
+     [
+      1.9186,
+      41.48403
+     ],
+     [
+      1.85477,
+      41.64054
+     ],
+     [
+      1.85031,
+      41.60912
+     ],
+     [
+      1.86232,
+      41.66886
+     ],
+     [
+      1.83302,
+      41.73222
+     ],
+     [
+      1.82663,
+      41.72026
+     ],
+     [
+      1.82663,
+      41.72026
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "155",
+    "name": "R50 Plaça d'Espanya - Manresa (Semidirecto)",
+    "type": "Cercanías",
+    "operator": "FGC",
+    "stroke": "#00A69C",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14952,
+     41.37557
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPANYA",
+    "name": "Espanya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13017,
+     41.36116
+    ]
+   },
+   "properties": {
+    "id": "EST-ILDEFONSCERDA",
+    "name": "Ildefons Cerdà",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10248,
+     41.35891
+    ]
+   },
+   "properties": {
+    "id": "EST-LHOSPITALETAVCARRILET",
+    "name": "L'Hospitalet Av. Carrilet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.04295,
+     41.34849
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTBOI",
+    "name": "Sant Boi",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9267,
+     41.47909
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTORELLCENTRAL",
+    "name": "Martorell Central",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9186,
+     41.48403
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTORELLENLLAC",
+    "name": "Martorell Enllaç",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.85477,
+     41.64054
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLBELLIEVILAR",
+    "name": "Castellbell i el Vilar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.85031,
+     41.60912
+    ]
+   },
+   "properties": {
+    "id": "EST-MONISTROLDEMONTSERRAT",
+    "name": "Monistrol de Montserrat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.86232,
+     41.66886
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECASTELLET",
+    "name": "Sant Vicente de Castellet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.83302,
+     41.73222
+    ]
+   },
+   "properties": {
+    "id": "EST-MANRESAALTA",
+    "name": "Manresa Alta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.82663,
+     41.72026
+    ]
+   },
+   "properties": {
+    "id": "EST-MANRESAVILADORDIS",
+    "name": "Manresa Viladordis",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.82663,
+     41.72026
+    ]
+   },
+   "properties": {
+    "id": "EST-MANRESABAIXADOR",
+    "name": "Manresa Baixador",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A69C"
+   }
+  }
+ ]
+}

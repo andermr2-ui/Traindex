@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.86474,
+      41.44816
+     ],
+     [
+      1.86459,
+      41.44059
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "196",
+    "name": "Funicular de Gelida",
+    "type": "Funicular",
+    "operator": "FGC",
+    "stroke": "#1A1A1A",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.86474,
+     41.44816
+    ]
+   },
+   "properties": {
+    "id": "EST-GELIDAINAFERIOR",
+    "name": "Gelida Inferior",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A1A1A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.86459,
+     41.44059
+    ]
+   },
+   "properties": {
+    "id": "EST-GELIDASUPERIOR",
+    "name": "Gelida Superior",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A1A1A"
+   }
+  }
+ ]
+}

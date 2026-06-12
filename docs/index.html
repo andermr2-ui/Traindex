@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Visor Ferroviario España</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html, body { height:100%; font-family:system-ui,sans-serif; }
+  #map { height:100%; width:100%; }
+  .leaflet-popup-content { font-size:13px; line-height:1.4; }
+  .leaflet-popup-content strong { display:block; font-size:15px; margin-bottom:4px; }
+  #info {
+    position:absolute; top:10px; right:10px; z-index:1000;
+    background:white; padding:10px 14px; border-radius:8px;
+    box-shadow:0 2px 8px rgba(0,0,0,.2); max-height:90vh; overflow-y:auto;
+    width:280px; font-size:13px;
+  }
+  #info h2 { font-size:15px; margin-bottom:8px; }
+  #info label { display:block; margin:4px 0; }
+  #info input[type=checkbox] { margin-right:6px; }
+  #info select, #info input { width:100%; margin:4px 0; padding:4px 6px; font-size:12px; }
+  .count { font-size:11px; color:#666; }
+  .legend-item { display:flex; align-items:center; gap:6px; margin:2px 0; font-size:12px; }
+  .legend-color { width:14px; height:4px; border-radius:2px; flex-shrink:0; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="info">
+  <h2>🇪🇸 Red Ferroviaria</h2>
+  <div id="stats" class="count"></div>
+  <hr style="margin:6px 0">
+  <label><input type="checkbox" id="showStations" checked> Estaciones</label>
+  <label><input type="checkbox" id="showLines" checked> Líneas</label>
+  <hr style="margin:6px 0">
+  <label>Filtrar por tipo:</label>
+  <select id="filterType" multiple style="height:80px"></select>
+  <hr style="margin:6px 0">
+  <label>Buscar línea:</label>
+  <input id="searchLine" placeholder="Nombre o ID...">
+  <hr style="margin:6px 0">
+  <div id="legend"></div>
+</div>
+<script>
+// ── Load GeoJSON files ──
+let stationsData, linesData;
+
+Promise.all([
+  fetch('estaciones.geojson').then(r=>r.json()),
+  fetch('lineas.geojson').then(r=>r.json())
+]).then(([stations, lines]) => {
+  stationsData = stations;
+  linesData = lines;
+  initMap(stations, lines);
+});
+
+function initMap(stations, lines) {
+  const map = L.map('map', { zoomControl:true }).setView([40.4, -3.7], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap contributors',
+    maxZoom: 19
+  }).addTo(map);
+
+  // Station style
+  function stationIcon(color) {
+    return L.circleMarker([0,0], {
+      radius: 4, fillColor: color||'#666', color: '#333',
+      weight: 1, opacity: 0.8, fillOpacity: 0.9
+    });
+  }
+
+  // ── Stations layer ──
+  const stationLayer = L.geoJSON(stations, {
+    pointToLayer: (f, ll) => stationIcon('#666'),
+    onEachFeature: (f, l) => {
+      const p = f.properties || {};
+      l.bindPopup(`<strong>${p.name||'?'}</strong>ID: ${p.id}<br>Prov: ${p.province||'?'}`);
+    }
+  }).addTo(map);
+
+  // ── Lines layer ──
+  const lineLayer = L.geoJSON(null, { style: f => ({
+    color: f.properties.stroke || '#888',
+    weight: f.properties['stroke-width'] || 2,
+    opacity: f.properties['stroke-opacity'] || 0.7
+  })}).addTo(map);
+
+  // Build type filter
+  const types = new Set();
+  lines.features.forEach(f => {
+    const t = f.properties.type || 'Sin tipo';
+    types.add(t);
+  });
+  const typeSelect = document.getElementById('filterType');
+  [...types].sort().forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    typeSelect.appendChild(opt);
+  });
+
+  function applyFilters() {
+    const showStations = document.getElementById('showStations').checked;
+    const showLines = document.getElementById('showLines').checked;
+    const searchText = document.getElementById('searchLine').value.toLowerCase();
+    const selectedTypes = [...typeSelect.selectedOptions].map(o => o.value);
+
+    // Stations
+    if (showStations) {
+      if (!map.hasLayer(stationLayer)) map.addLayer(stationLayer);
+    } else {
+      if (map.hasLayer(stationLayer)) map.removeLayer(stationLayer);
+    }
+
+    // Lines
+    map.removeLayer(lineLayer);
+    const filtered = lines.features.filter(f => {
+      const p = f.properties;
+      const typeOk = selectedTypes.length === 0 || selectedTypes.includes(p.type);
+      const searchOk = !searchText || 
+        p.name.toLowerCase().includes(searchText) || 
+        p.lid.toLowerCase().includes(searchText);
+      return typeOk && searchOk && showLines;
+    });
+    
+    lineLayer.clearLayers();
+    filtered.forEach(f => lineLayer.addData(f));
+    if (filtered.length > 0 && showLines) {
+      if (!map.hasLayer(lineLayer)) map.addLayer(lineLayer);
+    }
+
+    // Update stats
+    document.getElementById('stats').textContent = 
+      `${stations.features.length} estaciones, ${lines.features.length} líneas`;
+    
+    // Update legend
+    const legend = document.getElementById('legend');
+    const shownTypes = new Set();
+    filtered.forEach(f => shownTypes.add(f.properties.type));
+    legend.innerHTML = '<strong>Leyenda (mostradas):</strong>';
+    [...shownTypes].sort().forEach(t => {
+      const sample = filtered.find(f => f.properties.type === t);
+      const color = sample?.properties?.stroke || '#888';
+      const count = filtered.filter(f => f.properties.type === t).length;
+      legend.innerHTML += `
+        <div class="legend-item">
+          <div class="legend-color" style="background:${color}"></div>
+          ${t} <span class="count">(${count})</span>
+        </div>`;
+    });
+  }
+
+  // Events
+  document.getElementById('showStations').onchange = applyFilters;
+  document.getElementById('showLines').onchange = applyFilters;
+  document.getElementById('filterType').onchange = applyFilters;
+  document.getElementById('searchLine').oninput = applyFilters;
+
+  // Fit to lines on first load
+  setTimeout(() => {
+    if (lines.features.length > 0) {
+      const bounds = lineLayer.getBounds();
+      if (bounds.isValid()) map.fitBounds(bounds, {padding:[30,30]});
+    }
+  }, 500);
+
+  // Initial stats
+  applyFilters();
+
+  console.log('Visor listo!');
+}
+</script>
+</body>
+</html>

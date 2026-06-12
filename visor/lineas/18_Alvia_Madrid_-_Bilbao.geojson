@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -4.09476,
+      40.91014
+     ],
+     [
+      -4.7272,
+      41.64334
+     ],
+     [
+      -3.66632,
+      42.37117
+     ],
+     [
+      -2.94114,
+      42.6908
+     ],
+     [
+      -2.9605,
+      43.14225
+     ],
+     [
+      -2.92744,
+      43.26136
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "18",
+    "name": "Alvia Madrid - Bilbao",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#0071BC",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.09476,
+     40.91014
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGOVIAGUIOMAR",
+    "name": "Segovia-Guiomar",
+    "province": "Segovia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7272,
+     41.64334
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLADOLIDCAMPOGRANDE",
+    "name": "Valladolid-Campo Grande",
+    "province": "Valladolid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66632,
+     42.37117
+    ]
+   },
+   "properties": {
+    "id": "EST-BURGOSROSADELIMA",
+    "name": "Burgos-Rosa de Lima",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94114,
+     42.6908
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRANDADEEBRO",
+    "name": "Miranda de Ebro",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9605,
+     43.14225
+    ]
+   },
+   "properties": {
+    "id": "EST-LLODIO",
+    "name": "Llodio",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92744,
+     43.26136
+    ]
+   },
+   "properties": {
+    "id": "EST-BILBAOABANDO",
+    "name": "Bilbao-Abando",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  }
+ ]
+}

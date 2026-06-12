@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.02049,
+      41.72273
+     ],
+     [
+      -0.99849,
+      41.71092
+     ],
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -0.8959,
+      41.65274
+     ],
+     [
+      -0.89134,
+      41.64392
+     ],
+     [
+      -0.86832,
+      41.63319
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "241",
+    "name": "C-1 Casetas - Zaragoza Miraflores",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.02049,
+     41.72273
+    ]
+   },
+   "properties": {
+    "id": "EST-CASETAS",
+    "name": "Casetas",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.99849,
+     41.71092
+    ]
+   },
+   "properties": {
+    "id": "EST-UTEBO",
+    "name": "Utebo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8959,
+     41.65274
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAPORTILLO",
+    "name": "Zaragoza-Portillo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.89134,
+     41.64392
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAGOYA",
+    "name": "Zaragoza-Goya",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86832,
+     41.63319
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAMIRAFLORES",
+    "name": "Zaragoza-Miraflores",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

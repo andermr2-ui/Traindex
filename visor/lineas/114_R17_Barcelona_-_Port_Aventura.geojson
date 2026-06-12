@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      1.73082,
+      41.22018
+     ],
+     [
+      1.52579,
+      41.18608
+     ],
+     [
+      1.40571,
+      41.14279
+     ],
+     [
+      1.3733,
+      41.13661
+     ],
+     [
+      1.25354,
+      41.11122
+     ],
+     [
+      1.1558,
+      41.0851
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "114",
+    "name": "R17 Barcelona - Port Aventura",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.73082,
+     41.22018
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVAILAGELTRU",
+    "name": "Vilanova i la Geltrú",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.52579,
+     41.18608
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECALDERS",
+    "name": "Sant Vicenç de Calders",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.40571,
+     41.14279
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREDEMBARRA",
+    "name": "Torredembarra",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3733,
+     41.13661
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTAFULLATAMARIT",
+    "name": "Altafulla-Tamarit",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.25354,
+     41.11122
+    ]
+   },
+   "properties": {
+    "id": "EST-TARRAGONA",
+    "name": "Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.1558,
+     41.0851
+    ]
+   },
+   "properties": {
+    "id": "EST-SALOUPORTAVENTURA",
+    "name": "Salou - Port Aventura",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

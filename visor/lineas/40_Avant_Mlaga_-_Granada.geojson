@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.56137,
+      37.02948
+     ],
+     [
+      -4.13567,
+      37.17511
+     ],
+     [
+      -3.60863,
+      37.18369
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "40",
+    "name": "Avant Málaga - Granada",
+    "type": "Media Distancia AV",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.56137,
+     37.02948
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERAAV",
+    "name": "Antequera AV",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.13567,
+     37.17511
+    ]
+   },
+   "properties": {
+    "id": "EST-LOJA",
+    "name": "Loja",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60863,
+     37.18369
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANADA",
+    "name": "Granada",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

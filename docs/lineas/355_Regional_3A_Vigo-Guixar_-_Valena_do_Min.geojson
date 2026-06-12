@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.71188,
+      42.23952
+     ],
+     [
+      -8.60372,
+      42.28549
+     ],
+     [
+      -8.62217,
+      42.16414
+     ],
+     [
+      -8.62254,
+      42.06567
+     ],
+     [
+      -8.63929,
+      42.0247
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "355",
+    "name": "Regional 3A Vigo-Guixar - Valença do Minho",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.71188,
+     42.23952
+    ]
+   },
+   "properties": {
+    "id": "EST-VIGOGUIXAR",
+    "name": "Vigo-Guixar",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.60372,
+     42.28549
+    ]
+   },
+   "properties": {
+    "id": "EST-REDONDELA",
+    "name": "Redondela",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.62217,
+     42.16414
+    ]
+   },
+   "properties": {
+    "id": "EST-OPORRINO",
+    "name": "O Porriño",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.62254,
+     42.06567
+    ]
+   },
+   "properties": {
+    "id": "EST-GUILLAREY",
+    "name": "Guillarey",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.63929,
+     42.0247
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCADOMINHO",
+    "name": "Valença do Minho",
+    "province": "Portugal",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

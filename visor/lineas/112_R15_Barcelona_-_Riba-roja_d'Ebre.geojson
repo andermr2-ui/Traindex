@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18556,
+      41.38439
+     ],
+     [
+      2.16828,
+      41.38944
+     ],
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      1.73082,
+      41.22018
+     ],
+     [
+      1.52579,
+      41.18608
+     ],
+     [
+      1.40571,
+      41.14279
+     ],
+     [
+      1.3733,
+      41.13661
+     ],
+     [
+      1.25354,
+      41.11122
+     ],
+     [
+      1.15044,
+      41.11288
+     ],
+     [
+      1.09994,
+      41.1606
+     ],
+     [
+      1.02207,
+      41.16641
+     ],
+     [
+      0.97578,
+      41.14005
+     ],
+     [
+      0.92079,
+      41.14362
+     ],
+     [
+      0.85864,
+      41.13316
+     ],
+     [
+      0.81051,
+      41.13093
+     ],
+     [
+      0.65342,
+      41.10642
+     ],
+     [
+      0.56905,
+      41.18232
+     ],
+     [
+      0.54015,
+      41.22942
+     ],
+     [
+      0.48079,
+      41.24851
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "112",
+    "name": "R15 Barcelona - Riba-roja d'Ebre",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 21,
+    "coords_sta": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18556,
+     41.38439
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONAESTACIODEFRANCA",
+    "name": "Barcelona Estació de França",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16828,
+     41.38944
+    ]
+   },
+   "properties": {
+    "id": "EST-PASSEIGDEGRACIA",
+    "name": "Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.73082,
+     41.22018
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVAILAGELTRU",
+    "name": "Vilanova i la Geltrú",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.52579,
+     41.18608
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECALDERS",
+    "name": "Sant Vicenç de Calders",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.40571,
+     41.14279
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREDEMBARRA",
+    "name": "Torredembarra",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.3733,
+     41.13661
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTAFULLATAMARIT",
+    "name": "Altafulla-Tamarit",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.25354,
+     41.11122
+    ]
+   },
+   "properties": {
+    "id": "EST-TARRAGONA",
+    "name": "Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.15044,
+     41.11288
+    ]
+   },
+   "properties": {
+    "id": "EST-VILASECA",
+    "name": "Vila-seca",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.09994,
+     41.1606
+    ]
+   },
+   "properties": {
+    "id": "EST-REUS",
+    "name": "Reus",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.02207,
+     41.16641
+    ]
+   },
+   "properties": {
+    "id": "EST-LESBORGESDELCAMP",
+    "name": "Les Borges del Camp",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.97578,
+     41.14005
+    ]
+   },
+   "properties": {
+    "id": "EST-RIUDECANYESBOTARELL",
+    "name": "Riudecanyes-Botarell",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.92079,
+     41.14362
+    ]
+   },
+   "properties": {
+    "id": "EST-DUESAIGUESLARGENTERA",
+    "name": "Duesaigües-L'Argentera",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.85864,
+     41.13316
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADELL",
+    "name": "Pradell",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.81051,
+     41.13093
+    ]
+   },
+   "properties": {
+    "id": "EST-MARCAFALSET",
+    "name": "Marçà-Falset",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.65342,
+     41.10642
+    ]
+   },
+   "properties": {
+    "id": "EST-MORALANOVA",
+    "name": "Móra la Nova",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.56905,
+     41.18232
+    ]
+   },
+   "properties": {
+    "id": "EST-ASCO",
+    "name": "Ascó",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.54015,
+     41.22942
+    ]
+   },
+   "properties": {
+    "id": "EST-FLIX",
+    "name": "Flix",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.48079,
+     41.24851
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBAROJADEBRE",
+    "name": "Riba-roja d'Ebre",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

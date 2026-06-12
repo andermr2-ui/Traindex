@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.27357,
+      41.19217
+     ],
+     [
+      0.63304,
+      41.62073
+     ],
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -4.78952,
+      37.88851
+     ],
+     [
+      -4.56137,
+      37.02948
+     ],
+     [
+      -4.13567,
+      37.17511
+     ],
+     [
+      -3.60863,
+      37.18369
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "294",
+    "name": "AVE Barcelona - Granada",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.27357,
+     41.19217
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDETARRAGONA",
+    "name": "Camp de Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.63304,
+     41.62073
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEIDAPIRINEUS",
+    "name": "Lleida Pirineus",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.78952,
+     37.88851
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBACENTRAL",
+    "name": "Córdoba-Central",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.56137,
+     37.02948
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERAAV",
+    "name": "Antequera AV",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.13567,
+     37.17511
+    ]
+   },
+   "properties": {
+    "id": "EST-LOJA",
+    "name": "Loja",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60863,
+     37.18369
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANADA",
+    "name": "Granada",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

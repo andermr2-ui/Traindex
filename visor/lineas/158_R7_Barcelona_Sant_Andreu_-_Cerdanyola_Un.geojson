@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.19114,
+      41.43663
+     ],
+     [
+      2.18538,
+      41.4839
+     ],
+     [
+      2.14762,
+      41.49263
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "158",
+    "name": "R7 Barcelona Sant Andreu - Cerdanyola Universitat",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#F9BA15",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19114,
+     41.43663
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDREU",
+    "name": "Sant Andreu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F9BA15"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18538,
+     41.4839
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTCADAIREIXACMANRESA",
+    "name": "Montcada i Reixac-Manresa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F9BA15"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14762,
+     41.49263
+    ]
+   },
+   "properties": {
+    "id": "EST-CERDANYOLADELVALLES",
+    "name": "Cerdanyola del Vallès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F9BA15"
+   }
+  }
+ ]
+}

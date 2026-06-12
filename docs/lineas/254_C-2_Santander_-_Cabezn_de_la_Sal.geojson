@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.81102,
+      43.4583
+     ],
+     [
+      -3.82781,
+      43.45404
+     ],
+     [
+      -3.84724,
+      43.4444
+     ],
+     [
+      -3.84413,
+      43.42174
+     ],
+     [
+      -3.84096,
+      43.41612
+     ],
+     [
+      -3.85953,
+      43.39154
+     ],
+     [
+      -3.89424,
+      43.37674
+     ],
+     [
+      -3.94951,
+      43.35305
+     ],
+     [
+      -3.96487,
+      43.36066
+     ],
+     [
+      -3.991,
+      43.34768
+     ],
+     [
+      -3.94632,
+      43.43169
+     ],
+     [
+      -4.05127,
+      43.35104
+     ],
+     [
+      -4.08772,
+      43.35877
+     ],
+     [
+      -4.1494,
+      43.36115
+     ],
+     [
+      -4.15565,
+      43.34077
+     ],
+     [
+      -4.17491,
+      43.33881
+     ],
+     [
+      -4.19355,
+      43.32301
+     ],
+     [
+      -4.21543,
+      43.3153
+     ],
+     [
+      -4.23176,
+      43.30784
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "254",
+    "name": "C-2 Santander - Cabezón de la Sal",
+    "type": "Cercanías AM",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 19,
+    "coords_sta": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81102,
+     43.4583
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDER",
+    "name": "Santander",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.82781,
+     43.45404
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDECILLA",
+    "name": "Valdecilla",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84724,
+     43.4444
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVAMONTANA",
+    "name": "Nueva Montaña",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84413,
+     43.42174
+    ]
+   },
+   "properties": {
+    "id": "EST-MURIEDASBAHIA",
+    "name": "Muriedas-Bahía",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84096,
+     43.41612
+    ]
+   },
+   "properties": {
+    "id": "EST-MALIANOLAVIDRIERA",
+    "name": "Maliaño-La Vidriera",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.85953,
+     43.39154
+    ]
+   },
+   "properties": {
+    "id": "EST-GUARNIZO",
+    "name": "Guarnizo",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.89424,
+     43.37674
+    ]
+   },
+   "properties": {
+    "id": "EST-PARBAYON",
+    "name": "Parbayón",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.94951,
+     43.35305
+    ]
+   },
+   "properties": {
+    "id": "EST-RENEDO",
+    "name": "Renedo",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.96487,
+     43.36066
+    ]
+   },
+   "properties": {
+    "id": "EST-VIONO",
+    "name": "Vioño",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.991,
+     43.34768
+    ]
+   },
+   "properties": {
+    "id": "EST-ZURITA",
+    "name": "Zurita",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.94632,
+     43.43169
+    ]
+   },
+   "properties": {
+    "id": "EST-PIELAGOS",
+    "name": "Piélagos",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.05127,
+     43.35104
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRELAVEGACENTRO",
+    "name": "Torrelavega-Centro",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.08772,
+     43.35877
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTESANMIGUEL",
+    "name": "Puente San Miguel",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1494,
+     43.36115
+    ]
+   },
+   "properties": {
+    "id": "EST-SANPEDRODERUDAGUERA",
+    "name": "San Pedro de Rudagüera",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.15565,
+     43.34077
+    ]
+   },
+   "properties": {
+    "id": "EST-GOLBARDO",
+    "name": "Golbardo",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.17491,
+     43.33881
+    ]
+   },
+   "properties": {
+    "id": "EST-CASARDEPERIEDO",
+    "name": "Casar de Periedo",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.19355,
+     43.32301
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRGENDELAPENA",
+    "name": "Virgen de la Peña",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.21543,
+     43.3153
+    ]
+   },
+   "properties": {
+    "id": "EST-ONTORIA",
+    "name": "Ontoria",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.23176,
+     43.30784
+    ]
+   },
+   "properties": {
+    "id": "EST-CABEZONDELASAL",
+    "name": "Cabezón de la Sal",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

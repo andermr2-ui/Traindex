@@ -1,0 +1,1014 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.82714,
+      43.38817
+     ],
+     [
+      -5.80874,
+      43.38621
+     ],
+     [
+      -5.79207,
+      43.37949
+     ],
+     [
+      -5.74855,
+      43.38092
+     ],
+     [
+      -5.72969,
+      43.38174
+     ],
+     [
+      -5.70247,
+      43.38248
+     ],
+     [
+      -5.67464,
+      43.38669
+     ],
+     [
+      -5.65694,
+      43.39917
+     ],
+     [
+      -5.60145,
+      43.37753
+     ],
+     [
+      -5.58266,
+      43.38052
+     ],
+     [
+      -5.54614,
+      43.3751
+     ],
+     [
+      -5.52525,
+      43.3688
+     ],
+     [
+      -5.50899,
+      43.36119
+     ],
+     [
+      -5.45111,
+      43.35617
+     ],
+     [
+      -5.43457,
+      43.35537
+     ],
+     [
+      -5.38416,
+      43.35988
+     ],
+     [
+      -5.36916,
+      43.35191
+     ],
+     [
+      -5.36066,
+      43.34401
+     ],
+     [
+      -5.30326,
+      43.36266
+     ],
+     [
+      -6.3,
+      43.58
+     ],
+     [
+      -5.2,
+      43.53
+     ],
+     [
+      -5.18827,
+      43.38752
+     ],
+     [
+      -4.88,
+      43.38
+     ],
+     [
+      -5.07331,
+      43.43123
+     ],
+     [
+      -5.07,
+      43.45
+     ],
+     [
+      -5.05466,
+      43.45938
+     ],
+     [
+      -5.065,
+      43.45
+     ],
+     [
+      -5.0,
+      43.47
+     ],
+     [
+      -4.97,
+      43.475
+     ],
+     [
+      -4.80752,
+      43.42977
+     ],
+     [
+      -4.75912,
+      43.42091
+     ],
+     [
+      -4.67277,
+      43.39655
+     ],
+     [
+      -4.62,
+      43.38
+     ],
+     [
+      -4.58168,
+      43.38971
+     ],
+     [
+      -4.48029,
+      43.37026
+     ],
+     [
+      -5.65292,
+      43.2891
+     ],
+     [
+      -3.43831,
+      43.28441
+     ],
+     [
+      -4.34925,
+      43.32832
+     ],
+     [
+      -4.30902,
+      43.31838
+     ],
+     [
+      -4.23176,
+      43.30784
+     ],
+     [
+      -4.1494,
+      43.36115
+     ],
+     [
+      -4.08772,
+      43.35877
+     ],
+     [
+      -4.05127,
+      43.35104
+     ],
+     [
+      -3.81102,
+      43.4583
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "351",
+    "name": "Regional R-2 Oviedo - Llanes - Santander",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 46,
+    "coords_sta": 45
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.82714,
+     43.38817
+    ]
+   },
+   "properties": {
+    "id": "EST-LACORREDORIA",
+    "name": "La Corredoria",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.80874,
+     43.38621
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUEPRINCIPADO",
+    "name": "Parque Principado",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.79207,
+     43.37949
+    ]
+   },
+   "properties": {
+    "id": "EST-COLLOTO",
+    "name": "Colloto",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.74855,
+     43.38092
+    ]
+   },
+   "properties": {
+    "id": "EST-MERES",
+    "name": "Meres",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.72969,
+     43.38174
+    ]
+   },
+   "properties": {
+    "id": "EST-FONCIELLO",
+    "name": "Fonciello",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.70247,
+     43.38248
+    ]
+   },
+   "properties": {
+    "id": "EST-ELBERRON",
+    "name": "El Berrón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67464,
+     43.38669
+    ]
+   },
+   "properties": {
+    "id": "EST-LACARRERA",
+    "name": "La Carrera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.65694,
+     43.39917
+    ]
+   },
+   "properties": {
+    "id": "EST-POLADESIERO",
+    "name": "Pola de Siero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.60145,
+     43.37753
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSCORROS",
+    "name": "Los Corros",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.58266,
+     43.38052
+    ]
+   },
+   "properties": {
+    "id": "EST-LIERES",
+    "name": "Lieres",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.54614,
+     43.3751
+    ]
+   },
+   "properties": {
+    "id": "EST-ELREMEDIO",
+    "name": "El Remedio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.52525,
+     43.3688
+    ]
+   },
+   "properties": {
+    "id": "EST-LLAMES",
+    "name": "Llames",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.50899,
+     43.36119
+    ]
+   },
+   "properties": {
+    "id": "EST-NAVA",
+    "name": "Nava",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.45111,
+     43.35617
+    ]
+   },
+   "properties": {
+    "id": "EST-CECEDA",
+    "name": "Ceceda",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.43457,
+     43.35537
+    ]
+   },
+   "properties": {
+    "id": "EST-CARANCOS",
+    "name": "Carancos",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.38416,
+     43.35988
+    ]
+   },
+   "properties": {
+    "id": "EST-PINTUELES",
+    "name": "Pintueles",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.36916,
+     43.35191
+    ]
+   },
+   "properties": {
+    "id": "EST-INFIESTO",
+    "name": "Infiesto",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.36066,
+     43.34401
+    ]
+   },
+   "properties": {
+    "id": "EST-INFIESTOAPEADERO",
+    "name": "Infiesto Apeadero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.30326,
+     43.36266
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAMAYOR",
+    "name": "Villamayor",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3,
+     43.58
+    ]
+   },
+   "properties": {
+    "id": "EST-SEBARES",
+    "name": "Sebares",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.2,
+     43.53
+    ]
+   },
+   "properties": {
+    "id": "EST-OZANES",
+    "name": "Ozanes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.18827,
+     43.38752
+    ]
+   },
+   "properties": {
+    "id": "EST-ARRIONDAS",
+    "name": "Arriondas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.88,
+     43.38
+    ]
+   },
+   "properties": {
+    "id": "EST-TORANO",
+    "name": "Toraño",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.07331,
+     43.43123
+    ]
+   },
+   "properties": {
+    "id": "EST-CUEVAS",
+    "name": "Cuevas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.07,
+     43.45
+    ]
+   },
+   "properties": {
+    "id": "EST-LLOVIO",
+    "name": "Llovio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.05466,
+     43.45938
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBADESELLA",
+    "name": "Ribadesella",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.065,
+     43.45
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMANGO",
+    "name": "Camango",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.0,
+     43.47
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAHORMES",
+    "name": "Villahormes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.97,
+     43.475
+    ]
+   },
+   "properties": {
+    "id": "EST-BALMORI",
+    "name": "Balmori",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.80752,
+     43.42977
+    ]
+   },
+   "properties": {
+    "id": "EST-CELORIO",
+    "name": "Celorio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.75912,
+     43.42091
+    ]
+   },
+   "properties": {
+    "id": "EST-LLANES",
+    "name": "Llanes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.67277,
+     43.39655
+    ]
+   },
+   "properties": {
+    "id": "EST-VIDIAGO",
+    "name": "Vidiago",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.62,
+     43.38
+    ]
+   },
+   "properties": {
+    "id": "EST-PENDUELES",
+    "name": "Pendueles",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.58168,
+     43.38971
+    ]
+   },
+   "properties": {
+    "id": "EST-COLOMBRES",
+    "name": "Colombres",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.48029,
+     43.37026
+    ]
+   },
+   "properties": {
+    "id": "EST-PESUES",
+    "name": "Pesúes",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.65292,
+     43.2891
+    ]
+   },
+   "properties": {
+    "id": "EST-SANVICENTE",
+    "name": "San Vicente",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.43831,
+     43.28441
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCENA",
+    "name": "Bárcena",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.34925,
+     43.32832
+    ]
+   },
+   "properties": {
+    "id": "EST-ROIZ",
+    "name": "Roiz",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.30902,
+     43.31838
+    ]
+   },
+   "properties": {
+    "id": "EST-TRECENO",
+    "name": "Treceño",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.23176,
+     43.30784
+    ]
+   },
+   "properties": {
+    "id": "EST-CABEZONDELASAL",
+    "name": "Cabezón de la Sal",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.1494,
+     43.36115
+    ]
+   },
+   "properties": {
+    "id": "EST-SANPEDRODERUDAGUERA",
+    "name": "San Pedro de Rudagüera",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.08772,
+     43.35877
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTESANMIGUEL",
+    "name": "Puente San Miguel",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.05127,
+     43.35104
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRELAVEGACENTRO",
+    "name": "Torrelavega-Centro",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81102,
+     43.4583
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDER",
+    "name": "Santander",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

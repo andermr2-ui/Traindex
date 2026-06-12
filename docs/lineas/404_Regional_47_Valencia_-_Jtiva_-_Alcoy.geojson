@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -0.48516,
+      38.97458
+     ],
+     [
+      -0.45323,
+      38.93833
+     ],
+     [
+      -0.468,
+      39.333
+     ],
+     [
+      -0.413,
+      39.418
+     ],
+     [
+      -0.52241,
+      38.84467
+     ],
+     [
+      -0.5512,
+      38.83056
+     ],
+     [
+      -0.68247,
+      38.7946
+     ],
+     [
+      -0.52183,
+      38.79686
+     ],
+     [
+      -0.44705,
+      38.74078
+     ],
+     [
+      -0.46883,
+      38.70976
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "404",
+    "name": "Regional 47 Valencia - Játiva - Alcoy",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48516,
+     38.97458
+    ]
+   },
+   "properties": {
+    "id": "EST-GENOVES",
+    "name": "Genovés",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.45323,
+     38.93833
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIGANIM",
+    "name": "Benigánim",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.468,
+     39.333
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTABERNER",
+    "name": "Montaberner",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.413,
+     39.418
+    ]
+   },
+   "properties": {
+    "id": "EST-BUFALI",
+    "name": "Bufalí",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52241,
+     38.84467
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBAIDA",
+    "name": "Albaida",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5512,
+     38.83056
+    ]
+   },
+   "properties": {
+    "id": "EST-AGULLENT",
+    "name": "Agullent",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.68247,
+     38.7946
+    ]
+   },
+   "properties": {
+    "id": "EST-ONTENIENTE",
+    "name": "Onteniente",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52183,
+     38.79686
+    ]
+   },
+   "properties": {
+    "id": "EST-AGRES",
+    "name": "Agres",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.44705,
+     38.74078
+    ]
+   },
+   "properties": {
+    "id": "EST-COCENTAINA",
+    "name": "Cocentaina",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.46883,
+     38.70976
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOY",
+    "name": "Alcoy",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.97911,
+      37.37821
+     ],
+     [
+      -5.92332,
+      37.28722
+     ],
+     [
+      -5.54846,
+      37.26822
+     ],
+     [
+      -5.4255,
+      37.33434
+     ],
+     [
+      -5.11497,
+      37.23371
+     ],
+     [
+      -4.89364,
+      37.22227
+     ],
+     [
+      -4.71971,
+      37.07017
+     ],
+     [
+      -4.56137,
+      37.02948
+     ],
+     [
+      -4.13567,
+      37.17511
+     ],
+     [
+      -3.60863,
+      37.18369
+     ],
+     [
+      -3.52776,
+      37.39582
+     ],
+     [
+      -3.31075,
+      37.43113
+     ],
+     [
+      -3.12702,
+      37.31688
+     ],
+     [
+      -2.83948,
+      37.18472
+     ],
+     [
+      -2.48751,
+      36.9515
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "51",
+    "name": "MD 69 Sevilla - Almería",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97911,
+     37.37821
+    ]
+   },
+   "properties": {
+    "id": "EST-SEVILLASANBERNARDO",
+    "name": "Sevilla-San Bernardo",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92332,
+     37.28722
+    ]
+   },
+   "properties": {
+    "id": "EST-DOSHERMANAS",
+    "name": "Dos Hermanas",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.54846,
+     37.26822
+    ]
+   },
+   "properties": {
+    "id": "EST-ARAHAL",
+    "name": "Arahal",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.4255,
+     37.33434
+    ]
+   },
+   "properties": {
+    "id": "EST-MARCHENA",
+    "name": "Marchena",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.11497,
+     37.23371
+    ]
+   },
+   "properties": {
+    "id": "EST-OSUNA",
+    "name": "Osuna",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.89364,
+     37.22227
+    ]
+   },
+   "properties": {
+    "id": "EST-PEDRERA",
+    "name": "Pedrera",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.71971,
+     37.07017
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERASANTAANA",
+    "name": "Antequera-Santa Ana",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.56137,
+     37.02948
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERAAV",
+    "name": "Antequera AV",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.13567,
+     37.17511
+    ]
+   },
+   "properties": {
+    "id": "EST-LOJA",
+    "name": "Loja",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60863,
+     37.18369
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANADA",
+    "name": "Granada",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.52776,
+     37.39582
+    ]
+   },
+   "properties": {
+    "id": "EST-IZNALLOZ",
+    "name": "Iznalloz",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.31075,
+     37.43113
+    ]
+   },
+   "properties": {
+    "id": "EST-MOREDA",
+    "name": "Moreda",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.12702,
+     37.31688
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADIX",
+    "name": "Guadix",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.83948,
+     37.18472
+    ]
+   },
+   "properties": {
+    "id": "EST-FINANA",
+    "name": "Fiñana",
+    "province": "Almería",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.48751,
+     36.9515
+    ]
+   },
+   "properties": {
+    "id": "EST-GADOR",
+    "name": "Gádor",
+    "province": "Almería",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

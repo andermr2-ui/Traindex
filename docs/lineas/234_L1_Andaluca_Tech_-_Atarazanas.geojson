@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.49442,
+      36.7188
+     ],
+     [
+      -4.4887,
+      36.71799
+     ],
+     [
+      -4.48401,
+      36.71733
+     ],
+     [
+      -4.47858,
+      36.71655
+     ],
+     [
+      -6.20598,
+      36.52948
+     ],
+     [
+      -4.46338,
+      36.71802
+     ],
+     [
+      -4.45303,
+      36.71935
+     ],
+     [
+      -4.4491,
+      36.71862
+     ],
+     [
+      -4.44611,
+      36.71169
+     ],
+     [
+      -4.43243,
+      36.7128
+     ],
+     [
+      -4.4297,
+      36.71599
+     ],
+     [
+      -4.42351,
+      36.7176
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "234",
+    "name": "L1 Andalucía Tech - Atarazanas",
+    "type": "Metro",
+    "operator": "Metro de Málaga",
+    "stroke": "#F37021",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 12,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.49442,
+     36.7188
+    ]
+   },
+   "properties": {
+    "id": "EST-ANDALUCIATECH",
+    "name": "Andalucía Tech",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.4887,
+     36.71799
+    ]
+   },
+   "properties": {
+    "id": "EST-PARANINFO",
+    "name": "Paraninfo",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.48401,
+     36.71733
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCONSUL",
+    "name": "El Cónsul",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.47858,
+     36.71655
+    ]
+   },
+   "properties": {
+    "id": "EST-CLINICO",
+    "name": "Clínico",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20598,
+     36.52948
+    ]
+   },
+   "properties": {
+    "id": "EST-UNIVERSIDADCADIZ",
+    "name": "Universidad",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.46338,
+     36.71802
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADDELAJUSTICIA",
+    "name": "Ciudad de la Justicia",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.45303,
+     36.71935
+    ]
+   },
+   "properties": {
+    "id": "EST-PORTADAALTA",
+    "name": "Portada Alta",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.4491,
+     36.71862
+    ]
+   },
+   "properties": {
+    "id": "EST-CARRANQUE",
+    "name": "Carranque",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.44611,
+     36.71169
+    ]
+   },
+   "properties": {
+    "id": "EST-BARBARELA",
+    "name": "Barbarela",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.43243,
+     36.7128
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPERCHEL",
+    "name": "El Perchel",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.4297,
+     36.71599
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALMEDINA",
+    "name": "Guadalmedina",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.42351,
+     36.7176
+    ]
+   },
+   "properties": {
+    "id": "EST-ATARAZANAS",
+    "name": "Atarazanas",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  }
+ ]
+}

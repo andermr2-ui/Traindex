@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18556,
+      41.38439
+     ],
+     [
+      2.16538,
+      41.39254
+     ],
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.73082,
+      41.22018
+     ],
+     [
+      1.52579,
+      41.18608
+     ],
+     [
+      1.37659,
+      41.22339
+     ],
+     [
+      1.31748,
+      41.2395
+     ],
+     [
+      1.2974,
+      41.25034
+     ],
+     [
+      1.25878,
+      41.29835
+     ],
+     [
+      1.195,
+      41.30604
+     ],
+     [
+      1.17649,
+      41.33763
+     ],
+     [
+      1.16571,
+      41.37652
+     ],
+     [
+      0.82553,
+      41.54392
+     ],
+     [
+      0.651,
+      41.6237
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "370",
+    "name": "Regional Exprés 35a/R13 Barcelona - Valls - Lérida",
+    "type": "Regional Exprés",
+    "operator": "Renfe",
+    "stroke": "#32CD32",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 20,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18556,
+     41.38439
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONAESTACIODEFRANCA",
+    "name": "Barcelona Estació de França",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16538,
+     41.39254
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONAPASSEIGDEGRACIA",
+    "name": "Barcelona-Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.73082,
+     41.22018
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVAILAGELTRU",
+    "name": "Vilanova i la Geltrú",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.52579,
+     41.18608
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTVICENCDECALDERS",
+    "name": "Sant Vicenç de Calders",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.37659,
+     41.22339
+    ]
+   },
+   "properties": {
+    "id": "EST-SALOMO",
+    "name": "Salomó",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.31748,
+     41.2395
+    ]
+   },
+   "properties": {
+    "id": "EST-VILABELLA",
+    "name": "Vilabella",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.2974,
+     41.25034
+    ]
+   },
+   "properties": {
+    "id": "EST-NULLESBRAFIM",
+    "name": "Nulles-Bràfim",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.25878,
+     41.29835
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLS",
+    "name": "Valls",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.195,
+     41.30604
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPLANAPICAMOIXONS",
+    "name": "La Plana-Picamoixons",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.17649,
+     41.33763
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAVERD",
+    "name": "Vilaverd",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.16571,
+     41.37652
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTBLANC",
+    "name": "Montblanc",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.82553,
+     41.54392
+    ]
+   },
+   "properties": {
+    "id": "EST-JUNEDA",
+    "name": "Juneda",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.651,
+     41.6237
+    ]
+   },
+   "properties": {
+    "id": "EST-LERIDAPIRINEOS",
+    "name": "Lérida-Pirineos",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#32CD32"
+   }
+  }
+ ]
+}

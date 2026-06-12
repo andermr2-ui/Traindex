@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -5.73978,
+      41.516
+     ],
+     [
+      -7.87255,
+      42.35069
+     ],
+     [
+      -8.5452,
+      42.87044
+     ],
+     [
+      -8.76228,
+      42.60199
+     ],
+     [
+      -8.6354,
+      42.42168
+     ],
+     [
+      -8.7119,
+      42.23496
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "326",
+    "name": "AVE Madrid-Chamartín-Clara Campoamor - Vigo-Urzaiz",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.73978,
+     41.516
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAMORA",
+    "name": "Zamora",
+    "province": "Zamora",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.5452,
+     42.87044
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIAGODECOMPOSTELA",
+    "name": "Santiago de Compostela",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.76228,
+     42.60199
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAGARCIADEAROUSA",
+    "name": "Vilagarcía de Arousa",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.6354,
+     42.42168
+    ]
+   },
+   "properties": {
+    "id": "EST-PONTEVEDRA",
+    "name": "Pontevedra",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.7119,
+     42.23496
+    ]
+   },
+   "properties": {
+    "id": "EST-VIGOURZAIZ",
+    "name": "Vigo-Urzaiz",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

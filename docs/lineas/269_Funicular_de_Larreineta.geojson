@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.04174,
+      43.30147
+     ],
+     [
+      -3.04927,
+      43.29111
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "269",
+    "name": "Funicular de Larreineta",
+    "type": "Funicular",
+    "operator": "Euskotren",
+    "stroke": "#005FA4",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.04174,
+     43.30147
+    ]
+   },
+   "properties": {
+    "id": "EST-ESCONTRILLA",
+    "name": "Escontrilla",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.04927,
+     43.29111
+    ]
+   },
+   "properties": {
+    "id": "EST-LARREINETA",
+    "name": "Larreineta",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  }
+ ]
+}

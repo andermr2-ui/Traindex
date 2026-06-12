@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.84226,
+      40.12085
+     ],
+     [
+      -3.82844,
+      40.25563
+     ],
+     [
+      -3.79828,
+      40.28229
+     ],
+     [
+      -3.77236,
+      40.32809
+     ],
+     [
+      -3.6886,
+      40.40697
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "348",
+    "name": "Proximidad Illescas - Madrid",
+    "type": "Proximidad",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84226,
+     40.12085
+    ]
+   },
+   "properties": {
+    "id": "EST-ILLESCAS",
+    "name": "Illescas",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.82844,
+     40.25563
+    ]
+   },
+   "properties": {
+    "id": "EST-HUMANES",
+    "name": "Humanes",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79828,
+     40.28229
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENLABRADACENTRAL",
+    "name": "Fuenlabrada Central",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.77236,
+     40.32809
+    ]
+   },
+   "properties": {
+    "id": "EST-LEGANES",
+    "name": "Leganés",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

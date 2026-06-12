@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.85738,
+      43.3588
+     ],
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.82714,
+      43.38817
+     ],
+     [
+      -5.81212,
+      43.40437
+     ],
+     [
+      -5.81581,
+      43.44238
+     ],
+     [
+      -5.82634,
+      43.46151
+     ],
+     [
+      -5.86148,
+      43.47606
+     ],
+     [
+      -5.60145,
+      43.37753
+     ],
+     [
+      -5.86995,
+      43.52344
+     ],
+     [
+      -5.87422,
+      43.55187
+     ],
+     [
+      -5.89657,
+      43.5543
+     ],
+     [
+      -5.92296,
+      43.56148
+     ],
+     [
+      -5.92296,
+      43.56148
+     ],
+     [
+      -5.98243,
+      43.58343
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "245",
+    "name": "C-3 Llamaquique - San Juan de Nieva",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85738,
+     43.3588
+    ]
+   },
+   "properties": {
+    "id": "EST-LLAMAQUIQUE",
+    "name": "Llamaquique",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.82714,
+     43.38817
+    ]
+   },
+   "properties": {
+    "id": "EST-LACORREDORIA",
+    "name": "La Corredoria",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.81212,
+     43.40437
+    ]
+   },
+   "properties": {
+    "id": "EST-LUGONES",
+    "name": "Lugones",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.81581,
+     43.44238
+    ]
+   },
+   "properties": {
+    "id": "EST-LUGODELLANERA",
+    "name": "Lugo de Llanera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.82634,
+     43.46151
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLABONADEASTURIAS",
+    "name": "Villabona de Asturias",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86148,
+     43.47606
+    ]
+   },
+   "properties": {
+    "id": "EST-FERRONES",
+    "name": "Ferroñes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.60145,
+     43.37753
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSCORROS",
+    "name": "Los Corros",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86995,
+     43.52344
+    ]
+   },
+   "properties": {
+    "id": "EST-NUBLEDO",
+    "name": "Nubledo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.87422,
+     43.55187
+    ]
+   },
+   "properties": {
+    "id": "EST-TRASONA",
+    "name": "Trasona",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.89657,
+     43.5543
+    ]
+   },
+   "properties": {
+    "id": "EST-LLARANES",
+    "name": "Llaranes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92296,
+     43.56148
+    ]
+   },
+   "properties": {
+    "id": "EST-AVILES",
+    "name": "Avilés",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92296,
+     43.56148
+    ]
+   },
+   "properties": {
+    "id": "EST-AVILESAPEADERO",
+    "name": "Avilés Apeadero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.98243,
+     43.58343
+    ]
+   },
+   "properties": {
+    "id": "EST-SANJUANDENIEVA",
+    "name": "San Juan de Nieva",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

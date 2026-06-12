@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.33467,
+      39.47007
+     ],
+     [
+      -0.27141,
+      39.67567
+     ],
+     [
+      -0.32066,
+      39.67941
+     ],
+     [
+      -0.36577,
+      39.75296
+     ],
+     [
+      -0.43178,
+      39.81256
+     ],
+     [
+      -0.48235,
+      39.84706
+     ],
+     [
+      -0.49385,
+      39.85453
+     ],
+     [
+      -0.56939,
+      39.91496
+     ],
+     [
+      -0.5722,
+      39.94728
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "202",
+    "name": "C-5 Valencia-Nord - Caudiel",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#1B1464",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.33467,
+     39.47007
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIACABANYAL",
+    "name": "València-Cabanyal",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.27141,
+     39.67567
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGUNT",
+    "name": "Sagunt",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.32066,
+     39.67941
+    ]
+   },
+   "properties": {
+    "id": "EST-GILET",
+    "name": "Gilet",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36577,
+     39.75296
+    ]
+   },
+   "properties": {
+    "id": "EST-ALGIMIA",
+    "name": "Algímia",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43178,
+     39.81256
+    ]
+   },
+   "properties": {
+    "id": "EST-SONEJA",
+    "name": "Soneja",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48235,
+     39.84706
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGORBECIUDAD",
+    "name": "Segorbe-Ciudad",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49385,
+     39.85453
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGORBEARRABAL",
+    "name": "Segorbe-Arrabal",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.56939,
+     39.91496
+    ]
+   },
+   "properties": {
+    "id": "EST-JERICAVIVER",
+    "name": "Jérica-Viver",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5722,
+     39.94728
+    ]
+   },
+   "properties": {
+    "id": "EST-CAUDIEL",
+    "name": "Caudiel",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  }
+ ]
+}

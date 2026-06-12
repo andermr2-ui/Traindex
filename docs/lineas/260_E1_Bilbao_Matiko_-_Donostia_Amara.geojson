@@ -1,0 +1,948 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.92546,
+      43.26903
+     ],
+     [
+      -2.91995,
+      43.26684
+     ],
+     [
+      -2.92252,
+      43.25672
+     ],
+     [
+      -2.91372,
+      43.26373
+     ],
+     [
+      -2.90643,
+      43.25916
+     ],
+     [
+      -2.89869,
+      43.25869
+     ],
+     [
+      -2.89774,
+      43.24387
+     ],
+     [
+      -2.89774,
+      43.24387
+     ],
+     [
+      -2.87587,
+      43.22762
+     ],
+     [
+      -2.85419,
+      43.22878
+     ],
+     [
+      -2.82176,
+      43.21774
+     ],
+     [
+      -2.79761,
+      43.20612
+     ],
+     [
+      -2.77541,
+      43.20714
+     ],
+     [
+      -2.73646,
+      43.21676
+     ],
+     [
+      -2.73646,
+      43.21676
+     ],
+     [
+      -2.63455,
+      43.1694
+     ],
+     [
+      -2.61256,
+      43.16527
+     ],
+     [
+      -2.57443,
+      43.16846
+     ],
+     [
+      -2.54802,
+      43.17163
+     ],
+     [
+      -2.50117,
+      43.18483
+     ],
+     [
+      -2.50117,
+      43.18483
+     ],
+     [
+      -2.50117,
+      43.18483
+     ],
+     [
+      -2.48727,
+      43.18069
+     ],
+     [
+      -2.48026,
+      43.18456
+     ],
+     [
+      -2.46567,
+      43.18711
+     ],
+     [
+      -2.46567,
+      43.18711
+     ],
+     [
+      -2.45502,
+      43.19039
+     ],
+     [
+      -2.41583,
+      43.2136
+     ],
+     [
+      -2.41583,
+      43.2136
+     ],
+     [
+      -2.41583,
+      43.2136
+     ],
+     [
+      -2.3879,
+      43.2522
+     ],
+     [
+      -2.35555,
+      43.29364
+     ],
+     [
+      -2.26718,
+      43.27895
+     ],
+     [
+      -2.2518,
+      43.29154
+     ],
+     [
+      -2.17106,
+      43.28421
+     ],
+     [
+      -2.17106,
+      43.28421
+     ],
+     [
+      -2.12646,
+      43.27421
+     ],
+     [
+      -2.0354,
+      43.2774
+     ],
+     [
+      -2.00743,
+      43.27876
+     ],
+     [
+      -1.99463,
+      43.29182
+     ],
+     [
+      -2.0007,
+      43.30243
+     ],
+     [
+      -1.98153,
+      43.31268
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "260",
+    "name": "E1 Bilbao Matiko - Donostia Amara",
+    "type": "Suburbano",
+    "operator": "Euskotren",
+    "stroke": "#005FA4",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 42,
+    "coords_sta": 42
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92546,
+     43.26903
+    ]
+   },
+   "properties": {
+    "id": "EST-MATIKOBILBAO",
+    "name": "Matiko-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91995,
+     43.26684
+    ]
+   },
+   "properties": {
+    "id": "EST-URIBARRIBILBAO",
+    "name": "Uribarri-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92252,
+     43.25672
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAZPIKALEAKBILBAO",
+    "name": "Zazpikaleak-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91372,
+     43.26373
+    ]
+   },
+   "properties": {
+    "id": "EST-ZURBARANBARRIBILBAO",
+    "name": "Zurbaranbarri-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.90643,
+     43.25916
+    ]
+   },
+   "properties": {
+    "id": "EST-TXURDINAGABILBAO",
+    "name": "Txurdinaga-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89869,
+     43.25869
+    ]
+   },
+   "properties": {
+    "id": "EST-OTXARKOAGABILBAO",
+    "name": "Otxarkoaga-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89774,
+     43.24387
+    ]
+   },
+   "properties": {
+    "id": "EST-KUKULLAGAETXEBARRI",
+    "name": "Kukullaga-Etxebarri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89774,
+     43.24387
+    ]
+   },
+   "properties": {
+    "id": "EST-ETXEBARRI",
+    "name": "Etxebarri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.87587,
+     43.22762
+    ]
+   },
+   "properties": {
+    "id": "EST-ARIZBASAURI",
+    "name": "Ariz-Basauri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.85419,
+     43.22878
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUHATZUGALDAKAO",
+    "name": "Zuhatzu-Galdakao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.82176,
+     43.21774
+    ]
+   },
+   "properties": {
+    "id": "EST-USANSOLO",
+    "name": "Usansolo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.79761,
+     43.20612
+    ]
+   },
+   "properties": {
+    "id": "EST-BEDIA",
+    "name": "Bedia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.77541,
+     43.20714
+    ]
+   },
+   "properties": {
+    "id": "EST-LEMOA",
+    "name": "Lemoa",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.73646,
+     43.21676
+    ]
+   },
+   "properties": {
+    "id": "EST-AMOREBIETA",
+    "name": "Amorebieta",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.73646,
+     43.21676
+    ]
+   },
+   "properties": {
+    "id": "EST-EUBAAMOREBIETA",
+    "name": "Euba-Amorebieta",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.63455,
+     43.1694
+    ]
+   },
+   "properties": {
+    "id": "EST-DURANGO",
+    "name": "Durango",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.61256,
+     43.16527
+    ]
+   },
+   "properties": {
+    "id": "EST-TRANAABADINO",
+    "name": "Traña-Abadiño",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.57443,
+     43.16846
+    ]
+   },
+   "properties": {
+    "id": "EST-BERRIZ",
+    "name": "Berriz",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.54802,
+     43.17163
+    ]
+   },
+   "properties": {
+    "id": "EST-ZALDIBAR",
+    "name": "Zaldibar",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.50117,
+     43.18483
+    ]
+   },
+   "properties": {
+    "id": "EST-ERMUA",
+    "name": "Ermua",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.50117,
+     43.18483
+    ]
+   },
+   "properties": {
+    "id": "EST-ERROTABARRIERMUA",
+    "name": "Errotabarri-Ermua",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.50117,
+     43.18483
+    ]
+   },
+   "properties": {
+    "id": "EST-SANLORENTZOERMUA",
+    "name": "San Lorentzo-Ermua",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.48727,
+     43.18069
+    ]
+   },
+   "properties": {
+    "id": "EST-UNIBERTSITATEAEIBAR",
+    "name": "Unibertsitatea-Eibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.48026,
+     43.18456
+    ]
+   },
+   "properties": {
+    "id": "EST-AMANAEIBAR",
+    "name": "Amaña-Eibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.46567,
+     43.18711
+    ]
+   },
+   "properties": {
+    "id": "EST-ARDANTZAEIBAR",
+    "name": "Ardantza-Eibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.46567,
+     43.18711
+    ]
+   },
+   "properties": {
+    "id": "EST-EIBAR",
+    "name": "Eibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.45502,
+     43.19039
+    ]
+   },
+   "properties": {
+    "id": "EST-AZITAINEIBAR",
+    "name": "Azitain-Eibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.41583,
+     43.2136
+    ]
+   },
+   "properties": {
+    "id": "EST-ELGOIBAR",
+    "name": "Elgoibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.41583,
+     43.2136
+    ]
+   },
+   "properties": {
+    "id": "EST-TOLETXEGAINELGOIBAR",
+    "name": "Toletxegain-Elgoibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.41583,
+     43.2136
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTZOLAELGOIBAR",
+    "name": "Altzola-Elgoibar",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.3879,
+     43.2522
+    ]
+   },
+   "properties": {
+    "id": "EST-MENDARO",
+    "name": "Mendaro",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.35555,
+     43.29364
+    ]
+   },
+   "properties": {
+    "id": "EST-DEBA",
+    "name": "Deba",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.26718,
+     43.27895
+    ]
+   },
+   "properties": {
+    "id": "EST-ARROAZESTOA",
+    "name": "Arroa-Zestoa",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.2518,
+     43.29154
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUMAIA",
+    "name": "Zumaia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.17106,
+     43.28421
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAUTZ",
+    "name": "Zarautz",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.17106,
+     43.28421
+    ]
+   },
+   "properties": {
+    "id": "EST-SANPELAIOZARAUTZ",
+    "name": "San Pelaio-Zarautz",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.12646,
+     43.27421
+    ]
+   },
+   "properties": {
+    "id": "EST-AIAORIO",
+    "name": "Aia-Orio",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0354,
+     43.2774
+    ]
+   },
+   "properties": {
+    "id": "EST-USURBIL",
+    "name": "Usurbil",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.00743,
+     43.27876
+    ]
+   },
+   "properties": {
+    "id": "EST-ERREKALDEDONOSTIA",
+    "name": "Errekalde-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.99463,
+     43.29182
+    ]
+   },
+   "properties": {
+    "id": "EST-ANORGADONOSTIA",
+    "name": "Añorga-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.0007,
+     43.30243
+    ]
+   },
+   "properties": {
+    "id": "EST-LUGARITZDONOSTIA",
+    "name": "Lugaritz-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.98153,
+     43.31268
+    ]
+   },
+   "properties": {
+    "id": "EST-AMARADONOSTIA",
+    "name": "Amara-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005FA4"
+   }
+  }
+ ]
+}

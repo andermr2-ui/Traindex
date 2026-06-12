@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.98153,
+      43.31268
+     ],
+     [
+      -1.97481,
+      43.30226
+     ],
+     [
+      -1.96796,
+      43.31049
+     ],
+     [
+      -1.95487,
+      43.31423
+     ],
+     [
+      -1.93671,
+      43.31962
+     ],
+     [
+      -1.93108,
+      43.31636
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "264",
+    "name": "E5 Amara - Altza",
+    "type": "Suburbano",
+    "operator": "Euskotren",
+    "stroke": "#7BB1BA",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.98153,
+     43.31268
+    ]
+   },
+   "properties": {
+    "id": "EST-AMARADONOSTIA",
+    "name": "Amara-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7BB1BA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.97481,
+     43.30226
+    ]
+   },
+   "properties": {
+    "id": "EST-ANOETADONOSTIA-Gipuzkoa-DonostiaSanSebastin",
+    "name": "Anoeta-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7BB1BA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.96796,
+     43.31049
+    ]
+   },
+   "properties": {
+    "id": "EST-LOIOLADONOSTIA",
+    "name": "Loiola-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7BB1BA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95487,
+     43.31423
+    ]
+   },
+   "properties": {
+    "id": "EST-INTXAURRONDODONOSTIA",
+    "name": "Intxaurrondo-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7BB1BA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.93671,
+     43.31962
+    ]
+   },
+   "properties": {
+    "id": "EST-HERRERADONOSTIA",
+    "name": "Herrera-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7BB1BA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.93108,
+     43.31636
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTZADONOSTIA",
+    "name": "Altza-Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7BB1BA"
+   }
+  }
+ ]
+}

@@ -1,0 +1,464 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.36619,
+      40.48906
+     ],
+     [
+      -3.39299,
+      40.48035
+     ],
+     [
+      -3.47973,
+      40.45473
+     ],
+     [
+      -3.56101,
+      40.42373
+     ],
+     [
+      -3.60889,
+      40.4042
+     ],
+     [
+      -3.60909,
+      40.38713
+     ],
+     [
+      -3.62479,
+      40.38206
+     ],
+     [
+      -3.65609,
+      40.37617
+     ],
+     [
+      -3.66802,
+      40.38163
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.6917,
+      40.4225
+     ],
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.69496,
+      40.48815
+     ],
+     [
+      -3.72559,
+      40.4953
+     ],
+     [
+      -3.84597,
+      40.47434
+     ],
+     [
+      -3.80785,
+      40.46533
+     ],
+     [
+      -3.80006,
+      40.44741
+     ],
+     [
+      -3.78549,
+      40.44858
+     ],
+     [
+      -3.71933,
+      40.42096
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "126",
+    "name": "C-7 Alcalá - Atocha - Príncipe Pío - Chamartín",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#F17A24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 23,
+    "coords_sta": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.36619,
+     40.48906
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCALADEHENARES",
+    "name": "Alcalá de Henares",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.39299,
+     40.48035
+    ]
+   },
+   "properties": {
+    "id": "EST-LAGARENA",
+    "name": "La Garena",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.47973,
+     40.45473
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREJONDEARDOZ",
+    "name": "Torrejón de Ardoz",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.56101,
+     40.42373
+    ]
+   },
+   "properties": {
+    "id": "EST-COSLADA",
+    "name": "Coslada",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60889,
+     40.4042
+    ]
+   },
+   "properties": {
+    "id": "EST-VICALVARO",
+    "name": "Vicálvaro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60909,
+     40.38713
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAEUGENIA",
+    "name": "Santa Eugenia",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.62479,
+     40.38206
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLECAS",
+    "name": "Vallecas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65609,
+     40.37617
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPOZO",
+    "name": "El Pozo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66802,
+     40.38163
+    ]
+   },
+   "properties": {
+    "id": "EST-ASAMBLEADEMADRIDENTREVIAS",
+    "name": "Asamblea de Madrid-Entrevías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHA",
+    "name": "Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.4225
+    ]
+   },
+   "properties": {
+    "id": "EST-RECOLETOS",
+    "name": "Recoletos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-CHAMARTIN",
+    "name": "Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69496,
+     40.48815
+    ]
+   },
+   "properties": {
+    "id": "EST-RAMONYCAJAL",
+    "name": "Ramón y Cajal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.72559,
+     40.4953
+    ]
+   },
+   "properties": {
+    "id": "EST-PITIS",
+    "name": "Pitis",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84597,
+     40.47434
+    ]
+   },
+   "properties": {
+    "id": "EST-MAJADAHONDA",
+    "name": "Majadahonda",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80785,
+     40.46533
+    ]
+   },
+   "properties": {
+    "id": "EST-ELBARRIAL",
+    "name": "El Barrial",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80006,
+     40.44741
+    ]
+   },
+   "properties": {
+    "id": "EST-POZUELO",
+    "name": "Pozuelo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78549,
+     40.44858
+    ]
+   },
+   "properties": {
+    "id": "EST-ARAVACA",
+    "name": "Aravaca",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71933,
+     40.42096
+    ]
+   },
+   "properties": {
+    "id": "EST-PRINCIPEPIO",
+    "name": "Príncipe Pío",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F17A24"
+   }
+  }
+ ]
+}

@@ -1,0 +1,530 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.67563,
+      43.53773
+     ],
+     [
+      -5.69475,
+      43.52856
+     ],
+     [
+      -5.72655,
+      43.5073
+     ],
+     [
+      -5.7196,
+      43.48653
+     ],
+     [
+      -5.72059,
+      43.53817
+     ],
+     [
+      -5.65917,
+      43.43028
+     ],
+     [
+      -5.7036,
+      43.39402
+     ],
+     [
+      -5.70247,
+      43.38248
+     ],
+     [
+      -5.69367,
+      43.37128
+     ],
+     [
+      -5.6806,
+      43.36346
+     ],
+     [
+      -5.65858,
+      43.35845
+     ],
+     [
+      -5.63438,
+      43.35077
+     ],
+     [
+      -5.63102,
+      43.33826
+     ],
+     [
+      -5.69277,
+      43.30481
+     ],
+     [
+      -5.67945,
+      43.29185
+     ],
+     [
+      -5.64784,
+      43.28681
+     ],
+     [
+      -5.65292,
+      43.2891
+     ],
+     [
+      -5.64519,
+      43.28714
+     ],
+     [
+      -5.78702,
+      42.78412
+     ],
+     [
+      -5.60484,
+      43.27602
+     ],
+     [
+      -5.59039,
+      43.27088
+     ],
+     [
+      -5.575,
+      43.25985
+     ],
+     [
+      -5.56233,
+      43.24887
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "247",
+    "name": "C-5 Gijón - Laviana",
+    "type": "Cercanías AM",
+    "operator": "Renfe",
+    "stroke": "#1B1464",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 25,
+    "coords_sta": 23
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67563,
+     43.53773
+    ]
+   },
+   "properties": {
+    "id": "EST-GIJON",
+    "name": "Gijón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.69475,
+     43.52856
+    ]
+   },
+   "properties": {
+    "id": "EST-TREMANESCARRENO",
+    "name": "Tremañes-Carreño",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.72655,
+     43.5073
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTIELLO",
+    "name": "Sotiello",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.7196,
+     43.48653
+    ]
+   },
+   "properties": {
+    "id": "EST-PINZALES",
+    "name": "Pinzales",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.72059,
+     43.53817
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTESECO",
+    "name": "Puente Seco",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.65917,
+     43.43028
+    ]
+   },
+   "properties": {
+    "id": "EST-FLORIDA-Asturias-Siero",
+    "name": "Florida",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.7036,
+     43.39402
+    ]
+   },
+   "properties": {
+    "id": "EST-NORENA",
+    "name": "Noreña",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.70247,
+     43.38248
+    ]
+   },
+   "properties": {
+    "id": "EST-ELBERRON",
+    "name": "El Berrón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.69367,
+     43.37128
+    ]
+   },
+   "properties": {
+    "id": "EST-XIXUN",
+    "name": "Xixún",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.6806,
+     43.36346
+    ]
+   },
+   "properties": {
+    "id": "EST-BENDICION",
+    "name": "Bendición",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.65858,
+     43.35845
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDESOTO",
+    "name": "Valdesoto",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.63438,
+     43.35077
+    ]
+   },
+   "properties": {
+    "id": "EST-CARBAYIN",
+    "name": "Carbayín",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.63102,
+     43.33826
+    ]
+   },
+   "properties": {
+    "id": "EST-CURUXONA",
+    "name": "Curuxona",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.69277,
+     43.30481
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFELGUERA",
+    "name": "La Felguera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67945,
+     43.29185
+    ]
+   },
+   "properties": {
+    "id": "EST-SAMA",
+    "name": "Sama",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.64784,
+     43.28681
+    ]
+   },
+   "properties": {
+    "id": "EST-CIANO",
+    "name": "Ciaño",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.65292,
+     43.2891
+    ]
+   },
+   "properties": {
+    "id": "EST-SANVICENTE",
+    "name": "San Vicente",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.64519,
+     43.28714
+    ]
+   },
+   "properties": {
+    "id": "EST-ELENTREGO",
+    "name": "El Entrego",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.78702,
+     42.78412
+    ]
+   },
+   "properties": {
+    "id": "EST-CARROCERA",
+    "name": "Carrocera",
+    "province": "Leon",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.60484,
+     43.27602
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTRONDIO",
+    "name": "Sotrondio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.59039,
+     43.27088
+    ]
+   },
+   "properties": {
+    "id": "EST-BLIMEA",
+    "name": "Blimea",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.575,
+     43.25985
+    ]
+   },
+   "properties": {
+    "id": "EST-BARREDOS",
+    "name": "Barredos",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.56233,
+     43.24887
+    ]
+   },
+   "properties": {
+    "id": "EST-LAVIANA",
+    "name": "Laviana",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.11169,
+      41.38424
+     ],
+     [
+      2.1184,
+      41.37587
+     ],
+     [
+      2.11663,
+      41.36841
+     ],
+     [
+      2.11707,
+      41.35478
+     ],
+     [
+      2.12798,
+      41.34181
+     ],
+     [
+      2.11123,
+      41.33357
+     ],
+     [
+      2.10307,
+      41.32898
+     ],
+     [
+      2.09013,
+      41.33167
+     ],
+     [
+      2.09357,
+      41.32184
+     ],
+     [
+      2.08735,
+      41.31671
+     ],
+     [
+      2.07342,
+      41.31132
+     ],
+     [
+      2.07312,
+      41.30383
+     ],
+     [
+      2.07104,
+      41.28826
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "182",
+    "name": "L9 Sud Zona Universitària - Aeroport T1",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#F47721",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 15,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11169,
+     41.38424
+    ]
+   },
+   "properties": {
+    "id": "EST-ZONAUNIVERSITARIA",
+    "name": "Zona Universitària",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1184,
+     41.37587
+    ]
+   },
+   "properties": {
+    "id": "EST-COLLBLANC",
+    "name": "Collblanc",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11663,
+     41.36841
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRASSA",
+    "name": "Torrassa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11707,
+     41.35478
+    ]
+   },
+   "properties": {
+    "id": "EST-CANTRIESGORNAL",
+    "name": "Can Tries | Gornal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.12798,
+     41.34181
+    ]
+   },
+   "properties": {
+    "id": "EST-PARCLOGISTIC",
+    "name": "Parc Logístic",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11123,
+     41.33357
+    ]
+   },
+   "properties": {
+    "id": "EST-MERCABARNA",
+    "name": "Mercabarna",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10307,
+     41.32898
+    ]
+   },
+   "properties": {
+    "id": "EST-LESMORERES",
+    "name": "Les Moreres",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09013,
+     41.33167
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPRATESTACIO",
+    "name": "El Prat Estació",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09357,
+     41.32184
+    ]
+   },
+   "properties": {
+    "id": "EST-CENTRIC",
+    "name": "Cèntric",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.08735,
+     41.31671
+    ]
+   },
+   "properties": {
+    "id": "EST-PARCNOU",
+    "name": "Parc Nou",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07342,
+     41.31132
+    ]
+   },
+   "properties": {
+    "id": "EST-MASBLAU",
+    "name": "Mas Blau",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07312,
+     41.30383
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPORTT2",
+    "name": "Aeroport T2",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07104,
+     41.28826
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPORTT1",
+    "name": "Aeroport T1",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  }
+ ]
+}

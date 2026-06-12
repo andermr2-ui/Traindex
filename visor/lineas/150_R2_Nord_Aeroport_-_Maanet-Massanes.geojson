@@ -1,0 +1,464 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.07347,
+      41.30427
+     ],
+     [
+      2.08926,
+      41.33089
+     ],
+     [
+      2.1072,
+      41.34465
+     ],
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      2.16828,
+      41.38944
+     ],
+     [
+      2.18692,
+      41.41014
+     ],
+     [
+      2.19114,
+      41.43663
+     ],
+     [
+      2.18825,
+      41.48405
+     ],
+     [
+      2.19986,
+      41.51043
+     ],
+     [
+      2.21754,
+      41.53347
+     ],
+     [
+      2.24538,
+      41.54972
+     ],
+     [
+      2.29161,
+      41.59965
+     ],
+     [
+      2.29497,
+      41.62985
+     ],
+     [
+      2.35618,
+      41.63642
+     ],
+     [
+      2.4046,
+      41.63791
+     ],
+     [
+      2.49097,
+      41.68565
+     ],
+     [
+      2.53893,
+      41.71796
+     ],
+     [
+      2.56869,
+      41.72649
+     ],
+     [
+      2.63167,
+      41.7479
+     ],
+     [
+      2.67338,
+      41.77217
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "150",
+    "name": "R2 Nord Aeroport - Maçanet-Massanes",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#00A54F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 21,
+    "coords_sta": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07347,
+     41.30427
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPORT",
+    "name": "Aeroport",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.08926,
+     41.33089
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPRATDELLOBREGAT",
+    "name": "El Prat de Llobregat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1072,
+     41.34465
+    ]
+   },
+   "properties": {
+    "id": "EST-BELLVITGE",
+    "name": "Bellvitge",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16828,
+     41.38944
+    ]
+   },
+   "properties": {
+    "id": "EST-PASSEIGDEGRACIA",
+    "name": "Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18692,
+     41.41014
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCLOTARAGO",
+    "name": "El Clot-Aragó",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19114,
+     41.43663
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDREU",
+    "name": "Sant Andreu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18825,
+     41.48405
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTCADAIREIXAC",
+    "name": "Montcada i Reixac",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19986,
+     41.51043
+    ]
+   },
+   "properties": {
+    "id": "EST-LALLAGOSTA",
+    "name": "La Llagosta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21754,
+     41.53347
+    ]
+   },
+   "properties": {
+    "id": "EST-MOLLETSANTFOST",
+    "name": "Mollet-Sant Fost",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.24538,
+     41.54972
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTMELO",
+    "name": "Montmeló",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.29161,
+     41.59965
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANOLLERSCENTRE",
+    "name": "Granollers Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.29497,
+     41.62985
+    ]
+   },
+   "properties": {
+    "id": "EST-LESFRANQUESESDELVALLES",
+    "name": "Les Franqueses del Vallès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.35618,
+     41.63642
+    ]
+   },
+   "properties": {
+    "id": "EST-CARDEDEU",
+    "name": "Cardedeu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.4046,
+     41.63791
+    ]
+   },
+   "properties": {
+    "id": "EST-LLINARSDELVALLES",
+    "name": "Llinars del Vallès",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.49097,
+     41.68565
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTCELONI",
+    "name": "Sant Celoni",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.53893,
+     41.71796
+    ]
+   },
+   "properties": {
+    "id": "EST-GUALBA",
+    "name": "Gualba",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.56869,
+     41.72649
+    ]
+   },
+   "properties": {
+    "id": "EST-RIELLSIVIABREABREDA",
+    "name": "Riells i Viabrea-Breda",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.63167,
+     41.7479
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSTALRIC",
+    "name": "Hostalric",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.67338,
+     41.77217
+    ]
+   },
+   "properties": {
+    "id": "EST-MACANETMASSANES",
+    "name": "Maçanet-Massanes",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  }
+ ]
+}

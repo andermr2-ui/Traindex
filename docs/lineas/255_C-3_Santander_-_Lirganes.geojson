@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.84724,
+      43.4444
+     ],
+     [
+      -3.84041,
+      43.42746
+     ],
+     [
+      -3.84096,
+      43.41612
+     ],
+     [
+      -3.8209,
+      43.40396
+     ],
+     [
+      -3.81489,
+      43.39727
+     ],
+     [
+      -3.80377,
+      43.39373
+     ],
+     [
+      -3.76655,
+      43.40105
+     ],
+     [
+      -3.73816,
+      43.39942
+     ],
+     [
+      -3.73145,
+      43.38723
+     ],
+     [
+      -3.70717,
+      43.35061
+     ],
+     [
+      -3.7418,
+      43.34499
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "255",
+    "name": "C-3 Santander - Liérganes",
+    "type": "Cercanías AM",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84724,
+     43.4444
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVAMONTANA",
+    "name": "Nueva Montaña",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84041,
+     43.42746
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLEREAL",
+    "name": "Valle Real",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84096,
+     43.41612
+    ]
+   },
+   "properties": {
+    "id": "EST-MALIANO",
+    "name": "Maliaño",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.8209,
+     43.40396
+    ]
+   },
+   "properties": {
+    "id": "EST-ASTILLERO",
+    "name": "Astillero",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81489,
+     43.39727
+    ]
+   },
+   "properties": {
+    "id": "EST-LACANTABRICA",
+    "name": "La Cantábrica",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80377,
+     43.39373
+    ]
+   },
+   "properties": {
+    "id": "EST-SANSALVADOR",
+    "name": "San Salvador",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76655,
+     43.40105
+    ]
+   },
+   "properties": {
+    "id": "EST-HERAS",
+    "name": "Heras",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73816,
+     43.39942
+    ]
+   },
+   "properties": {
+    "id": "EST-OREJO",
+    "name": "Orejo",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73145,
+     43.38723
+    ]
+   },
+   "properties": {
+    "id": "EST-SOLARES",
+    "name": "Solares",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70717,
+     43.35061
+    ]
+   },
+   "properties": {
+    "id": "EST-LACAVADA",
+    "name": "La Cavada",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7418,
+     43.34499
+    ]
+   },
+   "properties": {
+    "id": "EST-LIERGANES",
+    "name": "Liérganes",
+    "province": "Cantabria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

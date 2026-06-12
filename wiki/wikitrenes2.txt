@@ -1,0 +1,66 @@
+﻿https://es.wikipedia.org/wiki/Renfe_AVE#Servicios_comerciales
+Madrid-Chamartín-Clara Campoamor;Valladolid-Campo Grande;León; Oviedo;Gijón
+
+Valencia-Joaquín Sorolla;Madrid-Chamartín-Clara Campoamor;Valladolid-Campo Grande;Burgos-Rosa Manzano
+
+Murcia del Carmen;Orihuela-Miguel Hernández;Elche AV;Madrid-Chamartín-Clara Campoamor;Segovia-Guiomar;Valladolid-Campo Grande;Burgos-Rosa Manzano
+
+Castellón de la Plana;Sagunto;Valencia-Joaquín Sorolla;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Segovia-Guiomar;Valladolid-Campo Grande;Palencia;León;Oviedo;Gijón
+	
+Barcelona-Sants;Campo de Tarragona;Lérida Pirineos;Zaragoza-Delicias;Córdoba;Antequera AV;Granada
+
+Alicante-Terminal;Albacete-Los Llanos;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Valladolid-Campo Grande;Palencia;León
+
+Barcelona-Sants	Gerona;Figueras Vilafant;Perpiñán;Narbona;Montpellier-Saint-Roch;Nimes;Valence TGV;Rhône-Alpes Sud;Lyon-Part-Dieu
+
+Murcia del Carmen;Orihuela-Miguel Hernández;Elche AV;Alicante-Terminal;Villena AV;Albacete-Los Llanos;Cuenca-Fernando Zóbel;Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Antequera AV;Málaga-María Zambrano
+
+Cuenca-Fernando Zóbel;Albacete-Los Llanos;Villena AV;Alicante-Terminal;Elche AV;Orihuela-Miguel Hernández;Murcia del Carmen
+
+Madrid-Puerta de Atocha-Almudena Grandes;Guadalajara-Yebes;Zaragoza-Delicias;Campo de Tarragona;Barcelona-Sants;Gerona;Figueras Vilafant;Perpiñán;Narbona;Montpellier-Saint-Roch;Nimes;Aviñón TGV;Aix-en-Provence TGV;Marsella-Saint-Charles
+
+Marsella-Saint-Charles;Aix-en-Provence TGV;Aviñón TGV;Nimes;Montpellier-Saint-Roch;Narbona;Perpiñán;Figueras Vilafant;Gerona;Barcelona-Sants;Campo de Tarragona;Zaragoza-Delicias;Madrid-Puerta de Atocha-Almudena Grandes
+
+Madrid-Puerta de Atocha-Almudena Grandes;Cuenca-Fernando Zóbel;Albacete-Los Llanos;Villena AV;Alicante-Terminal;Elche AV;Orihuela-Miguel Hernández;Murcia del Carmen
+
+	
+Madrid-Chamartín-Clara Campoamor:Elche AV:Orihuela-Miguel Hernández:Murcia del 
+	
+Valencia-Joaquín Sorolla;Cuenca-Fernando Zóbel;Ciudad Real;Puertollano;Córdoba;Sevilla-Santa Justa
+
+Huesca	Tardienta;Zaragoza-Delicias;Calatayud;Guadalajara-Yebes;Madrid-Puerta de Atocha-Almudena Grandes;Córdoba;Sevilla-Santa Justa
+
+Alicante-Terminal;Albacete-Los Llanos;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Zamora;Orense
+	
+Madrid-Puerta de Atocha-Almudena Grandes;Cuenca-Fernando Zóbel;Requena-Utiel;Valencia-Joaquín Sorolla;Castellón de la Plana
+
+Valencia-Joaquín Sorolla;Requena-Utiel;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Segovia-Guiomar;Valladolid-Campo Grande;Palencia;León
+
+Barcelona-Sants;Campo de Tarragona;Lérida Pirineos;Zaragoza-Delicias;Ciudad Real;Puertollano;Córdoba;Sevilla-Santa Justa
+
+Madrid-Chamartín-Clara Campoamor;Zamora;Orense;Santiago de Compostela;La Coruña
+
+Madrid-Puerta de Atocha-Almudena Grandes;Córdoba;Puente Genil-Herrera;Antequera-Santa Ana;Antequera AV;Loja;Granada
+
+Barcelona-Sants;Campo de Tarragona;Lérida Pirineos;Zaragoza-Delicias;Calatayud;Guadalajara-Yebes;Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Puente Genil-Herrera;Antequera-Santa Ana;Málaga-María Zambrano
+
+Madrid-Chamartín-Clara Campoamor;Zamora;Orense;Santiago de Compostela;Villagarcía de Arosa;Pontevedra;Vigo-Urzaiz
+
+Madrid-Chamartín-Clara Campoamor;Cuenca-Fernando Zóbel;Albacete-Los Llanos;Villena AV;Alicante-Terminal
+
+Madrid-Puerta de Atocha-Almudena Grandes;Calatayud;Zaragoza-Delicias;Lérida Pirineos;Campo de Tarragona;Barcelona-Sants,Gerona,Figueras Vilafant
+
+Madrid-Chamartín-Clara Campoamor;Cuenca-Fernando Zóbel;Requena-Utiel;Valencia-
+
+Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba,Puente Genil-Herrera;Antequera-Santa Ana;Málaga-María Zambrano
+
+Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Sevilla-Santa Justa
+
+Madrid-Puerta de Atocha-Almudena Grandes;Guadalajara-Yebes;Calatayud,Zaragoza-Delicias;Lérida Pirineos;Campo de Tarragona,Barcelona-Sants
+
+
+https://es.wikipedia.org/wiki/Renfe_Avlo#Servicios_comerciales
+https://es.wikipedia.org/wiki/Renfe_Alvia#Servicios_comerciales
+https://es.wikipedia.org/wiki/Renfe_Media_Distancia#L%C3%ADneas
+https://es.wikipedia.org/wiki/Renfe_Avant#Servicios_comerciales
+https://es.wikipedia.org/wiki/Renfe_Proximidad#L%C3%ADneas

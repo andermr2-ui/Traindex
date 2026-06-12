@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.14952,
+      41.37557
+     ],
+     [
+      2.13017,
+      41.36116
+     ],
+     [
+      2.10248,
+      41.35891
+     ],
+     [
+      2.04295,
+      41.34849
+     ],
+     [
+      1.9267,
+      41.47909
+     ],
+     [
+      1.9186,
+      41.48403
+     ],
+     [
+      1.87254,
+      41.49773
+     ],
+     [
+      1.8125,
+      41.50296
+     ],
+     [
+      1.75441,
+      41.52588
+     ],
+     [
+      1.69535,
+      41.52156
+     ],
+     [
+      1.64138,
+      41.57369
+     ],
+     [
+      1.6298,
+      41.57807
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "157",
+    "name": "R60 Plaça d'Espanya - Igualada (Semidirecto)",
+    "type": "Cercanías",
+    "operator": "FGC",
+    "stroke": "#582D81",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14952,
+     41.37557
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPANYA",
+    "name": "Espanya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13017,
+     41.36116
+    ]
+   },
+   "properties": {
+    "id": "EST-ILDEFONSCERDA",
+    "name": "Ildefons Cerdà",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10248,
+     41.35891
+    ]
+   },
+   "properties": {
+    "id": "EST-LHOSPITALETAVCARRILET",
+    "name": "L'Hospitalet Av. Carrilet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.04295,
+     41.34849
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTBOI",
+    "name": "Sant Boi",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9267,
+     41.47909
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTORELLCENTRAL",
+    "name": "Martorell Central",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9186,
+     41.48403
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTORELLENLLAC",
+    "name": "Martorell Enllaç",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.87254,
+     41.49773
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTESTEVESESROVIRES",
+    "name": "Sant Esteve Sesrovires",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.8125,
+     41.50296
+    ]
+   },
+   "properties": {
+    "id": "EST-MASQUEFA",
+    "name": "Masquefa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.75441,
+     41.52588
+    ]
+   },
+   "properties": {
+    "id": "EST-PIERA",
+    "name": "Piera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.69535,
+     41.52156
+    ]
+   },
+   "properties": {
+    "id": "EST-CAPELLADES",
+    "name": "Capellades",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.64138,
+     41.57369
+    ]
+   },
+   "properties": {
+    "id": "EST-VILANOVADELCAMI",
+    "name": "Vilanova del Camí",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.6298,
+     41.57807
+    ]
+   },
+   "properties": {
+    "id": "EST-IGUALADA",
+    "name": "Igualada",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#582D81"
+   }
+  }
+ ]
+}

@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49062,
+      38.34603
+     ],
+     [
+      -0.48483,
+      38.34816
+     ],
+     [
+      -0.47567,
+      38.35209
+     ],
+     [
+      -0.473,
+      38.34906
+     ],
+     [
+      -0.43801,
+      38.36545
+     ],
+     [
+      -0.42865,
+      38.37482
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "217",
+    "name": "L4 Luceros - Plaza de La Coruña",
+    "type": "Tranvía",
+    "operator": "TRAM d'Alacant",
+    "stroke": "#009FE3",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49062,
+     38.34603
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCEROS",
+    "name": "Luceros",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48483,
+     38.34816
+    ]
+   },
+   "properties": {
+    "id": "EST-MERCADO",
+    "name": "Mercado",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47567,
+     38.35209
+    ]
+   },
+   "properties": {
+    "id": "EST-MARQCASTILLO",
+    "name": "Marq-Castillo",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.473,
+     38.34906
+    ]
+   },
+   "properties": {
+    "id": "EST-SANGUETA",
+    "name": "Sangueta",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43801,
+     38.36545
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCENTUM",
+    "name": "Lucentum",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.42865,
+     38.37482
+    ]
+   },
+   "properties": {
+    "id": "EST-CONDOMINA",
+    "name": "Condomina",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.17168,
+      42.30862
+     ],
+     [
+      2.17097,
+      42.33449
+     ],
+     [
+      2.16559,
+      42.35138
+     ],
+     [
+      2.15487,
+      42.39727
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "198",
+    "name": "Cremallera de Núria",
+    "type": "Cremallera",
+    "operator": "FGC",
+    "stroke": "#0055A5",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17168,
+     42.30862
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBESVILA",
+    "name": "Ribes-Vila",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0055A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17097,
+     42.33449
+    ]
+   },
+   "properties": {
+    "id": "EST-RIALB",
+    "name": "Rialb",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0055A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16559,
+     42.35138
+    ]
+   },
+   "properties": {
+    "id": "EST-QUERALBS",
+    "name": "Queralbs",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0055A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15487,
+     42.39727
+    ]
+   },
+   "properties": {
+    "id": "EST-NURIA",
+    "name": "Núria",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0055A5"
+   }
+  }
+ ]
+}

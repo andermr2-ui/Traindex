@@ -1,0 +1,486 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.88226,
+      40.33095
+     ],
+     [
+      -3.87442,
+      40.31631
+     ],
+     [
+      -3.83199,
+      40.34994
+     ],
+     [
+      -3.81568,
+      40.35655
+     ],
+     [
+      -3.79197,
+      40.3779
+     ],
+     [
+      -3.78038,
+      40.38146
+     ],
+     [
+      -3.76863,
+      40.38355
+     ],
+     [
+      -3.76144,
+      40.38571
+     ],
+     [
+      -3.74472,
+      40.39923
+     ],
+     [
+      -3.70289,
+      40.40522
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.68011,
+      40.39572
+     ],
+     [
+      -3.68398,
+      40.35259
+     ],
+     [
+      -3.71177,
+      40.34103
+     ],
+     [
+      -3.70502,
+      40.35034
+     ],
+     [
+      -3.70474,
+      40.36551
+     ],
+     [
+      -3.69874,
+      40.37902
+     ],
+     [
+      -3.77236,
+      40.32809
+     ],
+     [
+      -3.76936,
+      40.24105
+     ],
+     [
+      -3.79828,
+      40.28229
+     ],
+     [
+      -3.82844,
+      40.25563
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "125",
+    "name": "C-5 Móstoles El Soto - Atocha - Humanes",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#1B1464",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 21,
+    "coords_sta": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.88226,
+     40.33095
+    ]
+   },
+   "properties": {
+    "id": "EST-MOSTOLESELSOTO",
+    "name": "Móstoles-El Soto",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.87442,
+     40.31631
+    ]
+   },
+   "properties": {
+    "id": "EST-MOSTOLES",
+    "name": "Móstoles",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83199,
+     40.34994
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCORCON",
+    "name": "Alcorcón",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81568,
+     40.35655
+    ]
+   },
+   "properties": {
+    "id": "EST-SANJOSEDEVALDERAS",
+    "name": "San José de Valderas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79197,
+     40.3779
+    ]
+   },
+   "properties": {
+    "id": "EST-CUATROVIENTOS",
+    "name": "Cuatro Vientos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78038,
+     40.38146
+    ]
+   },
+   "properties": {
+    "id": "EST-LASAGUILAS",
+    "name": "Las Águilas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76863,
+     40.38355
+    ]
+   },
+   "properties": {
+    "id": "EST-MAESTRAJUSTAFREIREPOLIDEPORTIVOALUCHE",
+    "name": "Maestra Justa Freire-Polideportivo Aluche",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76144,
+     40.38571
+    ]
+   },
+   "properties": {
+    "id": "EST-ALUCHE",
+    "name": "Aluche",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.74472,
+     40.39923
+    ]
+   },
+   "properties": {
+    "id": "EST-LAGUNA",
+    "name": "Laguna",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70289,
+     40.40522
+    ]
+   },
+   "properties": {
+    "id": "EST-EMBAJADORES",
+    "name": "Embajadores",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHA",
+    "name": "Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68011,
+     40.39572
+    ]
+   },
+   "properties": {
+    "id": "EST-MENDEZALVARO",
+    "name": "Méndez Álvaro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68398,
+     40.35259
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVERDEBAJO",
+    "name": "Villaverde Bajo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71177,
+     40.34103
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVERDEALTO",
+    "name": "Villaverde Alto",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70502,
+     40.35034
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTEALCOCER",
+    "name": "Puente Alcocer",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70474,
+     40.36551
+    ]
+   },
+   "properties": {
+    "id": "EST-ORCASITAS",
+    "name": "Orcasitas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69874,
+     40.37902
+    ]
+   },
+   "properties": {
+    "id": "EST-DOCEDEOCTUBRE",
+    "name": "Doce de Octubre",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.77236,
+     40.32809
+    ]
+   },
+   "properties": {
+    "id": "EST-LEGANES",
+    "name": "Leganés",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76936,
+     40.24105
+    ]
+   },
+   "properties": {
+    "id": "EST-PARLA",
+    "name": "Parla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79828,
+     40.28229
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENLABRADA",
+    "name": "Fuenlabrada",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.82844,
+     40.25563
+    ]
+   },
+   "properties": {
+    "id": "EST-HUMANES",
+    "name": "Humanes",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.70916,
+      40.49962
+     ],
+     [
+      -3.70801,
+      40.4846
+     ],
+     [
+      -3.67653,
+      40.4618
+     ],
+     [
+      -3.67696,
+      40.45712
+     ],
+     [
+      -3.66705,
+      40.48005
+     ],
+     [
+      -3.67761,
+      40.45133
+     ],
+     [
+      -3.67846,
+      40.44448
+     ],
+     [
+      -3.6773,
+      40.43765
+     ],
+     [
+      -3.66906,
+      40.4222
+     ],
+     [
+      -3.67012,
+      40.40781
+     ],
+     [
+      -3.66967,
+      40.4144
+     ],
+     [
+      -3.67488,
+      40.4014
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.70339,
+      40.41694
+     ],
+     [
+      -3.70596,
+      40.40407
+     ],
+     [
+      -3.7164,
+      40.39745
+     ],
+     [
+      -3.72536,
+      40.39253
+     ],
+     [
+      -3.76549,
+      40.39073
+     ],
+     [
+      -3.75106,
+      40.38442
+     ],
+     [
+      -3.59573,
+      40.40124
+     ],
+     [
+      -3.44752,
+      40.30368
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "139",
+    "name": "Línea 9 Paco de Lucía - Arganda del Rey",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#990066",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 21,
+    "coords_sta": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70916,
+     40.49962
+    ]
+   },
+   "properties": {
+    "id": "EST-PACODELUCIA",
+    "name": "Paco de Lucía",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70801,
+     40.4846
+    ]
+   },
+   "properties": {
+    "id": "EST-HERRERAORIA",
+    "name": "Herrera Oria",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67653,
+     40.4618
+    ]
+   },
+   "properties": {
+    "id": "EST-PIOXII",
+    "name": "Pío XII",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67696,
+     40.45712
+    ]
+   },
+   "properties": {
+    "id": "EST-COLOMBIA",
+    "name": "Colombia",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66705,
+     40.48005
+    ]
+   },
+   "properties": {
+    "id": "EST-PINARDECHAMARTIN",
+    "name": "Pinar de Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67761,
+     40.45133
+    ]
+   },
+   "properties": {
+    "id": "EST-CONCHAESPINA",
+    "name": "Concha Espina",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67846,
+     40.44448
+    ]
+   },
+   "properties": {
+    "id": "EST-CRUZDELRAYO",
+    "name": "Cruz del Rayo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6773,
+     40.43765
+    ]
+   },
+   "properties": {
+    "id": "EST-AVENIDADEAMERICA",
+    "name": "Avenida de América",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66906,
+     40.4222
+    ]
+   },
+   "properties": {
+    "id": "EST-ODONNELL",
+    "name": "O'Donnell",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67012,
+     40.40781
+    ]
+   },
+   "properties": {
+    "id": "EST-CONDEDECASAL",
+    "name": "Conde de Casal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66967,
+     40.4144
+    ]
+   },
+   "properties": {
+    "id": "EST-SAINZDEBARANDA",
+    "name": "Sainz de Baranda",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67488,
+     40.4014
+    ]
+   },
+   "properties": {
+    "id": "EST-PACIFICO",
+    "name": "Pacífico",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHARENFE",
+    "name": "Atocha Renfe",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70339,
+     40.41694
+    ]
+   },
+   "properties": {
+    "id": "EST-SOL",
+    "name": "Sol",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70596,
+     40.40407
+    ]
+   },
+   "properties": {
+    "id": "EST-ACACIAS",
+    "name": "Acacias",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7164,
+     40.39745
+    ]
+   },
+   "properties": {
+    "id": "EST-MARQUESDEVADILLO",
+    "name": "Marqués de Vadillo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.72536,
+     40.39253
+    ]
+   },
+   "properties": {
+    "id": "EST-URGEL",
+    "name": "Urgel",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76549,
+     40.39073
+    ]
+   },
+   "properties": {
+    "id": "EST-EMPALME-Madrid-Madrid",
+    "name": "Empalme",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.75106,
+     40.38442
+    ]
+   },
+   "properties": {
+    "id": "EST-EUGENIADEMONTIJO",
+    "name": "Eugenia de Montijo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.59573,
+     40.40124
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTADEARGANDA",
+    "name": "Puerta de Arganda",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.44752,
+     40.30368
+    ]
+   },
+   "properties": {
+    "id": "EST-ARGANDADELREY",
+    "name": "Arganda del Rey",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  }
+ ]
+}

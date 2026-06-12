@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.41215,
+      43.35037
+     ],
+     [
+      -8.5452,
+      42.87044
+     ],
+     [
+      -7.87255,
+      42.35069
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "44",
+    "name": "Avant A Coruña - Ourense",
+    "type": "Media Distancia AV",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 3,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41215,
+     43.35037
+    ]
+   },
+   "properties": {
+    "id": "EST-ACORUNA",
+    "name": "A Coruña",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.5452,
+     42.87044
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIAGODECOMPOSTELA",
+    "name": "Santiago de Compostela",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

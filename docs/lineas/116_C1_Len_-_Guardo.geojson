@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.52214,
+      42.4055
+     ],
+     [
+      -5.52217,
+      42.84114
+     ],
+     [
+      -5.41207,
+      42.85511
+     ],
+     [
+      -5.32871,
+      42.86278
+     ],
+     [
+      -5.13091,
+      42.80318
+     ],
+     [
+      -4.85188,
+      42.79097
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "116",
+    "name": "C1 León - Guardo",
+    "type": "Regional",
+    "operator": "Renfe Cercanías AM",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.52214,
+     42.4055
+    ]
+   },
+   "properties": {
+    "id": "EST-LEON",
+    "name": "León",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.52217,
+     42.84114
+    ]
+   },
+   "properties": {
+    "id": "EST-MATALLANA",
+    "name": "Matallana",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.41207,
+     42.85511
+    ]
+   },
+   "properties": {
+    "id": "EST-LAVECILLA",
+    "name": "La Vecilla",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.32871,
+     42.86278
+    ]
+   },
+   "properties": {
+    "id": "EST-BONAR",
+    "name": "Boñar",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.13091,
+     42.80318
+    ]
+   },
+   "properties": {
+    "id": "EST-CISTIERNA",
+    "name": "Cistierna",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.85188,
+     42.79097
+    ]
+   },
+   "properties": {
+    "id": "EST-GUARDOAPEADERO",
+    "name": "Guardo-Apeadero",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

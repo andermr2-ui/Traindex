@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.41215,
+      43.35037
+     ],
+     [
+      -8.41298,
+      43.33528
+     ],
+     [
+      -8.35217,
+      43.29044
+     ],
+     [
+      -8.30777,
+      43.28785
+     ],
+     [
+      -8.22583,
+      43.27072
+     ],
+     [
+      -8.21593,
+      43.28418
+     ],
+     [
+      -8.2011,
+      43.37819
+     ],
+     [
+      -8.17629,
+      43.41133
+     ],
+     [
+      -8.17486,
+      43.47234
+     ],
+     [
+      -8.23101,
+      43.48805
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "400",
+    "name": "MD 5 La Coruña - Ferrol",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41215,
+     43.35037
+    ]
+   },
+   "properties": {
+    "id": "EST-ACORUNA",
+    "name": "A Coruña",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41298,
+     43.33528
+    ]
+   },
+   "properties": {
+    "id": "EST-ELVINAUNIVERSIDADE",
+    "name": "Elviña-Universidade",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.35217,
+     43.29044
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMBRE",
+    "name": "Cambre",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.30777,
+     43.28785
+    ]
+   },
+   "properties": {
+    "id": "EST-CECEBRE",
+    "name": "Cecebre",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.22583,
+     43.27072
+    ]
+   },
+   "properties": {
+    "id": "EST-BETANZOSINFESTA",
+    "name": "Betanzos-Infesta",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.21593,
+     43.28418
+    ]
+   },
+   "properties": {
+    "id": "EST-BETANZOSCIDADE",
+    "name": "Betanzos-Cidade",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.2011,
+     43.37819
+    ]
+   },
+   "properties": {
+    "id": "EST-PERBES",
+    "name": "Perbes",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.17629,
+     43.41133
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTEDEUME",
+    "name": "Puentedeume",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.17486,
+     43.47234
+    ]
+   },
+   "properties": {
+    "id": "EST-PERLIO",
+    "name": "Perlío",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.23101,
+     43.48805
+    ]
+   },
+   "properties": {
+    "id": "EST-FERROL",
+    "name": "Ferrol",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

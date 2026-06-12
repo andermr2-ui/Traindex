@@ -1,0 +1,706 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.61155,
+      40.55984
+     ],
+     [
+      -3.62406,
+      40.55091
+     ],
+     [
+      -3.63504,
+      40.55438
+     ],
+     [
+      -3.64697,
+      40.55022
+     ],
+     [
+      -3.63805,
+      40.54046
+     ],
+     [
+      -3.63549,
+      40.53203
+     ],
+     [
+      -3.65852,
+      40.52743
+     ],
+     [
+      -3.66232,
+      40.51516
+     ],
+     [
+      -3.66943,
+      40.50834
+     ],
+     [
+      -3.69599,
+      40.50534
+     ],
+     [
+      -3.69469,
+      40.50097
+     ],
+     [
+      -3.68216,
+      40.50154
+     ],
+     [
+      -3.6869,
+      40.48345
+     ],
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.68966,
+      40.46628
+     ],
+     [
+      -3.69002,
+      40.45948
+     ],
+     [
+      -3.69073,
+      40.45237
+     ],
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.69121,
+      40.43799
+     ],
+     [
+      -3.69598,
+      40.42741
+     ],
+     [
+      -3.70109,
+      40.42624
+     ],
+     [
+      -3.71088,
+      40.42345
+     ],
+     [
+      -3.71933,
+      40.42096
+     ],
+     [
+      -3.73488,
+      40.41651
+     ],
+     [
+      -3.75312,
+      40.40784
+     ],
+     [
+      -3.76093,
+      40.40349
+     ],
+     [
+      -3.7748,
+      40.39686
+     ],
+     [
+      -3.78402,
+      40.38371
+     ],
+     [
+      -3.79197,
+      40.3779
+     ],
+     [
+      -3.80732,
+      40.34977
+     ],
+     [
+      -3.81202,
+      40.34521
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "140",
+    "name": "Línea 10 Hospital Infanta Sofía - Puerta del Sur",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#006F42",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 31,
+    "coords_sta": 31
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61155,
+     40.55984
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALINFANTASOFIA",
+    "name": "Hospital Infanta Sofía",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.62406,
+     40.55091
+    ]
+   },
+   "properties": {
+    "id": "EST-REYESCATOLICOS-Madrid-SanSebastindelosReyes",
+    "name": "Reyes Católicos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63504,
+     40.55438
+    ]
+   },
+   "properties": {
+    "id": "EST-BAUNATAL",
+    "name": "Baunatal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64697,
+     40.55022
+    ]
+   },
+   "properties": {
+    "id": "EST-MANUELDEFALLA",
+    "name": "Manuel de Falla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63805,
+     40.54046
+    ]
+   },
+   "properties": {
+    "id": "EST-MARQUESDELAVALDAVIA",
+    "name": "Marqués de la Valdavia",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63549,
+     40.53203
+    ]
+   },
+   "properties": {
+    "id": "EST-LAMORALEJA",
+    "name": "La Moraleja",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65852,
+     40.52743
+    ]
+   },
+   "properties": {
+    "id": "EST-LAGRANJA",
+    "name": "La Granja",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66232,
+     40.51516
+    ]
+   },
+   "properties": {
+    "id": "EST-RONDADELACOMUNICACION",
+    "name": "Ronda de la Comunicación",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66943,
+     40.50834
+    ]
+   },
+   "properties": {
+    "id": "EST-LASTABLAS",
+    "name": "Las Tablas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69599,
+     40.50534
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTECARMELO",
+    "name": "Montecarmelo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69469,
+     40.50097
+    ]
+   },
+   "properties": {
+    "id": "EST-TRESOLIVOS",
+    "name": "Tres Olivos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68216,
+     40.50154
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENCARRAL",
+    "name": "Fuencarral",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6869,
+     40.48345
+    ]
+   },
+   "properties": {
+    "id": "EST-BEGONA",
+    "name": "Begoña",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-CHAMARTIN",
+    "name": "Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68966,
+     40.46628
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADECASTILLA",
+    "name": "Plaza de Castilla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69002,
+     40.45948
+    ]
+   },
+   "properties": {
+    "id": "EST-CUZCO",
+    "name": "Cuzco",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69073,
+     40.45237
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIAGOBERNABEU",
+    "name": "Santiago Bernabéu",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69121,
+     40.43799
+    ]
+   },
+   "properties": {
+    "id": "EST-GREGORIOMARANON",
+    "name": "Gregorio Marañón",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69598,
+     40.42741
+    ]
+   },
+   "properties": {
+    "id": "EST-ALONSOMARTINEZ",
+    "name": "Alonso Martínez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70109,
+     40.42624
+    ]
+   },
+   "properties": {
+    "id": "EST-TRIBUNAL",
+    "name": "Tribunal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71088,
+     40.42345
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADEESPANA-Madrid-Madrid",
+    "name": "Plaza de España",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71933,
+     40.42096
+    ]
+   },
+   "properties": {
+    "id": "EST-PRINCIPEPIO",
+    "name": "Príncipe Pío",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73488,
+     40.41651
+    ]
+   },
+   "properties": {
+    "id": "EST-LAGO",
+    "name": "Lago",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.75312,
+     40.40784
+    ]
+   },
+   "properties": {
+    "id": "EST-BATAN",
+    "name": "Batán",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76093,
+     40.40349
+    ]
+   },
+   "properties": {
+    "id": "EST-CASADECAMPO",
+    "name": "Casa de Campo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7748,
+     40.39686
+    ]
+   },
+   "properties": {
+    "id": "EST-COLONIAJARDIN",
+    "name": "Colonia Jardín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78402,
+     40.38371
+    ]
+   },
+   "properties": {
+    "id": "EST-AVIACIONESPANOLA",
+    "name": "Aviación Española",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79197,
+     40.3779
+    ]
+   },
+   "properties": {
+    "id": "EST-CUATROVIENTOS",
+    "name": "Cuatro Vientos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80732,
+     40.34977
+    ]
+   },
+   "properties": {
+    "id": "EST-JOAQUINVILUMBRALES",
+    "name": "Joaquín Vilumbrales",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81202,
+     40.34521
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTADELSUR",
+    "name": "Puerta del Sur",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  }
+ ]
+}

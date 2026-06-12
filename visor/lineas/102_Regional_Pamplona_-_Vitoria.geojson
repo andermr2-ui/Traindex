@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.97483,
+      42.92039
+     ],
+     [
+      -2.18131,
+      42.89541
+     ],
+     [
+      -2.30674,
+      42.86923
+     ],
+     [
+      -2.38889,
+      42.84631
+     ],
+     [
+      -2.51463,
+      42.84904
+     ],
+     [
+      -2.6727,
+      42.8413
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "102",
+    "name": "Regional Pamplona - Vitoria",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.97483,
+     42.92039
+    ]
+   },
+   "properties": {
+    "id": "EST-HUARTEARAKIL",
+    "name": "Huarte-Arakil",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.18131,
+     42.89541
+    ]
+   },
+   "properties": {
+    "id": "EST-ALSASUA",
+    "name": "Alsasua",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.30674,
+     42.86923
+    ]
+   },
+   "properties": {
+    "id": "EST-ARAIA",
+    "name": "Araia",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.38889,
+     42.84631
+    ]
+   },
+   "properties": {
+    "id": "EST-AGURAINSALVATIERRA",
+    "name": "Agurain-Salvatierra",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.51463,
+     42.84904
+    ]
+   },
+   "properties": {
+    "id": "EST-ALEGRIADULANTZI",
+    "name": "Alegría-Dulantzi",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6727,
+     42.8413
+    ]
+   },
+   "properties": {
+    "id": "EST-VITORIAGASTEIZ",
+    "name": "Vitoria-Gasteiz",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -0.75309,
+      38.87813
+     ],
+     [
+      -0.86795,
+      38.63227
+     ],
+     [
+      -1.10557,
+      38.86765
+     ],
+     [
+      -1.85687,
+      38.99485
+     ],
+     [
+      -2.77539,
+      39.27854
+     ],
+     [
+      -3.20537,
+      39.39566
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "80",
+    "name": "MD 46 Valencia - Alcázar de San Juan",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.75309,
+     38.87813
+    ]
+   },
+   "properties": {
+    "id": "EST-MOIXENT",
+    "name": "Moixent",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86795,
+     38.63227
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLENA",
+    "name": "Villena",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.10557,
+     38.86765
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMANSA",
+    "name": "Almansa",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85687,
+     38.99485
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBACETELOSLLANOS",
+    "name": "Albacete-Los Llanos",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.77539,
+     39.27854
+    ]
+   },
+   "properties": {
+    "id": "EST-SOCUELLAMOS",
+    "name": "Socuéllamos",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.85738,
+      43.3588
+     ],
+     [
+      -5.87287,
+      43.32913
+     ],
+     [
+      -5.8693,
+      43.31323
+     ],
+     [
+      -5.85579,
+      43.3064
+     ],
+     [
+      -8.16108,
+      43.4953
+     ],
+     [
+      -5.77534,
+      43.33169
+     ],
+     [
+      -5.721,
+      43.32126
+     ],
+     [
+      -6.00656,
+      43.3071
+     ],
+     [
+      -5.69277,
+      43.30481
+     ],
+     [
+      -5.67945,
+      43.29185
+     ],
+     [
+      -5.64784,
+      43.28681
+     ],
+     [
+      -5.64519,
+      43.28714
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "244",
+    "name": "C-2 Oviedo - El Entrego",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85738,
+     43.3588
+    ]
+   },
+   "properties": {
+    "id": "EST-LLAMAQUIQUE",
+    "name": "Llamaquique",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.87287,
+     43.32913
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCALEYO",
+    "name": "El Caleyo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.8693,
+     43.31323
+    ]
+   },
+   "properties": {
+    "id": "EST-LASSEGADAS",
+    "name": "Las Segadas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85579,
+     43.3064
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTODEREY",
+    "name": "Soto de Rey",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.16108,
+     43.4953
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAEULALIADEMANZANEDA",
+    "name": "Santa Eulalia de Manzaneda",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.77534,
+     43.33169
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELAVEGUIN",
+    "name": "Tudela Veguín",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.721,
+     43.32126
+    ]
+   },
+   "properties": {
+    "id": "EST-PENARUBIA",
+    "name": "Peña Rubia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.00656,
+     43.3071
+    ]
+   },
+   "properties": {
+    "id": "EST-BARROS",
+    "name": "Barros",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.69277,
+     43.30481
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFELGUERA",
+    "name": "La Felguera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67945,
+     43.29185
+    ]
+   },
+   "properties": {
+    "id": "EST-SAMA",
+    "name": "Sama",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.64784,
+     43.28681
+    ]
+   },
+   "properties": {
+    "id": "EST-CIANO",
+    "name": "Ciaño",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.64519,
+     43.28714
+    ]
+   },
+   "properties": {
+    "id": "EST-ELENTREGO",
+    "name": "El Entrego",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

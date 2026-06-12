@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -1.02049,
+      41.72273
+     ],
+     [
+      -1.11261,
+      41.77163
+     ],
+     [
+      -1.32133,
+      41.86709
+     ],
+     [
+      -1.42087,
+      41.91536
+     ],
+     [
+      -1.51548,
+      41.99707
+     ],
+     [
+      -1.59767,
+      42.0595
+     ],
+     [
+      -1.69244,
+      42.17287
+     ],
+     [
+      -1.67121,
+      42.52575
+     ],
+     [
+      -2.18131,
+      42.89541
+     ],
+     [
+      -2.30674,
+      42.86923
+     ],
+     [
+      -2.38889,
+      42.84631
+     ],
+     [
+      -2.51463,
+      42.84904
+     ],
+     [
+      -2.6727,
+      42.8413
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "99",
+    "name": "MD 26 Zaragoza - Vitoria",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.02049,
+     41.72273
+    ]
+   },
+   "properties": {
+    "id": "EST-CASETAS",
+    "name": "Casetas",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.11261,
+     41.77163
+    ]
+   },
+   "properties": {
+    "id": "EST-ALAGON",
+    "name": "Alagón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32133,
+     41.86709
+    ]
+   },
+   "properties": {
+    "id": "EST-GALLUR",
+    "name": "Gallur",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42087,
+     41.91536
+    ]
+   },
+   "properties": {
+    "id": "EST-CORTESDENAVARRA",
+    "name": "Cortes de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.51548,
+     41.99707
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBAFORADA",
+    "name": "Ribaforada",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59767,
+     42.0595
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELADENAVARRA",
+    "name": "Tudela de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67121,
+     42.52575
+    ]
+   },
+   "properties": {
+    "id": "EST-TAFALLA",
+    "name": "Tafalla",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.18131,
+     42.89541
+    ]
+   },
+   "properties": {
+    "id": "EST-ALSASUA",
+    "name": "Alsasua",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.30674,
+     42.86923
+    ]
+   },
+   "properties": {
+    "id": "EST-ARAIA",
+    "name": "Araia",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.38889,
+     42.84631
+    ]
+   },
+   "properties": {
+    "id": "EST-AGURAINSALVATIERRA",
+    "name": "Agurain-Salvatierra",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.51463,
+     42.84904
+    ]
+   },
+   "properties": {
+    "id": "EST-ALEGRIADULANTZI",
+    "name": "Alegría-Dulantzi",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6727,
+     42.8413
+    ]
+   },
+   "properties": {
+    "id": "EST-VITORIAGASTEIZ",
+    "name": "Vitoria-Gasteiz",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

@@ -1,0 +1,552 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.71617,
+      40.43073
+     ],
+     [
+      -3.70159,
+      40.44159
+     ],
+     [
+      -3.69926,
+      40.43845
+     ],
+     [
+      -3.69121,
+      40.43799
+     ],
+     [
+      -4.24807,
+      40.52125
+     ],
+     [
+      -3.6754,
+      40.4294
+     ],
+     [
+      -3.6762,
+      40.4247
+     ],
+     [
+      -3.66967,
+      40.4144
+     ],
+     [
+      -3.67472,
+      40.43447
+     ],
+     [
+      -3.6773,
+      40.43765
+     ],
+     [
+      -3.65618,
+      40.45594
+     ],
+     [
+      -3.64556,
+      40.45924
+     ],
+     [
+      -3.65212,
+      40.47473
+     ],
+     [
+      -3.63858,
+      40.46982
+     ],
+     [
+      -3.60805,
+      40.44401
+     ],
+     [
+      -3.57176,
+      40.46791
+     ],
+     [
+      -3.59284,
+      40.49243
+     ],
+     [
+      -3.66943,
+      40.50834
+     ],
+     [
+      -3.69599,
+      40.50534
+     ],
+     [
+      -3.69469,
+      40.50097
+     ],
+     [
+      -3.68216,
+      40.50154
+     ],
+     [
+      -3.6869,
+      40.48345
+     ],
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.66705,
+      40.48005
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "134",
+    "name": "Línea 4 Argüelles - Pinar de Chamartín",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#A626AA",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 24,
+    "coords_sta": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71617,
+     40.43073
+    ]
+   },
+   "properties": {
+    "id": "EST-ARGUELLES",
+    "name": "Argüelles",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70159,
+     40.44159
+    ]
+   },
+   "properties": {
+    "id": "EST-RIOSROSAS",
+    "name": "Ríos Rosas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69926,
+     40.43845
+    ]
+   },
+   "properties": {
+    "id": "EST-ALONSOCANO",
+    "name": "Alonso Cano",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69121,
+     40.43799
+    ]
+   },
+   "properties": {
+    "id": "EST-GREGORIOMARANON",
+    "name": "Gregorio Marañón",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.24807,
+     40.52125
+    ]
+   },
+   "properties": {
+    "id": "EST-ORTEGAYGASSET",
+    "name": "Ortega y Gasset",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6754,
+     40.4294
+    ]
+   },
+   "properties": {
+    "id": "EST-LISTA",
+    "name": "Lista",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6762,
+     40.4247
+    ]
+   },
+   "properties": {
+    "id": "EST-GOYA",
+    "name": "Goya",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66967,
+     40.4144
+    ]
+   },
+   "properties": {
+    "id": "EST-SAINZDEBARANDA",
+    "name": "Sainz de Baranda",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.67472,
+     40.43447
+    ]
+   },
+   "properties": {
+    "id": "EST-DIEGODELEON",
+    "name": "Diego de León",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6773,
+     40.43765
+    ]
+   },
+   "properties": {
+    "id": "EST-AVENIDADEAMERICA",
+    "name": "Avenida de América",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65618,
+     40.45594
+    ]
+   },
+   "properties": {
+    "id": "EST-ARTUROSORIA",
+    "name": "Arturo Soria",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64556,
+     40.45924
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPERANZA",
+    "name": "Esperanza",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65212,
+     40.47473
+    ]
+   },
+   "properties": {
+    "id": "EST-HORTALEZA",
+    "name": "Hortaleza",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63858,
+     40.46982
+    ]
+   },
+   "properties": {
+    "id": "EST-MARDECRISTAL",
+    "name": "Mar de Cristal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60805,
+     40.44401
+    ]
+   },
+   "properties": {
+    "id": "EST-CANILLEJAS",
+    "name": "Canillejas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.57176,
+     40.46791
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPUERTOT1T2T3",
+    "name": "Aeropuerto T1-T2-T3",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.59284,
+     40.49243
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPUERTOT4",
+    "name": "Aeropuerto T4",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66943,
+     40.50834
+    ]
+   },
+   "properties": {
+    "id": "EST-LASTABLAS",
+    "name": "Las Tablas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69599,
+     40.50534
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTECARMELO",
+    "name": "Montecarmelo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69469,
+     40.50097
+    ]
+   },
+   "properties": {
+    "id": "EST-TRESOLIVOS",
+    "name": "Tres Olivos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68216,
+     40.50154
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENCARRAL",
+    "name": "Fuencarral",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6869,
+     40.48345
+    ]
+   },
+   "properties": {
+    "id": "EST-BEGONA",
+    "name": "Begoña",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-CHAMARTIN",
+    "name": "Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66705,
+     40.48005
+    ]
+   },
+   "properties": {
+    "id": "EST-PINARDECHAMARTIN",
+    "name": "Pinar de Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A626AA"
+   }
+  }
+ ]
+}

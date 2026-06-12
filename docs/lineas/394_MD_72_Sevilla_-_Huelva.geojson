@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.20799,
+      37.35711
+     ],
+     [
+      -6.55436,
+      37.39079
+     ],
+     [
+      -5.99436,
+      37.38178
+     ],
+     [
+      -6.94485,
+      37.25262
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "394",
+    "name": "MD 72 Sevilla - Huelva",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20799,
+     37.35711
+    ]
+   },
+   "properties": {
+    "id": "EST-BENACAZON",
+    "name": "Benacazón",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.55436,
+     37.39079
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPALMADELCONDADO",
+    "name": "La Palma del Condado",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.99436,
+     37.38178
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTADEJEREZ",
+    "name": "Puerta de Jerez",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94485,
+     37.25262
+    ]
+   },
+   "properties": {
+    "id": "EST-HUELVA",
+    "name": "Huelva",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

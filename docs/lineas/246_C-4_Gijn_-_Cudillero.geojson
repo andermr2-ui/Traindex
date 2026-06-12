@@ -1,0 +1,596 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.67563,
+      43.53773
+     ],
+     [
+      -5.69475,
+      43.52856
+     ],
+     [
+      -5.78443,
+      43.25606
+     ],
+     [
+      -5.72261,
+      43.54176
+     ],
+     [
+      -5.71772,
+      43.55524
+     ],
+     [
+      -5.8,
+      43.57
+     ],
+     [
+      -5.75407,
+      43.58085
+     ],
+     [
+      -5.77268,
+      43.58458
+     ],
+     [
+      -5.77268,
+      43.58458
+     ],
+     [
+      -5.79767,
+      43.58049
+     ],
+     [
+      -5.87451,
+      43.55131
+     ],
+     [
+      -5.87422,
+      43.55187
+     ],
+     [
+      -5.89657,
+      43.5543
+     ],
+     [
+      -5.92296,
+      43.56148
+     ],
+     [
+      -5.92296,
+      43.56148
+     ],
+     [
+      -5.92,
+      43.56
+     ],
+     [
+      -5.9325,
+      43.54431
+     ],
+     [
+      -5.95657,
+      43.5704
+     ],
+     [
+      -5.97549,
+      43.55646
+     ],
+     [
+      -5.99545,
+      43.55114
+     ],
+     [
+      -5.97154,
+      43.55367
+     ],
+     [
+      -6.07132,
+      43.52936
+     ],
+     [
+      -5.72655,
+      43.5073
+     ],
+     [
+      -6.10361,
+      43.54889
+     ],
+     [
+      -6.11062,
+      43.49114
+     ],
+     [
+      -6.15216,
+      43.55091
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "246",
+    "name": "C-4 Gijón - Cudillero",
+    "type": "Cercanías AM",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 26,
+    "coords_sta": 26
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67563,
+     43.53773
+    ]
+   },
+   "properties": {
+    "id": "EST-GIJON",
+    "name": "Gijón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.69475,
+     43.52856
+    ]
+   },
+   "properties": {
+    "id": "EST-TREMANES",
+    "name": "Tremañes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.78443,
+     43.25606
+    ]
+   },
+   "properties": {
+    "id": "EST-CENTRODETRANSPORTES",
+    "name": "Centro de Transportes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.72261,
+     43.54176
+    ]
+   },
+   "properties": {
+    "id": "EST-VERINA",
+    "name": "Veriña",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.71772,
+     43.55524
+    ]
+   },
+   "properties": {
+    "id": "EST-ABONO",
+    "name": "Aboño",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.8,
+     43.57
+    ]
+   },
+   "properties": {
+    "id": "EST-XIVARES",
+    "name": "Xivares",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.75407,
+     43.58085
+    ]
+   },
+   "properties": {
+    "id": "EST-PERLORA",
+    "name": "Perlora",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.77268,
+     43.58458
+    ]
+   },
+   "properties": {
+    "id": "EST-CANDASAPEADERO",
+    "name": "Candás Apeadero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.77268,
+     43.58458
+    ]
+   },
+   "properties": {
+    "id": "EST-CANDAS",
+    "name": "Candás",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.79767,
+     43.58049
+    ]
+   },
+   "properties": {
+    "id": "EST-REGUERAL",
+    "name": "Regueral",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.87451,
+     43.55131
+    ]
+   },
+   "properties": {
+    "id": "EST-SANPELAYO",
+    "name": "San Pelayo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.87422,
+     43.55187
+    ]
+   },
+   "properties": {
+    "id": "EST-TRASONA",
+    "name": "Trasona",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.89657,
+     43.5543
+    ]
+   },
+   "properties": {
+    "id": "EST-LLARANES",
+    "name": "Llaranes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92296,
+     43.56148
+    ]
+   },
+   "properties": {
+    "id": "EST-AVILESAPEADERO",
+    "name": "Avilés Apeadero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92296,
+     43.56148
+    ]
+   },
+   "properties": {
+    "id": "EST-AVILES",
+    "name": "Avilés",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92,
+     43.56
+    ]
+   },
+   "properties": {
+    "id": "EST-CRISTALERA",
+    "name": "Cristalera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9325,
+     43.54431
+    ]
+   },
+   "properties": {
+    "id": "EST-RAICES",
+    "name": "Raíces",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.95657,
+     43.5704
+    ]
+   },
+   "properties": {
+    "id": "EST-SALINAS",
+    "name": "Salinas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97549,
+     43.55646
+    ]
+   },
+   "properties": {
+    "id": "EST-PIEDRASBLANCAS",
+    "name": "Piedras Blancas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.99545,
+     43.55114
+    ]
+   },
+   "properties": {
+    "id": "EST-VEGARROZADAS",
+    "name": "Vegarrozadas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97154,
+     43.55367
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIAGODELMONTE",
+    "name": "Santiago del Monte",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.07132,
+     43.52936
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPARADOR",
+    "name": "El Parador",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.72655,
+     43.5073
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTIELLO",
+    "name": "Sotiello",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.10361,
+     43.54889
+    ]
+   },
+   "properties": {
+    "id": "EST-MUROSDENALON",
+    "name": "Muros de Nalón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.11062,
+     43.49114
+    ]
+   },
+   "properties": {
+    "id": "EST-PRAVIA",
+    "name": "Pravia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.15216,
+     43.55091
+    ]
+   },
+   "properties": {
+    "id": "EST-CUDILLERO",
+    "name": "Cudillero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

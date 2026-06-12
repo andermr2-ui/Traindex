@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.61825,
+      40.03483
+     ],
+     [
+      -3.73859,
+      39.94957
+     ],
+     [
+      -3.33025,
+      39.62197
+     ],
+     [
+      -3.26637,
+      39.50422
+     ],
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -2.77539,
+      39.27854
+     ],
+     [
+      -2.59851,
+      39.26072
+     ],
+     [
+      -2.16292,
+      39.19932
+     ],
+     [
+      -1.85687,
+      38.99485
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "386",
+    "name": "MD 57 Madrid - Alcázar - Albacete",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTIN",
+    "name": "Madrid-Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61825,
+     40.03483
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANJUEZ",
+    "name": "Aranjuez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.73859,
+     39.94957
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTILLEJOANOVER",
+    "name": "Castillejo-Añover",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.33025,
+     39.62197
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLACANAS",
+    "name": "Villacañas",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.26637,
+     39.50422
+    ]
+   },
+   "properties": {
+    "id": "EST-QUERO",
+    "name": "Quero",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.77539,
+     39.27854
+    ]
+   },
+   "properties": {
+    "id": "EST-SOCUELLAMOS",
+    "name": "Socuéllamos",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.59851,
+     39.26072
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLARROBLEDO",
+    "name": "Villarrobledo",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.16292,
+     39.19932
+    ]
+   },
+   "properties": {
+    "id": "EST-LARODA",
+    "name": "La Roda",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.85687,
+     38.99485
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBACETELOSLLANOS",
+    "name": "Albacete-Los Llanos",
+    "province": "Albacete",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

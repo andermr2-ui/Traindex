@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.18225,
+      40.64408
+     ],
+     [
+      -1.63842,
+      41.34636
+     ],
+     [
+      -1.59767,
+      42.0595
+     ],
+     [
+      -1.69244,
+      42.17287
+     ],
+     [
+      -1.74814,
+      42.18661
+     ],
+     [
+      -1.95782,
+      42.3107
+     ],
+     [
+      -2.44082,
+      42.45757
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "21",
+    "name": "Alvia Madrid - Logroño (por Castejón)",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#5E2750",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18225,
+     40.64408
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALAJARAYEBES",
+    "name": "Guadalajara-Yebes",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63842,
+     41.34636
+    ]
+   },
+   "properties": {
+    "id": "EST-CALATAYUD",
+    "name": "Calatayud",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59767,
+     42.0595
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELADENAVARRA",
+    "name": "Tudela de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.74814,
+     42.18661
+    ]
+   },
+   "properties": {
+    "id": "EST-ALFARO",
+    "name": "Alfaro",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95782,
+     42.3107
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAHORRA",
+    "name": "Calahorra",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.44082,
+     42.45757
+    ]
+   },
+   "properties": {
+    "id": "EST-LOGRONO",
+    "name": "Logroño",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#5E2750"
+   }
+  }
+ ]
+}

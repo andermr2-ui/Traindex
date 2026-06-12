@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.52214,
+      42.4055
+     ],
+     [
+      -5.62648,
+      42.80399
+     ],
+     [
+      -5.65694,
+      43.39917
+     ],
+     [
+      -5.97154,
+      43.55367
+     ],
+     [
+      -5.76944,
+      43.07168
+     ],
+     [
+      -5.8164,
+      43.11012
+     ],
+     [
+      -5.83113,
+      43.15865
+     ],
+     [
+      -5.67945,
+      43.29185
+     ],
+     [
+      -5.78239,
+      43.25004
+     ],
+     [
+      -5.85738,
+      43.3588
+     ],
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.69716,
+      43.53537
+     ],
+     [
+      -5.67563,
+      43.53773
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "364",
+    "name": "Regional 24 León - Gijón",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.52214,
+     42.4055
+    ]
+   },
+   "properties": {
+    "id": "EST-LEON",
+    "name": "León",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.62648,
+     42.80399
+    ]
+   },
+   "properties": {
+    "id": "EST-LAROBLA",
+    "name": "La Robla",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.65694,
+     43.39917
+    ]
+   },
+   "properties": {
+    "id": "EST-POLADESIERO",
+    "name": "Pola de Siero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97154,
+     43.55367
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTACRUZ",
+    "name": "Santa Cruz",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.76944,
+     43.07168
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTEDELOSFIERROS",
+    "name": "Puente de los Fierros",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.8164,
+     43.11012
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPOMANES",
+    "name": "Campomanes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.83113,
+     43.15865
+    ]
+   },
+   "properties": {
+    "id": "EST-POLADELENA",
+    "name": "Pola de Lena",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67945,
+     43.29185
+    ]
+   },
+   "properties": {
+    "id": "EST-UJO",
+    "name": "Ujo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.78239,
+     43.25004
+    ]
+   },
+   "properties": {
+    "id": "EST-MIERESPUENTE",
+    "name": "Mieres-Puente",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85738,
+     43.3588
+    ]
+   },
+   "properties": {
+    "id": "EST-LLAMAQUIQUE",
+    "name": "Llamaquique",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.69716,
+     43.53537
+    ]
+   },
+   "properties": {
+    "id": "EST-CALZADADEASTURIAS",
+    "name": "Calzada de Asturias",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67563,
+     43.53773
+    ]
+   },
+   "properties": {
+    "id": "EST-GIJON",
+    "name": "Gijón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

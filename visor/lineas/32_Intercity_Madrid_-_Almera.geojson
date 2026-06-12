@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68226,
+      40.47206
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -3.3706,
+      39.0059
+     ],
+     [
+      -3.39614,
+      38.76328
+     ],
+     [
+      -3.5177,
+      38.21573
+     ],
+     [
+      -3.58914,
+      38.06908
+     ],
+     [
+      -3.35018,
+      37.91348
+     ],
+     [
+      -3.26237,
+      37.65659
+     ],
+     [
+      -3.31075,
+      37.43113
+     ],
+     [
+      -3.12702,
+      37.31688
+     ],
+     [
+      -2.83948,
+      37.18472
+     ],
+     [
+      -2.48751,
+      36.9515
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "32",
+    "name": "Intercity Madrid - Almería",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#2C3539",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68226,
+     40.47206
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTINCLARACAMPOAMOR",
+    "name": "Madrid-Chamartín-Clara Campoamor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3706,
+     39.0059
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANARES",
+    "name": "Manzanares",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.39614,
+     38.76328
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDEPENAS",
+    "name": "Valdepeñas",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5177,
+     38.21573
+    ]
+   },
+   "properties": {
+    "id": "EST-VILCHES",
+    "name": "Vilches",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.58914,
+     38.06908
+    ]
+   },
+   "properties": {
+    "id": "EST-LINARESBAEZA",
+    "name": "Linares-Baeza",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.35018,
+     37.91348
+    ]
+   },
+   "properties": {
+    "id": "EST-JODARUBEDA",
+    "name": "Jódar-Úbeda",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.26237,
+     37.65659
+    ]
+   },
+   "properties": {
+    "id": "EST-CABRADELSANTOCRISTOYALICUN",
+    "name": "Cabra del Santo Cristo y Alicún",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.31075,
+     37.43113
+    ]
+   },
+   "properties": {
+    "id": "EST-MOREDA",
+    "name": "Moreda",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.12702,
+     37.31688
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADIX",
+    "name": "Guadix",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.83948,
+     37.18472
+    ]
+   },
+   "properties": {
+    "id": "EST-FINANA",
+    "name": "Fiñana",
+    "province": "Almería",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.48751,
+     36.9515
+    ]
+   },
+   "properties": {
+    "id": "EST-GADOR",
+    "name": "Gádor",
+    "province": "Almería",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2C3539"
+   }
+  }
+ ]
+}

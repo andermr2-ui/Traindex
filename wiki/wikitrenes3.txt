@@ -1,0 +1,215 @@
+﻿AVE:
+
+https://es.wikipedia.org/wiki/Renfe_AVE#Servicios_comerciales
+
+Madrid-Chamartín-Clara Campoamor;Valladolid-Campo Grande;León; Oviedo;Gijón
+
+Valencia-Joaquín Sorolla;Madrid-Chamartín-Clara Campoamor;Valladolid-Campo Grande;Burgos-Rosa Manzano
+
+Murcia del Carmen;Orihuela-Miguel Hernández;Elche AV;Madrid-Chamartín-Clara Campoamor;Segovia-Guiomar;Valladolid-Campo Grande;Burgos-Rosa Manzano
+
+Castellón de la Plana;Sagunto;Valencia-Joaquín Sorolla;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Segovia-Guiomar;Valladolid-Campo Grande;Palencia;León;Oviedo;Gijón
+	
+Barcelona-Sants;Campo de Tarragona;Lérida Pirineos;Zaragoza-Delicias;Córdoba;Antequera AV;Granada
+
+Alicante-Terminal;Albacete-Los Llanos;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Valladolid-Campo Grande;Palencia;León
+
+Barcelona-Sants	Gerona;Figueras Vilafant;Perpiñán;Narbona;Montpellier-Saint-Roch;Nimes;Valence TGV;Rhône-Alpes Sud;Lyon-Part-Dieu
+
+Murcia del Carmen;Orihuela-Miguel Hernández;Elche AV;Alicante-Terminal;Villena AV;Albacete-Los Llanos;Cuenca-Fernando Zóbel;Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Antequera AV;Málaga-María Zambrano
+
+Cuenca-Fernando Zóbel;Albacete-Los Llanos;Villena AV;Alicante-Terminal;Elche AV;Orihuela-Miguel Hernández;Murcia del Carmen
+
+Madrid-Puerta de Atocha-Almudena Grandes;Guadalajara-Yebes;Zaragoza-Delicias;Campo de Tarragona;Barcelona-Sants;Gerona;Figueras Vilafant;Perpiñán;Narbona;Montpellier-Saint-Roch;Nimes;Aviñón TGV;Aix-en-Provence TGV;Marsella-Saint-Charles
+
+Marsella-Saint-Charles;Aix-en-Provence TGV;Aviñón TGV;Nimes;Montpellier-Saint-Roch;Narbona;Perpiñán;Figueras Vilafant;Gerona;Barcelona-Sants;Campo de Tarragona;Zaragoza-Delicias;Madrid-Puerta de Atocha-Almudena Grandes
+
+Madrid-Puerta de Atocha-Almudena Grandes;Cuenca-Fernando Zóbel;Albacete-Los Llanos;Villena AV;Alicante-Terminal;Elche AV;Orihuela-Miguel Hernández;Murcia del Carmen
+
+Madrid-Chamartín-Clara Campoamor:Elche AV:Orihuela-Miguel Hernández:Murcia del 
+	
+Valencia-Joaquín Sorolla;Cuenca-Fernando Zóbel;Ciudad Real;Puertollano;Córdoba;Sevilla-Santa Justa
+
+Huesca	Tardienta;Zaragoza-Delicias;Calatayud;Guadalajara-Yebes;Madrid-Puerta de Atocha-Almudena Grandes;Córdoba;Sevilla-Santa Justa
+
+Alicante-Terminal;Albacete-Los Llanos;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Zamora;Orense
+	
+Madrid-Puerta de Atocha-Almudena Grandes;Cuenca-Fernando Zóbel;Requena-Utiel;Valencia-Joaquín Sorolla;Castellón de la Plana
+
+Valencia-Joaquín Sorolla;Requena-Utiel;Cuenca-Fernando Zóbel;Madrid-Chamartín-Clara Campoamor;Segovia-Guiomar;Valladolid-Campo Grande;Palencia;León
+
+Barcelona-Sants;Campo de Tarragona;Lérida Pirineos;Zaragoza-Delicias;Ciudad Real;Puertollano;Córdoba;Sevilla-Santa Justa
+
+Madrid-Chamartín-Clara Campoamor;Zamora;Orense;Santiago de Compostela;La Coruña
+
+Madrid-Puerta de Atocha-Almudena Grandes;Córdoba;Puente Genil-Herrera;Antequera-Santa Ana;Antequera AV;Loja;Granada
+
+Barcelona-Sants;Campo de Tarragona;Lérida Pirineos;Zaragoza-Delicias;Calatayud;Guadalajara-Yebes;Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Puente Genil-Herrera;Antequera-Santa Ana;Málaga-María Zambrano
+
+Madrid-Chamartín-Clara Campoamor;Zamora;Orense;Santiago de Compostela;Villagarcía de Arosa;Pontevedra;Vigo-Urzaiz
+
+Madrid-Chamartín-Clara Campoamor;Cuenca-Fernando Zóbel;Albacete-Los Llanos;Villena AV;Alicante-Terminal
+
+Madrid-Puerta de Atocha-Almudena Grandes;Calatayud;Zaragoza-Delicias;Lérida Pirineos;Campo de Tarragona;Barcelona-Sants,Gerona,Figueras Vilafant
+
+Madrid-Chamartín-Clara Campoamor;Cuenca-Fernando Zóbel;Requena-Utiel;Valencia-
+
+Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba,Puente Genil-Herrera;Antequera-Santa Ana;Málaga-María Zambrano
+
+Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Sevilla-Santa Justa
+
+Madrid-Puerta de Atocha-Almudena Grandes;Guadalajara-Yebes;Calatayud,Zaragoza-Delicias;Lérida Pirineos;Campo de Tarragona,Barcelona-Sants
+
+
+AVLO: 
+
+https://es.wikipedia.org/wiki/Renfe_Avlo#Servicios_comerciales
+
+Madrid - Chamartín - Clara Campoamor;Cuenca - Fernando Zóbel;Albacete - Los Llanos;Villena;Alicante;Elche;Orihuela;Miguel Hernández;Murcia
+
+Valladolid - Campo Grande;Madrid - Chamartín - Clara Campoamor;Cuenca - Fernando Zóbel;Albacete - Los Llanos;Villena;Alicante
+
+Murcia;Orihuela - Miguel Hernández;Elche;Alicante;Villena;Albacete - Los Llanos;Cuenca - Fernando Zóbel;Madrid - Chamartín - Clara Campoamor;Valladolid - Campo Grande
+	
+Madrid - Chamartín - Clara Campoamor;Medina del Campo AV;Zamora;Sanabria AV;La Gudiña - Porta de Galicia;Orense;Santiago de Compostela;Villagarcía de Arosa;Pontevedra;Vigo - Urzaiz
+
+Madrid - Chamartín - Clara Campoamor;Segovia - Guiomar;Valladolid - Campo Grande;Palencia;León;Pola de Lena;Mieres;Oviedo;Gijón
+
+Madrid - Chamartín - Clara Campoamor;Segovia - Guiomar;Medina del Campo AV;Zamora;Sanabria AV;La Gudiña - Porta de Galicia;Orense;Santiago de Compostela;La Coruña	
+Madrid - Puerta de Atocha - Almudena Grandes;Ciudad Real;Puertollano,Villanueva de Córdoba;Córdoba;Sevilla - Santa Justa
+
+Madrid - Puerta de Atocha - Almudena Grandes;Ciudad Real;Puertollano;Villanueva de Córdoba;Córdoba;Puente Genil;Antequera - Santa Ana;Málaga - María Zambrano
+
+Madrid - Chamartín - Clara Campoamor;Cuenca - Fernando Zóbel;Requena - Utiel;Valencia - Joaquín Sorolla
+
+
+Alvia:
+
+https://es.wikipedia.org/wiki/Renfe_Alvia#Servicios_comerciales
+
+Madrid - Chamartín - Clara Campoamor;Segovia - Guiomar;Medina del Campo AV;Salamanca
+
+Madrid - Puerta de Atocha - Almudena Grandes;Guadalajara - Yebes;Calatayud;Tudela;Castejón de Ebro;Tafalla;Pamplona
+
+Madrid - Puerta de Atocha - Almudena Grandes;Guadalajara - Yebes;Calatayud;Tudela;Alfaro;Rincón de Soto;Calahorra;Logroño
+
+Madrid - Chamartín - Clara Campoamor;Valladolid - Campo Grande;Palencia;León;Mieres;Oviedo
+	
+Madrid - Puerta de Atocha - Almudena Grandes;Córdoba;La Palma del Condado;Huelva
+
+Madrid - Chamartín - Clara Campoamor;Valladolid - Campo Grande;Palencia;León;Pola de Lena;Oviedo;Gijón	1 tren L-S por sentido	3 horas y 57 minutos
+
+Madrid - Chamartín - Clara Campoamor;Madrid - Atocha Cercanías;Leganés;Torrijos;Talavera de la Reina;Oropesa de Toledo;Navalmoral de la Mata;Monfragüe - Plasencia;Plasencia;Cáceres;Mérida;Montijo;Badajoz
+
+Madrid - Chamartín - Clara Campoamor;Valladolid - Campo Grande;Palencia;Aguilar de Campoo;Reinosa;Torrelavega;Santander
+
+Madrid - Puerta de Atocha - Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Sevilla - Santa Justa;Jerez de la Frontera;El Puerto de Santa María;San Fernando - Bahía Sur;Cádiz
+
+Madrid - Chamartín - Clara Campoamor;Medina del Campo AV;Zamora;Sanabria AV;La Gudiña - Puerta de Galicia;Orense;Monforte de Lemos;Sarria;Lugo
+
+Madrid - Chamartín - Clara Campoamor;Segovia - Guiomar;Valladolid - Campo Grande;Burgos - Rosa Manzano;Miranda de Ebro;Llodio;Bilbao - Abando - Indalecio Prieto
+
+Madrid - Puerta de Atocha - Almudena Grandes;Ciudad Real;Puertollano;Córdoba;Antequera - Santa Ana;Ronda;San Roque - La Línea;Algeciras
+
+Madrid - Chamartín - Clara Campoamor;Segovia - Guiomar;Valladolid - Campo Grande;Burgos - Rosa Manzano;Miranda de Ebro;Vitoria;Zumárraga;Tolosa;San Sebastián;Irún
+
+Barcelona - Sants;Campo de Tarragona;Lérida - Pirineos;Zaragoza - Delicias;Tudela;Castejón de Ebro;Tafalla;Pamplona;Alsasua;Zumárraga;San Sebastián
+
+Barcelona - Sants;Campo de Tarragona;Lérida - Pirineos;Zaragoza - Delicias;Tudela;Castejón de Ebro;Calahorra;Logroño;Haro;Miranda de Ebro;Bilbao - Abando - Indalecio Prieto
+
+Madrid - Puerta de Atocha - Almudena Grandes;Córdoba;Antequera AV;Granada;Guadix;Huércal - Viator
+
+Alicante;Villena AV;Albacete - Los Llanos;Cuenca - Fernando Zóbel;Madrid - Chamartín - Clara Campoamor;Valladolid - Campo Grande;Palencia;León;Pola de Lena;Mieres;Oviedo;Gijón
+
+Alicante;Villena AV;Albacete - Los Llanos;Cuenca - Fernando Zóbel;Madrid - Chamartín - Clara Campoamor;Segovia - Guiomar;Valladolid - Campo Grande;Palencia;Torrelavega;Santander
+
+Barcelona - Sants;Campo de Tarragona;Lérida - Pirineos;Zaragoza - Delicias;Tudela;Castejón de Ebro;Pamplona;Vitoria;Miranda de Ebro;Burgos - Rosa Manzano;Valladolid - Campo Grande;Medina del Campo AV;Salamanca
+
+Barcelona - Sants;Campo de Tarragona;Lérida - Pirineos;Zaragoza - Delicias;Tudela;Castejón de Ebro;Tafalla;Pamplona;Vitoria;Miranda de Ebro;Burgos - Rosa Manzano;Palencia;León;Astorga;Bembibre;Ponferrada;El Barco de Valdeorras;La Rúa - Petín;San Clodio - Quiroga;Monforte de Lemos;Orense;Santiago de Compostela;La Coruña
+
+Barcelona - Sants;Campo de Tarragona;Lérida - Pirineos;Zaragoza - Delicias;Tudela;Castejón de Ebro;Tafalla;Pamplona;Vitoria;Miranda de Ebro;Burgos - Rosa Manzano;Palencia;León;Astorga;Bembibre;Ponferrada;El Barco de Valdeorras;La Rúa - Petín;San Clodio - Quiroga;Monforte de Lemos;Orense;Guillarey;Porriño;Redondela;Vigo - Guixar	
+
+
+Avant:
+
+https://es.wikipedia.org/wiki/Renfe_Avant#Servicios_comerciales
+
+Toledo	Madrid-Puerta de Atocha-Almudena Grandes;Cuenca-Fernando Zóbel;Albacete-Los Llanos
+
+Barcelona-Sants;Campo de Tarragona;Cambrils Norte;Hospitalet del Infante;Ametlla de Mar;Ampolla-Perelló-Deltebro;La Aldea-Amposta-Tortosa
+
+La Coruña;Santiago de Compostela;Orense
+
+Málaga-María Zambrano;Antequera AV;Loja;Granada
+
+Sevilla-Santa Justa;Córdoba;Puente Genil-Herrera;Antequera-Santa Ana;Antequera AV;Loja;Granada
+
+Zaragoza-Delicias;Calatayud
+
+Valencia-Joaquín Sorolla;Requena-Utiel	
+Sevilla-Santa Justa;Córdoba;Puente Genil-Herrera;Antequera-Santa Ana;Málaga-María Zambrano
+
+Barcelona-Sants;Campo de Tarragona;Lérida Pirineos
+	
+Alicante-Terminal;Elche AV;Callosa de Segura-Cox;Orihuela-Miguel Hernández;Beniel;Murcia del Carmen
+	
+Madrid-Puerta de Atocha-Almudena Grandes;Ciudad Real;Puertollano
+
+Barcelona-Sants;Gerona;Figueras Vilafant
+	
+Madrid-Chamartín-Clara Campoamor;Segovia-Guiomar;Valladolid-Campo Grande
+
+Madrid-Puerta de Atocha-Almudena Grandes;Toledo
+
+
+Proximidad: (Aquí te indico el nombre de la línea antes de los :)
+
+https://es.wikipedia.org/wiki/Renfe_Proximidad#L%C3%ADneas
+
+Proximidad Murcia - Cartagena: Murcia;Balsicas-Mar Menor;Torre-Pacheco;Cartagena
+
+Tren del Valle del Guadalquivir (Metrotren Córdoba): Palma del Río;Posadas;Villarrubia;El Higuerón;Córdoba;Campus Universitario Rabanales;Alcolea;Villa del Río
+
+Proximidad Málaga - Álora - El Chorro-El Caminito del Rey: Málaga-Centro Alameda;Málaga-María Zambrano;Victoria Kent;Los Prados;Campanillas;Cártama;Aljaima;Pizarra;Álora;Las Mellizas;El Chorro-Caminito del Rey
+
+Proximidad Palencia - Valladolid - Medina del Campo: Palencia;Venta de Baños;Dueñas;Cubillas de Santa Marta;Corcos-Aguilarejo;Cabezón de Pisuerga;Valladolid-Universidad;Valladolid-Campo Grande;Viana;Valdestillas;Matapozuelos;Pozaldez;Medina del Campo
+
+Proximidad Illescas-Fuenlabrada-Madrid:	Illescas;Humanes;Fuenlabrada Central;Leganés;Atocha-Cercanías
+
+
+
+Media Distancia Alta Velocidad: (En este caso, Obvié las líneas Avant que hay en Wikipedia, puesto que ya te las puse en el apartado de Avant. También te indico antes de los : El nombre de la línea)
+
+https://es.wikipedia.org/wiki/Renfe_Media_Distancia#L%C3%ADneas_de_alta_velocidad
+
+MD AV Vigo-Urzaiz - A Coruña: Vigo-Urzáiz;Redondela AV;Arcade;Pontevedra;Villagarcía de Arosa;Padrón-Barbanza;Santiago de Compostela;Cerceda-Meirama;A Coruña
+
+MD AV Santiago de Compostela - A Coruña: Santiago de Compostela;Órdenes;Cerceda-Meirama;Uges;A Coruña
+
+
+Media distancia Lineas Convencionales
+
+https://es.wikipedia.org/wiki/Renfe_Media_Distancia#L%C3%ADneas_convencionales
+
+"C:\Base de Datos traindex\Prueba - Hoja 1.csv" Aquí hay un .csv con la info de Wikipedia extraida, porque ya me daba pereza cambiar los " · " por " ; ", pero se entiende que ese es el separadpr que usaron en Wikipedia, pues tu entenderas que tendrás que cambiarlo en nuestro documento. Hay que tener en cuenta que este documento Prueba - Hoja 1.csv que te estoy compartiendo es para analizar los documentos difinitive_lines.csv y definitive_stations_v2.csv, y encontrar anomalías o falta de datos comparando y generar un documento definitivo más completo y perfecto. A propósito, te avanzo que el csv tiene cuatro columnas, Línea[1],Servicio[2],Recorrido,Estaciones , Creo que la columna de recorrido podría ser útil para completar el propio nombre oficial de cada línea, de manera que cada línea debería llamarse, Servicio Línea Recorrido (Regional Exprés 74 Sevilla - Mérida o  MD 57 Madrid - Alcázar - Albacete).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

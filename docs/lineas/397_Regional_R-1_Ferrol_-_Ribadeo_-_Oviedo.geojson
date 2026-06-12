@@ -1,0 +1,2180 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.23101,
+      43.48805
+     ],
+     [
+      -8.21385,
+      43.49458
+     ],
+     [
+      -8.20485,
+      43.49656
+     ],
+     [
+      -8.2,
+      43.49978
+     ],
+     [
+      -8.195556,
+      43.503194
+     ],
+     [
+      -8.07792,
+      43.54603
+     ],
+     [
+      -8.1776,
+      43.51485
+     ],
+     [
+      -8.14,
+      43.54
+     ],
+     [
+      -8.1504,
+      43.52796
+     ],
+     [
+      -8.1402,
+      43.54264
+     ],
+     [
+      -8.10921,
+      43.53674
+     ],
+     [
+      -8.077944,
+      43.546028
+     ],
+     [
+      -8.02194,
+      43.56531
+     ],
+     [
+      -8.05,
+      43.53
+     ],
+     [
+      -8.02194,
+      43.56531
+     ],
+     [
+      -8.0,
+      43.54
+     ],
+     [
+      -7.96,
+      43.52
+     ],
+     [
+      -7.93461,
+      43.58717
+     ],
+     [
+      -7.92,
+      43.513
+     ],
+     [
+      -7.91624,
+      43.64096
+     ],
+     [
+      -7.90256,
+      43.66606
+     ],
+     [
+      -7.873472,
+      43.660944
+     ],
+     [
+      -7.85453,
+      43.66879
+     ],
+     [
+      -7.84952,
+      43.68626
+     ],
+     [
+      -7.80487,
+      43.70893
+     ],
+     [
+      -7.702889,
+      43.735722
+     ],
+     [
+      -7.6731,
+      43.73099
+     ],
+     [
+      -7.49,
+      43.676
+     ],
+     [
+      -7.46,
+      43.67
+     ],
+     [
+      -7.6002,
+      43.65687
+     ],
+     [
+      -7.42,
+      43.67
+     ],
+     [
+      -7.510983,
+      43.683589
+     ],
+     [
+      -7.53704,
+      43.68744
+     ],
+     [
+      -7.4,
+      43.67
+     ],
+     [
+      -7.441861,
+      43.692167
+     ],
+     [
+      -7.39,
+      43.65
+     ],
+     [
+      -7.36085,
+      43.6596
+     ],
+     [
+      -7.38,
+      43.62
+     ],
+     [
+      -7.37,
+      43.59
+     ],
+     [
+      -7.33,
+      43.57
+     ],
+     [
+      -7.26946,
+      43.57478
+     ],
+     [
+      -7.27203,
+      43.561
+     ],
+     [
+      -7.22531,
+      43.54742
+     ],
+     [
+      -7.25,
+      43.55
+     ],
+     [
+      -7.14603,
+      43.55175
+     ],
+     [
+      -7.13102,
+      43.55155
+     ],
+     [
+      -7.10865,
+      43.54962
+     ],
+     [
+      -7.055619,
+      43.53603
+     ],
+     [
+      -7.05058,
+      43.47314
+     ],
+     [
+      -7.01385,
+      43.50889
+     ],
+     [
+      -6.977086,
+      43.520408
+     ],
+     [
+      -6.90929,
+      43.53498
+     ],
+     [
+      -6.90938,
+      43.53505
+     ],
+     [
+      -6.82756,
+      43.54708
+     ],
+     [
+      -6.97,
+      43.56
+     ],
+     [
+      -6.88,
+      43.518
+     ],
+     [
+      -6.82,
+      43.555
+     ],
+     [
+      -6.71994,
+      43.53656
+     ],
+     [
+      -6.64,
+      43.568
+     ],
+     [
+      -6.62,
+      43.565
+     ],
+     [
+      -6.58,
+      43.562
+     ],
+     [
+      -6.53667,
+      43.53758
+     ],
+     [
+      -6.50823,
+      43.54675
+     ],
+     [
+      -6.54,
+      43.562
+     ],
+     [
+      -6.41525,
+      43.547222
+     ],
+     [
+      -6.39182,
+      43.54289
+     ],
+     [
+      -6.49,
+      43.565
+     ],
+     [
+      -6.46,
+      43.568
+     ],
+     [
+      -6.30513,
+      43.55265
+     ],
+     [
+      -6.43,
+      43.57
+     ],
+     [
+      -6.4,
+      43.572
+     ],
+     [
+      -6.23457,
+      43.55966
+     ],
+     [
+      -6.24822,
+      43.54401
+     ],
+     [
+      -6.22886,
+      43.54453
+     ],
+     [
+      -6.18495,
+      43.55923
+     ],
+     [
+      -6.15548,
+      43.55702
+     ],
+     [
+      -6.15216,
+      43.55091
+     ],
+     [
+      -6.35,
+      43.575
+     ],
+     [
+      -6.10361,
+      43.54889
+     ],
+     [
+      -6.09731,
+      43.51229
+     ],
+     [
+      -5.188,
+      43.38745
+     ],
+     [
+      -6.11062,
+      43.49114
+     ],
+     [
+      -6.09706,
+      43.46942
+     ],
+     [
+      -6.07716,
+      43.44886
+     ],
+     [
+      -6.06579,
+      43.43991
+     ],
+     [
+      -6.0599,
+      43.42559
+     ],
+     [
+      -6.06373,
+      43.39443
+     ],
+     [
+      -6.04518,
+      43.40293
+     ],
+     [
+      -6.01017,
+      43.38989
+     ],
+     [
+      -6.06373,
+      43.39443
+     ],
+     [
+      -5.96758,
+      43.34856
+     ],
+     [
+      -5.96504,
+      43.35647
+     ],
+     [
+      -5.91779,
+      43.35532
+     ],
+     [
+      -5.89687,
+      43.35968
+     ],
+     [
+      -5.88327,
+      43.3639
+     ],
+     [
+      -5.86482,
+      43.3652
+     ],
+     [
+      -5.86482,
+      43.3652
+     ],
+     [
+      -5.85487,
+      43.36636
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "397",
+    "name": "Regional R-1 Ferrol - Ribadeo - Oviedo",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 104,
+    "coords_sta": 98
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.23101,
+     43.48805
+    ]
+   },
+   "properties": {
+    "id": "EST-FERROL",
+    "name": "Ferrol",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.21385,
+     43.49458
+    ]
+   },
+   "properties": {
+    "id": "EST-SANXOAN",
+    "name": "San Xoan",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.20485,
+     43.49656
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRXEDOMAR",
+    "name": "Virxe do Mar",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.2,
+     43.49978
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTACECILIA",
+    "name": "Santa Cecilia",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.195556,
+     43.503194
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTODELCASTANO",
+    "name": "Alto del Castano",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.07792,
+     43.54603
+    ]
+   },
+   "properties": {
+    "id": "EST-PINEIROS",
+    "name": "Piñeiros",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.1776,
+     43.51485
+    ]
+   },
+   "properties": {
+    "id": "EST-PONTO",
+    "name": "Ponto",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.14,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "EST-JUBIA",
+    "name": "Jubia",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.1504,
+     43.52796
+    ]
+   },
+   "properties": {
+    "id": "EST-FERRERIAS",
+    "name": "Ferrerías",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.1402,
+     43.54264
+    ]
+   },
+   "properties": {
+    "id": "EST-SEDES",
+    "name": "Sedes",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.10921,
+     43.53674
+    ]
+   },
+   "properties": {
+    "id": "EST-PEDROSO",
+    "name": "Pedroso",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.077944,
+     43.546028
+    ]
+   },
+   "properties": {
+    "id": "EST-SANSATURNINO",
+    "name": "San Saturnino",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.02194,
+     43.56531
+    ]
+   },
+   "properties": {
+    "id": "EST-LAMAS",
+    "name": "Lamas",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.05,
+     43.53
+    ]
+   },
+   "properties": {
+    "id": "EST-APALLA",
+    "name": "Apalla",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.02194,
+     43.56531
+    ]
+   },
+   "properties": {
+    "id": "EST-MOECHE",
+    "name": "Moeche",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.0,
+     43.54
+    ]
+   },
+   "properties": {
+    "id": "EST-LABACENGOS",
+    "name": "Labacengos",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.96,
+     43.52
+    ]
+   },
+   "properties": {
+    "id": "EST-ENTRAMBASRIAS",
+    "name": "Entrambasrías",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.93461,
+     43.58717
+    ]
+   },
+   "properties": {
+    "id": "EST-CERDIDO",
+    "name": "Cerdido",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.92,
+     43.513
+    ]
+   },
+   "properties": {
+    "id": "EST-CUQUEIRA",
+    "name": "Cuqueira",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.91624,
+     43.64096
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIADEMERA",
+    "name": "Santa Maria de Mera",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.90256,
+     43.66606
+    ]
+   },
+   "properties": {
+    "id": "EST-PONTEDEMERA",
+    "name": "Ponte de Mera",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.873472,
+     43.660944
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCLAUDIO-ACoruna",
+    "name": "San Claudio",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.85453,
+     43.66879
+    ]
+   },
+   "properties": {
+    "id": "EST-SENRA",
+    "name": "Senra",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.84952,
+     43.68626
+    ]
+   },
+   "properties": {
+    "id": "EST-ORTIGUEIRA",
+    "name": "Ortigueira",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.80487,
+     43.70893
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPASANTE",
+    "name": "Espasante",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.702889,
+     43.735722
+    ]
+   },
+   "properties": {
+    "id": "EST-BARQUERO",
+    "name": "Barquero",
+    "province": "A Coruna",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6731,
+     43.73099
+    ]
+   },
+   "properties": {
+    "id": "EST-VICEDO",
+    "name": "Vicedo",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.49,
+     43.676
+    ]
+   },
+   "properties": {
+    "id": "EST-MOSENDE",
+    "name": "Mosende",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.46,
+     43.67
+    ]
+   },
+   "properties": {
+    "id": "EST-FOLGUEIRO",
+    "name": "Folgueiro",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6002,
+     43.65687
+    ]
+   },
+   "properties": {
+    "id": "EST-VIVERO",
+    "name": "Vivero",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.42,
+     43.67
+    ]
+   },
+   "properties": {
+    "id": "EST-JUANCES",
+    "name": "Juances",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.510983,
+     43.683589
+    ]
+   },
+   "properties": {
+    "id": "EST-JOVEPUEBLO",
+    "name": "Jove-Pueblo",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.53704,
+     43.68744
+    ]
+   },
+   "properties": {
+    "id": "EST-JOVE",
+    "name": "Jove",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4,
+     43.67
+    ]
+   },
+   "properties": {
+    "id": "EST-BIDUEIROS",
+    "name": "Bidueiros",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.441861,
+     43.692167
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCIPRIAN",
+    "name": "San Ciprian",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.39,
+     43.65
+    ]
+   },
+   "properties": {
+    "id": "EST-MADEIRO",
+    "name": "Madeiro",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.36085,
+     43.6596
+    ]
+   },
+   "properties": {
+    "id": "EST-BURELA",
+    "name": "Burela",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.38,
+     43.62
+    ]
+   },
+   "properties": {
+    "id": "EST-CANGASDEFOZ",
+    "name": "Cangas de Foz",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.37,
+     43.59
+    ]
+   },
+   "properties": {
+    "id": "EST-NOIS",
+    "name": "Nois",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.33,
+     43.57
+    ]
+   },
+   "properties": {
+    "id": "EST-FAZOURO",
+    "name": "Fazouro",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.26946,
+     43.57478
+    ]
+   },
+   "properties": {
+    "id": "EST-MARZAN",
+    "name": "Marzán",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.27203,
+     43.561
+    ]
+   },
+   "properties": {
+    "id": "EST-FOZ",
+    "name": "Foz",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.22531,
+     43.54742
+    ]
+   },
+   "properties": {
+    "id": "EST-BARREIROS",
+    "name": "Barreiros",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.25,
+     43.55
+    ]
+   },
+   "properties": {
+    "id": "EST-REINANTE",
+    "name": "Reinante",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.14603,
+     43.55175
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTEIRO",
+    "name": "Esteiro",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.13102,
+     43.55155
+    ]
+   },
+   "properties": {
+    "id": "EST-OSCASTROS",
+    "name": "Os Castros",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.10865,
+     43.54962
+    ]
+   },
+   "properties": {
+    "id": "EST-RINLO",
+    "name": "Rinlo",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.055619,
+     43.53603
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBADEO",
+    "name": "Ribadeo",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.05058,
+     43.47314
+    ]
+   },
+   "properties": {
+    "id": "EST-VEGADEOPUEBLO",
+    "name": "Vegadeo-Pueblo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.01385,
+     43.50889
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTROPOL",
+    "name": "Castropol",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.977086,
+     43.520408
+    ]
+   },
+   "properties": {
+    "id": "EST-LASCAMPAS-Castropol",
+    "name": "Las Campas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.90929,
+     43.53498
+    ]
+   },
+   "properties": {
+    "id": "EST-TOL",
+    "name": "Tol",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.90938,
+     43.53505
+    ]
+   },
+   "properties": {
+    "id": "EST-TAPIADECASARIEGO",
+    "name": "Tapia de Casariego",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.82756,
+     43.54708
+    ]
+   },
+   "properties": {
+    "id": "EST-LACARIDAD",
+    "name": "La Caridad",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.97,
+     43.56
+    ]
+   },
+   "properties": {
+    "id": "EST-CARTAVIO",
+    "name": "Cartavio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.88,
+     43.518
+    ]
+   },
+   "properties": {
+    "id": "EST-LOZA",
+    "name": "Loza",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.82,
+     43.555
+    ]
+   },
+   "properties": {
+    "id": "EST-MEDAL",
+    "name": "Medal",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.71994,
+     43.53656
+    ]
+   },
+   "properties": {
+    "id": "EST-NAVIA",
+    "name": "Navia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.64,
+     43.568
+    ]
+   },
+   "properties": {
+    "id": "EST-PINERAVILLAORIL",
+    "name": "Piñera-Villaoril",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.62,
+     43.565
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAPEDRE",
+    "name": "Villapedre",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.58,
+     43.562
+    ]
+   },
+   "properties": {
+    "id": "EST-OTUR",
+    "name": "Otur",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.53667,
+     43.53758
+    ]
+   },
+   "properties": {
+    "id": "EST-LUARCA",
+    "name": "Luarca",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.50823,
+     43.54675
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCIA",
+    "name": "Barcia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.54,
+     43.562
+    ]
+   },
+   "properties": {
+    "id": "EST-CANERO",
+    "name": "Canero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.41525,
+     43.547222
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCRISTOBAL",
+    "name": "San Cristobal",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.39182,
+     43.54289
+    ]
+   },
+   "properties": {
+    "id": "EST-CADAVEDO",
+    "name": "Cadavedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.49,
+     43.565
+    ]
+   },
+   "properties": {
+    "id": "EST-TABLIZO",
+    "name": "Tablizo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.46,
+     43.568
+    ]
+   },
+   "properties": {
+    "id": "EST-BALLOTA",
+    "name": "Ballota",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.30513,
+     43.55265
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARINA",
+    "name": "Santa Marina",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.43,
+     43.57
+    ]
+   },
+   "properties": {
+    "id": "EST-NOVELLANA",
+    "name": "Novellana",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4,
+     43.572
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDREDO",
+    "name": "Valdredo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.23457,
+     43.55966
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTODELUINA",
+    "name": "Soto de Luina",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.24822,
+     43.54401
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCOSME",
+    "name": "San Cosme",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.22886,
+     43.54453
+    ]
+   },
+   "properties": {
+    "id": "EST-SANMARTINDELUINA",
+    "name": "San Martin de Luina",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.18495,
+     43.55923
+    ]
+   },
+   "properties": {
+    "id": "EST-LAMAGDALENA",
+    "name": "La Magdalena",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.15548,
+     43.55702
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLADEMAR",
+    "name": "Villademar",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.15216,
+     43.55091
+    ]
+   },
+   "properties": {
+    "id": "EST-CUDILLERO",
+    "name": "Cudillero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.35,
+     43.575
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPITOPINERA",
+    "name": "El Pito-Piñera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.10361,
+     43.54889
+    ]
+   },
+   "properties": {
+    "id": "EST-MUROSDENALON",
+    "name": "Muros de Nalón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.09731,
+     43.51229
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSCABOS",
+    "name": "Los Cabos",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.188,
+     43.38745
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIANES",
+    "name": "Santianes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.11062,
+     43.49114
+    ]
+   },
+   "properties": {
+    "id": "EST-PRAVIA",
+    "name": "Pravia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.09706,
+     43.46942
+    ]
+   },
+   "properties": {
+    "id": "EST-BEIFAR",
+    "name": "Beifar",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.07716,
+     43.44886
+    ]
+   },
+   "properties": {
+    "id": "EST-SANROMAN",
+    "name": "San Román",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.06579,
+     43.43991
+    ]
+   },
+   "properties": {
+    "id": "EST-ACES",
+    "name": "Aces",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.0599,
+     43.42559
+    ]
+   },
+   "properties": {
+    "id": "EST-SANDICHE",
+    "name": "Sandiche",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.06373,
+     43.39443
+    ]
+   },
+   "properties": {
+    "id": "EST-GRADO",
+    "name": "Grado",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.04518,
+     43.40293
+    ]
+   },
+   "properties": {
+    "id": "EST-PENAFLORASTURIAS",
+    "name": "Peñaflor",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.01017,
+     43.38989
+    ]
+   },
+   "properties": {
+    "id": "EST-VEGADEANZO",
+    "name": "Vega de Anzo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.06373,
+     43.39443
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIADEGRADO",
+    "name": "Santa María de Grado",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.96758,
+     43.34856
+    ]
+   },
+   "properties": {
+    "id": "EST-TRUBIA",
+    "name": "Trubia",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.96504,
+     43.35647
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTOUDRION",
+    "name": "Soto-Udrión",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.91779,
+     43.35532
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCLAUDIO",
+    "name": "San Claudio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.89687,
+     43.35968
+    ]
+   },
+   "properties": {
+    "id": "EST-LASMAZAS",
+    "name": "Las Mazas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.88327,
+     43.3639
+    ]
+   },
+   "properties": {
+    "id": "EST-LASCAMPAS",
+    "name": "Las Campas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86482,
+     43.3652
+    ]
+   },
+   "properties": {
+    "id": "EST-ARGANOSA",
+    "name": "Argañosa",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86482,
+     43.3652
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLOBIN",
+    "name": "Vallobín",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

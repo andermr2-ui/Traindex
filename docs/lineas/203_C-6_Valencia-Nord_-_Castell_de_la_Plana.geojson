@@ -1,0 +1,420 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.33467,
+      39.47007
+     ],
+     [
+      -0.32371,
+      39.52648
+     ],
+     [
+      -0.32053,
+      39.5431
+     ],
+     [
+      -0.31812,
+      39.55568
+     ],
+     [
+      -0.3119,
+      39.58819
+     ],
+     [
+      -0.30966,
+      39.58854
+     ],
+     [
+      -0.27141,
+      39.67567
+     ],
+     [
+      -0.23965,
+      39.71926
+     ],
+     [
+      -0.21843,
+      39.74876
+     ],
+     [
+      -0.20296,
+      39.76777
+     ],
+     [
+      -0.19031,
+      39.78278
+     ],
+     [
+      -0.16236,
+      39.82088
+     ],
+     [
+      -0.15224,
+      39.85297
+     ],
+     [
+      -0.10405,
+      39.8965
+     ],
+     [
+      -0.09654,
+      39.93296
+     ],
+     [
+      -0.07676,
+      39.95484
+     ],
+     [
+      -0.00226,
+      39.97506
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "203",
+    "name": "C-6 Valencia-Nord - Castelló de la Plana",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.33467,
+     39.47007
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIACABANYAL",
+    "name": "València-Cabanyal",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.32371,
+     39.52648
+    ]
+   },
+   "properties": {
+    "id": "EST-ROCACUPER",
+    "name": "Roca-Cúper",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.32053,
+     39.5431
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBUIXECH",
+    "name": "Albuixech",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.31812,
+     39.55568
+    ]
+   },
+   "properties": {
+    "id": "EST-MASSALFASSAR",
+    "name": "Massalfassar",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3119,
+     39.58819
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPUIG",
+    "name": "El Puig",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.30966,
+     39.58854
+    ]
+   },
+   "properties": {
+    "id": "EST-PUIGVALENCIA",
+    "name": "Puig-València",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.27141,
+     39.67567
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGUNT",
+    "name": "Sagunt",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.23965,
+     39.71926
+    ]
+   },
+   "properties": {
+    "id": "EST-LESVALLS",
+    "name": "Les Valls",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.21843,
+     39.74876
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMENARA",
+    "name": "Almenara",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.20296,
+     39.76777
+    ]
+   },
+   "properties": {
+    "id": "EST-LALLOSA",
+    "name": "La Llosa",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.19031,
+     39.78278
+    ]
+   },
+   "properties": {
+    "id": "EST-XILXES",
+    "name": "Xilxes",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.16236,
+     39.82088
+    ]
+   },
+   "properties": {
+    "id": "EST-MONCOFA",
+    "name": "Moncofa",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.15224,
+     39.85297
+    ]
+   },
+   "properties": {
+    "id": "EST-NULESLAVILAVELLA",
+    "name": "Nules-La Vilavella",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.10405,
+     39.8965
+    ]
+   },
+   "properties": {
+    "id": "EST-BORRIANAALQUERIAS",
+    "name": "Borriana-Alquerías",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.09654,
+     39.93296
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAREAL",
+    "name": "Vila-real",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.07676,
+     39.95484
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMASSORA",
+    "name": "Almassora",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.00226,
+     39.97506
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLODELAPLANA",
+    "name": "Castelló de la Plana",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

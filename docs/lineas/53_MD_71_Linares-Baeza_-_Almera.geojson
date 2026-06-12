@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.60863,
+      37.18369
+     ],
+     [
+      -3.52776,
+      37.39582
+     ],
+     [
+      -3.31075,
+      37.43113
+     ],
+     [
+      -3.29832,
+      37.58543
+     ],
+     [
+      -3.26237,
+      37.65659
+     ],
+     [
+      -3.18653,
+      37.71728
+     ],
+     [
+      -3.2317,
+      37.77714
+     ],
+     [
+      -3.35018,
+      37.91348
+     ],
+     [
+      -3.58914,
+      38.06908
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "53",
+    "name": "MD 71 Linares-Baeza - Almería",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60863,
+     37.18369
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANADA",
+    "name": "Granada",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.52776,
+     37.39582
+    ]
+   },
+   "properties": {
+    "id": "EST-IZNALLOZ",
+    "name": "Iznalloz",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.31075,
+     37.43113
+    ]
+   },
+   "properties": {
+    "id": "EST-MOREDA",
+    "name": "Moreda",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.29832,
+     37.58543
+    ]
+   },
+   "properties": {
+    "id": "EST-ALAMEDILLAGUADAHORTUNA",
+    "name": "Alamedilla-Guadahortuna",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.26237,
+     37.65659
+    ]
+   },
+   "properties": {
+    "id": "EST-CABRADELSANTOCRISTOYALICUN",
+    "name": "Cabra del Santo Cristo y Alicún",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18653,
+     37.71728
+    ]
+   },
+   "properties": {
+    "id": "EST-HUESA",
+    "name": "Huesa",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.2317,
+     37.77714
+    ]
+   },
+   "properties": {
+    "id": "EST-LARVA",
+    "name": "Larva",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.35018,
+     37.91348
+    ]
+   },
+   "properties": {
+    "id": "EST-JODARUBEDA",
+    "name": "Jódar-Úbeda",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.58914,
+     38.06908
+    ]
+   },
+   "properties": {
+    "id": "EST-LINARESBAEZA",
+    "name": "Linares-Baeza",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

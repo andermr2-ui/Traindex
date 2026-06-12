@@ -1,0 +1,420 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.13558,
+      38.54828
+     ],
+     [
+      -0.12339,
+      38.54832
+     ],
+     [
+      -0.10417,
+      38.55942
+     ],
+     [
+      -0.09296,
+      38.56765
+     ],
+     [
+      -0.0791,
+      38.57474
+     ],
+     [
+      -0.06955,
+      38.56923
+     ],
+     [
+      -0.05218,
+      38.5959
+     ],
+     [
+      -0.04792,
+      38.60223
+     ],
+     [
+      -0.03255,
+      38.61265
+     ],
+     [
+      -0.05218,
+      38.5959
+     ],
+     [
+      0.03291,
+      38.64993
+     ],
+     [
+      0.02326,
+      38.67198
+     ],
+     [
+      0.07646,
+      38.71501
+     ],
+     [
+      0.09797,
+      38.72925
+     ],
+     [
+      0.08739,
+      38.77522
+     ],
+     [
+      0.0638,
+      38.82298
+     ],
+     [
+      -0.10405,
+      39.8965
+     ],
+     [
+      -0.02647,
+      38.86905
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "219",
+    "name": "L9 Benidorm - Dénia",
+    "type": "Regional",
+    "operator": "TRAM d'Alacant",
+    "stroke": "#7F7F7F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 19,
+    "coords_sta": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.13558,
+     38.54828
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIDORM",
+    "name": "Benidorm",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.12339,
+     38.54832
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIDORMINTERMODAL",
+    "name": "Benidorm Intermodal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.10417,
+     38.55942
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMICOVES",
+    "name": "Camí Coves",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.09296,
+     38.56765
+    ]
+   },
+   "properties": {
+    "id": "EST-LALFASDELPI",
+    "name": "L'Alfàs del Pi",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0791,
+     38.57474
+    ]
+   },
+   "properties": {
+    "id": "EST-VENTORRILLO",
+    "name": "Ventorrillo",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.06955,
+     38.56923
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBIR",
+    "name": "Albir",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.05218,
+     38.5959
+    ]
+   },
+   "properties": {
+    "id": "EST-ALTEA",
+    "name": "Altea",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.04792,
+     38.60223
+    ]
+   },
+   "properties": {
+    "id": "EST-GARGANES",
+    "name": "Garganes",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.03255,
+     38.61265
+    ]
+   },
+   "properties": {
+    "id": "EST-CAPNEGRET",
+    "name": "Cap Negret",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.05218,
+     38.5959
+    ]
+   },
+   "properties": {
+    "id": "EST-OLLADEALTEA",
+    "name": "Olla de Altea",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.03291,
+     38.64993
+    ]
+   },
+   "properties": {
+    "id": "EST-CALP",
+    "name": "Calp",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.02326,
+     38.67198
+    ]
+   },
+   "properties": {
+    "id": "EST-FERRANDET",
+    "name": "Ferrandet",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.07646,
+     38.71501
+    ]
+   },
+   "properties": {
+    "id": "EST-BENISSA",
+    "name": "Benissa",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.09797,
+     38.72925
+    ]
+   },
+   "properties": {
+    "id": "EST-TEULADA",
+    "name": "Teulada",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.08739,
+     38.77522
+    ]
+   },
+   "properties": {
+    "id": "EST-GATA",
+    "name": "Gata",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.0638,
+     38.82298
+    ]
+   },
+   "properties": {
+    "id": "EST-LAXARA",
+    "name": "La Xara",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.10405,
+     39.8965
+    ]
+   },
+   "properties": {
+    "id": "EST-ALQUERIES",
+    "name": "Alqueries",
+    "province": "Castellon",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.02647,
+     38.86905
+    ]
+   },
+   "properties": {
+    "id": "EST-DENIA",
+    "name": "Dénia",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#7F7F7F"
+   }
+  }
+ ]
+}

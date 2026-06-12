@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.70941,
+      40.41798
+     ],
+     [
+      -3.71933,
+      40.42096
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "143",
+    "name": "Ramal Ópera - Príncipe Pío",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#FFFFFF",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70941,
+     40.41798
+    ]
+   },
+   "properties": {
+    "id": "EST-OPERA",
+    "name": "Ópera",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFFFFF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71933,
+     40.42096
+    ]
+   },
+   "properties": {
+    "id": "EST-PRINCIPEPIO",
+    "name": "Príncipe Pío",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFFFFF"
+   }
+  }
+ ]
+}

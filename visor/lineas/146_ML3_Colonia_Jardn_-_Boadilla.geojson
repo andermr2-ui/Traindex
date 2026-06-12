@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.7748,
+      40.39686
+     ],
+     [
+      -3.78399,
+      40.39709
+     ],
+     [
+      -3.78992,
+      40.39526
+     ],
+     [
+      -3.79568,
+      40.39454
+     ],
+     [
+      -5.95041,
+      37.36777
+     ],
+     [
+      -3.81674,
+      40.39872
+     ],
+     [
+      -3.83579,
+      40.39794
+     ],
+     [
+      -3.83807,
+      40.3942
+     ],
+     [
+      -3.84769,
+      40.39502
+     ],
+     [
+      -3.86433,
+      40.39529
+     ],
+     [
+      -3.87938,
+      40.40197
+     ],
+     [
+      -3.88008,
+      40.40717
+     ],
+     [
+      -3.88569,
+      40.40564
+     ],
+     [
+      -3.89264,
+      40.40513
+     ],
+     [
+      -3.89741,
+      40.40594
+     ],
+     [
+      -3.90401,
+      40.40785
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "146",
+    "name": "ML3 Colonia Jardín - Boadilla",
+    "type": "Tranvía",
+    "operator": "Metro Ligero Oeste",
+    "stroke": "#FF6600",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7748,
+     40.39686
+    ]
+   },
+   "properties": {
+    "id": "EST-COLONIAJARDIN",
+    "name": "Colonia Jardín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78399,
+     40.39709
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADDELAIMAGEN",
+    "name": "Ciudad de la Imagen",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78992,
+     40.39526
+    ]
+   },
+   "properties": {
+    "id": "EST-JOSEISBERT",
+    "name": "José Isbert",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79568,
+     40.39454
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADDELCINE",
+    "name": "Ciudad del Cine",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.95041,
+     37.36777
+    ]
+   },
+   "properties": {
+    "id": "EST-COCHERAS-Sevilla-Sevilla",
+    "name": "Cocheras",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81674,
+     40.39872
+    ]
+   },
+   "properties": {
+    "id": "EST-RETAMARES",
+    "name": "Retamares",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83579,
+     40.39794
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTEPRINCIPE",
+    "name": "Montepríncipe",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.83807,
+     40.3942
+    ]
+   },
+   "properties": {
+    "id": "EST-VENTORRODELCANO",
+    "name": "Ventorro del Cano",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.84769,
+     40.39502
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADODELESPINO",
+    "name": "Prado del Espino",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.86433,
+     40.39529
+    ]
+   },
+   "properties": {
+    "id": "EST-CANTABRIA",
+    "name": "Cantabria",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.87938,
+     40.40197
+    ]
+   },
+   "properties": {
+    "id": "EST-FERIALDEBOADILLA",
+    "name": "Ferial de Boadilla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.88008,
+     40.40717
+    ]
+   },
+   "properties": {
+    "id": "EST-BOADILLACENTRO",
+    "name": "Boadilla Centro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.88569,
+     40.40564
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOMUNDO",
+    "name": "Nuevo Mundo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.89264,
+     40.40513
+    ]
+   },
+   "properties": {
+    "id": "EST-SIGLOXXI",
+    "name": "Siglo XXI",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.89741,
+     40.40594
+    ]
+   },
+   "properties": {
+    "id": "EST-INFANTEDONLUIS",
+    "name": "Infante Don Luis",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.90401,
+     40.40785
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTADEBOADILLA",
+    "name": "Puerta de Boadilla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF6600"
+   }
+  }
+ ]
+}

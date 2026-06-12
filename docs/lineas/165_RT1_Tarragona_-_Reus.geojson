@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.25354,
+      41.11122
+     ],
+     [
+      1.15044,
+      41.11288
+     ],
+     [
+      1.09994,
+      41.1606
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "165",
+    "name": "RT1 Tarragona - Reus",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#EFA6B2",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 3,
+    "coords_sta": 3
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.25354,
+     41.11122
+    ]
+   },
+   "properties": {
+    "id": "EST-TARRAGONA",
+    "name": "Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EFA6B2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.15044,
+     41.11288
+    ]
+   },
+   "properties": {
+    "id": "EST-VILASECA",
+    "name": "Vila-seca",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EFA6B2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.09994,
+     41.1606
+    ]
+   },
+   "properties": {
+    "id": "EST-REUS",
+    "name": "Reus",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EFA6B2"
+   }
+  }
+ ]
+}

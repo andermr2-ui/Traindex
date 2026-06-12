@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18752,
+      41.40221
+     ],
+     [
+      2.20539,
+      41.53737
+     ],
+     [
+      2.19351,
+      41.40802
+     ],
+     [
+      2.15798,
+      41.39287
+     ],
+     [
+      2.20971,
+      41.42037
+     ],
+     [
+      2.20971,
+      41.42037
+     ],
+     [
+      2.22195,
+      41.42265
+     ],
+     [
+      1.83336,
+      41.58876
+     ],
+     [
+      2.18252,
+      41.40707
+     ],
+     [
+      2.23369,
+      41.44044
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "191",
+    "name": "T5 Glòries - Gorg",
+    "type": "Tranvía",
+    "operator": "Tram",
+    "stroke": "#91278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18752,
+     41.40221
+    ]
+   },
+   "properties": {
+    "id": "EST-GLORIES",
+    "name": "Glòries",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20539,
+     41.53737
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFARINERA",
+    "name": "La Farinera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19351,
+     41.40802
+    ]
+   },
+   "properties": {
+    "id": "EST-CANJAUMANDREU",
+    "name": "Can Jaumandreu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15798,
+     41.39287
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTMARTIDEPROVENCALS",
+    "name": "Sant Martí de Provençals",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20971,
+     41.42037
+    ]
+   },
+   "properties": {
+    "id": "EST-BESOS",
+    "name": "Besòs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20971,
+     41.42037
+    ]
+   },
+   "properties": {
+    "id": "EST-PARCDELBESOS",
+    "name": "Parc del Besòs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.22195,
+     41.42265
+    ]
+   },
+   "properties": {
+    "id": "EST-LACATALANA",
+    "name": "La Catalana",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.83336,
+     41.58876
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTJOANBAPTISTA",
+    "name": "Sant Joan Baptista",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18252,
+     41.40707
+    ]
+   },
+   "properties": {
+    "id": "EST-ENCANTSDESANTADRIA",
+    "name": "Encants de Sant Adrià",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23369,
+     41.44044
+    ]
+   },
+   "properties": {
+    "id": "EST-GORG",
+    "name": "Gorg",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#91278F"
+   }
+  }
+ ]
+}

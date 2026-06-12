@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.91314,
+      38.98487
+     ],
+     [
+      -4.11194,
+      38.69129
+     ],
+     [
+      -4.78952,
+      37.88851
+     ],
+     [
+      -4.82223,
+      37.35892
+     ],
+     [
+      -4.71971,
+      37.07017
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "288",
+    "name": "Avlo Madrid - Málaga",
+    "type": "Avlo",
+    "operator": "Renfe",
+    "stroke": "#8B008B",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B008B"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B008B"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11194,
+     38.69129
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOLLANO",
+    "name": "Puertollano",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B008B"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.78952,
+     37.88851
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBACENTRAL",
+    "name": "Córdoba-Central",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B008B"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.82223,
+     37.35892
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTEGENILHERRERA",
+    "name": "Puente Genil-Herrera",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B008B"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.71971,
+     37.07017
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERASANTAANA",
+    "name": "Antequera-Santa Ana",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B008B"
+   }
+  }
+ ]
+}

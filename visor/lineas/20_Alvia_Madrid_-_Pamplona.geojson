@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.18225,
+      40.64408
+     ],
+     [
+      -1.63842,
+      41.34636
+     ],
+     [
+      -1.59767,
+      42.0595
+     ],
+     [
+      -1.69244,
+      42.17287
+     ],
+     [
+      -1.67121,
+      42.52575
+     ],
+     [
+      -1.66149,
+      42.82505
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "20",
+    "name": "Alvia Madrid - Pamplona",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#0071BC",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18225,
+     40.64408
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALAJARAYEBES",
+    "name": "Guadalajara-Yebes",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.63842,
+     41.34636
+    ]
+   },
+   "properties": {
+    "id": "EST-CALATAYUD",
+    "name": "Calatayud",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59767,
+     42.0595
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELADENAVARRA",
+    "name": "Tudela de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67121,
+     42.52575
+    ]
+   },
+   "properties": {
+    "id": "EST-TAFALLA",
+    "name": "Tafalla",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66149,
+     42.82505
+    ]
+   },
+   "properties": {
+    "id": "EST-PAMPLONA",
+    "name": "Pamplona",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.1343,
+      36.4087
+     ],
+     [
+      -6.14317,
+      36.41439
+     ],
+     [
+      -6.14472,
+      36.42054
+     ],
+     [
+      -6.14451,
+      36.44051
+     ],
+     [
+      -6.17568,
+      36.46653
+     ],
+     [
+      -6.19108,
+      36.46774
+     ],
+     [
+      -6.19554,
+      36.46625
+     ],
+     [
+      -6.199,
+      36.464
+     ],
+     [
+      -6.20103,
+      36.46048
+     ],
+     [
+      -6.20352,
+      36.45817
+     ],
+     [
+      -6.20962,
+      36.45594
+     ],
+     [
+      -6.21599,
+      36.45625
+     ],
+     [
+      -6.22469,
+      36.45753
+     ],
+     [
+      -6.26811,
+      36.49436
+     ],
+     [
+      -6.27205,
+      36.50292
+     ],
+     [
+      -6.27696,
+      36.5135
+     ],
+     [
+      -6.28062,
+      36.52139
+     ],
+     [
+      -6.294,
+      36.537
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "238",
+    "name": "T1 TramBahía Cádiz - Chiclana",
+    "type": "Tren-Tram",
+    "operator": "Renfe",
+    "stroke": "#F37021",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 21,
+    "coords_sta": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.1343,
+     36.4087
+    ]
+   },
+   "properties": {
+    "id": "EST-PELAGATOS",
+    "name": "Pelagatos",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.14317,
+     36.41439
+    ]
+   },
+   "properties": {
+    "id": "EST-REYESCATOLICOS-Cadiz",
+    "name": "Reyes Católicos",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.14472,
+     36.42054
+    ]
+   },
+   "properties": {
+    "id": "EST-NUESTRASENORADELOSREMEDIOS",
+    "name": "Nuestra Señora de Los Remedios",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.14451,
+     36.44051
+    ]
+   },
+   "properties": {
+    "id": "EST-PINARDELOSFRANCESES",
+    "name": "Pinar de los Franceses",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.17568,
+     36.46653
+    ]
+   },
+   "properties": {
+    "id": "EST-TRESCAMINOS",
+    "name": "Tres Caminos",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.19108,
+     36.46774
+    ]
+   },
+   "properties": {
+    "id": "EST-VENTADEVARGAS",
+    "name": "Venta de Vargas",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.19554,
+     36.46625
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADELAIGLESIA",
+    "name": "Plaza de la Iglesia",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.199,
+     36.464
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADELREY",
+    "name": "Plaza del Rey",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20103,
+     36.46048
+    ]
+   },
+   "properties": {
+    "id": "EST-COMPANIADEMARIA",
+    "name": "Compañía de María",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20352,
+     36.45817
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADELCARMEN",
+    "name": "Plaza del Carmen",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20962,
+     36.45594
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTOENTIERRO",
+    "name": "Santo Entierro",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.21599,
+     36.45625
+    ]
+   },
+   "properties": {
+    "id": "EST-ARDILA",
+    "name": "Ardila",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.22469,
+     36.45753
+    ]
+   },
+   "properties": {
+    "id": "EST-RIOARILLO",
+    "name": "Río Arillo",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.26811,
+     36.49436
+    ]
+   },
+   "properties": {
+    "id": "EST-CORTADURA",
+    "name": "Cortadura",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.27205,
+     36.50292
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTADIO",
+    "name": "Estadio",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.27696,
+     36.5135
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGUNDAAGUADA",
+    "name": "Segunda Aguada",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.28062,
+     36.52139
+    ]
+   },
+   "properties": {
+    "id": "EST-SANSEVERIANO",
+    "name": "San Severiano",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.294,
+     36.537
+    ]
+   },
+   "properties": {
+    "id": "EST-CADIZ",
+    "name": "Cádiz",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  }
+ ]
+}

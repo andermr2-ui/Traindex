@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -4.00815,
+      40.62638
+     ],
+     [
+      -4.13232,
+      40.58526
+     ],
+     [
+      -4.15797,
+      40.53863
+     ],
+     [
+      -4.24714,
+      40.52122
+     ],
+     [
+      -4.26932,
+      40.56882
+     ],
+     [
+      -4.36162,
+      40.58916
+     ],
+     [
+      -4.40863,
+      40.59093
+     ],
+     [
+      -4.49501,
+      40.59935
+     ],
+     [
+      -4.68332,
+      40.65721
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "380",
+    "name": "Regional 51 Madrid - Ávila (Se requiere transbordo en El Escorial)",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHA",
+    "name": "Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTIN",
+    "name": "Madrid-Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.00815,
+     40.62638
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLALBADEGUADARRAMA",
+    "name": "Villalba de Guadarrama",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.13232,
+     40.58526
+    ]
+   },
+   "properties": {
+    "id": "EST-ELESCORIAL",
+    "name": "El Escorial",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.15797,
+     40.53863
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARZALEJO",
+    "name": "Zarzalejo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.24714,
+     40.52122
+    ]
+   },
+   "properties": {
+    "id": "EST-ROBLEDODECHAVELA",
+    "name": "Robledo de Chavela",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.26932,
+     40.56882
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIADELAALAMEDA",
+    "name": "Santa María de la Alameda",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.36162,
+     40.58916
+    ]
+   },
+   "properties": {
+    "id": "EST-LASNAVASDELMARQUES",
+    "name": "Las Navas del Marqués",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.40863,
+     40.59093
+    ]
+   },
+   "properties": {
+    "id": "EST-NAVALPERAL",
+    "name": "Navalperal",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.49501,
+     40.59935
+    ]
+   },
+   "properties": {
+    "id": "EST-HERRADONLACANADA",
+    "name": "Herradón-La Cañada",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.68332,
+     40.65721
+    ]
+   },
+   "properties": {
+    "id": "EST-AVILA",
+    "name": "Ávila",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      0.63304,
+      41.62073
+     ],
+     [
+      0.7816,
+      41.63175
+     ],
+     [
+      0.89688,
+      41.63195
+     ],
+     [
+      0.93086,
+      41.63592
+     ],
+     [
+      0.96797,
+      41.63738
+     ],
+     [
+      1.01297,
+      41.6326
+     ],
+     [
+      1.07898,
+      41.6464
+     ],
+     [
+      1.13883,
+      41.6503
+     ],
+     [
+      1.27472,
+      41.6737
+     ],
+     [
+      1.42063,
+      41.65585
+     ],
+     [
+      1.51519,
+      41.73015
+     ],
+     [
+      1.69858,
+      41.73236
+     ],
+     [
+      1.82663,
+      41.72026
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "164",
+    "name": "RL4 Lleida Pirineus - Manresa",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#00763C",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.63304,
+     41.62073
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEIDAPIRINEUS",
+    "name": "Lleida Pirineus",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.7816,
+     41.63175
+    ]
+   },
+   "properties": {
+    "id": "EST-BELLLLOCDURGELL",
+    "name": "Bell-lloc d'Urgell",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.89688,
+     41.63195
+    ]
+   },
+   "properties": {
+    "id": "EST-MOLLERUSSA",
+    "name": "Mollerussa",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.93086,
+     41.63592
+    ]
+   },
+   "properties": {
+    "id": "EST-GOLMES",
+    "name": "Golmés",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.96797,
+     41.63738
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLNOUDESEANA",
+    "name": "Castellnou de Seana",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.01297,
+     41.6326
+    ]
+   },
+   "properties": {
+    "id": "EST-BELLPUIG",
+    "name": "Bellpuig",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.07898,
+     41.6464
+    ]
+   },
+   "properties": {
+    "id": "EST-ANGLESOLA",
+    "name": "Anglesola",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.13883,
+     41.6503
+    ]
+   },
+   "properties": {
+    "id": "EST-TARREGA",
+    "name": "Tàrrega",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.27472,
+     41.6737
+    ]
+   },
+   "properties": {
+    "id": "EST-CERVERA",
+    "name": "Cervera",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.42063,
+     41.65585
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTGUIMDEFREIXENET",
+    "name": "Sant Guim de Freixenet",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.51519,
+     41.73015
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAF",
+    "name": "Calaf",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.69858,
+     41.73236
+    ]
+   },
+   "properties": {
+    "id": "EST-RAJADELL",
+    "name": "Rajadell",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.82663,
+     41.72026
+    ]
+   },
+   "properties": {
+    "id": "EST-MANRESA",
+    "name": "Manresa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00763C"
+   }
+  }
+ ]
+}

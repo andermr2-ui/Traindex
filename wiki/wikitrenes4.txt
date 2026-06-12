@@ -1,0 +1,176 @@
+﻿
+
+
+Rodalies de Catalunya
+
+R1 (Renfe): Molins de Rei; Sant Feliu de Llobregat; Sant Joan Despí; Cornellà; L'Hospitalet de Llobregat; Barcelona Sants; Barcelona Plaça de Catalunya; Barcelona Arc de Triomf; Barcelona El Clot Aragó; Badalona; Montgat; Montgat Nord; El Masnou; Ocata; Premià de Mar; Vilassar de Mar; Santa Susanna; Cabrera de Mar-Vilassar de Mar; Mataró; Sant Andreu de Llavaneres; Caldes d'Estrac; Arenys de Mar; Canet de Mar; Sant Pol de Mar; Calella; Pineda de Mar; Santa Susanna; Malgrat de Mar; Blanes; Tordera; Maçanet-Massanes
+
+R2 (Renfe): Castelldefels; Gavà; Viladecans; Sant Boi de Llobregat (estación técnica); El Prat de Llobregat; Bellvitge; Barcelona Sants; Barcelona Passeig de Gràcia; Barcelona El Clot Aragó; Barcelona Sant Andreu; Montcada i Reixac; La Llagosta; Mollet-Sant Fost; Montmeló; Granollers Centre
+
+R2 Nord (Renfe): Aeroport; El Prat de Llobregat; Bellvitge; Barcelona Sants; Barcelona Passeig de Gràcia; Barcelona El Clot Aragó; Barcelona Sant Andreu; Montcada i Reixac; La Llagosta; Mollet-Sant Fost; Montmeló; Granollers Centre; Les Franqueses del Vallès; Cardedeu; Llinars del Vallès; Palautordera; Sant Celoni; Gualba; Riells i Viabrea-Breda; Hostalric; Maçanet-Massanes
+
+R2 Sud (Renfe): Sant Vicenç de Calders; Calafell; Segur de Calafell; Cunit; Cubelles; Vilanova i la Geltrú; Sitges; Garraf; Platja de Castelldefels; Castelldefels; Gavà; Viladecans; El Prat de Llobregat; Bellvitge; Barcelona Sants; Barcelona Passeig de Gràcia; Barcelona Estació de França
+
+R3 (Renfe): L'Hospitalet de Llobregat; Barcelona Sants; Barcelona Plaça de Catalunya; Barcelona Arc de Triomf; Barcelona La Sagrera-Meridiana; Barcelona Sant Andreu Arenal; Barcelona Torre Baró; Montcada Bifurcació; Montcada i Reixac-Manresa; Montcada i Reixac-Santa Maria; Santa Perpètua de Mogoda La Florida; Mollet-Santa Rosa; Parets del Vallès; Granollers-Canovelles; Les Franqueses del Vallès; La Garriga; Figaró; Sant Martí de Centelles; Centelles; Balenyà-Els Hostalets; Balenyà-Tona-Seva; Vic; Manlleu; Torelló; Borgonyà; San Quirze de Besora; La Quirze de Besora; Ripoll; Campdevànol; Ribes de Freser; Planoles; Toses; La Molina; Urtx-Alp; Puigcerdà; Latour-de-Carol-Enveitg
+
+R4 (Renfe): Sant Vicenç de Calders; El Vendrell; L'Arboç; Els Monjos; Vilafranca del Penedès; La Granada; La Beguda (técnica); Sant Sadurní d'Anoia; Gelida; Sant Esteve Sesrovires (técnica); Martorell Central; Castellbisbal; El Papiol; Molins de Rei; Sant Feliu de Llobregat; Sant Joan Despí; Cornellà; L'Hospitalet de Llobregat; Barcelona Sants; Barcelona Plaça de Catalunya; Barcelona Arc de Triomf; Barcelona La Sagrera-Meridiana; Barcelona Sant Andreu Arenal; Barcelona Torre Baró; Montcada Bifurcació; Montcada i Reixac-Manresa; Montcada i Reixac-Santa Maria; Cerdanyola del Vallès; Barberà del Vallès; Sabadell Sud; Sabadell Centre; Sabadell Nord; Terrassa Est; Terrassa; St. Miquel de Gonteres-Viladecavalls; Viladecavalls; Vacarisses-Torreblanca; Vacarisses; Castellbell i el Vilar-Monistrol de Montserrat; Sant Vicente de Castellet; Manresa
+
+R5 (FGC): Barcelona Plaça Espanya; Magòria-La Campana; Ildefons Cerdà; Europa | Fira; Gornal; Sant Josep; L'Hospitalet Av. Carrilet; Almeda; Cornellà Riera; Sant Boi; Molí Nou-Ciutat Cooperativa; Colònia Güell; Santa Coloma de Cervelló; Sant Vicenç dels Horts; Can Ros; Quatre Camins; Pallejà; Sant Andreu de la Barca; El Palau; Martorell Vila | Castellbisbal; Martorell Central; Martorell Enllaç; Castellbell i el Vilar; Monistrol de Montserrat; Bauma; San Vicente de Castellet; Manresa Alta; Manresa Viladordis; Manresa Baixador
+
+R50 (FGC - Semidirecto): Barcelona Plaça Espanya; Ildefons Cerdà; Europa | Fira; L'Hospitalet Av. Carrilet; Sant Boi; Martorell Central; Martorell Enllaç; Castellbell i el Vilar; Monistrol de Montserrat; San Vicente de Castellet; Manresa Alta; Manresa Viladordis; Manresa Baixador
+
+R6 (FGC): Barcelona Plaça Espanya; Magòria-La Campana; Ildefons Cerdà; Europa | Fira; Gornal; Sant Josep; L'Hospitalet Av. Carrilet; Almeda; Cornellà Riera; Sant Boi; Molí Nou-Ciutat Cooperativa; Colònia Güell; Santa Coloma de Cervelló; Sant Vicenç dels Horts; Can Ros; Quatre Camins; Pallejà; Sant Andreu de la Barca; El Palau; Martorell Vila | Castellbisbal; Martorell Central; Martorell Enllaç; Sant Esteve Sesrovires; La Beguda; Can Parellada; Masquefa; Piera; Vallbona d'Anoia; Capellades; Pobla de Claramunt; Vilanova del Camí; Igualada
+
+R60 (FGC - Semidirecto): Barcelona Plaça Espanya; Ildefons Cerdà; Europa | Fira; L'Hospitalet Av. Carrilet; Sant Boi; Martorell Central; Martorell Enllaç; Sant Esteve Sesrovires; Masquefa; Piera; Capellades; Pobla de Claramunt; Vilanova del Camí; Igualada
+
+R7 (Renfe): Barcelona Sant Andreu; Montcada i Reixac-Manresa; Montcada i Reixac-Santa Maria; Cerdanyola del Vallès; Cerdanyola Universitat
+
+R8 (Renfe): Martorell Central; Castellbisbal; Rubí Can Vallhonrat; Sant Cugat Coll Favà; Cerdanyola Universitat; Santa Perpètua de Mogoda Riera de Caldes; Montmeló; Granollers Centre
+
+S1 (FGC - Barcelona-Vallès): Barcelona Plaça Catalunya; Provença; Gràcia; Sant Gervasi; Muntaner; La Bonanova; Les Tres Torres; Sarrià; Peu del Funicular; Baixador de Vallvidrera; Les Planes; La Floresta; Valldoreix; Sant Cugat Centre; Mira-sol; Rubí Centre; Les Fonts; Terrassa Rambla; Vallparadís Universitat; Terrassa Estació del Nord; Terrassa Nacions Unides
+
+S2 (FGC - Barcelona-Vallès): Barcelona Plaça Catalunya; Provença; Gràcia; Sant Gervasi; Muntaner; La Bonanova; Les Tres Torres; Sarrià; Peu del Funicular; Baixador de Vallvidrera; Les Planes; La Floresta; Valldoreix; Sant Cugat Centre; Volpelleres; Sant Joan; Bellaterra; Universitat Autònoma; Sant Quirze; Can Feu | Gràcia; Sabadell Plaça Major; La Creu Alta; Sabadell Nord; Sabadell Parc del Nord
+
+S3 (FGC - Llobregat-Anoia): Barcelona Plaça Espanya; Magòria-La Campana; Ildefons Cerdà; Europa | Fira; Gornal; Sant Josep; L'Hospitalet Av. Carrilet; Almeda; Cornellà Riera; Sant Boi; Molí Nou-Ciutat Cooperativa; Santa Coloma de Cervelló; Colònia Güell; Pallejà; Sant Vicenç dels Horts; Can Ros
+
+S4 (FGC - Llobregat-Anoia): Barcelona Plaça Espanya; Magòria-La Campana; Ildefons Cerdà; Europa | Fira; Gornal; Sant Josep; L'Hospitalet Av. Carrilet; Almeda; Cornellà Riera; Sant Boi; Molí Nou-Ciutat Cooperativa; Santa Coloma de Cervelló; Colònia Güell; Pallejà; Sant Vicenç dels Horts; Can Ros; Quatre Camins; El Palau; Sant Andreu de la Barca; Martorell Vila | Castellbisbal; Martorell Central; Martorell Enllaç; Abrera; Olesa de Montserrat
+
+S8 (FGC - Llobregat-Anoia): Barcelona Plaça Espanya; Magòria-La Campana; Ildefons Cerdà; Europa | Fira; Gornal; Sant Josep; L'Hospitalet Av. Carrilet; Almeda; Cornellà Riera; Sant Boi; Molí Nou-Ciutat Cooperativa; Santa Coloma de Cervelló; Colònia Güell; Pallejà; Sant Vicenç dels Horts; Can Ros; Quatre Camins; El Palau; Sant Andreu de la Barca; Martorell Vila | Castellbisbal; Martorell Central; Martorell Enllaç
+
+S9 (FGC - Llobregat-Anoia): Barcelona Plaça Espanya; Magòria-La Campana; Ildefons Cerdà; Europa | Fira; Gornal; Sant Josep; L'Hospitalet Av. Carrilet; Almeda; Cornellà Riera; Sant Boi; Molí Nou-Ciutat Cooperativa; Santa Coloma de Cervelló; Colònia Güell; Pallejà; Sant Vicenç dels Horts; Can Ros; Quatre Camins
+
+L1 (TMB): Hospital de Bellvitge; Bellvitge; Av. Carrilet; Rambla Just Oliveras; Can Serra; Florida; Torrassa; Santa Eulàlia; Mercat Nou; Plaça de Sants; Espanya; Rocafort; Urgell; Universitat; Catalunya; Urquinaona; Arc de Triomf; Marina; Glòries; Clot; Navas; La Sagrera; Fabra i Puig; Sant Andreu; Torras i Bages; Trinitat Vella; Baró de Viver; Santa Coloma; Fondo
+
+L2 (TMB): Paral·lel; Sant Antoni; Universitat; Passeig de Gràcia; Tetuan; Monumental; Sagrada Família; Encants; Clot; Bac de Roda; Sant Martí; La Pau; Verneda; Artigues | Sant Adrià; Sant Roc; Gorg; Pep Ventura; Badalona Pompeu Fabra
+
+L3 (TMB): Zona Universitària; Palau Reial; Maria Cristina; Les Corts; Plaça del Centre; Sants Estació; Tarragona; Espanya; Poble Sec; Paral·lel; Drassanes; Liceu; Catalunya; Passeig de Gràcia; Diagonal; Fontana; Lesseps; Vallcarca; Penitents; Vall d'Hebron; Montbau; Mundet; Valldaura; Canyelles; Roquetes; Trinitat Nova
+
+L4 (TMB): Trinitat Nova; Via Júlia; Llucmajor; Maragall; Guinardó | Hospital de Sant Pau; Alfons X; Joanic; Verdaguer; Girona; Passeig de Gràcia; Urquinaona; Jaume I; Barceloneta; Ciutadella | Vila Olímpica; Bogatell; Llacuna; Poblenou; Selva de Mar; El Maresme | Fòrum; Besòs Mar; Besòs; La Pau
+
+L5 (TMB): Cornellà Centre; Gavarra; Sant Ildefons; Can Boixeres; Can Vidalet; Pubilla Cases; Ernest Lluch; Collblanc; Badal; Plaça de Sants; Sants Estació; Entença; Hospital Clínic; Diagonal; Verdaguer; Sagrada Família; Sant Pau | Dos de Maig; Camp de l'Arpa; La Sagrera; Congrés; Maragall; Virrei Amat; Vilapicina; Horta; El Carmel; El Coll | La Teixonera; Vall d'Hebron
+
+L9 Nord (TMB): La Sagrera; Onze de Setembre; Bon Pastor; Can Peixauet; Santa Rosa; Fondo; Església Major; Singuerlín; Can ZamL9 Sud (TMB)Zona Universitària; Collblanc; Torrassa; Can Tries | Gornal; Europa | Fira; Fira; Parc Logístic; Mercabarna; Les Moreres; El Prat Estació; Cèntric; Parc Nou; Mas Blau; Aeroport T2; Aeroport T1
+
+L10 Nord (TMB): La Sagrera; Onze de Setembre; Bon Pastor; Llefià; La Salut; Gorg
+
+L10 Sud (TMB): Collblanc; Torrassa; Can Tries | Gornal; Provençana; Ciutat de la Justícia; Foneria; Foc; Zona Franca; Port Comercial | La Factoria; Eco-eficient; ZAL | Riu Vell
+
+L11 (TMB): Trinitat Nova; Casa de l'Aigua; Torre Baró | Vallbona; Ciutat Meridiana; Can Cuiàs
+
+L6 (FGC): Barcelona Plaça Catalunya; Provença; Gràcia; Sant Gervasi; Muntaner; La Bonanova; Les Tres Torres; Sarrià
+
+L7 (FGC): Barcelona Plaça Catalunya; Provença; Gràcia; Plaça Molina; Pàdua; El Putxet; Avinguda TibidaboL8 (FGC)Barcelona Plaça Espanya; Magòria-La Campana; Ildefons Cerdà; Europa | Fira; Gornal; Sant Josep; L'Hospitalet Av. Carrilet; Almeda; Cornellà Riera; Sant Boi; Molí Nou-Ciutat Cooperativa
+
+L12 (FGC): Sarrià; Reina Elisenda
+
+T1 (TRAM - Red Trambaix): Francesc Macià; L'Illa; Numància; Maria Cristina; Pius XII; Palau Reial; Zona Universitària; Zona Franca (técnica); Avinguda de Xile; Ernest Lluch; Central d'Onze de Setembre; Espronceda; Fontsanta | Fatjó; Bon Viatge
+
+T2 (TRAM - Red Trambaix): Francesc Macià; L'Illa; Numància; Maria Cristina; Pius XII; Palau Reial; Zona Universitària; Zona Franca (técnica); Avinguda de Xile; Ernest Lluch; Central d'Onze de Setembre; Espronceda; Fontsanta | Fatjó; Bon Viatge; La Fontsanta; Centre Miquel Martí i Pol; Llevant-Les Planes
+
+T3 (TRAM - Red Trambaix): Francesc Macià; L'Illa; Numància; Maria Cristina; Pius XII; Palau Reial; Zona Universitària; Zona Franca (técnica); Avinguda de Xile; Ernest Lluch; Central d'Onze de Setembre; Espronceda; Fontsanta | Fatjó; Les Aigües; Torreblanca; Walden; Rambla de Sant Just; Hospital Sant Joan de Déu | TV3; Consell Comarcal
+
+T4 (TRAM - Red Trambesòs): Ciutadella | Vila Olímpica; Wellington; Marina; Auditori | Teatre Nacional; Glòries; Ca l'Aranyó; Pere IV; Fluvià; Selva de Mar; El Maresme; Fòrum; Campus Diagonal-Besòs; Port Fòrum; Estació de Sant Adrià
+
+T5 (TRAM - Red Trambesòs): Glòries; La Farinera; Can Jaumandreu; Espronceda; Sant Martí de Provençals; Besòs; Parc del Besòs; La Catalana; Sant Joan Baptista; Encants de Sant Adrià; Gorg
+
+T6 (TRAM - Red Trambesòs): Glòries; La Farinera; Can Jaumandreu; Espronceda; Sant Martí de Provençals; Besòs; Parc del Besòs; La Mineira; Central Tèrmica de Besòs; Estació de Sant Adrià
+
+
+Trenes Cremallera
+
+Funicular Cremallera de Montserrat (FGC): Monistrol de Montserrat; Monistrol-Vila; Montserrat-MonestirFunicular 
+
+Cremallera de Núria (FGC): Ribes de Freser; Ribes-Vila; Queralbs; Núria
+
+
+Funiculares 
+
+Funicular de Gelida (FGC): Gelida Inferior; Gelida Superior
+
+Funicular de Vallvidrera (FGC): Peu del Funicular; Carretera de les Aigües; Vallvidrera Superior
+
+Funicular de la Santa Cova (FGC - Montserrat)Montserrat-Monestir; Santa Cova
+
+Funicular de Sant Joan (FGC - Montserrat)Montserrat-Monestir; Sant Joan
+
+Funicular de Montjuïc (TMB)Paral·lel; Parc de MontjuïcFunicular del Tibidabo (Cuca de Llum)Plaça del Doctor Andreu; Tibidabo
+
+
+Telefèrics / Aeris / Telecabines
+
+Aeri de Montserrat: Montserrat-Aeri; Montserrat-Monestir
+
+Telecabina de la Coma del Clot (Vall de Núria - FGC): Núria; Coma del Clot
+
+Telecabina de la Molina - Alp 2500 (FGC): Estació Inferior (Telecabina Alabaus); Estació Intermèdia (La Comella); Estació Superior (Tossa d'Alp)
+
+Telefèric del Port (Aeri del Port): Torre de Sant Sebastià (Barceloneta); Torre de Jaume I (Moll de Barcelona); Miramar (Montjuïc)
+
+Telefèric de Montjuïc (TMB): Parc de Montjuïc; Castell de Montjuïc (Nota: Dispone de una estación intermedia técnica en el Mirador de l'Alcalde donde solo se abre para bajada de pasajeros en sentido ascendente).
+
+Telefèric de l'Estany Gento (La Vall Fosca): Sallente; Estany Gento
+
+Telecabina de Baquèira (Baqueira-Beret): Baquèira 1500; Baquèira 1800
+
+
+Ascensors Inclinats
+
+Ascensor inclinat de Ciutat Meridiana (TMB): Carrer d'Agustí Duran i Sanpere; Carrer de les Agudes; Carrer de Pedraforca (Dispone de 3 paradas físicas distribuidas a lo largo de su tramo).
+
+Ascensor inclinat de Queralt (Berga): Estació Inferior (Aparcamiento de Queralt); Estació Superior (Santuari de Queralt)
+
+Ascensor inclinat de Puigcerdà: Estació de Renfe (Barri de l'Estació); Barri Vell (Plaça de l'Ajuntament)
+
+Ascensor inclinat de Cala Giverola (Tossa de Mar): Estació Superior (Complejo Polideportivo / Hotel); Estació Inferior (Cala Giverola / Playa)
+
+
+Rodalies Tarragona
+
+RT1 (Renfe - Cercanías de Tarragona): Tarragona; Vila-seca; Reus
+
+RT2 (Renfe - Cercanías de Tarragona): Salou-Port Aventura; Tarragona; Altafulla-Tamarit; Torredembarra; Sant Vicenç de Calders; El Vendrell; L'Arboç
+
+
+Rodalies Lleida:
+
+RL1 (FGC - Cercanías de Lleida)Lleida Pirineus; Alcoletge; Vilanova de la Barca; Térmens; Balaguer
+
+RL2 (FGC - Cercanías de Lleida): Lleida Pirineus; Alcoletge; Vilanova de la Barca; Térmens; Balaguer; Gerb; Sant Llorenç de Montgai; Vilanova de la Sal; Santa Linya; Àger; Cellers-Llimiana; Guàrdia de Noguera; Tremp; Palau de Noguera; Salàs de Pallars; La Pobla de Segur
+
+RL3 (Renfe - Cercanías de Lleida): Lleida Pirineus; Bell-lloc d'Urgell; Mollerussa; Golmés; Castellnou de Seana; Bellpuig; Anglesola; Tàrrega; Cervera
+
+RL4 (Renfe - Cercanías de Lleida): Lleida Pirineus; Bell-lloc d'Urgell; Mollerussa; Golmés; Castellnou de Seana; Bellpuig; Anglesola; Tàrrega; Cervera; Sant Guim de Freixenet; Sant Martí Sesgueioles; Calaf; Seguers-Sant Pere Sallavinera; Aguilar de Segarra; Rajadell; Manresa (Nota: La línea prolonga servicios comerciales hasta Sant Vicenç de Castellet y Terrassa Estació del Nord).
+
+
+Rodalies Girona
+
+RG1 (Renfe - Cercanías de Girona): L'Hospitalet de Llobregat; Barcelona Sants; Barcelona Plaça de Catalunya; Barcelona Arc de Triomf; Barcelona El Clot Aragó; Sant Adrià de Besòs; Badalona; Montgat; Montgat Nord; El Masnou; Ocata; Premià de Mar; Vilassar de Mar; Cabrera de Mar-Vilassar de Mar; Mataró; Sant Andreu de Llavaneres; Caldes d'Estrac; Arenys de Mar; Canet de Mar; Sant Pol de Mar; Calella; Pineda de Mar; Santa Susanna; Malgrat de Mar; Blanes; Tordera; Maçanet-Massanes; Sils; Caldes de Malavella; Riudellots; Fornells de la Selva; Girona; Celrà; Bordils-Juià; Flaçà; Sant Jordi Desvalls; Camallera; Vilamalla; Figueres; Vilajuïga; Llançà; Colera; Portbou
+
+Avant Barcelona Sants - Girona - Figueres Vilafant: Barcelona Sants; Girona; Figueres Vilafant
+
+Avant Barcelona Sants - Camp de Tarragona - Lleida Pirineus: Barcelona Sants; Camp de Tarragona; Lleida Pirineus
+
+Avant Tortosa - Barcelona Sants: Tortosa; L'Aldea-Amposta-Tortosa; El Perelló-Ampolla; L'Ametlla de Mar; L'Hospitalet de l'Infant; Cambrils; Vila-seca; Camp de Tarragona; Barcelona Sants
+
+
+Servicios Regionales (Rodalies de Catalunya)
+
+R11 (Renfe): Barcelona Sants; Barcelona Passeig de Gràcia; Barcelona El Clot Aragó; Barcelona Sant Andreu; Granollers Centre; Sant Celoni; Maçanet-Massanes; Sils; Caldes de Malavella; Riudellots; Fornells de la Selva; Girona; Celrà; Bordils-Juià; Flaçà; Sant Jordi Desvalls; Camallera; Vilamalla; Figueres; Vilajuïga; Llançà; Colera; Portbou
+
+R13 (Renfe): Barcelona Estació de França; Barcelona Passeig de Gràcia; Barcelona Sants; Vilanova i la Geltrú; Sant Vicenç de Calders; Roda de Mar; Roda de Barà; Salomó; Vilabella; Nulles-Bràfim; Valls; La Plana-Picamoixons; La Riba; Vilaverd; Montblanc; L'Espluga de Francolí; Vimbodí i Poblet; Les Borges Blanques; Juneda; Lleida Pirineus
+
+R14 (Renfe): Barcelona Estació de França; Barcelona Passeig de Gràcia; Barcelona Sants; Vilanova i la Geltrú; Sant Vicenç de Calders; Torredembarra; Altafulla-Tamarit; Tarragona; Vila-seca; Reus; La Selva del Camp; Alcover; La Plana-Picamoixons; La Riba; Vilaverd; Montblanc; L'Espluga de Francolí; Vimbodí i Poblet; Les Borges Blanques; Juneda; Lleida Pirineus
+
+R15 (Renfe): Barcelona Estació de França; Barcelona Passeig de Gràcia; Barcelona Sants; Vilanova i la Geltrú; Sant Vicenç de Calders; Torredembarra; Altafulla-Tamarit; Tarragona; Vila-seca; Reus; Les Borges del Camp; Riudecanyes-Botarell; Duesaigües-L'Argentera; Pradell; Marçà-Falset; Capçanes; Els Guiamets; Móra la Nova; Ascó; Flix; Riba-roja d'Ebre
+
+R16 (Renfe): Barcelona Estació de França; Barcelona Passeig de Gràcia; Barcelona Sants; Vilanova i la Geltrú; Sant Vicenç de Calders; Torredembarra; Altafulla-Tamarit; Tarragona; Vila-seca; Cambrils; L'Hospitalet de l'Infant; L'Ametlla de Mar; El Perelló-Ampolla; L'Aldea-Amposta-Tortosa; Tortosa; Camp-redó; Soldebre; Ulldecona-Alcanar-La Fira
+
+R17 (Renfe): Barcelona Sants; Vilanova i la Geltrú; Sant Vicenç de Calders; Torredembarra; Altafulla-Tamarit; Tarragona; Salou - Port Aventura
+
+
+
+
+
+
+
+

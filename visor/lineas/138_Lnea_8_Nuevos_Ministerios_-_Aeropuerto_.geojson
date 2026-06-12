@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.69121,
+      40.43799
+     ],
+     [
+      -3.63858,
+      40.46982
+     ],
+     [
+      -3.57176,
+      40.46791
+     ],
+     [
+      -3.59284,
+      40.49243
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "138",
+    "name": "Línea 8 Nuevos Ministerios - Aeropuerto T4",
+    "type": "Metro",
+    "operator": "Metro de Madrid",
+    "stroke": "#FF99CC",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF99CC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69121,
+     40.43799
+    ]
+   },
+   "properties": {
+    "id": "EST-GREGORIOMARANON",
+    "name": "Gregorio Marañón",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF99CC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63858,
+     40.46982
+    ]
+   },
+   "properties": {
+    "id": "EST-MARDECRISTAL",
+    "name": "Mar de Cristal",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF99CC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.57176,
+     40.46791
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPUERTOT1T2T3",
+    "name": "Aeropuerto T1-T2-T3",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF99CC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.59284,
+     40.49243
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPUERTOT4",
+    "name": "Aeropuerto T4",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF99CC"
+   }
+  }
+ ]
+}

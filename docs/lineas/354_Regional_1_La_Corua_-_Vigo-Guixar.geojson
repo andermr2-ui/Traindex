@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.41215,
+      43.35037
+     ],
+     [
+      -8.44688,
+      43.20764
+     ],
+     [
+      -8.371,
+      42.9398
+     ],
+     [
+      -8.5452,
+      42.87044
+     ],
+     [
+      -8.65241,
+      42.73898
+     ],
+     [
+      -8.72537,
+      42.67224
+     ],
+     [
+      -8.76228,
+      42.60199
+     ],
+     [
+      -8.6354,
+      42.42168
+     ],
+     [
+      -8.61067,
+      42.34041
+     ],
+     [
+      -8.60372,
+      42.28549
+     ],
+     [
+      -8.60372,
+      42.28549
+     ],
+     [
+      -8.71188,
+      42.23952
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "354",
+    "name": "Regional 1 La Coruña - Vigo-Guixar",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 12,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41215,
+     43.35037
+    ]
+   },
+   "properties": {
+    "id": "EST-ACORUNA",
+    "name": "A Coruña",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.44688,
+     43.20764
+    ]
+   },
+   "properties": {
+    "id": "EST-CERCEDAMEIRAMA",
+    "name": "Cerceda-Meirama",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.371,
+     42.9398
+    ]
+   },
+   "properties": {
+    "id": "EST-ORDENES",
+    "name": "Órdenes",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.5452,
+     42.87044
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIAGODECOMPOSTELA",
+    "name": "Santiago de Compostela",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.65241,
+     42.73898
+    ]
+   },
+   "properties": {
+    "id": "EST-PADRONBARBANZA",
+    "name": "Padrón-Barbanza",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.72537,
+     42.67224
+    ]
+   },
+   "properties": {
+    "id": "EST-CATOIRA",
+    "name": "Catoira",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.76228,
+     42.60199
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAGARCIADEAROUSA",
+    "name": "Vilagarcía de Arousa",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.6354,
+     42.42168
+    ]
+   },
+   "properties": {
+    "id": "EST-PONTEVEDRA",
+    "name": "Pontevedra",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.61067,
+     42.34041
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCADE",
+    "name": "Arcade",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.60372,
+     42.28549
+    ]
+   },
+   "properties": {
+    "id": "EST-REDONDELA",
+    "name": "Redondela",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.60372,
+     42.28549
+    ]
+   },
+   "properties": {
+    "id": "EST-REDONDELA",
+    "name": "Redondela",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.71188,
+     42.23952
+    ]
+   },
+   "properties": {
+    "id": "EST-VIGOGUIXAR",
+    "name": "Vigo-Guixar",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

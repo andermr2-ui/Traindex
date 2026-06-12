@@ -1,0 +1,640 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.1072,
+      41.34465
+     ],
+     [
+      2.1072,
+      41.34465
+     ],
+     [
+      2.10248,
+      41.35891
+     ],
+     [
+      2.09987,
+      41.36397
+     ],
+     [
+      2.10274,
+      41.36768
+     ],
+     [
+      2.10983,
+      41.36832
+     ],
+     [
+      2.11663,
+      41.36841
+     ],
+     [
+      2.12861,
+      41.3688
+     ],
+     [
+      2.13333,
+      41.37279
+     ],
+     [
+      2.13791,
+      41.37538
+     ],
+     [
+      2.14952,
+      41.37557
+     ],
+     [
+      2.15457,
+      41.37924
+     ],
+     [
+      2.15889,
+      41.38249
+     ],
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.17331,
+      41.38809
+     ],
+     [
+      2.18091,
+      41.39211
+     ],
+     [
+      2.18627,
+      41.395
+     ],
+     [
+      2.18752,
+      41.40221
+     ],
+     [
+      2.18692,
+      41.41014
+     ],
+     [
+      2.18694,
+      41.41604
+     ],
+     [
+      2.18702,
+      41.42262
+     ],
+     [
+      2.18364,
+      41.42978
+     ],
+     [
+      2.19114,
+      41.43663
+     ],
+     [
+      2.19071,
+      41.44313
+     ],
+     [
+      2.19374,
+      41.44877
+     ],
+     [
+      2.19954,
+      41.44995
+     ],
+     [
+      2.20805,
+      41.45108
+     ],
+     [
+      2.21841,
+      41.45167
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "173",
+    "name": "L1 Hospital de Bellvitge - Fondo",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#E30613",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 29,
+    "coords_sta": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1072,
+     41.34465
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALDEBELLVITGE",
+    "name": "Hospital de Bellvitge",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1072,
+     41.34465
+    ]
+   },
+   "properties": {
+    "id": "EST-BELLVITGE",
+    "name": "Bellvitge",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10248,
+     41.35891
+    ]
+   },
+   "properties": {
+    "id": "EST-AVCARRILET",
+    "name": "Av. Carrilet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09987,
+     41.36397
+    ]
+   },
+   "properties": {
+    "id": "EST-RAMBLAJUSTOLIVERAS",
+    "name": "Rambla Just Oliveras",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10274,
+     41.36768
+    ]
+   },
+   "properties": {
+    "id": "EST-CANSERRA",
+    "name": "Can Serra",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10983,
+     41.36832
+    ]
+   },
+   "properties": {
+    "id": "EST-FLORIDA-Barcelona-LHospitaletdeLlobregat",
+    "name": "Florida",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11663,
+     41.36841
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRASSA",
+    "name": "Torrassa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.12861,
+     41.3688
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAEULALIA",
+    "name": "Santa Eulàlia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13333,
+     41.37279
+    ]
+   },
+   "properties": {
+    "id": "EST-MERCATNOU",
+    "name": "Mercat Nou",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13791,
+     41.37538
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACADESANTS",
+    "name": "Plaça de Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14952,
+     41.37557
+    ]
+   },
+   "properties": {
+    "id": "EST-ESPANYA",
+    "name": "Espanya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15457,
+     41.37924
+    ]
+   },
+   "properties": {
+    "id": "EST-ROCAFORT",
+    "name": "Rocafort",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15889,
+     41.38249
+    ]
+   },
+   "properties": {
+    "id": "EST-URGELL",
+    "name": "Urgell",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-CATALUNYA",
+    "name": "Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17331,
+     41.38809
+    ]
+   },
+   "properties": {
+    "id": "EST-URQUINAONA",
+    "name": "Urquinaona",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18091,
+     41.39211
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCDETRIOMF",
+    "name": "Arc de Triomf",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18627,
+     41.395
+    ]
+   },
+   "properties": {
+    "id": "EST-MARINA",
+    "name": "Marina",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18752,
+     41.40221
+    ]
+   },
+   "properties": {
+    "id": "EST-GLORIES",
+    "name": "Glòries",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18692,
+     41.41014
+    ]
+   },
+   "properties": {
+    "id": "EST-CLOT",
+    "name": "Clot",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18694,
+     41.41604
+    ]
+   },
+   "properties": {
+    "id": "EST-NAVAS",
+    "name": "Navas",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18702,
+     41.42262
+    ]
+   },
+   "properties": {
+    "id": "EST-LASAGRERA",
+    "name": "La Sagrera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18364,
+     41.42978
+    ]
+   },
+   "properties": {
+    "id": "EST-FABRAIPUIG",
+    "name": "Fabra i Puig",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19114,
+     41.43663
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDREU",
+    "name": "Sant Andreu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19071,
+     41.44313
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRASIBAGES",
+    "name": "Torras i Bages",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19374,
+     41.44877
+    ]
+   },
+   "properties": {
+    "id": "EST-TRINITATVELLA",
+    "name": "Trinitat Vella",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19954,
+     41.44995
+    ]
+   },
+   "properties": {
+    "id": "EST-BARODEVIVER",
+    "name": "Baró de Viver",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20805,
+     41.45108
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTACOLOMA",
+    "name": "Santa Coloma",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21841,
+     41.45167
+    ]
+   },
+   "properties": {
+    "id": "EST-FONDO",
+    "name": "Fondo",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#E30613"
+   }
+  }
+ ]
+}

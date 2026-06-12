@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.1184,
+      41.37587
+     ],
+     [
+      2.11663,
+      41.36841
+     ],
+     [
+      2.11707,
+      41.35478
+     ],
+     [
+      2.12429,
+      41.36139
+     ],
+     [
+      2.13301,
+      41.36324
+     ],
+     [
+      2.13874,
+      41.36049
+     ],
+     [
+      2.14216,
+      41.35585
+     ],
+     [
+      2.13312,
+      41.32375
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "184",
+    "name": "L10 Sud Collblanc - ZAL",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#F37021",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1184,
+     41.37587
+    ]
+   },
+   "properties": {
+    "id": "EST-COLLBLANC",
+    "name": "Collblanc",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11663,
+     41.36841
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRASSA",
+    "name": "Torrassa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11707,
+     41.35478
+    ]
+   },
+   "properties": {
+    "id": "EST-CANTRIESGORNAL",
+    "name": "Can Tries | Gornal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.12429,
+     41.36139
+    ]
+   },
+   "properties": {
+    "id": "EST-PROVENCANA",
+    "name": "Provençana",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13301,
+     41.36324
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUTATDELAJUSTICIA",
+    "name": "Ciutat de la Justícia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13874,
+     41.36049
+    ]
+   },
+   "properties": {
+    "id": "EST-FONERIA",
+    "name": "Foneria",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14216,
+     41.35585
+    ]
+   },
+   "properties": {
+    "id": "EST-FOC",
+    "name": "Foc",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13312,
+     41.32375
+    ]
+   },
+   "properties": {
+    "id": "EST-ZALRIUVELL",
+    "name": "ZAL | Riu Vell",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  }
+ ]
+}

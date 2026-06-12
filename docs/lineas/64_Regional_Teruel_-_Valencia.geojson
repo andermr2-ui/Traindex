@@ -1,0 +1,398 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.11042,
+      40.34099
+     ],
+     [
+      -0.9852,
+      40.27321
+     ],
+     [
+      -0.94395,
+      40.21239
+     ],
+     [
+      -0.82358,
+      40.14615
+     ],
+     [
+      -0.77347,
+      40.11784
+     ],
+     [
+      -0.77347,
+      40.11784
+     ],
+     [
+      -0.69642,
+      40.01156
+     ],
+     [
+      -0.5722,
+      39.94728
+     ],
+     [
+      -0.56939,
+      39.91496
+     ],
+     [
+      -0.48235,
+      39.84706
+     ],
+     [
+      -0.49385,
+      39.85453
+     ],
+     [
+      -0.43178,
+      39.81256
+     ],
+     [
+      -0.34822,
+      39.70629
+     ],
+     [
+      -0.27141,
+      39.67567
+     ],
+     [
+      -0.3031,
+      39.62049
+     ],
+     [
+      -0.33467,
+      39.47007
+     ],
+     [
+      -0.37719,
+      39.46691
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "64",
+    "name": "Regional Teruel - Valencia",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.11042,
+     40.34099
+    ]
+   },
+   "properties": {
+    "id": "EST-TERUEL",
+    "name": "Teruel",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9852,
+     40.27321
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOESCANDON",
+    "name": "Puerto Escandón",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.94395,
+     40.21239
+    ]
+   },
+   "properties": {
+    "id": "EST-PUEBLADEVALVERDE",
+    "name": "Puebla de Valverde",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.82358,
+     40.14615
+    ]
+   },
+   "properties": {
+    "id": "EST-SARRION",
+    "name": "Sarrión",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.77347,
+     40.11784
+    ]
+   },
+   "properties": {
+    "id": "EST-MORADERUBIELOS",
+    "name": "Mora de Rubielos",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.77347,
+     40.11784
+    ]
+   },
+   "properties": {
+    "id": "EST-RUBIELOSDEMORA",
+    "name": "Rubielos de Mora",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.69642,
+     40.01156
+    ]
+   },
+   "properties": {
+    "id": "EST-BARRACAS",
+    "name": "Barracas",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5722,
+     39.94728
+    ]
+   },
+   "properties": {
+    "id": "EST-CAUDIEL",
+    "name": "Caudiel",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.56939,
+     39.91496
+    ]
+   },
+   "properties": {
+    "id": "EST-JERICAVIVER",
+    "name": "Jérica-Viver",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48235,
+     39.84706
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGORBECIUDAD",
+    "name": "Segorbe-Ciudad",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49385,
+     39.85453
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGORBEARRABAL",
+    "name": "Segorbe-Arrabal",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43178,
+     39.81256
+    ]
+   },
+   "properties": {
+    "id": "EST-SONEJA",
+    "name": "Soneja",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.34822,
+     39.70629
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTIVELLAALBALATDELSTARONGERS",
+    "name": "Estivella-Albalat dels Tarongers",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.27141,
+     39.67567
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGUNT",
+    "name": "Sagunt",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3031,
+     39.62049
+    ]
+   },
+   "properties": {
+    "id": "EST-PUCOL",
+    "name": "Puçol",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.33467,
+     39.47007
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIACABANYAL",
+    "name": "València-Cabanyal",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

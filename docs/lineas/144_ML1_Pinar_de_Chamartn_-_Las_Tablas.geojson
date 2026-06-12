@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.66705,
+      40.48005
+     ],
+     [
+      -3.66306,
+      40.48468
+     ],
+     [
+      -3.66122,
+      40.48724
+     ],
+     [
+      -3.65373,
+      40.48536
+     ],
+     [
+      -3.65138,
+      40.48917
+     ],
+     [
+      -3.65584,
+      40.49367
+     ],
+     [
+      -3.65844,
+      40.4976
+     ],
+     [
+      -3.6651,
+      40.50546
+     ],
+     [
+      -3.66943,
+      40.50834
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "144",
+    "name": "ML1 Pinar de Chamartín - Las Tablas",
+    "type": "Tranvía",
+    "operator": "Metro Ligero de Madrid",
+    "stroke": "#003399",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66705,
+     40.48005
+    ]
+   },
+   "properties": {
+    "id": "EST-PINARDECHAMARTIN",
+    "name": "Pinar de Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66306,
+     40.48468
+    ]
+   },
+   "properties": {
+    "id": "EST-FUENTEDELAMORA",
+    "name": "Fuente de la Mora",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66122,
+     40.48724
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRGENDELCORTIJO",
+    "name": "Virgen del Cortijo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65373,
+     40.48536
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTONIOSAURA",
+    "name": "Antonio Saura",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65138,
+     40.48917
+    ]
+   },
+   "properties": {
+    "id": "EST-ALVAREZDEVILLAAMIL",
+    "name": "Álvarez de Villaamil",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65584,
+     40.49367
+    ]
+   },
+   "properties": {
+    "id": "EST-BLASCOIBANEZ",
+    "name": "Blasco Ibáñez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65844,
+     40.4976
+    ]
+   },
+   "properties": {
+    "id": "EST-MARIATUDOR",
+    "name": "María Tudor",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6651,
+     40.50546
+    ]
+   },
+   "properties": {
+    "id": "EST-PALASDEREY",
+    "name": "Palas de Rey",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66943,
+     40.50834
+    ]
+   },
+   "properties": {
+    "id": "EST-LASTABLAS",
+    "name": "Las Tablas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#003399"
+   }
+  }
+ ]
+}

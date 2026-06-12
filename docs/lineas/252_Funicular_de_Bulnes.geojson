@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.83032,
+      43.2577
+     ],
+     [
+      -4.82333,
+      43.23822
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "252",
+    "name": "Funicular de Bulnes",
+    "type": "Funicular",
+    "operator": "Alsa",
+    "stroke": "#0051A2",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.83032,
+     43.2577
+    ]
+   },
+   "properties": {
+    "id": "EST-PONCEBOS",
+    "name": "Poncebos",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0051A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.82333,
+     43.23822
+    ]
+   },
+   "properties": {
+    "id": "EST-BULNES",
+    "name": "Bulnes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0051A2"
+   }
+  }
+ ]
+}

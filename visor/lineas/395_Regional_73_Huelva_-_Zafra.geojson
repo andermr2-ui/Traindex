@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.94485,
+      37.25262
+     ],
+     [
+      -6.96215,
+      37.36789
+     ],
+     [
+      -6.94763,
+      37.46184
+     ],
+     [
+      -6.95324,
+      37.51648
+     ],
+     [
+      -6.91977,
+      37.58618
+     ],
+     [
+      -6.87629,
+      37.65178
+     ],
+     [
+      -6.87388,
+      37.78718
+     ],
+     [
+      -6.79735,
+      37.90102
+     ],
+     [
+      -6.77299,
+      37.92738
+     ],
+     [
+      -6.6309,
+      38.05308
+     ],
+     [
+      -6.63754,
+      38.16771
+     ],
+     [
+      -6.40518,
+      38.41395
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "395",
+    "name": "Regional 73 Huelva - Zafra",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#008000",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 12,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94485,
+     37.25262
+    ]
+   },
+   "properties": {
+    "id": "EST-HUELVA",
+    "name": "Huelva",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.96215,
+     37.36789
+    ]
+   },
+   "properties": {
+    "id": "EST-GIBRALEON",
+    "name": "Gibraleón",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94763,
+     37.46184
+    ]
+   },
+   "properties": {
+    "id": "EST-BELMONTE",
+    "name": "Belmonte",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.95324,
+     37.51648
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCOBUJON",
+    "name": "El Cobujón",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.91977,
+     37.58618
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSMILANOS",
+    "name": "Los Milanos",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.87629,
+     37.65178
+    ]
+   },
+   "properties": {
+    "id": "EST-CALANAS",
+    "name": "Calañas",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.87388,
+     37.78718
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDELAMUSA",
+    "name": "Valdelamusa",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79735,
+     37.90102
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMONASTERCORTEGANA",
+    "name": "Almonaster-Cortegana",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77299,
+     37.92738
+    ]
+   },
+   "properties": {
+    "id": "EST-JABUGOGALAROZA",
+    "name": "Jabugo-Galaroza",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6309,
+     38.05308
+    ]
+   },
+   "properties": {
+    "id": "EST-CUMBRESMAYORES",
+    "name": "Cumbres Mayores",
+    "province": "Huelva",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.63754,
+     38.16771
+    ]
+   },
+   "properties": {
+    "id": "EST-FREGENALDELASIERRA",
+    "name": "Fregenal de la Sierra",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.40518,
+     38.41395
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAFRA",
+    "name": "Zafra",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#008000"
+   }
+  }
+ ]
+}

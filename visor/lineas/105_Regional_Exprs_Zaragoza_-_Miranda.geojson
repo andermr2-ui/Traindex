@@ -1,0 +1,354 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -1.02049,
+      41.72273
+     ],
+     [
+      -1.11261,
+      41.77163
+     ],
+     [
+      -1.32133,
+      41.86709
+     ],
+     [
+      -1.42087,
+      41.91536
+     ],
+     [
+      -1.51548,
+      41.99707
+     ],
+     [
+      -1.59767,
+      42.0595
+     ],
+     [
+      -1.69244,
+      42.17287
+     ],
+     [
+      -1.74814,
+      42.18661
+     ],
+     [
+      -1.84786,
+      42.23005
+     ],
+     [
+      -1.95782,
+      42.3107
+     ],
+     [
+      -2.07128,
+      42.38065
+     ],
+     [
+      -2.44082,
+      42.45757
+     ],
+     [
+      -2.85025,
+      42.58175
+     ],
+     [
+      -2.94114,
+      42.6908
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "105",
+    "name": "Regional Exprés Zaragoza - Miranda",
+    "type": "Regional Exprés",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 15,
+    "coords_sta": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.02049,
+     41.72273
+    ]
+   },
+   "properties": {
+    "id": "EST-CASETAS",
+    "name": "Casetas",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.11261,
+     41.77163
+    ]
+   },
+   "properties": {
+    "id": "EST-ALAGON",
+    "name": "Alagón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32133,
+     41.86709
+    ]
+   },
+   "properties": {
+    "id": "EST-GALLUR",
+    "name": "Gallur",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42087,
+     41.91536
+    ]
+   },
+   "properties": {
+    "id": "EST-CORTESDENAVARRA",
+    "name": "Cortes de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.51548,
+     41.99707
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBAFORADA",
+    "name": "Ribaforada",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59767,
+     42.0595
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELADENAVARRA",
+    "name": "Tudela de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.74814,
+     42.18661
+    ]
+   },
+   "properties": {
+    "id": "EST-ALFARO",
+    "name": "Alfaro",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.84786,
+     42.23005
+    ]
+   },
+   "properties": {
+    "id": "EST-RINCONDESOTO",
+    "name": "Rincón de Soto",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95782,
+     42.3107
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAHORRA",
+    "name": "Calahorra",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07128,
+     42.38065
+    ]
+   },
+   "properties": {
+    "id": "EST-LODOSA",
+    "name": "Lodosa",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.44082,
+     42.45757
+    ]
+   },
+   "properties": {
+    "id": "EST-LOGRONO",
+    "name": "Logroño",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.85025,
+     42.58175
+    ]
+   },
+   "properties": {
+    "id": "EST-HARO",
+    "name": "Haro",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94114,
+     42.6908
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRANDADEEBRO",
+    "name": "Miranda de Ebro",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.86832,
+      41.63319
+     ],
+     [
+      -0.89134,
+      41.64392
+     ],
+     [
+      -0.8959,
+      41.65274
+     ],
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -0.99849,
+      41.71092
+     ],
+     [
+      -1.02049,
+      41.72273
+     ],
+     [
+      -1.11261,
+      41.77163
+     ],
+     [
+      -1.32133,
+      41.86709
+     ],
+     [
+      -1.42087,
+      41.91536
+     ],
+     [
+      -1.51548,
+      41.99707
+     ],
+     [
+      -1.59767,
+      42.0595
+     ],
+     [
+      -1.69244,
+      42.17287
+     ],
+     [
+      -1.74814,
+      42.18661
+     ],
+     [
+      -1.84786,
+      42.23005
+     ],
+     [
+      -1.95782,
+      42.3107
+     ],
+     [
+      -2.44082,
+      42.45757
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "362",
+    "name": "MD, Regional Exprés 22 Zaragoza - Logroño",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86832,
+     41.63319
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAMIRAFLORES",
+    "name": "Zaragoza-Miraflores",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.89134,
+     41.64392
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAGOYA",
+    "name": "Zaragoza-Goya",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8959,
+     41.65274
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAPORTILLO",
+    "name": "Zaragoza-Portillo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.99849,
+     41.71092
+    ]
+   },
+   "properties": {
+    "id": "EST-UTEBO",
+    "name": "Utebo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.02049,
+     41.72273
+    ]
+   },
+   "properties": {
+    "id": "EST-CASETAS",
+    "name": "Casetas",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.11261,
+     41.77163
+    ]
+   },
+   "properties": {
+    "id": "EST-ALAGON",
+    "name": "Alagón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.32133,
+     41.86709
+    ]
+   },
+   "properties": {
+    "id": "EST-GALLUR",
+    "name": "Gallur",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.42087,
+     41.91536
+    ]
+   },
+   "properties": {
+    "id": "EST-CORTESDENAVARRA",
+    "name": "Cortes de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.51548,
+     41.99707
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBAFORADA",
+    "name": "Ribaforada",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59767,
+     42.0595
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELADENAVARRA",
+    "name": "Tudela de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.74814,
+     42.18661
+    ]
+   },
+   "properties": {
+    "id": "EST-ALFARO",
+    "name": "Alfaro",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.84786,
+     42.23005
+    ]
+   },
+   "properties": {
+    "id": "EST-RINCONDESOTO",
+    "name": "Rincón de Soto",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95782,
+     42.3107
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAHORRA",
+    "name": "Calahorra",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.44082,
+     42.45757
+    ]
+   },
+   "properties": {
+    "id": "EST-LOGRONO",
+    "name": "Logroño",
+    "province": "La Rioja",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

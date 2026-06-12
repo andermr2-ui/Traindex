@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.82714,
+      43.38817
+     ],
+     [
+      -5.80874,
+      43.38621
+     ],
+     [
+      -5.79207,
+      43.37949
+     ],
+     [
+      -5.74855,
+      43.38092
+     ],
+     [
+      -5.72969,
+      43.38174
+     ],
+     [
+      -5.70247,
+      43.38248
+     ],
+     [
+      -5.67464,
+      43.38669
+     ],
+     [
+      -5.65694,
+      43.39917
+     ],
+     [
+      -5.60145,
+      43.37753
+     ],
+     [
+      -5.58266,
+      43.38052
+     ],
+     [
+      -5.54614,
+      43.3751
+     ],
+     [
+      -5.52525,
+      43.3688
+     ],
+     [
+      -5.50899,
+      43.36119
+     ],
+     [
+      -5.45111,
+      43.35617
+     ],
+     [
+      -5.43457,
+      43.35537
+     ],
+     [
+      -5.38416,
+      43.35988
+     ],
+     [
+      -5.36916,
+      43.35191
+     ],
+     [
+      -5.36066,
+      43.34401
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "248",
+    "name": "C-6 Oviedo - Infiesto",
+    "type": "Cercanías AM",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 20,
+    "coords_sta": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.82714,
+     43.38817
+    ]
+   },
+   "properties": {
+    "id": "EST-LACORREDORIA",
+    "name": "La Corredoria",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.80874,
+     43.38621
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUEPRINCIPADO",
+    "name": "Parque Principado",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.79207,
+     43.37949
+    ]
+   },
+   "properties": {
+    "id": "EST-COLLOTO",
+    "name": "Colloto",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.74855,
+     43.38092
+    ]
+   },
+   "properties": {
+    "id": "EST-MERES",
+    "name": "Meres",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.72969,
+     43.38174
+    ]
+   },
+   "properties": {
+    "id": "EST-FONCIELLO",
+    "name": "Fonciello",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.70247,
+     43.38248
+    ]
+   },
+   "properties": {
+    "id": "EST-ELBERRON",
+    "name": "El Berrón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67464,
+     43.38669
+    ]
+   },
+   "properties": {
+    "id": "EST-LACARRERA",
+    "name": "La Carrera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.65694,
+     43.39917
+    ]
+   },
+   "properties": {
+    "id": "EST-POLADESIERO",
+    "name": "Pola de Siero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.60145,
+     43.37753
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSCORROS",
+    "name": "Los Corros",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.58266,
+     43.38052
+    ]
+   },
+   "properties": {
+    "id": "EST-LIERES",
+    "name": "Lieres",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.54614,
+     43.3751
+    ]
+   },
+   "properties": {
+    "id": "EST-ELREMEDIO",
+    "name": "El Remedio",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.52525,
+     43.3688
+    ]
+   },
+   "properties": {
+    "id": "EST-LLAMES",
+    "name": "Llames",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.50899,
+     43.36119
+    ]
+   },
+   "properties": {
+    "id": "EST-NAVA",
+    "name": "Nava",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.45111,
+     43.35617
+    ]
+   },
+   "properties": {
+    "id": "EST-CECEDA",
+    "name": "Ceceda",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.43457,
+     43.35537
+    ]
+   },
+   "properties": {
+    "id": "EST-CARANCOS",
+    "name": "Carancos",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.38416,
+     43.35988
+    ]
+   },
+   "properties": {
+    "id": "EST-PINTUELES",
+    "name": "Pintueles",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.36916,
+     43.35191
+    ]
+   },
+   "properties": {
+    "id": "EST-INFIESTO",
+    "name": "Infiesto",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.36066,
+     43.34401
+    ]
+   },
+   "properties": {
+    "id": "EST-INFIESTOAPEADERO",
+    "name": "Infiesto Apeadero",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

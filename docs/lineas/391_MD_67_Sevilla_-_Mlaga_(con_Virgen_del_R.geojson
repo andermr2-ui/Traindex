@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.97911,
+      37.37821
+     ],
+     [
+      -5.97582,
+      37.36281
+     ],
+     [
+      -5.92332,
+      37.28722
+     ],
+     [
+      -5.54846,
+      37.26822
+     ],
+     [
+      -5.4255,
+      37.33434
+     ],
+     [
+      -5.11497,
+      37.23371
+     ],
+     [
+      -4.89364,
+      37.22227
+     ],
+     [
+      -4.71971,
+      37.07017
+     ],
+     [
+      -4.72798,
+      37.03764
+     ],
+     [
+      -4.75913,
+      36.90707
+     ],
+     [
+      -4.7192,
+      36.87322
+     ],
+     [
+      -4.6994,
+      36.81971
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "391",
+    "name": "MD 67 Sevilla - Málaga (con Virgen del Rocío)",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 14,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97911,
+     37.37821
+    ]
+   },
+   "properties": {
+    "id": "EST-SEVILLASANBERNARDO",
+    "name": "Sevilla-San Bernardo",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97582,
+     37.36281
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRGENDELROCIO",
+    "name": "Virgen del Rocío",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.92332,
+     37.28722
+    ]
+   },
+   "properties": {
+    "id": "EST-DOSHERMANAS",
+    "name": "Dos Hermanas",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.54846,
+     37.26822
+    ]
+   },
+   "properties": {
+    "id": "EST-ARAHAL",
+    "name": "Arahal",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.4255,
+     37.33434
+    ]
+   },
+   "properties": {
+    "id": "EST-MARCHENA",
+    "name": "Marchena",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.11497,
+     37.23371
+    ]
+   },
+   "properties": {
+    "id": "EST-OSUNA",
+    "name": "Osuna",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.89364,
+     37.22227
+    ]
+   },
+   "properties": {
+    "id": "EST-PEDRERA",
+    "name": "Pedrera",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.71971,
+     37.07017
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTEQUERASANTAANA",
+    "name": "Antequera-Santa Ana",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.72798,
+     37.03764
+    ]
+   },
+   "properties": {
+    "id": "EST-BOBADILLA",
+    "name": "Bobadilla",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.75913,
+     36.90707
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCHORROCAMINITODELREY",
+    "name": "El Chorro-Caminito del Rey",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.7192,
+     36.87322
+    ]
+   },
+   "properties": {
+    "id": "EST-LASMELLIZAS",
+    "name": "Las Mellizas",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.6994,
+     36.81971
+    ]
+   },
+   "properties": {
+    "id": "EST-ALORA",
+    "name": "Álora",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

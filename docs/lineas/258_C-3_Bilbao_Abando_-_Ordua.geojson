@@ -1,0 +1,442 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.93052,
+      43.25009
+     ],
+     [
+      -2.92411,
+      43.24012
+     ],
+     [
+      -2.91641,
+      43.24237
+     ],
+     [
+      -2.88969,
+      43.23679
+     ],
+     [
+      -2.88689,
+      43.22559
+     ],
+     [
+      -2.88877,
+      43.21008
+     ],
+     [
+      -2.90283,
+      43.1792
+     ],
+     [
+      -2.90914,
+      43.17691
+     ],
+     [
+      -2.91815,
+      43.16992
+     ],
+     [
+      -2.92766,
+      43.16323
+     ],
+     [
+      -2.94354,
+      43.14502
+     ],
+     [
+      -2.9605,
+      43.14225
+     ],
+     [
+      -2.96961,
+      43.13292
+     ],
+     [
+      -2.99953,
+      43.09354
+     ],
+     [
+      -2.99619,
+      43.05767
+     ],
+     [
+      -3.00184,
+      43.04886
+     ],
+     [
+      -2.99945,
+      43.0744
+     ],
+     [
+      -2.97857,
+      42.98457
+     ],
+     [
+      -3.01598,
+      42.99466
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "258",
+    "name": "C-3 Bilbao Abando - Orduña",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 19,
+    "coords_sta": 19
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.93052,
+     43.25009
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRIBILLA",
+    "name": "Miribilla",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92411,
+     43.24012
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPENA",
+    "name": "La Peña",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91641,
+     43.24237
+    ]
+   },
+   "properties": {
+    "id": "EST-OLLARGAN",
+    "name": "Ollargan",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.88969,
+     43.23679
+    ]
+   },
+   "properties": {
+    "id": "EST-BIDEBIETABASAURI",
+    "name": "Bidebieta-Basauri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.88689,
+     43.22559
+    ]
+   },
+   "properties": {
+    "id": "EST-ABAROASANMIGUEL",
+    "name": "Abaroa-San Miguel",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.88877,
+     43.21008
+    ]
+   },
+   "properties": {
+    "id": "EST-ARRIGORRIAGA",
+    "name": "Arrigorriaga",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.90283,
+     43.1792
+    ]
+   },
+   "properties": {
+    "id": "EST-UGAOMIRABALLES",
+    "name": "Ugao-Miraballes",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.90914,
+     43.17691
+    ]
+   },
+   "properties": {
+    "id": "EST-BAKIOLA",
+    "name": "Bakiola",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91815,
+     43.16992
+    ]
+   },
+   "properties": {
+    "id": "EST-ARRANKUDIAGA",
+    "name": "Arrankudiaga",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92766,
+     43.16323
+    ]
+   },
+   "properties": {
+    "id": "EST-ARBIDE",
+    "name": "Arbide",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94354,
+     43.14502
+    ]
+   },
+   "properties": {
+    "id": "EST-ARETA",
+    "name": "Areta",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9605,
+     43.14225
+    ]
+   },
+   "properties": {
+    "id": "EST-LLODIO",
+    "name": "Llodio",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.96961,
+     43.13292
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTACRUZDELLODIO",
+    "name": "Santa Cruz de Llodio",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.99953,
+     43.09354
+    ]
+   },
+   "properties": {
+    "id": "EST-LUIAONDO",
+    "name": "Luiaondo",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.99619,
+     43.05767
+    ]
+   },
+   "properties": {
+    "id": "EST-AMURRIOIPARRALDE",
+    "name": "Amurrio Iparralde",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.00184,
+     43.04886
+    ]
+   },
+   "properties": {
+    "id": "EST-AMURRIO",
+    "name": "Amurrio",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.99945,
+     43.0744
+    ]
+   },
+   "properties": {
+    "id": "EST-SALBIO",
+    "name": "Salbio",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97857,
+     42.98457
+    ]
+   },
+   "properties": {
+    "id": "EST-ARTOMANA",
+    "name": "Artomaña",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.01598,
+     42.99466
+    ]
+   },
+   "properties": {
+    "id": "EST-ORDUNA",
+    "name": "Orduña",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

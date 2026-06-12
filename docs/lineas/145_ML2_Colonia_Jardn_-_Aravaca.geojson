@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.7748,
+      40.39686
+     ],
+     [
+      -3.7813,
+      40.40228
+     ],
+     [
+      -3.7845,
+      40.40722
+     ],
+     [
+      -3.78755,
+      40.41043
+     ],
+     [
+      -3.79259,
+      40.41574
+     ],
+     [
+      -3.79875,
+      40.41929
+     ],
+     [
+      -3.80459,
+      40.42307
+     ],
+     [
+      -3.80753,
+      40.43059
+     ],
+     [
+      -3.80161,
+      40.43254
+     ],
+     [
+      -3.79514,
+      40.43344
+     ],
+     [
+      -3.79304,
+      40.43909
+     ],
+     [
+      -3.79117,
+      40.44482
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "145",
+    "name": "ML2 Colonia Jardín - Aravaca",
+    "type": "Tranvía",
+    "operator": "Metro Ligero Oeste",
+    "stroke": "#990066",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 12,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7748,
+     40.39686
+    ]
+   },
+   "properties": {
+    "id": "EST-COLONIAJARDIN",
+    "name": "Colonia Jardín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7813,
+     40.40228
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADODELAVEGA",
+    "name": "Prado de la Vega",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7845,
+     40.40722
+    ]
+   },
+   "properties": {
+    "id": "EST-COLONIADELOSANGELES",
+    "name": "Colonia de los Ángeles",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.78755,
+     40.41043
+    ]
+   },
+   "properties": {
+    "id": "EST-PRADODELREY",
+    "name": "Prado del Rey",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79259,
+     40.41574
+    ]
+   },
+   "properties": {
+    "id": "EST-SOMOSAGUASSUR",
+    "name": "Somosaguas Sur",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79875,
+     40.41929
+    ]
+   },
+   "properties": {
+    "id": "EST-SOMOSAGUASCENTRO",
+    "name": "Somosaguas Centro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80459,
+     40.42307
+    ]
+   },
+   "properties": {
+    "id": "EST-POZUELOOESTE",
+    "name": "Pozuelo Oeste",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80753,
+     40.43059
+    ]
+   },
+   "properties": {
+    "id": "EST-BELGICA",
+    "name": "Bélgica",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.80161,
+     40.43254
+    ]
+   },
+   "properties": {
+    "id": "EST-DOSCASTILLAS",
+    "name": "Dos Castillas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79514,
+     40.43344
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPUSDESOMOSAGUAS",
+    "name": "Campus de Somosaguas",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79304,
+     40.43909
+    ]
+   },
+   "properties": {
+    "id": "EST-AVENIDADEEUROPA",
+    "name": "Avenida de Europa",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79117,
+     40.44482
+    ]
+   },
+   "properties": {
+    "id": "EST-BERNA",
+    "name": "Berna",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#990066"
+   }
+  }
+ ]
+}

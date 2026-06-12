@@ -1,0 +1,464 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.94313,
+      43.25454
+     ],
+     [
+      -2.95322,
+      43.25965
+     ],
+     [
+      -2.97414,
+      43.27399
+     ],
+     [
+      -2.97268,
+      43.26171
+     ],
+     [
+      -2.97199,
+      43.25544
+     ],
+     [
+      -2.98991,
+      43.24843
+     ],
+     [
+      -3.01643,
+      43.23336
+     ],
+     [
+      -3.02489,
+      43.22282
+     ],
+     [
+      -3.05048,
+      43.20205
+     ],
+     [
+      -3.07164,
+      43.20102
+     ],
+     [
+      -3.08246,
+      43.20599
+     ],
+     [
+      -3.09533,
+      43.20896
+     ],
+     [
+      -3.10896,
+      43.2105
+     ],
+     [
+      -3.13333,
+      43.21283
+     ],
+     [
+      -3.13853,
+      43.21095
+     ],
+     [
+      -3.14487,
+      43.20392
+     ],
+     [
+      -3.15032,
+      43.19989
+     ],
+     [
+      -3.17052,
+      43.20317
+     ],
+     [
+      -3.18981,
+      43.19654
+     ],
+     [
+      -3.19746,
+      43.19006
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "259",
+    "name": "C-4 Bilbao La Concordia - Balmaseda-La Calzada",
+    "type": "Cercanías AM",
+    "operator": "Renfe",
+    "stroke": "#92278F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 20,
+    "coords_sta": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94313,
+     43.25454
+    ]
+   },
+   "properties": {
+    "id": "EST-AMETZOLA",
+    "name": "Ametzola",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.95322,
+     43.25965
+    ]
+   },
+   "properties": {
+    "id": "EST-BASURTOOSPITALEA",
+    "name": "Basurto-Ospitalea",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97414,
+     43.27399
+    ]
+   },
+   "properties": {
+    "id": "EST-ZORROTZAZORROTZGOITI",
+    "name": "Zorrotza Zorrotzgoiti",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97268,
+     43.26171
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAAGUEDA",
+    "name": "Santa Águeda",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.97199,
+     43.25544
+    ]
+   },
+   "properties": {
+    "id": "EST-KASTREXANA",
+    "name": "Kastrexana",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.98991,
+     43.24843
+    ]
+   },
+   "properties": {
+    "id": "EST-IRAUREGIALONSOTEGI",
+    "name": "Irauregi Alonsotegi",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.01643,
+     43.23336
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAMILLO",
+    "name": "Zaramillo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.02489,
+     43.22282
+    ]
+   },
+   "properties": {
+    "id": "EST-LAQUADRA",
+    "name": "La Quadra",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.05048,
+     43.20205
+    ]
+   },
+   "properties": {
+    "id": "EST-SODUPE",
+    "name": "Sodupe",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.07164,
+     43.20102
+    ]
+   },
+   "properties": {
+    "id": "EST-ARTXUBE",
+    "name": "Artxube",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.08246,
+     43.20599
+    ]
+   },
+   "properties": {
+    "id": "EST-LAMBARRI",
+    "name": "Lámbarri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.09533,
+     43.20896
+    ]
+   },
+   "properties": {
+    "id": "EST-GUENES",
+    "name": "Güeñes",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.10896,
+     43.2105
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANGUREN",
+    "name": "Aranguren",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.13333,
+     43.21283
+    ]
+   },
+   "properties": {
+    "id": "EST-ZALLA",
+    "name": "Zalla",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.13853,
+     43.21095
+    ]
+   },
+   "properties": {
+    "id": "EST-COLEGIO",
+    "name": "Colegio",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.14487,
+     43.20392
+    ]
+   },
+   "properties": {
+    "id": "EST-IBARRA",
+    "name": "Ibarra",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.15032,
+     43.19989
+    ]
+   },
+   "properties": {
+    "id": "EST-BOLUNBURU",
+    "name": "Bolunburu",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.17052,
+     43.20317
+    ]
+   },
+   "properties": {
+    "id": "EST-LAHERRERA",
+    "name": "La Herrera",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18981,
+     43.19654
+    ]
+   },
+   "properties": {
+    "id": "EST-BALMASEDA",
+    "name": "Balmaseda",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.19746,
+     43.19006
+    ]
+   },
+   "properties": {
+    "id": "EST-LACALZADA",
+    "name": "La Calzada",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#92278F"
+   }
+  }
+ ]
+}

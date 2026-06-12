@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.1371,
+      41.40994
+     ],
+     [
+      2.13492,
+      41.41318
+     ],
+     [
+      2.13405,
+      41.41501
+     ],
+     [
+      2.13269,
+      41.41567
+     ],
+     [
+      2.16822,
+      41.38701
+     ],
+     [
+      2.1311,
+      41.41646
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "193",
+    "name": "Tramvia Blau Plaça Kennedy - Funicular del Tibidabo",
+    "type": "Tranvía Histórico",
+    "operator": "TMB",
+    "stroke": "#00519E",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1371,
+     41.40994
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACAKENNEDY",
+    "name": "Plaça Kennedy",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00519E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13492,
+     41.41318
+    ]
+   },
+   "properties": {
+    "id": "EST-ROMANMACAYA",
+    "name": "Roman Macaya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00519E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13405,
+     41.41501
+    ]
+   },
+   "properties": {
+    "id": "EST-JOPEPGARI",
+    "name": "Josep Garí",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00519E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13269,
+     41.41567
+    ]
+   },
+   "properties": {
+    "id": "EST-LLUISMUNTADAS",
+    "name": "Lluís Muntadas",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00519E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16822,
+     41.38701
+    ]
+   },
+   "properties": {
+    "id": "EST-BOSCHIALSINA",
+    "name": "Bosch i Alsina",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00519E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1311,
+     41.41646
+    ]
+   },
+   "properties": {
+    "id": "EST-DOCTORANDREUFUNICULARDELTIBIDABO",
+    "name": "Doctor Andreu -Funicular del Tibidabo",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00519E"
+   }
+  }
+ ]
+}

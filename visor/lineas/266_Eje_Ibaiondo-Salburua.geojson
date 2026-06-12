@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.6793,
+      42.8435
+     ],
+     [
+      -2.69854,
+      42.86621
+     ],
+     [
+      -2.69862,
+      42.86419
+     ],
+     [
+      -2.68471,
+      42.85311
+     ],
+     [
+      -2.68471,
+      42.85819
+     ],
+     [
+      -2.66917,
+      42.85667
+     ],
+     [
+      -2.67993,
+      42.84803
+     ],
+     [
+      -2.67933,
+      42.84645
+     ],
+     [
+      -2.66768,
+      42.84341
+     ],
+     [
+      -2.65785,
+      42.84324
+     ],
+     [
+      -2.65091,
+      42.84354
+     ],
+     [
+      -2.64983,
+      42.84572
+     ],
+     [
+      -2.65071,
+      42.85044
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "266",
+    "name": "Eje Ibaiondo-Salburua",
+    "type": "Tranvía",
+    "operator": "Euskotren Tranbia",
+    "stroke": "#F37021",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 17,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6793,
+     42.8435
+    ]
+   },
+   "properties": {
+    "id": "EST-IBAIONDO",
+    "name": "Ibaiondo",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.69854,
+     42.86621
+    ]
+   },
+   "properties": {
+    "id": "EST-LANDABERDE",
+    "name": "Landaberde",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.69862,
+     42.86419
+    ]
+   },
+   "properties": {
+    "id": "EST-LAKUABIZKARRA",
+    "name": "Lakuabizkarra",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68471,
+     42.85311
+    ]
+   },
+   "properties": {
+    "id": "EST-TXAGORRITXU",
+    "name": "Txagorritxu",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68471,
+     42.85819
+    ]
+   },
+   "properties": {
+    "id": "EST-EUSKALHERRIA",
+    "name": "Euskal Herria",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.66917,
+     42.85667
+    ]
+   },
+   "properties": {
+    "id": "EST-EUROPAVITORIA",
+    "name": "Europa",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67993,
+     42.84803
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTSOJAKITUNASANCHOELSABIO",
+    "name": "Antso Jakituna-Sancho El Sabio",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67933,
+     42.84645
+    ]
+   },
+   "properties": {
+    "id": "EST-LOVAINA",
+    "name": "Lovaina",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.66768,
+     42.84341
+    ]
+   },
+   "properties": {
+    "id": "EST-ANGULEMA",
+    "name": "Angulema",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.65785,
+     42.84324
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTALUZIA",
+    "name": "Santa Luzia",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.65091,
+     42.84354
+    ]
+   },
+   "properties": {
+    "id": "EST-ILIADA",
+    "name": "Iliada",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.64983,
+     42.84572
+    ]
+   },
+   "properties": {
+    "id": "EST-NIKOSIA",
+    "name": "Nikosia",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.65071,
+     42.85044
+    ]
+   },
+   "properties": {
+    "id": "EST-SALBURUA",
+    "name": "Salburua",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  }
+ ]
+}

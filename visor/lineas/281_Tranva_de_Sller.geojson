@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.71512,
+      39.76468
+     ],
+     [
+      2.71512,
+      39.76468
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "281",
+    "name": "Tranvía de Sóller",
+    "type": "Tranvía Histórico",
+    "operator": "Tren de Sóller S.A.",
+    "stroke": "#005A36",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.71512,
+     39.76468
+    ]
+   },
+   "properties": {
+    "id": "EST-SOLLER",
+    "name": "Sóller",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005A36"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.71512,
+     39.76468
+    ]
+   },
+   "properties": {
+    "id": "EST-PORTDESOLLER",
+    "name": "Port de Sóller",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#005A36"
+   }
+  }
+ ]
+}

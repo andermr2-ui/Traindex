@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      5.31729,
+      43.45515
+     ],
+     [
+      4.78576,
+      43.92183
+     ],
+     [
+      4.36625,
+      43.83237
+     ],
+     [
+      3.88032,
+      43.60425
+     ],
+     [
+      2.697,
+      42.77732
+     ],
+     [
+      2.94268,
+      42.2647
+     ],
+     [
+      2.81629,
+      41.97917
+     ],
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.27357,
+      41.19217
+     ],
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -3.6886,
+      40.40697
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "316",
+    "name": "AVE Marsella-Saint-Charles - Madrid-Puerta de Atocha-Almudena Grandes",
+    "type": "AVE",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     5.31729,
+     43.45515
+    ]
+   },
+   "properties": {
+    "id": "EST-AIXENPROVENCETGV",
+    "name": "Aix-en-Provence TGV",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.78576,
+     43.92183
+    ]
+   },
+   "properties": {
+    "id": "EST-AVIGNONTGV",
+    "name": "Aviñón TGV",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     4.36625,
+     43.83237
+    ]
+   },
+   "properties": {
+    "id": "EST-NIMES",
+    "name": "Nimes",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.88032,
+     43.60425
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTPELLIERSAINTROCH",
+    "name": "Montpellier-Saint-Roch",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.697,
+     42.77732
+    ]
+   },
+   "properties": {
+    "id": "EST-PERPINAN",
+    "name": "Perpiñán",
+    "province": "Francia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.94268,
+     42.2647
+    ]
+   },
+   "properties": {
+    "id": "EST-FIGUERASVILAFANT",
+    "name": "Figueras-Vilafant",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.81629,
+     41.97917
+    ]
+   },
+   "properties": {
+    "id": "EST-GERONA",
+    "name": "Gerona",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.27357,
+     41.19217
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDETARRAGONA",
+    "name": "Camp de Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPUERTADEATOCHA",
+    "name": "Madrid-Puerta de Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.34305,
+      38.92159
+     ],
+     [
+      -5.89129,
+      39.08594
+     ],
+     [
+      -5.7965,
+      38.96868
+     ],
+     [
+      -5.63343,
+      38.76423
+     ],
+     [
+      -5.22708,
+      38.72394
+     ],
+     [
+      -4.73031,
+      38.74053
+     ],
+     [
+      -4.11194,
+      38.69129
+     ],
+     [
+      -3.91314,
+      38.98487
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "83",
+    "name": "MD 51 Mérida - Ciudad Real",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.34305,
+     38.92159
+    ]
+   },
+   "properties": {
+    "id": "EST-MERIDA",
+    "name": "Mérida",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.89129,
+     39.08594
+    ]
+   },
+   "properties": {
+    "id": "EST-DONBENITO",
+    "name": "Don Benito",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.7965,
+     38.96868
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUEVADELASERENA",
+    "name": "Villanueva de la Serena",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.63343,
+     38.76423
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTUERA",
+    "name": "Castuera",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.22708,
+     38.72394
+    ]
+   },
+   "properties": {
+    "id": "EST-CABEZADELBUEY",
+    "name": "Cabeza del Buey",
+    "province": "Badajoz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.73031,
+     38.74053
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMADENALMADENEJOS",
+    "name": "Almadén-Almadenejos",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.11194,
+     38.69129
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOLLANO",
+    "name": "Puertollano",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

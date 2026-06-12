@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.59072,
+      39.62259
+     ],
+     [
+      -0.5842,
+      39.59899
+     ],
+     [
+      -0.56173,
+      39.58233
+     ],
+     [
+      -0.53595,
+      39.56162
+     ],
+     [
+      -0.44194,
+      39.49889
+     ],
+     [
+      -0.38621,
+      39.47015
+     ],
+     [
+      -0.47263,
+      39.43168
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "205",
+    "name": "L2 Llíria - Torrent Avinguda",
+    "type": "Metro",
+    "operator": "Metrovalencia",
+    "stroke": "#9561A5",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.59072,
+     39.62259
+    ]
+   },
+   "properties": {
+    "id": "EST-LLIRIA",
+    "name": "Llíria",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9561A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5842,
+     39.59899
+    ]
+   },
+   "properties": {
+    "id": "EST-BENAGUASIL",
+    "name": "Benaguasil",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9561A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.56173,
+     39.58233
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPOBLADEVALLBONA",
+    "name": "La Pobla de Vallbona",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9561A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.53595,
+     39.56162
+    ]
+   },
+   "properties": {
+    "id": "EST-LELIANA",
+    "name": "L'Eliana",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9561A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.44194,
+     39.49889
+    ]
+   },
+   "properties": {
+    "id": "EST-PATERNA",
+    "name": "Paterna",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9561A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38621,
+     39.47015
+    ]
+   },
+   "properties": {
+    "id": "EST-ANGELGUIMERA",
+    "name": "Àngel Guimerà",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9561A5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47263,
+     39.43168
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRENTAVINGUDA",
+    "name": "Torrent Avinguda",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#9561A5"
+   }
+  }
+ ]
+}

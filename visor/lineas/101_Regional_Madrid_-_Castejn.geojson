@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.18225,
+      40.64408
+     ],
+     [
+      -2.64622,
+      41.07145
+     ],
+     [
+      -2.49305,
+      41.13631
+     ],
+     [
+      -2.42117,
+      41.16522
+     ],
+     [
+      -2.27769,
+      41.21565
+     ],
+     [
+      -2.52534,
+      41.48919
+     ],
+     [
+      -2.47561,
+      41.75535
+     ],
+     [
+      -1.99851,
+      41.80555
+     ],
+     [
+      -1.69244,
+      42.17287
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "101",
+    "name": "Regional Madrid - Castejón",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTIN",
+    "name": "Madrid-Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.18225,
+     40.64408
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALAJARA",
+    "name": "Guadalajara",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.64622,
+     41.07145
+    ]
+   },
+   "properties": {
+    "id": "EST-SIGUENZA",
+    "name": "Sigüenza",
+    "province": "Guadalajara",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.49305,
+     41.13631
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRALBA",
+    "name": "Torralba",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.42117,
+     41.16522
+    ]
+   },
+   "properties": {
+    "id": "EST-MEDINACELI",
+    "name": "Medinaceli",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.27769,
+     41.21565
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCOSDEJALON",
+    "name": "Arcos de Jalón",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.52534,
+     41.48919
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMAZANVILLA",
+    "name": "Almazán-Villa",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.47561,
+     41.75535
+    ]
+   },
+   "properties": {
+    "id": "EST-SORIA",
+    "name": "Soria",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.99851,
+     41.80555
+    ]
+   },
+   "properties": {
+    "id": "EST-OLVEGA",
+    "name": "Ólvega",
+    "province": "Soria",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.65997,
+      39.58005
+     ],
+     [
+      2.66579,
+      39.58417
+     ],
+     [
+      2.68639,
+      39.59677
+     ],
+     [
+      2.90584,
+      39.7181
+     ],
+     [
+      2.90584,
+      39.7181
+     ],
+     [
+      2.72547,
+      39.62539
+     ],
+     [
+      2.72547,
+      39.62539
+     ],
+     [
+      2.73649,
+      39.63204
+     ],
+     [
+      2.77409,
+      39.65317
+     ],
+     [
+      2.80855,
+      39.67761
+     ],
+     [
+      2.84122,
+      39.69249
+     ],
+     [
+      2.86918,
+      39.71634
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "275",
+    "name": "T1 Palma - Inca",
+    "type": "Regional",
+    "operator": "SFM",
+    "stroke": "#00A550",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 12,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.65997,
+     39.58005
+    ]
+   },
+   "properties": {
+    "id": "EST-JACINTVERDAGUER",
+    "name": "Jacint Verdaguer",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.66579,
+     39.58417
+    ]
+   },
+   "properties": {
+    "id": "EST-SONCOSTASONFORTESA",
+    "name": "Son Costa-Son Fortesa",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.68639,
+     39.59677
+    ]
+   },
+   "properties": {
+    "id": "EST-VERGEDELLUC",
+    "name": "Verge de Lluc",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.90584,
+     39.7181
+    ]
+   },
+   "properties": {
+    "id": "EST-PONTDINCA",
+    "name": "Pont d'Inca",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.90584,
+     39.7181
+    ]
+   },
+   "properties": {
+    "id": "EST-PONTDINCANOU",
+    "name": "Pont d'Inca Nou",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.72547,
+     39.62539
+    ]
+   },
+   "properties": {
+    "id": "EST-POLIGONDEMARRATXI",
+    "name": "Polígon de Marratxí",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.72547,
+     39.62539
+    ]
+   },
+   "properties": {
+    "id": "EST-MARRATXI",
+    "name": "Marratxí",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.73649,
+     39.63204
+    ]
+   },
+   "properties": {
+    "id": "EST-ESCAULLSFESTIVALPARK",
+    "name": "Es Caülls-Festival Park",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.77409,
+     39.65317
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIA",
+    "name": "Santa Maria",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.80855,
+     39.67761
+    ]
+   },
+   "properties": {
+    "id": "EST-CONSELLALARO",
+    "name": "Consell-Alaró",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.84122,
+     39.69249
+    ]
+   },
+   "properties": {
+    "id": "EST-BINISSALEM",
+    "name": "Binissalem",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.86918,
+     39.71634
+    ]
+   },
+   "properties": {
+    "id": "EST-LLOSETA",
+    "name": "Lloseta",
+    "province": "Baleares",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  }
+ ]
+}

@@ -1,0 +1,354 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.90564,
+      43.24695
+     ],
+     [
+      -2.89348,
+      43.23623
+     ],
+     [
+      -2.90564,
+      43.24695
+     ],
+     [
+      -2.92173,
+      43.25406
+     ],
+     [
+      -2.92252,
+      43.25672
+     ],
+     [
+      -2.68496,
+      42.85893
+     ],
+     [
+      -2.92862,
+      43.25984
+     ],
+     [
+      -2.92612,
+      43.26437
+     ],
+     [
+      -2.92873,
+      43.26631
+     ],
+     [
+      -2.93456,
+      43.26866
+     ],
+     [
+      -2.92744,
+      43.26136
+     ],
+     [
+      -2.94395,
+      43.26628
+     ],
+     [
+      -2.77762,
+      43.16402
+     ],
+     [
+      -2.94611,
+      43.2586
+     ],
+     [
+      -2.92252,
+      43.25672
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "267",
+    "name": "TR Tranvía de Bilbao",
+    "type": "Tranvía",
+    "operator": "Euskotren Tranbia",
+    "stroke": "#00A89C",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 15
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.90564,
+     43.24695
+    ]
+   },
+   "properties": {
+    "id": "EST-BOLUETA",
+    "name": "Bolueta",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89348,
+     43.23623
+    ]
+   },
+   "properties": {
+    "id": "EST-BASAURIHOSPITALDEBASURTO",
+    "name": "Basauri-Hospital de Basurto",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.90564,
+     43.24695
+    ]
+   },
+   "properties": {
+    "id": "EST-OTXARKOAGABOLUETA",
+    "name": "Otxarkoaga-Bolueta",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92173,
+     43.25406
+    ]
+   },
+   "properties": {
+    "id": "EST-ATXURI",
+    "name": "Atxuri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92252,
+     43.25672
+    ]
+   },
+   "properties": {
+    "id": "EST-RIBERA",
+    "name": "Ribera",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68496,
+     42.85893
+    ]
+   },
+   "properties": {
+    "id": "EST-ARRIAGAVITORIA",
+    "name": "Arriaga",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92862,
+     43.25984
+    ]
+   },
+   "properties": {
+    "id": "EST-ABANDO",
+    "name": "Abando",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92612,
+     43.26437
+    ]
+   },
+   "properties": {
+    "id": "EST-PIOBAROJA",
+    "name": "Pío Baroja",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92873,
+     43.26631
+    ]
+   },
+   "properties": {
+    "id": "EST-URIBITARTE",
+    "name": "Uribitarte",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.93456,
+     43.26866
+    ]
+   },
+   "properties": {
+    "id": "EST-GUGGENHEIM",
+    "name": "Guggenheim",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92744,
+     43.26136
+    ]
+   },
+   "properties": {
+    "id": "EST-ABANDOIBARRA",
+    "name": "Abandoibarra",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94395,
+     43.26628
+    ]
+   },
+   "properties": {
+    "id": "EST-EUSKALDUNA",
+    "name": "Euskalduna",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.77762,
+     43.16402
+    ]
+   },
+   "properties": {
+    "id": "EST-SABINOARANA",
+    "name": "Sabino Arana",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94611,
+     43.2586
+    ]
+   },
+   "properties": {
+    "id": "EST-AUTONOMIA",
+    "name": "Autonomía",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92252,
+     43.25672
+    ]
+   },
+   "properties": {
+    "id": "EST-LACASILLA",
+    "name": "La Casilla",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A89C"
+   }
+  }
+ ]
+}

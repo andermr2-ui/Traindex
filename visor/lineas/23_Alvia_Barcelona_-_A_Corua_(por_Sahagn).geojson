@@ -1,0 +1,552 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.13996,
+      41.37901
+     ],
+     [
+      1.27357,
+      41.19217
+     ],
+     [
+      0.63304,
+      41.62073
+     ],
+     [
+      -0.91139,
+      41.65857
+     ],
+     [
+      -1.59767,
+      42.0595
+     ],
+     [
+      -1.69244,
+      42.17287
+     ],
+     [
+      -1.67121,
+      42.52575
+     ],
+     [
+      -1.66149,
+      42.82505
+     ],
+     [
+      -2.6727,
+      42.8413
+     ],
+     [
+      -2.94114,
+      42.6908
+     ],
+     [
+      -3.66632,
+      42.37117
+     ],
+     [
+      -4.53386,
+      42.01573
+     ],
+     [
+      -5.0226,
+      42.3694
+     ],
+     [
+      -6.52214,
+      42.4055
+     ],
+     [
+      -6.04706,
+      42.4594
+     ],
+     [
+      -6.42221,
+      42.60954
+     ],
+     [
+      -6.60249,
+      42.54566
+     ],
+     [
+      -6.98505,
+      42.41826
+     ],
+     [
+      -7.11325,
+      42.39261
+     ],
+     [
+      -7.28721,
+      42.46517
+     ],
+     [
+      -7.50314,
+      42.52952
+     ],
+     [
+      -7.87255,
+      42.35069
+     ],
+     [
+      -8.5452,
+      42.87044
+     ],
+     [
+      -8.41215,
+      43.35037
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "23",
+    "name": "Alvia Barcelona - A Coruña (por Sahagún)",
+    "type": "Larga Distancia",
+    "operator": "Renfe",
+    "stroke": "#0071BC",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 24,
+    "coords_sta": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13996,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONASANTS",
+    "name": "Barcelona-Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.27357,
+     41.19217
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDETARRAGONA",
+    "name": "Camp de Tarragona",
+    "province": "Tarragona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     0.63304,
+     41.62073
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEIDAPIRINEUS",
+    "name": "Lleida Pirineus",
+    "province": "Lleida",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.59767,
+     42.0595
+    ]
+   },
+   "properties": {
+    "id": "EST-TUDELADENAVARRA",
+    "name": "Tudela de Navarra",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69244,
+     42.17287
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTEJONDEEBRO",
+    "name": "Castejón de Ebro",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.67121,
+     42.52575
+    ]
+   },
+   "properties": {
+    "id": "EST-TAFALLA",
+    "name": "Tafalla",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.66149,
+     42.82505
+    ]
+   },
+   "properties": {
+    "id": "EST-PAMPLONA",
+    "name": "Pamplona",
+    "province": "Navarra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.6727,
+     42.8413
+    ]
+   },
+   "properties": {
+    "id": "EST-VITORIAGASTEIZ",
+    "name": "Vitoria-Gasteiz",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94114,
+     42.6908
+    ]
+   },
+   "properties": {
+    "id": "EST-MIRANDADEEBRO",
+    "name": "Miranda de Ebro",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66632,
+     42.37117
+    ]
+   },
+   "properties": {
+    "id": "EST-BURGOSROSADELIMA",
+    "name": "Burgos-Rosa de Lima",
+    "province": "Burgos",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.53386,
+     42.01573
+    ]
+   },
+   "properties": {
+    "id": "EST-PALENCIA",
+    "name": "Palencia",
+    "province": "Palencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.0226,
+     42.3694
+    ]
+   },
+   "properties": {
+    "id": "EST-SAHAGUN",
+    "name": "Sahagún",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.52214,
+     42.4055
+    ]
+   },
+   "properties": {
+    "id": "EST-LEON",
+    "name": "León",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.04706,
+     42.4594
+    ]
+   },
+   "properties": {
+    "id": "EST-ASTORGA",
+    "name": "Astorga",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.42221,
+     42.60954
+    ]
+   },
+   "properties": {
+    "id": "EST-BEMBIBRE",
+    "name": "Bembibre",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.60249,
+     42.54566
+    ]
+   },
+   "properties": {
+    "id": "EST-PONFERRADA",
+    "name": "Ponferrada",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98505,
+     42.41826
+    ]
+   },
+   "properties": {
+    "id": "EST-OBARCODEVALDEORRAS",
+    "name": "O Barco de Valdeorras",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.11325,
+     42.39261
+    ]
+   },
+   "properties": {
+    "id": "EST-ARUAPETIN",
+    "name": "A Rúa-Petín",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.28721,
+     42.46517
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCLODIOQUIROGA",
+    "name": "San Clodio-Quiroga",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.50314,
+     42.52952
+    ]
+   },
+   "properties": {
+    "id": "EST-MONFORTEDELEMOS",
+    "name": "Monforte de Lemos",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.5452,
+     42.87044
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTIAGODECOMPOSTELA",
+    "name": "Santiago de Compostela",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41215,
+     43.35037
+    ]
+   },
+   "properties": {
+    "id": "EST-ACORUNA",
+    "name": "A Coruña",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#0071BC"
+   }
+  }
+ ]
+}

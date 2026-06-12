@@ -1,0 +1,816 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.33467,
+      39.47007
+     ],
+     [
+      -0.27141,
+      39.67567
+     ],
+     [
+      -0.48235,
+      39.84706
+     ],
+     [
+      -0.69642,
+      40.01156
+     ],
+     [
+      -0.77347,
+      40.11784
+     ],
+     [
+      -0.77347,
+      40.11784
+     ],
+     [
+      -0.82358,
+      40.14615
+     ],
+     [
+      -0.94395,
+      40.21239
+     ],
+     [
+      -0.9852,
+      40.27321
+     ],
+     [
+      -1.11042,
+      40.34099
+     ],
+     [
+      -1.24479,
+      40.45529
+     ],
+     [
+      -1.31292,
+      40.57306
+     ],
+     [
+      -1.35823,
+      40.68377
+     ],
+     [
+      -1.36085,
+      40.78229
+     ],
+     [
+      -1.34052,
+      40.82625
+     ],
+     [
+      -1.33858,
+      40.85045
+     ],
+     [
+      -1.28742,
+      40.92637
+     ],
+     [
+      -1.26171,
+      40.93708
+     ],
+     [
+      -1.26904,
+      40.95765
+     ],
+     [
+      -1.25479,
+      41.00931
+     ],
+     [
+      -1.23859,
+      41.06384
+     ],
+     [
+      -1.2871,
+      41.19631
+     ],
+     [
+      -1.27885,
+      41.16561
+     ],
+     [
+      -1.25156,
+      41.1398
+     ],
+     [
+      -1.23985,
+      41.10852
+     ],
+     [
+      -1.21863,
+      41.24345
+     ],
+     [
+      -1.48587,
+      41.15645
+     ],
+     [
+      -1.22909,
+      41.3358
+     ],
+     [
+      -1.1585,
+      41.40616
+     ],
+     [
+      -1.08621,
+      41.46913
+     ],
+     [
+      -0.99748,
+      41.54009
+     ],
+     [
+      -0.86832,
+      41.63319
+     ],
+     [
+      -0.89134,
+      41.64392
+     ],
+     [
+      -0.8959,
+      41.65274
+     ],
+     [
+      -0.91139,
+      41.65857
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "61",
+    "name": "MD 49 Zaragoza - Valencia",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 37,
+    "coords_sta": 36
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.33467,
+     39.47007
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIACABANYAL",
+    "name": "València-Cabanyal",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.27141,
+     39.67567
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGUNT",
+    "name": "Sagunt",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48235,
+     39.84706
+    ]
+   },
+   "properties": {
+    "id": "EST-SEGORBECIUDAD",
+    "name": "Segorbe-Ciudad",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.69642,
+     40.01156
+    ]
+   },
+   "properties": {
+    "id": "EST-BARRACAS",
+    "name": "Barracas",
+    "province": "Castellón",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.77347,
+     40.11784
+    ]
+   },
+   "properties": {
+    "id": "EST-RUBIELOSDEMORA",
+    "name": "Rubielos de Mora",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.77347,
+     40.11784
+    ]
+   },
+   "properties": {
+    "id": "EST-MORADERUBIELOS",
+    "name": "Mora de Rubielos",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.82358,
+     40.14615
+    ]
+   },
+   "properties": {
+    "id": "EST-SARRION",
+    "name": "Sarrión",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.94395,
+     40.21239
+    ]
+   },
+   "properties": {
+    "id": "EST-PUEBLADEVALVERDE",
+    "name": "Puebla de Valverde",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9852,
+     40.27321
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOESCANDON",
+    "name": "Puerto Escandón",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.11042,
+     40.34099
+    ]
+   },
+   "properties": {
+    "id": "EST-TERUEL",
+    "name": "Teruel",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.24479,
+     40.45529
+    ]
+   },
+   "properties": {
+    "id": "EST-CELLA",
+    "name": "Cella",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.31292,
+     40.57306
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAEULALIADELCAMPO",
+    "name": "Santa Eulalia del Campo",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.35823,
+     40.68377
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAFRANCADELCAMPO",
+    "name": "Villafranca del Campo",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.36085,
+     40.78229
+    ]
+   },
+   "properties": {
+    "id": "EST-MONREALDELCAMPO",
+    "name": "Monreal del Campo",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34052,
+     40.82625
+    ]
+   },
+   "properties": {
+    "id": "EST-TORRIJODELCAMPO",
+    "name": "Torrijo del Campo",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.33858,
+     40.85045
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMINREALFUENTESCLARAS",
+    "name": "Caminreal-Fuentes Claras",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.28742,
+     40.92637
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAMOCHANUEVA",
+    "name": "Calamocha Nueva",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.26171,
+     40.93708
+    ]
+   },
+   "properties": {
+    "id": "EST-NAVARRETE",
+    "name": "Navarrete",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.26904,
+     40.95765
+    ]
+   },
+   "properties": {
+    "id": "EST-LECHAGO",
+    "name": "Lechago",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.25479,
+     41.00931
+    ]
+   },
+   "properties": {
+    "id": "EST-CUENCABUENA",
+    "name": "Cuencabuena",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.23859,
+     41.06384
+    ]
+   },
+   "properties": {
+    "id": "EST-FERRERUELA",
+    "name": "Ferreruela",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.2871,
+     41.19631
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLARREALDEHUERVA",
+    "name": "Villarreal de Huerva",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.27885,
+     41.16561
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLADOZ",
+    "name": "Villadoz",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.25156,
+     41.1398
+    ]
+   },
+   "properties": {
+    "id": "EST-BADULES",
+    "name": "Badules",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.23985,
+     41.10852
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAHERMOSA",
+    "name": "Villahermosa",
+    "province": "Teruel",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.21863,
+     41.24345
+    ]
+   },
+   "properties": {
+    "id": "EST-CERVERUELA",
+    "name": "Cerveruela",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.48587,
+     41.15645
+    ]
+   },
+   "properties": {
+    "id": "EST-DAROCA",
+    "name": "Daroca",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.22909,
+     41.3358
+    ]
+   },
+   "properties": {
+    "id": "EST-CARINENA",
+    "name": "Cariñena",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.1585,
+     41.40616
+    ]
+   },
+   "properties": {
+    "id": "EST-LONGARES",
+    "name": "Longares",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.08621,
+     41.46913
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANALESMUEL",
+    "name": "Arañales-Muel",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.99748,
+     41.54009
+    ]
+   },
+   "properties": {
+    "id": "EST-MARIADEHUERVA",
+    "name": "María de Huerva",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86832,
+     41.63319
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAMIRAFLORES",
+    "name": "Zaragoza-Miraflores",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.89134,
+     41.64392
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAGOYA",
+    "name": "Zaragoza-Goya",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8959,
+     41.65274
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZAPORTILLO",
+    "name": "Zaragoza-Portillo",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91139,
+     41.65857
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARAGOZADELICIAS",
+    "name": "Zaragoza-Delicias",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

@@ -1,0 +1,948 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.10094,
+      41.36424
+     ],
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.18091,
+      41.39211
+     ],
+     [
+      2.18692,
+      41.41014
+     ],
+     [
+      2.23055,
+      41.42433
+     ],
+     [
+      2.2491,
+      41.44571
+     ],
+     [
+      2.27221,
+      41.46291
+     ],
+     [
+      2.28686,
+      41.46874
+     ],
+     [
+      2.31042,
+      41.47691
+     ],
+     [
+      2.31981,
+      41.47902
+     ],
+     [
+      2.35492,
+      41.48761
+     ],
+     [
+      2.38983,
+      41.50049
+     ],
+     [
+      1.90683,
+      41.52259
+     ],
+     [
+      2.44552,
+      41.53305
+     ],
+     [
+      2.49837,
+      41.5554
+     ],
+     [
+      2.52602,
+      41.56844
+     ],
+     [
+      2.54942,
+      41.57741
+     ],
+     [
+      2.58115,
+      41.58645
+     ],
+     [
+      2.59404,
+      41.59227
+     ],
+     [
+      2.66657,
+      41.61471
+     ],
+     [
+      2.69361,
+      41.62236
+     ],
+     [
+      2.71646,
+      41.63015
+     ],
+     [
+      2.7414,
+      41.64153
+     ],
+     [
+      2.76901,
+      41.67334
+     ],
+     [
+      2.71948,
+      41.70705
+     ],
+     [
+      2.67338,
+      41.77217
+     ],
+     [
+      2.74502,
+      41.80748
+     ],
+     [
+      2.80057,
+      41.84116
+     ],
+     [
+      2.81174,
+      41.89616
+     ],
+     [
+      2.17096,
+      41.39502
+     ],
+     [
+      2.87485,
+      42.02732
+     ],
+     [
+      2.9153,
+      42.03698
+     ],
+     [
+      2.95717,
+      42.04749
+     ],
+     [
+      2.96476,
+      42.06828
+     ],
+     [
+      2.96561,
+      42.12222
+     ],
+     [
+      2.97803,
+      42.21637
+     ],
+     [
+      2.96897,
+      42.265
+     ],
+     [
+      3.0863,
+      42.32515
+     ],
+     [
+      3.14916,
+      42.3668
+     ],
+     [
+      3.15418,
+      42.407
+     ],
+     [
+      3.15801,
+      42.4248
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "160",
+    "name": "RG1 L'Hospitalet de Llobregat - Figueres / Portbou",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#A2CFEE",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 43,
+    "coords_sta": 42
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10094,
+     41.36424
+    ]
+   },
+   "properties": {
+    "id": "EST-LHOSPITALETDELLOBREGAT",
+    "name": "L'Hospitalet de Llobregat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACACATALUNYA",
+    "name": "Plaça Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18091,
+     41.39211
+    ]
+   },
+   "properties": {
+    "id": "EST-ARCDETRIOMF",
+    "name": "Arc de Triomf",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18692,
+     41.41014
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCLOTARAGO",
+    "name": "El Clot-Aragó",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23055,
+     41.42433
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTADRIADEBESOS",
+    "name": "Sant Adrià de Besòs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2491,
+     41.44571
+    ]
+   },
+   "properties": {
+    "id": "EST-BADALONA",
+    "name": "Badalona",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.27221,
+     41.46291
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTGAT",
+    "name": "Montgat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.28686,
+     41.46874
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTGATNORD",
+    "name": "Montgat Nord",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.31042,
+     41.47691
+    ]
+   },
+   "properties": {
+    "id": "EST-ELMASNOU",
+    "name": "El Masnou",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.31981,
+     41.47902
+    ]
+   },
+   "properties": {
+    "id": "EST-OCATA",
+    "name": "Ocata",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.35492,
+     41.48761
+    ]
+   },
+   "properties": {
+    "id": "EST-PREMIADEMAR",
+    "name": "Premià de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.38983,
+     41.50049
+    ]
+   },
+   "properties": {
+    "id": "EST-VILASSARDEMAR",
+    "name": "Vilassar de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.90683,
+     41.52259
+    ]
+   },
+   "properties": {
+    "id": "EST-CABRERADEMARVILASSAR",
+    "name": "Cabrera de Mar-Vilassar de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.44552,
+     41.53305
+    ]
+   },
+   "properties": {
+    "id": "EST-MATARO",
+    "name": "Mataró",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.49837,
+     41.5554
+    ]
+   },
+   "properties": {
+    "id": "EST-STANDREUDELLAVANERES",
+    "name": "Sant Andreu de Llavaneres",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.52602,
+     41.56844
+    ]
+   },
+   "properties": {
+    "id": "EST-CALDESDESTRAC",
+    "name": "Caldes d'Estrac",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.54942,
+     41.57741
+    ]
+   },
+   "properties": {
+    "id": "EST-ARENYSDEMAR",
+    "name": "Arenys de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.58115,
+     41.58645
+    ]
+   },
+   "properties": {
+    "id": "EST-CANETDEMAR",
+    "name": "Canet de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.59404,
+     41.59227
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTPOLDEMAR",
+    "name": "Sant Pol de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.66657,
+     41.61471
+    ]
+   },
+   "properties": {
+    "id": "EST-CALELLA",
+    "name": "Calella",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.69361,
+     41.62236
+    ]
+   },
+   "properties": {
+    "id": "EST-PINEDADEMAR",
+    "name": "Pineda de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.71646,
+     41.63015
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTASUSANNA",
+    "name": "Santa Susanna",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.7414,
+     41.64153
+    ]
+   },
+   "properties": {
+    "id": "EST-MALGRATDEMAR",
+    "name": "Malgrat de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.76901,
+     41.67334
+    ]
+   },
+   "properties": {
+    "id": "EST-BLANES",
+    "name": "Blanes",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.71948,
+     41.70705
+    ]
+   },
+   "properties": {
+    "id": "EST-TORDERA",
+    "name": "Tordera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.67338,
+     41.77217
+    ]
+   },
+   "properties": {
+    "id": "EST-MACANETMASSANES",
+    "name": "Maçanet-Massanes",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.74502,
+     41.80748
+    ]
+   },
+   "properties": {
+    "id": "EST-SILS",
+    "name": "Sils",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.80057,
+     41.84116
+    ]
+   },
+   "properties": {
+    "id": "EST-CALDESDEMALAVELLA",
+    "name": "Caldes de Malavella",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.81174,
+     41.89616
+    ]
+   },
+   "properties": {
+    "id": "EST-RIUDELLOTS",
+    "name": "Riudellots",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17096,
+     41.39502
+    ]
+   },
+   "properties": {
+    "id": "EST-GIRONABCN",
+    "name": "Girona",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.87485,
+     42.02732
+    ]
+   },
+   "properties": {
+    "id": "EST-CELRA",
+    "name": "Celrà",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.9153,
+     42.03698
+    ]
+   },
+   "properties": {
+    "id": "EST-BORDILSJUIA",
+    "name": "Bordils-Juià",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.95717,
+     42.04749
+    ]
+   },
+   "properties": {
+    "id": "EST-FLACA",
+    "name": "Flaçà",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.96476,
+     42.06828
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTJORDIDESVALLS",
+    "name": "Sant Jordi Desvalls",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.96561,
+     42.12222
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMALLERA",
+    "name": "Camallera",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.97803,
+     42.21637
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAMALLA",
+    "name": "Vilamalla",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.96897,
+     42.265
+    ]
+   },
+   "properties": {
+    "id": "EST-FIGUERES",
+    "name": "Figueres",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.0863,
+     42.32515
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAJUIGA",
+    "name": "Vilajuïga",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.14916,
+     42.3668
+    ]
+   },
+   "properties": {
+    "id": "EST-LLANCA",
+    "name": "Llançà",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.15418,
+     42.407
+    ]
+   },
+   "properties": {
+    "id": "EST-COLERA",
+    "name": "Colera",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     3.15801,
+     42.4248
+    ]
+   },
+   "properties": {
+    "id": "EST-PORTBOU",
+    "name": "Portbou",
+    "province": "Girona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#A2CFEE"
+   }
+  }
+ ]
+}

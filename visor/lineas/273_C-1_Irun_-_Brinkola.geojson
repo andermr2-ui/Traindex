@@ -1,0 +1,640 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.80058,
+      43.33921
+     ],
+     [
+      -1.81706,
+      43.33036
+     ],
+     [
+      -1.89869,
+      43.31101
+     ],
+     [
+      -1.91707,
+      43.31898
+     ],
+     [
+      -1.93671,
+      43.31962
+     ],
+     [
+      -1.95487,
+      43.31423
+     ],
+     [
+      -1.95892,
+      43.32033
+     ],
+     [
+      -1.9733,
+      43.32194
+     ],
+     [
+      -2.00642,
+      43.31915
+     ],
+     [
+      -1.96796,
+      43.31049
+     ],
+     [
+      -1.95628,
+      43.29908
+     ],
+     [
+      -1.96379,
+      43.2724
+     ],
+     [
+      -1.96379,
+      43.2724
+     ],
+     [
+      -1.97412,
+      43.22169
+     ],
+     [
+      -2.01562,
+      43.22214
+     ],
+     [
+      -2.01562,
+      43.22214
+     ],
+     [
+      -2.07,
+      43.2
+     ],
+     [
+      -1.97481,
+      43.30226
+     ],
+     [
+      -2.07914,
+      43.13564
+     ],
+     [
+      -2.07914,
+      43.13564
+     ],
+     [
+      -2.09722,
+      43.10188
+     ],
+     [
+      -2.1255,
+      43.09396
+     ],
+     [
+      -2.14096,
+      43.0858
+     ],
+     [
+      -2.16253,
+      43.06837
+     ],
+     [
+      -2.17922,
+      43.05261
+     ],
+     [
+      -2.20234,
+      43.0461
+     ],
+     [
+      -2.31988,
+      43.08701
+     ],
+     [
+      -2.33447,
+      43.0188
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "273",
+    "name": "C-1 Irun - Brinkola",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 28,
+    "coords_sta": 28
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.80058,
+     43.33921
+    ]
+   },
+   "properties": {
+    "id": "EST-IRUN",
+    "name": "Irún",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.81706,
+     43.33036
+    ]
+   },
+   "properties": {
+    "id": "EST-BENTAK",
+    "name": "Bentak",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.89869,
+     43.31101
+    ]
+   },
+   "properties": {
+    "id": "EST-LEZOERRENTERIA",
+    "name": "Lezo-Errenteria",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.91707,
+     43.31898
+    ]
+   },
+   "properties": {
+    "id": "EST-PASAIA",
+    "name": "Pasaia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.93671,
+     43.31962
+    ]
+   },
+   "properties": {
+    "id": "EST-HERRERA",
+    "name": "Herrera",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95487,
+     43.31423
+    ]
+   },
+   "properties": {
+    "id": "EST-INTXAURRONDO",
+    "name": "Intxaurrondo",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95892,
+     43.32033
+    ]
+   },
+   "properties": {
+    "id": "EST-ATEGORRIETA",
+    "name": "Ategorrieta",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9733,
+     43.32194
+    ]
+   },
+   "properties": {
+    "id": "EST-GROS",
+    "name": "Gros",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.00642,
+     43.31915
+    ]
+   },
+   "properties": {
+    "id": "EST-DONOSTIA",
+    "name": "Donostia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.96796,
+     43.31049
+    ]
+   },
+   "properties": {
+    "id": "EST-LOIOLA",
+    "name": "Loiola",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.95628,
+     43.29908
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTUTENE",
+    "name": "Martutene",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.96379,
+     43.2724
+    ]
+   },
+   "properties": {
+    "id": "EST-HERNANI",
+    "name": "Hernani",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.96379,
+     43.2724
+    ]
+   },
+   "properties": {
+    "id": "EST-HERNANIERDIA",
+    "name": "Hernani-Erdia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.97412,
+     43.22169
+    ]
+   },
+   "properties": {
+    "id": "EST-URNIETA",
+    "name": "Urnieta",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.01562,
+     43.22214
+    ]
+   },
+   "properties": {
+    "id": "EST-ANDOAIN",
+    "name": "Andoain",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.01562,
+     43.22214
+    ]
+   },
+   "properties": {
+    "id": "EST-ANDOAINERDIA",
+    "name": "Andoain-Erdia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "EST-BILLABONAZIZURKIL",
+    "name": "Billabona-Zizurkil",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.97481,
+     43.30226
+    ]
+   },
+   "properties": {
+    "id": "EST-ANOETADONOSTIA-Gipuzkoa-Anoeta",
+    "name": "Anoeta",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07914,
+     43.13564
+    ]
+   },
+   "properties": {
+    "id": "EST-TOLOSAERDIA",
+    "name": "Tolosa-Erdia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.07914,
+     43.13564
+    ]
+   },
+   "properties": {
+    "id": "EST-TOLOSA",
+    "name": "Tolosa",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.09722,
+     43.10188
+    ]
+   },
+   "properties": {
+    "id": "EST-ALEGIA",
+    "name": "Alegia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.1255,
+     43.09396
+    ]
+   },
+   "properties": {
+    "id": "EST-IKAZTEGIETA",
+    "name": "Ikaztegieta",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.14096,
+     43.0858
+    ]
+   },
+   "properties": {
+    "id": "EST-LEGORRETA",
+    "name": "Legorreta",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.16253,
+     43.06837
+    ]
+   },
+   "properties": {
+    "id": "EST-ITSASONDO",
+    "name": "Itsasondo",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.17922,
+     43.05261
+    ]
+   },
+   "properties": {
+    "id": "EST-ORDIZIA",
+    "name": "Ordizia",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.20234,
+     43.0461
+    ]
+   },
+   "properties": {
+    "id": "EST-BEASAIN",
+    "name": "Beasain",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.31988,
+     43.08701
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUMARRAGA",
+    "name": "Zumárraga",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.33447,
+     43.0188
+    ]
+   },
+   "properties": {
+    "id": "EST-BRINKOLA",
+    "name": "Brinkola",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

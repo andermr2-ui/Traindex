@@ -1,0 +1,332 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      1.9794,
+      41.27871
+     ],
+     [
+      2.01035,
+      41.30305
+     ],
+     [
+      2.02743,
+      41.30929
+     ],
+     [
+      2.08926,
+      41.33089
+     ],
+     [
+      2.1072,
+      41.34465
+     ],
+     [
+      2.14,
+      41.37901
+     ],
+     [
+      2.16828,
+      41.38944
+     ],
+     [
+      2.18692,
+      41.41014
+     ],
+     [
+      2.19114,
+      41.43663
+     ],
+     [
+      2.18825,
+      41.48405
+     ],
+     [
+      2.19986,
+      41.51043
+     ],
+     [
+      2.21754,
+      41.53347
+     ],
+     [
+      2.24538,
+      41.54972
+     ],
+     [
+      2.29161,
+      41.59965
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "149",
+    "name": "R2 Castelldefels - Granollers Centre",
+    "type": "Rodalies",
+    "operator": "Renfe",
+    "stroke": "#00A54F",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 15,
+    "coords_sta": 14
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     1.9794,
+     41.27871
+    ]
+   },
+   "properties": {
+    "id": "EST-CASTELLDEFELS",
+    "name": "Castelldefels",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.01035,
+     41.30305
+    ]
+   },
+   "properties": {
+    "id": "EST-GAVA",
+    "name": "Gavà",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.02743,
+     41.30929
+    ]
+   },
+   "properties": {
+    "id": "EST-VILADECANS",
+    "name": "Viladecans",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.08926,
+     41.33089
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPRATDELLOBREGAT",
+    "name": "El Prat de Llobregat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1072,
+     41.34465
+    ]
+   },
+   "properties": {
+    "id": "EST-BELLVITGE",
+    "name": "Bellvitge",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14,
+     41.37901
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTS",
+    "name": "Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16828,
+     41.38944
+    ]
+   },
+   "properties": {
+    "id": "EST-PASSEIGDEGRACIA",
+    "name": "Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18692,
+     41.41014
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCLOTARAGO",
+    "name": "El Clot-Aragó",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19114,
+     41.43663
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTANDREU",
+    "name": "Sant Andreu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18825,
+     41.48405
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTCADAIREIXAC",
+    "name": "Montcada i Reixac",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19986,
+     41.51043
+    ]
+   },
+   "properties": {
+    "id": "EST-LALLAGOSTA",
+    "name": "La Llagosta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21754,
+     41.53347
+    ]
+   },
+   "properties": {
+    "id": "EST-MOLLETSANTFOST",
+    "name": "Mollet-Sant Fost",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.24538,
+     41.54972
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTMELO",
+    "name": "Montmeló",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.29161,
+     41.59965
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANOLLERSCENTRE",
+    "name": "Granollers Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A54F"
+   }
+  }
+ ]
+}

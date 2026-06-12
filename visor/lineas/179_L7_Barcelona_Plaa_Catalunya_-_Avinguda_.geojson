@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.17008,
+      41.38655
+     ],
+     [
+      2.15798,
+      41.39287
+     ],
+     [
+      2.15215,
+      41.39976
+     ],
+     [
+      2.14744,
+      41.40133
+     ],
+     [
+      2.14304,
+      41.40331
+     ],
+     [
+      2.13914,
+      41.40581
+     ],
+     [
+      2.13716,
+      41.40966
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "179",
+    "name": "L7 Barcelona Plaça Catalunya - Avinguda Tibidabo",
+    "type": "Metro",
+    "operator": "FGC",
+    "stroke": "#964F1A",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 7,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17008,
+     41.38655
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACACATALUNYA",
+    "name": "Plaça Catalunya",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#964F1A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15798,
+     41.39287
+    ]
+   },
+   "properties": {
+    "id": "EST-PROVENCA",
+    "name": "Provença",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#964F1A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15215,
+     41.39976
+    ]
+   },
+   "properties": {
+    "id": "EST-GRACIA-Barcelona-Barcelona",
+    "name": "Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#964F1A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14744,
+     41.40133
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACAMOLINA",
+    "name": "Plaça Molina",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#964F1A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14304,
+     41.40331
+    ]
+   },
+   "properties": {
+    "id": "EST-PADUA",
+    "name": "Pàdua",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#964F1A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13914,
+     41.40581
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPUTXET",
+    "name": "El Putxet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#964F1A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13716,
+     41.40966
+    ]
+   },
+   "properties": {
+    "id": "EST-AVINGUDATIBIDABO",
+    "name": "Avinguda Tibidabo",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#964F1A"
+   }
+  }
+ ]
+}

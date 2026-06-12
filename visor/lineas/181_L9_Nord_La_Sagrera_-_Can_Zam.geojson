@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18702,
+      41.42262
+     ],
+     [
+      2.19344,
+      41.42976
+     ],
+     [
+      2.20481,
+      41.43613
+     ],
+     [
+      2.21029,
+      41.44447
+     ],
+     [
+      2.21581,
+      41.44684
+     ],
+     [
+      2.21841,
+      41.45167
+     ],
+     [
+      2.2124,
+      41.45476
+     ],
+     [
+      2.20559,
+      41.45946
+     ],
+     [
+      2.19849,
+      41.45768
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "181",
+    "name": "L9 Nord La Sagrera - Can Zam",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#F47721",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18702,
+     41.42262
+    ]
+   },
+   "properties": {
+    "id": "EST-LASAGRERA",
+    "name": "La Sagrera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19344,
+     41.42976
+    ]
+   },
+   "properties": {
+    "id": "EST-ONZEDESETEMBRE",
+    "name": "Onze de Setembre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20481,
+     41.43613
+    ]
+   },
+   "properties": {
+    "id": "EST-BONPASTOR",
+    "name": "Bon Pastor",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21029,
+     41.44447
+    ]
+   },
+   "properties": {
+    "id": "EST-CANPEIXAUET",
+    "name": "Can Peixauet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21581,
+     41.44684
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAROSA",
+    "name": "Santa Rosa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21841,
+     41.45167
+    ]
+   },
+   "properties": {
+    "id": "EST-FONDO",
+    "name": "Fondo",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.2124,
+     41.45476
+    ]
+   },
+   "properties": {
+    "id": "EST-ESGLESIAMAJOR",
+    "name": "Església Major",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20559,
+     41.45946
+    ]
+   },
+   "properties": {
+    "id": "EST-SINGUERLIN",
+    "name": "Singuerlín",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19849,
+     41.45768
+    ]
+   },
+   "properties": {
+    "id": "EST-CANZAM",
+    "name": "Can Zam",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F47721"
+   }
+  }
+ ]
+}

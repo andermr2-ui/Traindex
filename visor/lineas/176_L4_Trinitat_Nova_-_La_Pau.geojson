@@ -1,0 +1,486 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18416,
+      41.44948
+     ],
+     [
+      2.1786,
+      41.44385
+     ],
+     [
+      2.17336,
+      41.43701
+     ],
+     [
+      2.1765,
+      41.42503
+     ],
+     [
+      2.17407,
+      41.41608
+     ],
+     [
+      2.16551,
+      41.4121
+     ],
+     [
+      2.16319,
+      41.40627
+     ],
+     [
+      2.16843,
+      41.40009
+     ],
+     [
+      2.17096,
+      41.39502
+     ],
+     [
+      2.16828,
+      41.38944
+     ],
+     [
+      2.17331,
+      41.38809
+     ],
+     [
+      2.17871,
+      41.384
+     ],
+     [
+      2.18548,
+      41.38212
+     ],
+     [
+      2.19348,
+      41.38785
+     ],
+     [
+      2.19204,
+      41.3951
+     ],
+     [
+      2.19765,
+      41.39938
+     ],
+     [
+      2.20328,
+      41.40364
+     ],
+     [
+      2.20911,
+      41.40801
+     ],
+     [
+      2.21668,
+      41.41178
+     ],
+     [
+      2.21609,
+      41.41509
+     ],
+     [
+      2.20971,
+      41.42037
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "176",
+    "name": "L4 Trinitat Nova - La Pau",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#FFC20E",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 22,
+    "coords_sta": 21
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18416,
+     41.44948
+    ]
+   },
+   "properties": {
+    "id": "EST-TRINITATNOVA",
+    "name": "Trinitat Nova",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1786,
+     41.44385
+    ]
+   },
+   "properties": {
+    "id": "EST-VIAJULIA",
+    "name": "Via Júlia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17336,
+     41.43701
+    ]
+   },
+   "properties": {
+    "id": "EST-LLUCMAJOR",
+    "name": "Llucmajor",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1765,
+     41.42503
+    ]
+   },
+   "properties": {
+    "id": "EST-MARAGALL",
+    "name": "Maragall",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17407,
+     41.41608
+    ]
+   },
+   "properties": {
+    "id": "EST-GUINARDOHOSPITALDESANTPAU",
+    "name": "Guinardó | Hospital de Sant Pau",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16551,
+     41.4121
+    ]
+   },
+   "properties": {
+    "id": "EST-ALFONSX",
+    "name": "Alfons X",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16319,
+     41.40627
+    ]
+   },
+   "properties": {
+    "id": "EST-JOANIC",
+    "name": "Joanic",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16843,
+     41.40009
+    ]
+   },
+   "properties": {
+    "id": "EST-VERDAGUER",
+    "name": "Verdaguer",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17096,
+     41.39502
+    ]
+   },
+   "properties": {
+    "id": "EST-GIRONABCN",
+    "name": "Girona",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16828,
+     41.38944
+    ]
+   },
+   "properties": {
+    "id": "EST-PASSEIGDEGRACIA",
+    "name": "Passeig de Gràcia",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17331,
+     41.38809
+    ]
+   },
+   "properties": {
+    "id": "EST-URQUINAONA",
+    "name": "Urquinaona",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17871,
+     41.384
+    ]
+   },
+   "properties": {
+    "id": "EST-JAUMEI",
+    "name": "Jaume I",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18548,
+     41.38212
+    ]
+   },
+   "properties": {
+    "id": "EST-BARCELONETA",
+    "name": "Barceloneta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19348,
+     41.38785
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUTADELLAVILAOLIMPICA",
+    "name": "Ciutadella | Vila Olímpica",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19204,
+     41.3951
+    ]
+   },
+   "properties": {
+    "id": "EST-BOGATELL",
+    "name": "Bogatell",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19765,
+     41.39938
+    ]
+   },
+   "properties": {
+    "id": "EST-LLACUNA",
+    "name": "Llacuna",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20328,
+     41.40364
+    ]
+   },
+   "properties": {
+    "id": "EST-POBLENOU",
+    "name": "Poblenou",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20911,
+     41.40801
+    ]
+   },
+   "properties": {
+    "id": "EST-SELVADEMAR",
+    "name": "Selva de Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21668,
+     41.41178
+    ]
+   },
+   "properties": {
+    "id": "EST-ELMARESMEFORUM",
+    "name": "El Maresme | Fòrum",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21609,
+     41.41509
+    ]
+   },
+   "properties": {
+    "id": "EST-BESOSMAR",
+    "name": "Besòs Mar",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20971,
+     41.42037
+    ]
+   },
+   "properties": {
+    "id": "EST-BESOS",
+    "name": "Besòs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FFC20E"
+   }
+  }
+ ]
+}

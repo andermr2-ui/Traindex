@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.71188,
+      42.23952
+     ],
+     [
+      -8.60372,
+      42.28549
+     ],
+     [
+      -8.62232,
+      42.06571
+     ],
+     [
+      -7.87255,
+      42.35069
+     ],
+     [
+      -7.50314,
+      42.52952
+     ],
+     [
+      -7.28721,
+      42.46517
+     ],
+     [
+      -7.11325,
+      42.39261
+     ],
+     [
+      -6.98505,
+      42.41826
+     ],
+     [
+      -6.60249,
+      42.54566
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "91",
+    "name": "MD 3 Vigo - Ponferrada",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8200",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.71188,
+     42.23952
+    ]
+   },
+   "properties": {
+    "id": "EST-VIGOGUIXAR",
+    "name": "Vigo-Guixar",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.60372,
+     42.28549
+    ]
+   },
+   "properties": {
+    "id": "EST-REDONDELA",
+    "name": "Redondela",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.62232,
+     42.06571
+    ]
+   },
+   "properties": {
+    "id": "EST-GUILLAREI",
+    "name": "Guillarei",
+    "province": "Pontevedra",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.50314,
+     42.52952
+    ]
+   },
+   "properties": {
+    "id": "EST-MONFORTEDELEMOS",
+    "name": "Monforte de Lemos",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.28721,
+     42.46517
+    ]
+   },
+   "properties": {
+    "id": "EST-QUIROGA",
+    "name": "Quiroga",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.11325,
+     42.39261
+    ]
+   },
+   "properties": {
+    "id": "EST-ARUAPETIN",
+    "name": "A Rúa-Petín",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98505,
+     42.41826
+    ]
+   },
+   "properties": {
+    "id": "EST-OBARCODEVALDEORRAS",
+    "name": "O Barco de Valdeorras",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.60249,
+     42.54566
+    ]
+   },
+   "properties": {
+    "id": "EST-PONFERRADA",
+    "name": "Ponferrada",
+    "province": "León",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8200"
+   }
+  }
+ ]
+}

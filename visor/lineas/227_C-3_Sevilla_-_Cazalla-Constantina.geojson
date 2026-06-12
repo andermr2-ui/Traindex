@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.9399,
+      37.47994
+     ],
+     [
+      -5.9329,
+      37.48631
+     ],
+     [
+      -5.86677,
+      37.5461
+     ],
+     [
+      -5.80325,
+      37.57474
+     ],
+     [
+      -5.727,
+      37.59012
+     ],
+     [
+      -5.7317,
+      37.60929
+     ],
+     [
+      -5.73101,
+      37.63547
+     ],
+     [
+      -5.71499,
+      37.65825
+     ],
+     [
+      -5.70425,
+      37.9327
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "227",
+    "name": "C-3 Sevilla - Cazalla/Constantina",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9399,
+     37.47994
+    ]
+   },
+   "properties": {
+    "id": "EST-LARINCONADA",
+    "name": "La Rinconada",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.9329,
+     37.48631
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCANAMO",
+    "name": "El Cáñamo",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.86677,
+     37.5461
+    ]
+   },
+   "properties": {
+    "id": "EST-BRENES",
+    "name": "Brenes",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.80325,
+     37.57474
+    ]
+   },
+   "properties": {
+    "id": "EST-CANTILLANA",
+    "name": "Cantillana",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.727,
+     37.59012
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSROSALES",
+    "name": "Los Rosales",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.7317,
+     37.60929
+    ]
+   },
+   "properties": {
+    "id": "EST-TOCINA",
+    "name": "Tocina",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.73101,
+     37.63547
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOLEADELRIO",
+    "name": "Alcolea del Río",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.71499,
+     37.65825
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUEVADELRIOMINAS",
+    "name": "Villanueva del Río Minas",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.70425,
+     37.9327
+    ]
+   },
+   "properties": {
+    "id": "EST-CAZALLACONSTANTINA",
+    "name": "Cazalla-Constantina",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

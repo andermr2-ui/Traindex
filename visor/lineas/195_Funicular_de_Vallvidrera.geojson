@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.11141,
+      41.40905
+     ],
+     [
+      2.10574,
+      41.41417
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "195",
+    "name": "Funicular de Vallvidrera",
+    "type": "Funicular",
+    "operator": "FGC",
+    "stroke": "#492F91",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11141,
+     41.40905
+    ]
+   },
+   "properties": {
+    "id": "EST-PEUDELFUNICULAR",
+    "name": "Peu del Funicular",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10574,
+     41.41417
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLVIDRERASUPERIOR",
+    "name": "Vallvidrera Superior",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#492F91"
+   }
+  }
+ ]
+}

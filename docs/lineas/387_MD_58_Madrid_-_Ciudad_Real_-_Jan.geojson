@@ -1,0 +1,574 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.68271,
+      40.47395
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.61825,
+      40.03483
+     ],
+     [
+      -3.33025,
+      39.62197
+     ],
+     [
+      -3.26637,
+      39.50422
+     ],
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -3.23305,
+      39.16888
+     ],
+     [
+      -3.3706,
+      39.0059
+     ],
+     [
+      -3.60408,
+      39.06141
+     ],
+     [
+      -3.70965,
+      38.89551
+     ],
+     [
+      -3.91314,
+      38.98487
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.61825,
+      40.03483
+     ],
+     [
+      -3.33025,
+      39.62197
+     ],
+     [
+      -3.26637,
+      39.50422
+     ],
+     [
+      -3.20537,
+      39.39566
+     ],
+     [
+      -3.23305,
+      39.16888
+     ],
+     [
+      -3.3706,
+      39.0059
+     ],
+     [
+      -3.39614,
+      38.76328
+     ],
+     [
+      -3.45135,
+      38.64459
+     ],
+     [
+      -3.50174,
+      38.51432
+     ],
+     [
+      -3.5177,
+      38.21573
+     ],
+     [
+      -3.58914,
+      38.06908
+     ],
+     [
+      -3.81,
+      37.97
+     ],
+     [
+      -3.79079,
+      37.77998
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "387",
+    "name": "MD 58 Madrid - Ciudad Real / Jaén",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 25,
+    "coords_sta": 25
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDCHAMARTIN",
+    "name": "Madrid-Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61825,
+     40.03483
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANJUEZ",
+    "name": "Aranjuez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.33025,
+     39.62197
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLACANAS",
+    "name": "Villacañas",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.26637,
+     39.50422
+    ]
+   },
+   "properties": {
+    "id": "EST-QUERO",
+    "name": "Quero",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.23305,
+     39.16888
+    ]
+   },
+   "properties": {
+    "id": "EST-CINCOCASAS",
+    "name": "Cinco Casas",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3706,
+     39.0059
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANARES",
+    "name": "Manzanares",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60408,
+     39.06141
+    ]
+   },
+   "properties": {
+    "id": "EST-DAIMIEL",
+    "name": "Daimiel",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70965,
+     38.89551
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMAGRO",
+    "name": "Almagro",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.91314,
+     38.98487
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADREAL",
+    "name": "Ciudad Real",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDATOCHACERCANIAS",
+    "name": "Madrid-Atocha Cercanías",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61825,
+     40.03483
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANJUEZ",
+    "name": "Aranjuez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.33025,
+     39.62197
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLACANAS",
+    "name": "Villacañas",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.26637,
+     39.50422
+    ]
+   },
+   "properties": {
+    "id": "EST-QUERO",
+    "name": "Quero",
+    "province": "Toledo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.20537,
+     39.39566
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARDESANJUAN",
+    "name": "Alcázar de San Juan",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.23305,
+     39.16888
+    ]
+   },
+   "properties": {
+    "id": "EST-CINCOCASAS",
+    "name": "Cinco Casas",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3706,
+     39.0059
+    ]
+   },
+   "properties": {
+    "id": "EST-MANZANARES",
+    "name": "Manzanares",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.39614,
+     38.76328
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDEPENAS",
+    "name": "Valdepeñas",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.45135,
+     38.64459
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTACRUZDEMUDELA",
+    "name": "Santa Cruz de Mudela",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.50174,
+     38.51432
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMURADIELVISODELMARQUES",
+    "name": "Almuradiel-Viso del Marqués",
+    "province": "Ciudad Real",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.5177,
+     38.21573
+    ]
+   },
+   "properties": {
+    "id": "EST-VILCHES",
+    "name": "Vilches",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.58914,
+     38.06908
+    ]
+   },
+   "properties": {
+    "id": "EST-LINARESBAEZA",
+    "name": "Linares-Baeza",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.81,
+     37.97
+    ]
+   },
+   "properties": {
+    "id": "EST-MENGIBARARTILLERO",
+    "name": "Mengíbar-Artillero",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.79079,
+     37.77998
+    ]
+   },
+   "properties": {
+    "id": "EST-JAEN",
+    "name": "Jaén",
+    "province": "Jaén",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

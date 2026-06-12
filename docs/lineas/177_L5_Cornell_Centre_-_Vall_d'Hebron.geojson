@@ -1,0 +1,618 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.07055,
+      41.3573
+     ],
+     [
+      2.07922,
+      41.35799
+     ],
+     [
+      2.08433,
+      41.36334
+     ],
+     [
+      2.09152,
+      41.36658
+     ],
+     [
+      2.09976,
+      41.37174
+     ],
+     [
+      2.10712,
+      41.37381
+     ],
+     [
+      2.11204,
+      41.3759
+     ],
+     [
+      2.1184,
+      41.37587
+     ],
+     [
+      2.12893,
+      41.37555
+     ],
+     [
+      2.13791,
+      41.37538
+     ],
+     [
+      2.14111,
+      41.38147
+     ],
+     [
+      2.14496,
+      41.38398
+     ],
+     [
+      2.15054,
+      41.38816
+     ],
+     [
+      2.15996,
+      41.39596
+     ],
+     [
+      2.16843,
+      41.40009
+     ],
+     [
+      2.17388,
+      41.40403
+     ],
+     [
+      2.17598,
+      41.41073
+     ],
+     [
+      2.18101,
+      41.41469
+     ],
+     [
+      2.18702,
+      41.42262
+     ],
+     [
+      2.18129,
+      41.42342
+     ],
+     [
+      2.1765,
+      41.42503
+     ],
+     [
+      2.175,
+      41.42959
+     ],
+     [
+      2.16817,
+      41.43046
+     ],
+     [
+      2.16032,
+      41.42969
+     ],
+     [
+      2.15511,
+      41.4244
+     ],
+     [
+      2.14936,
+      41.42166
+     ],
+     [
+      2.1424,
+      41.42491
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "177",
+    "name": "L5 Cornellà Centre - Vall d'Hebron",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#1A479A",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 27,
+    "coords_sta": 27
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07055,
+     41.3573
+    ]
+   },
+   "properties": {
+    "id": "EST-CORNELLACENTRE",
+    "name": "Cornellà Centre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.07922,
+     41.35799
+    ]
+   },
+   "properties": {
+    "id": "EST-GAVARRA",
+    "name": "Gavarra",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.08433,
+     41.36334
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTILDEFONS",
+    "name": "Sant Ildefons",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09152,
+     41.36658
+    ]
+   },
+   "properties": {
+    "id": "EST-CANBOIXERES",
+    "name": "Can Boixeres",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.09976,
+     41.37174
+    ]
+   },
+   "properties": {
+    "id": "EST-CANVIDALET",
+    "name": "Can Vidalet",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.10712,
+     41.37381
+    ]
+   },
+   "properties": {
+    "id": "EST-PUBILLACASES",
+    "name": "Pubilla Cases",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.11204,
+     41.3759
+    ]
+   },
+   "properties": {
+    "id": "EST-ERNESTLLUCH",
+    "name": "Ernest Lluch",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1184,
+     41.37587
+    ]
+   },
+   "properties": {
+    "id": "EST-COLLBLANC",
+    "name": "Collblanc",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.12893,
+     41.37555
+    ]
+   },
+   "properties": {
+    "id": "EST-BADAL",
+    "name": "Badal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.13791,
+     41.37538
+    ]
+   },
+   "properties": {
+    "id": "EST-PLACADESANTS",
+    "name": "Plaça de Sants",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14111,
+     41.38147
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTSESTACIO",
+    "name": "Sants Estació",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14496,
+     41.38398
+    ]
+   },
+   "properties": {
+    "id": "EST-ENTENCA",
+    "name": "Entença",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15054,
+     41.38816
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALCLINIC",
+    "name": "Hospital Clínic",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15996,
+     41.39596
+    ]
+   },
+   "properties": {
+    "id": "EST-DIAGONAL",
+    "name": "Diagonal",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16843,
+     41.40009
+    ]
+   },
+   "properties": {
+    "id": "EST-VERDAGUER",
+    "name": "Verdaguer",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17388,
+     41.40403
+    ]
+   },
+   "properties": {
+    "id": "EST-SAGRADAFAMILIA-Barcelona-Barcelona",
+    "name": "Sagrada Família",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17598,
+     41.41073
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTPAUDOSDEMAIG",
+    "name": "Sant Pau | Dos de Maig",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18101,
+     41.41469
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPDELARPA",
+    "name": "Camp de l'Arpa",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18702,
+     41.42262
+    ]
+   },
+   "properties": {
+    "id": "EST-LASAGRERA",
+    "name": "La Sagrera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18129,
+     41.42342
+    ]
+   },
+   "properties": {
+    "id": "EST-CONGRES",
+    "name": "Congrés",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1765,
+     41.42503
+    ]
+   },
+   "properties": {
+    "id": "EST-MARAGALL",
+    "name": "Maragall",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.175,
+     41.42959
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRREIAMAT",
+    "name": "Virrei Amat",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16817,
+     41.43046
+    ]
+   },
+   "properties": {
+    "id": "EST-VILAPICINA",
+    "name": "Vilapicina",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16032,
+     41.42969
+    ]
+   },
+   "properties": {
+    "id": "EST-HORTA",
+    "name": "Horta",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15511,
+     41.4244
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCARMEL",
+    "name": "El Carmel",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.14936,
+     41.42166
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCOLLLATEXIONERA",
+    "name": "El Coll | La Teixonera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1424,
+     41.42491
+    ]
+   },
+   "properties": {
+    "id": "EST-VALLDHEBRON",
+    "name": "Vall d'Hebron",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1A479A"
+   }
+  }
+ ]
+}

@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49062,
+      38.34603
+     ],
+     [
+      -0.48483,
+      38.34816
+     ],
+     [
+      -0.47567,
+      38.35209
+     ],
+     [
+      -0.473,
+      38.34906
+     ],
+     [
+      -0.43801,
+      38.36545
+     ],
+     [
+      -0.42865,
+      38.37482
+     ],
+     [
+      -0.40836,
+      38.38859
+     ],
+     [
+      -0.40669,
+      38.39693
+     ],
+     [
+      -0.4042,
+      38.40513
+     ],
+     [
+      -0.39732,
+      38.41721
+     ],
+     [
+      -0.39776,
+      38.41602
+     ],
+     [
+      -0.3969,
+      38.42152
+     ],
+     [
+      -0.39639,
+      38.42665
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "216",
+    "name": "L3 Luceros - El Campello",
+    "type": "Tranvía",
+    "operator": "TRAM d'Alacant",
+    "stroke": "#F2A900",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49062,
+     38.34603
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCEROS",
+    "name": "Luceros",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48483,
+     38.34816
+    ]
+   },
+   "properties": {
+    "id": "EST-MERCADO",
+    "name": "Mercado",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47567,
+     38.35209
+    ]
+   },
+   "properties": {
+    "id": "EST-MARQCASTILLO",
+    "name": "Marq-Castillo",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.473,
+     38.34906
+    ]
+   },
+   "properties": {
+    "id": "EST-SANGUETA",
+    "name": "Sangueta",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43801,
+     38.36545
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCENTUM",
+    "name": "Lucentum",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.42865,
+     38.37482
+    ]
+   },
+   "properties": {
+    "id": "EST-CONDOMINA",
+    "name": "Condomina",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40836,
+     38.38859
+    ]
+   },
+   "properties": {
+    "id": "EST-CARRABINERS",
+    "name": "Carrabiners",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40669,
+     38.39693
+    ]
+   },
+   "properties": {
+    "id": "EST-MUCHAVISTA",
+    "name": "Muchavista",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.4042,
+     38.40513
+    ]
+   },
+   "properties": {
+    "id": "EST-LESLLANCES",
+    "name": "Les Llances",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39732,
+     38.41721
+    ]
+   },
+   "properties": {
+    "id": "EST-FABRAQUER",
+    "name": "Fabraquer",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39776,
+     38.41602
+    ]
+   },
+   "properties": {
+    "id": "EST-SALESIANS",
+    "name": "Salesians",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3969,
+     38.42152
+    ]
+   },
+   "properties": {
+    "id": "EST-PLABARRAQUES",
+    "name": "Pla Barraques",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39639,
+     38.42665
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCAMPELLO",
+    "name": "El Campello",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F2A900"
+   }
+  }
+ ]
+}

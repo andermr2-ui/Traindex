@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.406,
+      39.382
+     ],
+     [
+      -0.415,
+      39.512
+     ],
+     [
+      -0.36746,
+      39.48632
+     ],
+     [
+      -0.36235,
+      39.48481
+     ],
+     [
+      -0.37414,
+      39.48003
+     ],
+     [
+      -0.43159,
+      39.15229
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "207",
+    "name": "L4 Mas del Rosari - Doctor Lluch",
+    "type": "Tranvía",
+    "operator": "Metrovalencia",
+    "stroke": "#2251A2",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.406,
+     39.382
+    ]
+   },
+   "properties": {
+    "id": "EST-MASDELROSARILLOMALLARGA",
+    "name": "Mas del Rosari-Lloma Llarga",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.415,
+     39.512
+    ]
+   },
+   "properties": {
+    "id": "EST-TVV",
+    "name": "TVV",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36746,
+     39.48632
+    ]
+   },
+   "properties": {
+    "id": "EST-PRIMATREIG",
+    "name": "Primat Reig",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36235,
+     39.48481
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIMACLET",
+    "name": "Benimaclet",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37414,
+     39.48003
+    ]
+   },
+   "properties": {
+    "id": "EST-PONTDEFUSTA",
+    "name": "Pont de Fusta",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43159,
+     39.15229
+    ]
+   },
+   "properties": {
+    "id": "EST-DOCTORLLUCH",
+    "name": "Doctor Lluch",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#2251A2"
+   }
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.37719,
+      39.46691
+     ],
+     [
+      -0.40262,
+      39.45107
+     ],
+     [
+      -0.43218,
+      39.46257
+     ],
+     [
+      -0.46374,
+      39.46096
+     ],
+     [
+      -0.56738,
+      39.48567
+     ],
+     [
+      -0.68627,
+      39.49078
+     ],
+     [
+      -0.72292,
+      39.47105
+     ],
+     [
+      -0.7874,
+      39.4271
+     ],
+     [
+      -1.13473,
+      39.52175
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "201",
+    "name": "C-3 Valencia-Nord - Utiel",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37719,
+     39.46691
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIANORD",
+    "name": "València-Nord",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40262,
+     39.45107
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCIASANTISIDRE",
+    "name": "València-Sant Isidre",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43218,
+     39.46257
+    ]
+   },
+   "properties": {
+    "id": "EST-XIRIVELLAALQUERIES",
+    "name": "Xirivella-Alqueries",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.46374,
+     39.46096
+    ]
+   },
+   "properties": {
+    "id": "EST-ALDAIA",
+    "name": "Aldaia",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.56738,
+     39.48567
+    ]
+   },
+   "properties": {
+    "id": "EST-LORIGUILLAREVA",
+    "name": "Loriguilla-Reva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.68627,
+     39.49078
+    ]
+   },
+   "properties": {
+    "id": "EST-CHESTE",
+    "name": "Cheste",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.72292,
+     39.47105
+    ]
+   },
+   "properties": {
+    "id": "EST-CHIVA",
+    "name": "Chiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.7874,
+     39.4271
+    ]
+   },
+   "properties": {
+    "id": "EST-BUNOL",
+    "name": "Buñol",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13473,
+     39.52175
+    ]
+   },
+   "properties": {
+    "id": "EST-UTIEL",
+    "name": "Utiel",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -7.87255,
+      42.35069
+     ],
+     [
+      -7.73559,
+      42.45115
+     ],
+     [
+      -7.50314,
+      42.52952
+     ],
+     [
+      -7.41365,
+      42.78262
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "93",
+    "name": "Regional Ourense - Lugo",
+    "type": "Regional",
+    "operator": "Renfe",
+    "stroke": "#898989",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.73559,
+     42.45115
+    ]
+   },
+   "properties": {
+    "id": "EST-OSPEARES",
+    "name": "Os Peares",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.50314,
+     42.52952
+    ]
+   },
+   "properties": {
+    "id": "EST-MONFORTEDELEMOS",
+    "name": "Monforte de Lemos",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.41365,
+     42.78262
+    ]
+   },
+   "properties": {
+    "id": "EST-SARRIA-Lugo-Sarria",
+    "name": "Sarria",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#898989"
+   }
+  }
+ ]
+}

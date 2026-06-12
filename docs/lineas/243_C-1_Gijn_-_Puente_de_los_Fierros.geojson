@@ -1,0 +1,574 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.67563,
+      43.53773
+     ],
+     [
+      -5.69716,
+      43.53537
+     ],
+     [
+      -5.72261,
+      43.54176
+     ],
+     [
+      -5.74625,
+      43.52082
+     ],
+     [
+      -5.78191,
+      43.50482
+     ],
+     [
+      -5.80007,
+      43.4742
+     ],
+     [
+      -5.82634,
+      43.46151
+     ],
+     [
+      -5.81581,
+      43.44238
+     ],
+     [
+      -5.81212,
+      43.40437
+     ],
+     [
+      -5.82714,
+      43.38817
+     ],
+     [
+      -5.85487,
+      43.36636
+     ],
+     [
+      -5.85738,
+      43.3588
+     ],
+     [
+      -5.87287,
+      43.32913
+     ],
+     [
+      -5.8693,
+      43.31323
+     ],
+     [
+      -5.85579,
+      43.3064
+     ],
+     [
+      -5.81794,
+      43.29597
+     ],
+     [
+      -5.81284,
+      43.27667
+     ],
+     [
+      -5.78239,
+      43.25004
+     ],
+     [
+      -5.78943,
+      43.22067
+     ],
+     [
+      -5.67945,
+      43.29185
+     ],
+     [
+      -5.81561,
+      43.18324
+     ],
+     [
+      -5.83113,
+      43.15865
+     ],
+     [
+      -5.47817,
+      43.35509
+     ],
+     [
+      -5.8164,
+      43.11012
+     ],
+     [
+      -5.76944,
+      43.07168
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "243",
+    "name": "C-1 Gijón - Puente de los Fierros",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 25,
+    "coords_sta": 25
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67563,
+     43.53773
+    ]
+   },
+   "properties": {
+    "id": "EST-GIJON",
+    "name": "Gijón",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.69716,
+     43.53537
+    ]
+   },
+   "properties": {
+    "id": "EST-CALZADADEASTURIAS",
+    "name": "Calzada de Asturias",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.72261,
+     43.54176
+    ]
+   },
+   "properties": {
+    "id": "EST-VERINA",
+    "name": "Veriña",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.74625,
+     43.52082
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTEANA",
+    "name": "Monteana",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.78191,
+     43.50482
+    ]
+   },
+   "properties": {
+    "id": "EST-SERIN",
+    "name": "Serín",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.80007,
+     43.4742
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLABONATABLADIELLO",
+    "name": "Villabona-Tabladiello",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.82634,
+     43.46151
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLABONADEASTURIAS",
+    "name": "Villabona de Asturias",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.81581,
+     43.44238
+    ]
+   },
+   "properties": {
+    "id": "EST-LUGODELLANERA",
+    "name": "Lugo de Llanera",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.81212,
+     43.40437
+    ]
+   },
+   "properties": {
+    "id": "EST-LUGONES",
+    "name": "Lugones",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.82714,
+     43.38817
+    ]
+   },
+   "properties": {
+    "id": "EST-LACORREDORIA",
+    "name": "La Corredoria",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85487,
+     43.36636
+    ]
+   },
+   "properties": {
+    "id": "EST-OVIEDO",
+    "name": "Oviedo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85738,
+     43.3588
+    ]
+   },
+   "properties": {
+    "id": "EST-LLAMAQUIQUE",
+    "name": "Llamaquique",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.87287,
+     43.32913
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCALEYO",
+    "name": "El Caleyo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.8693,
+     43.31323
+    ]
+   },
+   "properties": {
+    "id": "EST-LASSEGADAS",
+    "name": "Las Segadas",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.85579,
+     43.3064
+    ]
+   },
+   "properties": {
+    "id": "EST-SOTODEREY",
+    "name": "Soto de Rey",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.81794,
+     43.29597
+    ]
+   },
+   "properties": {
+    "id": "EST-OLLONIEGO",
+    "name": "Olloniego",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.81284,
+     43.27667
+    ]
+   },
+   "properties": {
+    "id": "EST-LAPEREDARIOSA",
+    "name": "La Pereda-Riosa",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.78239,
+     43.25004
+    ]
+   },
+   "properties": {
+    "id": "EST-MIERESPUENTE",
+    "name": "Mieres-Puente",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.78943,
+     43.22067
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTULLANO",
+    "name": "Santullano",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.67945,
+     43.29185
+    ]
+   },
+   "properties": {
+    "id": "EST-UJO",
+    "name": "Ujo",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.81561,
+     43.18324
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLALLANA",
+    "name": "Villallana",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.83113,
+     43.15865
+    ]
+   },
+   "properties": {
+    "id": "EST-POLADELENA",
+    "name": "Pola de Lena",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.47817,
+     43.35509
+    ]
+   },
+   "properties": {
+    "id": "EST-LACOBERTORIA",
+    "name": "La Cobertoria",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.8164,
+     43.11012
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPOMANES",
+    "name": "Campomanes",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.76944,
+     43.07168
+    ]
+   },
+   "properties": {
+    "id": "EST-PUENTEDELOSFIERROS",
+    "name": "Puente de los Fierros",
+    "province": "Asturias",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.91377,
+      37.84797
+     ],
+     [
+      -4.85027,
+      37.86746
+     ],
+     [
+      -4.57142,
+      38.25524
+     ],
+     [
+      -4.72063,
+      37.9126
+     ],
+     [
+      -4.67481,
+      37.93298
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "57",
+    "name": "MD 75 Villarrubia - Alcolea de Córdoba",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.91377,
+     37.84797
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLARRUBIADECORDOBA",
+    "name": "Villarrubia de Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.85027,
+     37.86746
+    ]
+   },
+   "properties": {
+    "id": "EST-ELHIGUERON",
+    "name": "El Higuerón",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.57142,
+     38.25524
+    ]
+   },
+   "properties": {
+    "id": "EST-CORDOBA",
+    "name": "Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.72063,
+     37.9126
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMPUSUNIVERSITARIODERABANALES",
+    "name": "Campus Universitario de Rabanales",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.67481,
+     37.93298
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCOLEADECORDOBA",
+    "name": "Alcolea de Córdoba",
+    "province": "Córdoba",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

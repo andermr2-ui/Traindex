@@ -1,0 +1,112 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.16265,
+      38.01253
+     ],
+     [
+      -1.1304,
+      37.98323
+     ],
+     [
+      -1.18407,
+      37.99741
+     ],
+     [
+      -1.18659,
+      37.99296
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "224",
+    "name": "L1b Los Rectores Terra Natura - UCAM Gabarrón",
+    "type": "Tranvía",
+    "operator": "Tranvía de Murcia",
+    "stroke": "#80B827",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 4
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.16265,
+     38.01253
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSRECTORESTERRANATURA",
+    "name": "Los Rectores - Terra Natura",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#80B827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.1304,
+     37.98323
+    ]
+   },
+   "properties": {
+    "id": "EST-REYESCATOLICOS-Murcia",
+    "name": "Reyes Católicos",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#80B827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.18407,
+     37.99741
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPORTON",
+    "name": "El Portón",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#80B827"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.18659,
+     37.99296
+    ]
+   },
+   "properties": {
+    "id": "EST-UCAMLOSJERONIMOS",
+    "name": "UCAM - Los Jerónimos",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#80B827"
+   }
+  }
+ ]
+}

@@ -1,0 +1,288 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.67969,
+      42.87621
+     ],
+     [
+      -2.69036,
+      43.36796
+     ],
+     [
+      -2.68121,
+      42.87379
+     ],
+     [
+      -2.68028,
+      42.8695
+     ],
+     [
+      -2.68496,
+      42.85893
+     ],
+     [
+      -2.67622,
+      43.31396
+     ],
+     [
+      -2.66917,
+      42.85667
+     ],
+     [
+      -2.67993,
+      42.84803
+     ],
+     [
+      -2.67933,
+      42.84645
+     ],
+     [
+      -2.66768,
+      42.84341
+     ],
+     [
+      -2.66677,
+      42.83867
+     ],
+     [
+      -2.48727,
+      43.18069
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "265",
+    "name": "Eje Abetxuko-Unibertsitatea",
+    "type": "Tranvía",
+    "operator": "Euskotren Tranbia",
+    "stroke": "#009639",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 16,
+    "coords_sta": 12
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67969,
+     42.87621
+    ]
+   },
+   "properties": {
+    "id": "EST-ABETXUKO",
+    "name": "Abetxuko",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.69036,
+     43.36796
+    ]
+   },
+   "properties": {
+    "id": "EST-KRISTO",
+    "name": "Kristo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68121,
+     42.87379
+    ]
+   },
+   "properties": {
+    "id": "EST-KANABENTA",
+    "name": "Kañabenta",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68028,
+     42.8695
+    ]
+   },
+   "properties": {
+    "id": "EST-ARTAPADURA",
+    "name": "Artapadura",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68496,
+     42.85893
+    ]
+   },
+   "properties": {
+    "id": "EST-ARRIAGAVITORIA",
+    "name": "Arriaga",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67622,
+     43.31396
+    ]
+   },
+   "properties": {
+    "id": "EST-GERNIKAKOARBOLA",
+    "name": "Gernikako Arbola",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.66917,
+     42.85667
+    ]
+   },
+   "properties": {
+    "id": "EST-EUROPAVITORIA",
+    "name": "Europa",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67993,
+     42.84803
+    ]
+   },
+   "properties": {
+    "id": "EST-ANTSOJAKITUNASANCHOELSABIO",
+    "name": "Antso Jakituna-Sancho El Sabio",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67933,
+     42.84645
+    ]
+   },
+   "properties": {
+    "id": "EST-LOVAINA",
+    "name": "Lovaina",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.66768,
+     42.84341
+    ]
+   },
+   "properties": {
+    "id": "EST-ANGULEMA",
+    "name": "Angulema",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.66677,
+     42.83867
+    ]
+   },
+   "properties": {
+    "id": "EST-HEGOALDE",
+    "name": "Hegoalde",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.48727,
+     43.18069
+    ]
+   },
+   "properties": {
+    "id": "EST-UNIBERTSITATEA",
+    "name": "Unibertsitatea",
+    "province": "Álava",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009639"
+   }
+  }
+ ]
+}

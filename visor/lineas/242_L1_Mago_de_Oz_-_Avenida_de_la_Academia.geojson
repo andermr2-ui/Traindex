@@ -1,0 +1,398 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.86106,
+      41.72169
+     ],
+     [
+      -0.89084,
+      41.67496
+     ],
+     [
+      -2.47561,
+      41.75535
+     ],
+     [
+      -0.8825,
+      41.64891
+     ],
+     [
+      -0.88205,
+      41.65725
+     ],
+     [
+      -0.8839,
+      41.65521
+     ],
+     [
+      -3.71088,
+      40.42345
+     ],
+     [
+      -0.8825,
+      41.65583
+     ],
+     [
+      -0.8825,
+      41.64891
+     ],
+     [
+      -0.8825,
+      41.64891
+     ],
+     [
+      -0.92347,
+      41.62129
+     ],
+     [
+      -0.92264,
+      41.61907
+     ],
+     [
+      -0.93034,
+      41.62292
+     ],
+     [
+      -0.92998,
+      41.62357
+     ],
+     [
+      -0.92406,
+      41.62076
+     ],
+     [
+      -0.91855,
+      41.62253
+     ],
+     [
+      -0.93639,
+      41.62503
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "242",
+    "name": "L1 Mago de Oz - Avenida de la Academia",
+    "type": "Tranvía",
+    "operator": "Tranvías de Zaragoza",
+    "stroke": "#00A550",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 27,
+    "coords_sta": 17
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.86106,
+     41.72169
+    ]
+   },
+   "properties": {
+    "id": "EST-JUSLIBOL",
+    "name": "Juslibol",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.89084,
+     41.67496
+    ]
+   },
+   "properties": {
+    "id": "EST-LEGAZLACAMBRA",
+    "name": "Legaz Lacambra",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.47561,
+     41.75535
+    ]
+   },
+   "properties": {
+    "id": "EST-MARTINEZSORIA",
+    "name": "Martínez Soria",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8825,
+     41.64891
+    ]
+   },
+   "properties": {
+    "id": "EST-LACHIMENEA",
+    "name": "La Chimenea",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.88205,
+     41.65725
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADELPILARMURALLAS",
+    "name": "Plaza del Pilar-Murallas",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8839,
+     41.65521
+    ]
+   },
+   "properties": {
+    "id": "EST-CESARAUGUSTO",
+    "name": "César Augusto",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71088,
+     40.42345
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADEESPANA-Madrid-Madrid",
+    "name": "Plaza de España",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8825,
+     41.65583
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADEARAGON",
+    "name": "Plaza de Aragón",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8825,
+     41.64891
+    ]
+   },
+   "properties": {
+    "id": "EST-CARLOSV",
+    "name": "Carlos V",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.8825,
+     41.64891
+    ]
+   },
+   "properties": {
+    "id": "EST-FERNANDOELCATOLICO",
+    "name": "Fernando el Católico",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.92347,
+     41.62129
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSPAJAROS",
+    "name": "Los Pájaros",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.92264,
+     41.61907
+    ]
+   },
+   "properties": {
+    "id": "EST-PASEODELOSOLVIDADOS",
+    "name": "Paseo de los Olvidados",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.93034,
+     41.62292
+    ]
+   },
+   "properties": {
+    "id": "EST-UNAMERICANOENPARIS",
+    "name": "Un Americano en París",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.92998,
+     41.62357
+    ]
+   },
+   "properties": {
+    "id": "EST-CANTANDOBAJOLALLUVIA",
+    "name": "Cantando bajo la Lluvia",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.92406,
+     41.62076
+    ]
+   },
+   "properties": {
+    "id": "EST-LAVENTANAINDISCRETA",
+    "name": "La Ventana Indiscreta",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.91855,
+     41.62253
+    ]
+   },
+   "properties": {
+    "id": "EST-LOSOLVIDADOS",
+    "name": "Los Olvidados",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.93639,
+     41.62503
+    ]
+   },
+   "properties": {
+    "id": "EST-MAGODEOZ",
+    "name": "Mago de Oz",
+    "province": "Zaragoza",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  }
+ ]
+}

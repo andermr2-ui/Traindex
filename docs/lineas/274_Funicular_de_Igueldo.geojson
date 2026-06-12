@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.94487,
+      43.4122
+     ],
+     [
+      -2.00965,
+      43.32104
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "274",
+    "name": "Funicular de Igueldo",
+    "type": "Funicular",
+    "operator": "Monte Igueldo S.A.",
+    "stroke": "#8B5A2B",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.94487,
+     43.4122
+    ]
+   },
+   "properties": {
+    "id": "EST-ONDARRETA",
+    "name": "Ondarreta",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B5A2B"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.00965,
+     43.32104
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTEIGUELDO",
+    "name": "Monte Igueldo",
+    "province": "Gipuzkoa",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#8B5A2B"
+   }
+  }
+ ]
+}

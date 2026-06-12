@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -4.45831,
+      36.68456
+     ],
+     [
+      -4.45592,
+      36.6918
+     ],
+     [
+      -4.45131,
+      36.69542
+     ],
+     [
+      -4.44609,
+      36.69953
+     ],
+     [
+      -4.44031,
+      36.70407
+     ],
+     [
+      -4.05682,
+      36.7467
+     ],
+     [
+      -4.43243,
+      36.7128
+     ],
+     [
+      -4.4297,
+      36.71599
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "235",
+    "name": "L2 Palacio de los Deportes - Hospital Civil",
+    "type": "Metro",
+    "operator": "Metro de Málaga",
+    "stroke": "#00AEEF",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 8,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.45831,
+     36.68456
+    ]
+   },
+   "properties": {
+    "id": "EST-PALACIODELOSDEPORTES",
+    "name": "Palacio de los Deportes",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.45592,
+     36.6918
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTABLANCA",
+    "name": "Puerta Blanca",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.45131,
+     36.69542
+    ]
+   },
+   "properties": {
+    "id": "EST-LALUZLAPAZ",
+    "name": "La Luz-La Paz",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.44609,
+     36.69953
+    ]
+   },
+   "properties": {
+    "id": "EST-ELTORCAL",
+    "name": "El Torcal",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.44031,
+     36.70407
+    ]
+   },
+   "properties": {
+    "id": "EST-PRINCESAHUELIN",
+    "name": "Princesa-Huelin",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.05682,
+     36.7467
+    ]
+   },
+   "properties": {
+    "id": "EST-LAISLA",
+    "name": "La Isla",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.43243,
+     36.7128
+    ]
+   },
+   "properties": {
+    "id": "EST-ELPERCHEL",
+    "name": "El Perchel",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.4297,
+     36.71599
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADALMEDINA",
+    "name": "Guadalmedina",
+    "province": "Málaga",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00AEEF"
+   }
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -1.13346,
+      37.97658
+     ],
+     [
+      -1.20816,
+      37.9665
+     ],
+     [
+      -1.34728,
+      37.88705
+     ],
+     [
+      -1.41449,
+      37.84935
+     ],
+     [
+      -1.57478,
+      37.86234
+     ],
+     [
+      -1.68561,
+      37.6807
+     ],
+     [
+      -1.69632,
+      37.67193
+     ],
+     [
+      -1.7319,
+      37.58099
+     ],
+     [
+      -1.7495,
+      37.3992
+     ],
+     [
+      -1.6944,
+      37.39464
+     ],
+     [
+      -1.58607,
+      37.41182
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "221",
+    "name": "C-2 Murcia del Carmen - Águilas",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.13346,
+     37.97658
+    ]
+   },
+   "properties": {
+    "id": "EST-MURCIADELCARMEN",
+    "name": "Murcia del Carmen",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.20816,
+     37.9665
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCANTARILLALOSROMANOS",
+    "name": "Alcantarilla-Los Romanos",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.34728,
+     37.88705
+    ]
+   },
+   "properties": {
+    "id": "EST-LIBRILLA",
+    "name": "Librilla",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.41449,
+     37.84935
+    ]
+   },
+   "properties": {
+    "id": "EST-ALHAMADEMURCIA",
+    "name": "Alhama de Murcia",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.57478,
+     37.86234
+    ]
+   },
+   "properties": {
+    "id": "EST-TOTANA",
+    "name": "Totana",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.68561,
+     37.6807
+    ]
+   },
+   "properties": {
+    "id": "EST-LORCASANDIEGO",
+    "name": "Lorca San Diego",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.69632,
+     37.67193
+    ]
+   },
+   "properties": {
+    "id": "EST-LORCASUTULLENA",
+    "name": "Lorca Sutullena",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7319,
+     37.58099
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTOLUMBRERAS",
+    "name": "Puerto Lumbreras",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.7495,
+     37.3992
+    ]
+   },
+   "properties": {
+    "id": "EST-PULPI",
+    "name": "Pulpí",
+    "province": "Almería",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.6944,
+     37.39464
+    ]
+   },
+   "properties": {
+    "id": "EST-JARAVIA",
+    "name": "Jaravía",
+    "province": "Almería",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.58607,
+     37.41182
+    ]
+   },
+   "properties": {
+    "id": "EST-AGUILASELLABRADORCICO",
+    "name": "Águilas-El Labradorcico",
+    "province": "Murcia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

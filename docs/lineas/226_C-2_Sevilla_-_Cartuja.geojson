@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.00751,
+      37.41728
+     ],
+     [
+      -6.01012,
+      37.40724
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "226",
+    "name": "C-2 Sevilla - Cartuja",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 4,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.00751,
+     37.41728
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTADIOOLIMPICO",
+    "name": "Estadio Olímpico",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.01012,
+     37.40724
+    ]
+   },
+   "properties": {
+    "id": "EST-CARTUJA",
+    "name": "Cartuja",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

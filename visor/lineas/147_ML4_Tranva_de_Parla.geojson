@@ -1,0 +1,222 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.76238,
+      40.24538
+     ],
+     [
+      -3.76631,
+      40.24596
+     ],
+     [
+      -3.69901,
+      40.43526
+     ],
+     [
+      -3.77237,
+      40.23471
+     ],
+     [
+      -3.70929,
+      40.41816
+     ],
+     [
+      -3.70339,
+      40.41694
+     ],
+     [
+      -3.773,
+      40.237
+     ],
+     [
+      -3.66135,
+      40.41128
+     ],
+     [
+      -3.76936,
+      40.24105
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "147",
+    "name": "ML4 Tranvía de Parla",
+    "type": "Tranvía",
+    "operator": "Tranvía de Parla",
+    "stroke": "#00A550",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76238,
+     40.24538
+    ]
+   },
+   "properties": {
+    "id": "EST-JULIOROMERODETORRES",
+    "name": "Julio Romero de Torres",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76631,
+     40.24596
+    ]
+   },
+   "properties": {
+    "id": "EST-LABALLENA",
+    "name": "La Ballena",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69901,
+     40.43526
+    ]
+   },
+   "properties": {
+    "id": "EST-IGLESIACENTRO",
+    "name": "Iglesia Centro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.77237,
+     40.23471
+    ]
+   },
+   "properties": {
+    "id": "EST-BULEVARSURMIGUELANGELBLANCO",
+    "name": "Bulevar Sur - Miguel Ángel Blanco",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70929,
+     40.41816
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUEPARLAESTE",
+    "name": "Isabel II",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70339,
+     40.41694
+    ]
+   },
+   "properties": {
+    "id": "EST-AVENIDASISTEMASOLAR",
+    "name": "Avenida Sistema Solar",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.773,
+     40.237
+    ]
+   },
+   "properties": {
+    "id": "EST-VENUS",
+    "name": "Venus",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.66135,
+     40.41128
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTRELLAPOLAR",
+    "name": "Estrella Polar",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.76936,
+     40.24105
+    ]
+   },
+   "properties": {
+    "id": "EST-POLIGONOINDUSTRIALCIUDADDEPARLA",
+    "name": "Polígono Industrial Ciudad de Parla",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A550"
+   }
+  }
+ ]
+}

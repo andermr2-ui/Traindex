@@ -1,0 +1,178 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18752,
+      41.40221
+     ],
+     [
+      2.20539,
+      41.53737
+     ],
+     [
+      2.19351,
+      41.40802
+     ],
+     [
+      2.15798,
+      41.39287
+     ],
+     [
+      2.20971,
+      41.42037
+     ],
+     [
+      2.20971,
+      41.42037
+     ],
+     [
+      2.23055,
+      41.42433
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "192",
+    "name": "T6 Glòries - Estació de Sant Adrià",
+    "type": "Tranvía",
+    "operator": "Tram",
+    "stroke": "#009EE0",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 10,
+    "coords_sta": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18752,
+     41.40221
+    ]
+   },
+   "properties": {
+    "id": "EST-GLORIES",
+    "name": "Glòries",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20539,
+     41.53737
+    ]
+   },
+   "properties": {
+    "id": "EST-LAFARINERA",
+    "name": "La Farinera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19351,
+     41.40802
+    ]
+   },
+   "properties": {
+    "id": "EST-CANJAUMANDREU",
+    "name": "Can Jaumandreu",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.15798,
+     41.39287
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTMARTIDEPROVENCALS",
+    "name": "Sant Martí de Provençals",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20971,
+     41.42037
+    ]
+   },
+   "properties": {
+    "id": "EST-BESOS",
+    "name": "Besòs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20971,
+     41.42037
+    ]
+   },
+   "properties": {
+    "id": "EST-PARCDELBESOS",
+    "name": "Parc del Besòs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23055,
+     41.42433
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTACIODESANTADRIA",
+    "name": "Estació de Sant Adrià",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  }
+ ]
+}

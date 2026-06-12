@@ -1,0 +1,552 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.65338,
+      37.22811
+     ],
+     [
+      -3.64573,
+      37.2224
+     ],
+     [
+      -3.63714,
+      37.21428
+     ],
+     [
+      -3.63416,
+      37.21101
+     ],
+     [
+      -3.63039,
+      37.20713
+     ],
+     [
+      -3.62441,
+      37.20152
+     ],
+     [
+      -3.61322,
+      37.19999
+     ],
+     [
+      -3.61549,
+      37.19586
+     ],
+     [
+      -3.61504,
+      37.19201
+     ],
+     [
+      -3.61469,
+      37.18878
+     ],
+     [
+      -3.60903,
+      37.18641
+     ],
+     [
+      -3.60832,
+      37.18325
+     ],
+     [
+      -6.20598,
+      36.52948
+     ],
+     [
+      -3.60978,
+      37.17659
+     ],
+     [
+      -3.60587,
+      37.17015
+     ],
+     [
+      -3.60244,
+      37.16449
+     ],
+     [
+      -3.59654,
+      37.16073
+     ],
+     [
+      -3.59544,
+      37.15817
+     ],
+     [
+      -3.59616,
+      37.15114
+     ],
+     [
+      -3.60093,
+      37.14922
+     ],
+     [
+      -3.6069,
+      37.14901
+     ],
+     [
+      -3.61404,
+      37.14399
+     ],
+     [
+      -3.62085,
+      37.1475
+     ],
+     [
+      -3.62715,
+      37.14372
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "239",
+    "name": "Línea 1 Albolote - Granada - Armilla",
+    "type": "Metro",
+    "operator": "Metro de Granada",
+    "stroke": "#006F42",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 24,
+    "coords_sta": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.65338,
+     37.22811
+    ]
+   },
+   "properties": {
+    "id": "EST-ALBOLOTE",
+    "name": "Albolote",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.64573,
+     37.2224
+    ]
+   },
+   "properties": {
+    "id": "EST-JUNCARIL",
+    "name": "Juncaril",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63714,
+     37.21428
+    ]
+   },
+   "properties": {
+    "id": "EST-VICUNA",
+    "name": "Vicuña",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63416,
+     37.21101
+    ]
+   },
+   "properties": {
+    "id": "EST-ANFITEATRO",
+    "name": "Anfiteatro",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.63039,
+     37.20713
+    ]
+   },
+   "properties": {
+    "id": "EST-MARACENA",
+    "name": "Maracena",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.62441,
+     37.20152
+    ]
+   },
+   "properties": {
+    "id": "EST-CERRILLOMARACENA",
+    "name": "Cerrillo Maracena",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61322,
+     37.19999
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTACIONDEAUTOBUSES",
+    "name": "Estación de Autobuses",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61549,
+     37.19586
+    ]
+   },
+   "properties": {
+    "id": "EST-ARGENTINITA",
+    "name": "Argentinita",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61504,
+     37.19201
+    ]
+   },
+   "properties": {
+    "id": "EST-LUISAMADOR",
+    "name": "Luis Amador",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61469,
+     37.18878
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAREJO",
+    "name": "Villarejo",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60903,
+     37.18641
+    ]
+   },
+   "properties": {
+    "id": "EST-CALETA",
+    "name": "Caleta",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60832,
+     37.18325
+    ]
+   },
+   "properties": {
+    "id": "EST-ESTACIONFERROCARRIL",
+    "name": "Estación Ferrocarril",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20598,
+     36.52948
+    ]
+   },
+   "properties": {
+    "id": "EST-UNIVERSIDADCADIZ",
+    "name": "Universidad",
+    "province": "Cádiz",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60978,
+     37.17659
+    ]
+   },
+   "properties": {
+    "id": "EST-MENDEZNUNEZ",
+    "name": "Méndez Núñez",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60587,
+     37.17015
+    ]
+   },
+   "properties": {
+    "id": "EST-RECOGIDAS",
+    "name": "Recogidas",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60244,
+     37.16449
+    ]
+   },
+   "properties": {
+    "id": "EST-ALCAZARGENIL",
+    "name": "Alcázar Genil",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.59654,
+     37.16073
+    ]
+   },
+   "properties": {
+    "id": "EST-HIPICA",
+    "name": "Hípica",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.59544,
+     37.15817
+    ]
+   },
+   "properties": {
+    "id": "EST-ANDRESSEGOVIA",
+    "name": "Andrés Segovia",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.59616,
+     37.15114
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOLOSCARMENES",
+    "name": "Nuevo Los Cármenes",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.60093,
+     37.14922
+    ]
+   },
+   "properties": {
+    "id": "EST-DILAR",
+    "name": "Dílar",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6069,
+     37.14901
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUETECNOLOGICO",
+    "name": "Parque Tecnológico",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61404,
+     37.14399
+    ]
+   },
+   "properties": {
+    "id": "EST-SIERRANEVADA",
+    "name": "Sierra Nevada",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.62085,
+     37.1475
+    ]
+   },
+   "properties": {
+    "id": "EST-FERNANDODELOSRIOS",
+    "name": "Fernando de los Ríos",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.62715,
+     37.14372
+    ]
+   },
+   "properties": {
+    "id": "EST-ARMILLA",
+    "name": "Armilla",
+    "province": "Granada",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  }
+ ]
+}

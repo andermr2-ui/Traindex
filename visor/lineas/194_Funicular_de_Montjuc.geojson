@@ -1,0 +1,68 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.16302,
+      41.36875
+     ],
+     [
+      2.16943,
+      41.37441
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "194",
+    "name": "Funicular de Montjuïc",
+    "type": "Funicular",
+    "operator": "TMB",
+    "stroke": "#996633",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 2,
+    "coords_sta": 2
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16302,
+     41.36875
+    ]
+   },
+   "properties": {
+    "id": "EST-PARCDEMONTJUIC",
+    "name": "Parc de Montjuïc",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#996633"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.16943,
+     41.37441
+    ]
+   },
+   "properties": {
+    "id": "EST-PARALLEL",
+    "name": "Paral·lel",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#996633"
+   }
+  }
+ ]
+}

@@ -1,0 +1,618 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.49062,
+      38.34603
+     ],
+     [
+      -0.48483,
+      38.34816
+     ],
+     [
+      -0.47567,
+      38.35209
+     ],
+     [
+      -0.473,
+      38.34906
+     ],
+     [
+      -0.43801,
+      38.36545
+     ],
+     [
+      -0.42865,
+      38.37482
+     ],
+     [
+      -0.40836,
+      38.38859
+     ],
+     [
+      -0.40669,
+      38.39693
+     ],
+     [
+      -0.4042,
+      38.40513
+     ],
+     [
+      -0.39732,
+      38.41721
+     ],
+     [
+      -0.39776,
+      38.41602
+     ],
+     [
+      -0.3969,
+      38.42152
+     ],
+     [
+      -0.39639,
+      38.42665
+     ],
+     [
+      -0.38261,
+      38.43914
+     ],
+     [
+      -0.37338,
+      38.44482
+     ],
+     [
+      -0.35373,
+      38.45215
+     ],
+     [
+      -0.36451,
+      38.45014
+     ],
+     [
+      -0.487,
+      38.321
+     ],
+     [
+      -0.39639,
+      38.42665
+     ],
+     [
+      -0.31536,
+      38.47726
+     ],
+     [
+      -0.23646,
+      38.50603
+     ],
+     [
+      -0.23169,
+      38.51008
+     ],
+     [
+      -0.21923,
+      38.51358
+     ],
+     [
+      -0.19882,
+      38.53085
+     ],
+     [
+      -0.17504,
+      38.54066
+     ],
+     [
+      -0.12339,
+      38.54832
+     ],
+     [
+      -0.13558,
+      38.54828
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "214",
+    "name": "L1 Luceros - Benidorm",
+    "type": "Tren-Tram",
+    "operator": "TRAM d'Alacant",
+    "stroke": "#F37021",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 32,
+    "coords_sta": 27
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.49062,
+     38.34603
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCEROS",
+    "name": "Luceros",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.48483,
+     38.34816
+    ]
+   },
+   "properties": {
+    "id": "EST-MERCADO",
+    "name": "Mercado",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47567,
+     38.35209
+    ]
+   },
+   "properties": {
+    "id": "EST-MARQCASTILLO",
+    "name": "Marq-Castillo",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.473,
+     38.34906
+    ]
+   },
+   "properties": {
+    "id": "EST-SANGUETA",
+    "name": "Sangueta",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.43801,
+     38.36545
+    ]
+   },
+   "properties": {
+    "id": "EST-LUCENTUM",
+    "name": "Lucentum",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.42865,
+     38.37482
+    ]
+   },
+   "properties": {
+    "id": "EST-CONDOMINA",
+    "name": "Condomina",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40836,
+     38.38859
+    ]
+   },
+   "properties": {
+    "id": "EST-CARRABINERS",
+    "name": "Carrabiners",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40669,
+     38.39693
+    ]
+   },
+   "properties": {
+    "id": "EST-MUCHAVISTA",
+    "name": "Muchavista",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.4042,
+     38.40513
+    ]
+   },
+   "properties": {
+    "id": "EST-LESLLANCES",
+    "name": "Les Llances",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39732,
+     38.41721
+    ]
+   },
+   "properties": {
+    "id": "EST-FABRAQUER",
+    "name": "Fabraquer",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39776,
+     38.41602
+    ]
+   },
+   "properties": {
+    "id": "EST-SALESIANS",
+    "name": "Salesians",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3969,
+     38.42152
+    ]
+   },
+   "properties": {
+    "id": "EST-PLABARRAQUES",
+    "name": "Pla Barraques",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39639,
+     38.42665
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCAMPELLO",
+    "name": "El Campello",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38261,
+     38.43914
+    ]
+   },
+   "properties": {
+    "id": "EST-POBLEESPANYOL",
+    "name": "Poble Espanyol",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37338,
+     38.44482
+    ]
+   },
+   "properties": {
+    "id": "EST-AMERADOR",
+    "name": "Amerador",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.35373,
+     38.45215
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAPITERES",
+    "name": "Cala Piteres",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36451,
+     38.45014
+    ]
+   },
+   "properties": {
+    "id": "EST-COVETAFUMA",
+    "name": "Coveta Fumà",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.487,
+     38.321
+    ]
+   },
+   "properties": {
+    "id": "EST-CALAMERCED",
+    "name": "Cala Merced",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39639,
+     38.42665
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCAMPELLO",
+    "name": "El Campello",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.31536,
+     38.47726
+    ]
+   },
+   "properties": {
+    "id": "EST-VENTALANUZA",
+    "name": "Venta Lanuza",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.23646,
+     38.50603
+    ]
+   },
+   "properties": {
+    "id": "EST-LAVILAJOIOSA",
+    "name": "La Vila Joiosa",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.23169,
+     38.51008
+    ]
+   },
+   "properties": {
+    "id": "EST-CREUETA",
+    "name": "Creueta",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.21923,
+     38.51358
+    ]
+   },
+   "properties": {
+    "id": "EST-COSTERAPASTOR",
+    "name": "Costera Pastor",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.19882,
+     38.53085
+    ]
+   },
+   "properties": {
+    "id": "EST-HOSPITALVILA",
+    "name": "Hospital Vila",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.17504,
+     38.54066
+    ]
+   },
+   "properties": {
+    "id": "EST-FINESTRAT",
+    "name": "Finestrat",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.12339,
+     38.54832
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIDORMINTERMODAL",
+    "name": "Benidorm Intermodal",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.13558,
+     38.54828
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIDORM",
+    "name": "Benidorm",
+    "province": "Alicante",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#F37021"
+   }
+  }
+ ]
+}

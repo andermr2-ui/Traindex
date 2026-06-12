@@ -1,0 +1,464 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.71903,
+      40.4216
+     ],
+     [
+      -4.00815,
+      40.62638
+     ],
+     [
+      -4.13232,
+      40.58526
+     ],
+     [
+      -4.15797,
+      40.53863
+     ],
+     [
+      -4.24714,
+      40.52122
+     ],
+     [
+      -4.26932,
+      40.56882
+     ],
+     [
+      -4.36162,
+      40.58916
+     ],
+     [
+      -4.40863,
+      40.59093
+     ],
+     [
+      -4.49501,
+      40.59935
+     ],
+     [
+      -4.68332,
+      40.65721
+     ],
+     [
+      -4.75079,
+      40.73921
+     ],
+     [
+      -4.87146,
+      40.80385
+     ],
+     [
+      -4.96805,
+      40.87
+     ],
+     [
+      -5.05291,
+      40.86667
+     ],
+     [
+      -5.20648,
+      40.89793
+     ],
+     [
+      -5.29607,
+      40.95194
+     ],
+     [
+      -5.43053,
+      40.97228
+     ],
+     [
+      -5.49276,
+      40.98411
+     ],
+     [
+      -5.55317,
+      40.97971
+     ],
+     [
+      -5.64706,
+      40.9718
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "65",
+    "name": "MD 13 Madrid - Salamanca",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#00A650",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 20,
+    "coords_sta": 20
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.71903,
+     40.4216
+    ]
+   },
+   "properties": {
+    "id": "EST-MADRIDPRINCIPEPIO",
+    "name": "Madrid-Príncipe Pío",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.00815,
+     40.62638
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLALBA",
+    "name": "Villalba",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.13232,
+     40.58526
+    ]
+   },
+   "properties": {
+    "id": "EST-ELESCORIAL",
+    "name": "El Escorial",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.15797,
+     40.53863
+    ]
+   },
+   "properties": {
+    "id": "EST-ZARZALEJO",
+    "name": "Zarzalejo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.24714,
+     40.52122
+    ]
+   },
+   "properties": {
+    "id": "EST-ROBLEDODECHAVELA",
+    "name": "Robledo de Chavela",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.26932,
+     40.56882
+    ]
+   },
+   "properties": {
+    "id": "EST-SANTAMARIADELAALAMEDA",
+    "name": "Santa María de la Alameda",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.36162,
+     40.58916
+    ]
+   },
+   "properties": {
+    "id": "EST-LASNAVASDELMARQUES",
+    "name": "Las Navas del Marqués",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.40863,
+     40.59093
+    ]
+   },
+   "properties": {
+    "id": "EST-NAVALPERAL",
+    "name": "Navalperal",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.49501,
+     40.59935
+    ]
+   },
+   "properties": {
+    "id": "EST-HERRADONLACANADA",
+    "name": "Herradón-La Cañada",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.68332,
+     40.65721
+    ]
+   },
+   "properties": {
+    "id": "EST-AVILA",
+    "name": "Ávila",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.75079,
+     40.73921
+    ]
+   },
+   "properties": {
+    "id": "EST-CARDENOSADEAVILA",
+    "name": "Cardeñosa de Ávila",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.87146,
+     40.80385
+    ]
+   },
+   "properties": {
+    "id": "EST-SANPEDRODELARROYO",
+    "name": "San Pedro del Arroyo",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.96805,
+     40.87
+    ]
+   },
+   "properties": {
+    "id": "EST-CRESPOS",
+    "name": "Crespos",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.05291,
+     40.86667
+    ]
+   },
+   "properties": {
+    "id": "EST-NARROSDELCASTILLO",
+    "name": "Narros del Castillo",
+    "province": "Ávila",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.20648,
+     40.89793
+    ]
+   },
+   "properties": {
+    "id": "EST-PENARANDADEBRACAMONTE",
+    "name": "Peñaranda de Bracamonte",
+    "province": "Salamanca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.29607,
+     40.95194
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLARDEGALLIMAZO",
+    "name": "Villar de Gallimazo",
+    "province": "Salamanca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.43053,
+     40.97228
+    ]
+   },
+   "properties": {
+    "id": "EST-BABILAFUENTE",
+    "name": "Babilafuente",
+    "province": "Salamanca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.49276,
+     40.98411
+    ]
+   },
+   "properties": {
+    "id": "EST-SANMORALES",
+    "name": "San Morales",
+    "province": "Salamanca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.55317,
+     40.97971
+    ]
+   },
+   "properties": {
+    "id": "EST-ALDEALENGUA",
+    "name": "Aldealengua",
+    "province": "Salamanca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.64706,
+     40.9718
+    ]
+   },
+   "properties": {
+    "id": "EST-SALAMANCA",
+    "name": "Salamanca",
+    "province": "Salamanca",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#00A650"
+   }
+  }
+ ]
+}

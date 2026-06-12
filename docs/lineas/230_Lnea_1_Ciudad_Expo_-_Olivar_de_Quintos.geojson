@@ -1,0 +1,420 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.05169,
+      37.34926
+     ],
+     [
+      -6.04678,
+      37.35303
+     ],
+     [
+      -6.03857,
+      37.3617
+     ],
+     [
+      -6.02515,
+      37.36702
+     ],
+     [
+      -6.01046,
+      37.37322
+     ],
+     [
+      -6.00476,
+      37.37649
+     ],
+     [
+      -5.99937,
+      37.37925
+     ],
+     [
+      -5.99436,
+      37.38178
+     ],
+     [
+      -5.97399,
+      37.38299
+     ],
+     [
+      -5.96674,
+      37.38166
+     ],
+     [
+      -5.95569,
+      37.38074
+     ],
+     [
+      -5.95266,
+      37.37582
+     ],
+     [
+      -5.95041,
+      37.36777
+     ],
+     [
+      -5.8501,
+      37.23497
+     ],
+     [
+      -5.94367,
+      37.354
+     ],
+     [
+      -5.93628,
+      37.34656
+     ],
+     [
+      -5.93461,
+      37.34212
+     ],
+     [
+      -5.93834,
+      37.32941
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "230",
+    "name": "Línea 1 Ciudad Expo - Olivar de Quintos",
+    "type": "Metro",
+    "operator": "Metro de Sevilla",
+    "stroke": "#006F42",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 20,
+    "coords_sta": 18
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.05169,
+     37.34926
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUDADEXPO",
+    "name": "Ciudad Expo",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.04678,
+     37.35303
+    ]
+   },
+   "properties": {
+    "id": "EST-CAVALERI",
+    "name": "Cavaleri",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.03857,
+     37.3617
+    ]
+   },
+   "properties": {
+    "id": "EST-SANJUANALTO",
+    "name": "San Juan Alto",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.02515,
+     37.36702
+    ]
+   },
+   "properties": {
+    "id": "EST-SANJUANBAJO",
+    "name": "San Juan Bajo",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.01046,
+     37.37322
+    ]
+   },
+   "properties": {
+    "id": "EST-BLASINFANTE",
+    "name": "Blas Infante",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.00476,
+     37.37649
+    ]
+   },
+   "properties": {
+    "id": "EST-PARQUEDELOSPRINCIPES",
+    "name": "Parque de los Príncipes",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.99937,
+     37.37925
+    ]
+   },
+   "properties": {
+    "id": "EST-PLAZADECUBA",
+    "name": "Plaza de Cuba",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.99436,
+     37.38178
+    ]
+   },
+   "properties": {
+    "id": "EST-PUERTAJEREZ",
+    "name": "Puerta Jerez",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97399,
+     37.38299
+    ]
+   },
+   "properties": {
+    "id": "EST-NERVION",
+    "name": "Nervión",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.96674,
+     37.38166
+    ]
+   },
+   "properties": {
+    "id": "EST-GRANPLAZA",
+    "name": "Gran Plaza",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.95569,
+     37.38074
+    ]
+   },
+   "properties": {
+    "id": "EST-1DEMAYO",
+    "name": "1º de Mayo",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.95266,
+     37.37582
+    ]
+   },
+   "properties": {
+    "id": "EST-AMATE",
+    "name": "Amate",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.95041,
+     37.36777
+    ]
+   },
+   "properties": {
+    "id": "EST-COCHERAS-Sevilla-Sevilla",
+    "name": "Cocheras",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.8501,
+     37.23497
+    ]
+   },
+   "properties": {
+    "id": "EST-GUADAIRA",
+    "name": "Guadaíra",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.94367,
+     37.354
+    ]
+   },
+   "properties": {
+    "id": "EST-PABLODEOLAVIDE",
+    "name": "Pablo de Olavide",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.93628,
+     37.34656
+    ]
+   },
+   "properties": {
+    "id": "EST-CONDEQUINTO",
+    "name": "Condequinto",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.93461,
+     37.34212
+    ]
+   },
+   "properties": {
+    "id": "EST-MONTEQUINTO",
+    "name": "Montequinto",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.93834,
+     37.32941
+    ]
+   },
+   "properties": {
+    "id": "EST-OLIVARDEQUINTOS",
+    "name": "Olivar de Quintos",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#006F42"
+   }
+  }
+ ]
+}

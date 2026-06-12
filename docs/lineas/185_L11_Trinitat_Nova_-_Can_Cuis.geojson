@@ -1,0 +1,134 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18416,
+      41.44948
+     ],
+     [
+      2.18495,
+      41.45124
+     ],
+     [
+      2.17994,
+      41.45922
+     ],
+     [
+      2.1746,
+      41.46078
+     ],
+     [
+      2.17311,
+      41.46234
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "185",
+    "name": "L11 Trinitat Nova - Can Cuiàs",
+    "type": "Metro Ligero",
+    "operator": "TMB",
+    "stroke": "#B7D12A",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 5,
+    "coords_sta": 5
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18416,
+     41.44948
+    ]
+   },
+   "properties": {
+    "id": "EST-TRINITATNOVA",
+    "name": "Trinitat Nova",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B7D12A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18495,
+     41.45124
+    ]
+   },
+   "properties": {
+    "id": "EST-CASADELAIGUA",
+    "name": "Casa de l'Aigua",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B7D12A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17994,
+     41.45922
+    ]
+   },
+   "properties": {
+    "id": "EST-TORREBAROVALLBONA",
+    "name": "Torre Baró | Vallbona",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B7D12A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.1746,
+     41.46078
+    ]
+   },
+   "properties": {
+    "id": "EST-CIUTATMERIDIANA",
+    "name": "Ciutat Meridiana",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B7D12A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.17311,
+     41.46234
+    ]
+   },
+   "properties": {
+    "id": "EST-CANCUIAS",
+    "name": "Can Cuiàs",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#B7D12A"
+   }
+  }
+ ]
+}

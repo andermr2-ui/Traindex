@@ -1,0 +1,376 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -8.41215,
+      43.35037
+     ],
+     [
+      -8.41298,
+      43.33528
+     ],
+     [
+      -8.35217,
+      43.29044
+     ],
+     [
+      -8.30777,
+      43.28785
+     ],
+     [
+      -8.22583,
+      43.27072
+     ],
+     [
+      -8.20054,
+      43.17302
+     ],
+     [
+      -8.2,
+      43.3
+     ],
+     [
+      -8.14324,
+      43.1273
+     ],
+     [
+      -7.89507,
+      43.17906
+     ],
+     [
+      -7.83737,
+      43.1636
+     ],
+     [
+      -7.75631,
+      43.17342
+     ],
+     [
+      -7.62477,
+      43.12136
+     ],
+     [
+      -7.39338,
+      42.83287
+     ],
+     [
+      -7.41365,
+      42.78262
+     ],
+     [
+      -7.50314,
+      42.52952
+     ],
+     [
+      -7.87255,
+      42.35069
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "399",
+    "name": "MD 4 La Coruña - Lugo - Monforte - Orense",
+    "type": "Media Distancia",
+    "operator": "Renfe",
+    "stroke": "#FF8C00",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 18,
+    "coords_sta": 16
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41215,
+     43.35037
+    ]
+   },
+   "properties": {
+    "id": "EST-ACORUNA",
+    "name": "A Coruña",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.41298,
+     43.33528
+    ]
+   },
+   "properties": {
+    "id": "EST-ELVINAUNIVERSIDADE",
+    "name": "Elviña-Universidade",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.35217,
+     43.29044
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMBRE",
+    "name": "Cambre",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.30777,
+     43.28785
+    ]
+   },
+   "properties": {
+    "id": "EST-CECEBRE",
+    "name": "Cecebre",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.22583,
+     43.27072
+    ]
+   },
+   "properties": {
+    "id": "EST-BETANZOSINFESTA",
+    "name": "Betanzos-Infesta",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.20054,
+     43.17302
+    ]
+   },
+   "properties": {
+    "id": "EST-CESURAS",
+    "name": "Cesuras",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.2,
+     43.3
+    ]
+   },
+   "properties": {
+    "id": "EST-PINOY",
+    "name": "Piñoy",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.14324,
+     43.1273
+    ]
+   },
+   "properties": {
+    "id": "EST-CURTIS",
+    "name": "Curtis",
+    "province": "A Coruña",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.89507,
+     43.17906
+    ]
+   },
+   "properties": {
+    "id": "EST-GUITIRIZ",
+    "name": "Guitiriz",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.83737,
+     43.1636
+    ]
+   },
+   "properties": {
+    "id": "EST-PARGA",
+    "name": "Parga",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.75631,
+     43.17342
+    ]
+   },
+   "properties": {
+    "id": "EST-BAAMONDE",
+    "name": "Baamonde",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.62477,
+     43.12136
+    ]
+   },
+   "properties": {
+    "id": "EST-RABADE",
+    "name": "Rábade",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.39338,
+     42.83287
+    ]
+   },
+   "properties": {
+    "id": "EST-PEDRELOCELTIGOS",
+    "name": "Pedrelo-Céltigos",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.41365,
+     42.78262
+    ]
+   },
+   "properties": {
+    "id": "EST-SARRIA-Lugo-Sarria",
+    "name": "Sarria",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.50314,
+     42.52952
+    ]
+   },
+   "properties": {
+    "id": "EST-MONFORTEDELEMOS",
+    "name": "Monforte de Lemos",
+    "province": "Lugo",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.87255,
+     42.35069
+    ]
+   },
+   "properties": {
+    "id": "EST-OURENSE",
+    "name": "Ourense",
+    "province": "Ourense",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#FF8C00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,244 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -0.33087,
+      39.58797
+     ],
+     [
+      -0.3407,
+      39.56175
+     ],
+     [
+      -0.35163,
+      39.52802
+     ],
+     [
+      -0.3542,
+      39.51222
+     ],
+     [
+      -0.36235,
+      39.48481
+     ],
+     [
+      -0.52468,
+      38.99225
+     ],
+     [
+      -0.38621,
+      39.47015
+     ],
+     [
+      -0.40687,
+      39.47076
+     ],
+     [
+      -0.41812,
+      39.47399
+     ],
+     [
+      -0.47437,
+      39.49219
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "206",
+    "name": "L3 Rafelbunyol - Aeroport",
+    "type": "Metro",
+    "operator": "Metrovalencia",
+    "stroke": "#EA118D",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 11,
+    "coords_sta": 10
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.33087,
+     39.58797
+    ]
+   },
+   "properties": {
+    "id": "EST-RAFELBUNYOL",
+    "name": "Rafelbunyol",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3407,
+     39.56175
+    ]
+   },
+   "properties": {
+    "id": "EST-MUSEROS",
+    "name": "Museros",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.35163,
+     39.52802
+    ]
+   },
+   "properties": {
+    "id": "EST-MELIANA",
+    "name": "Meliana",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.3542,
+     39.51222
+    ]
+   },
+   "properties": {
+    "id": "EST-ALMASSERA",
+    "name": "Almàssera",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36235,
+     39.48481
+    ]
+   },
+   "properties": {
+    "id": "EST-BENIMACLET",
+    "name": "Benimaclet",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.52468,
+     38.99225
+    ]
+   },
+   "properties": {
+    "id": "EST-XATIVA",
+    "name": "Xàtiva",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.38621,
+     39.47015
+    ]
+   },
+   "properties": {
+    "id": "EST-ANGELGUIMERA",
+    "name": "Àngel Guimerà",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.40687,
+     39.47076
+    ]
+   },
+   "properties": {
+    "id": "EST-NOUDOCTUBRE",
+    "name": "Nou d'Octubre",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.41812,
+     39.47399
+    ]
+   },
+   "properties": {
+    "id": "EST-MISLATA",
+    "name": "Mislata",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.47437,
+     39.49219
+    ]
+   },
+   "properties": {
+    "id": "EST-AEROPORTVALENCIA",
+    "name": "Aeroport",
+    "province": "Valencia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EA118D"
+   }
+  }
+ ]
+}

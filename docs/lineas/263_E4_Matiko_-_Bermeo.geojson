@@ -1,0 +1,552 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -2.92546,
+      43.26903
+     ],
+     [
+      -2.91995,
+      43.26684
+     ],
+     [
+      -2.92182,
+      43.26017
+     ],
+     [
+      -2.91372,
+      43.26373
+     ],
+     [
+      -2.90643,
+      43.25916
+     ],
+     [
+      -2.89869,
+      43.25869
+     ],
+     [
+      -2.89774,
+      43.24387
+     ],
+     [
+      -2.89774,
+      43.24387
+     ],
+     [
+      -2.87587,
+      43.22762
+     ],
+     [
+      -2.85419,
+      43.22878
+     ],
+     [
+      -2.82176,
+      43.21774
+     ],
+     [
+      -2.79761,
+      43.20612
+     ],
+     [
+      -2.77541,
+      43.20714
+     ],
+     [
+      -2.73646,
+      43.21676
+     ],
+     [
+      -2.73499,
+      43.22177
+     ],
+     [
+      -2.68942,
+      43.28679
+     ],
+     [
+      -2.68942,
+      43.28679
+     ],
+     [
+      -2.67622,
+      43.31396
+     ],
+     [
+      -2.67367,
+      43.33203
+     ],
+     [
+      -2.69036,
+      43.36796
+     ],
+     [
+      -2.69367,
+      43.39087
+     ],
+     [
+      -2.69367,
+      43.39087
+     ],
+     [
+      -2.70104,
+      43.40889
+     ],
+     [
+      -2.72334,
+      43.41787
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "263",
+    "name": "E4 Matiko - Bermeo",
+    "type": "Suburbano",
+    "operator": "Euskotren",
+    "stroke": "#009FE3",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 24,
+    "coords_sta": 24
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92546,
+     43.26903
+    ]
+   },
+   "properties": {
+    "id": "EST-MATIKOBILBAO",
+    "name": "Matiko-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91995,
+     43.26684
+    ]
+   },
+   "properties": {
+    "id": "EST-URIBARRIBILBAO",
+    "name": "Uribarri-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.92182,
+     43.26017
+    ]
+   },
+   "properties": {
+    "id": "EST-ZAZPIKALEAKCASCOVIEJO",
+    "name": "Zazpikaleak-Casco Viejo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.91372,
+     43.26373
+    ]
+   },
+   "properties": {
+    "id": "EST-ZURBARANBARRIBILBAO",
+    "name": "Zurbaranbarri-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.90643,
+     43.25916
+    ]
+   },
+   "properties": {
+    "id": "EST-TXURDINAGABILBAO",
+    "name": "Txurdinaga-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89869,
+     43.25869
+    ]
+   },
+   "properties": {
+    "id": "EST-OTXARKOAGABILBAO",
+    "name": "Otxarkoaga-Bilbao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89774,
+     43.24387
+    ]
+   },
+   "properties": {
+    "id": "EST-KUKULLAGAETXEBARRI",
+    "name": "Kukullaga-Etxebarri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.89774,
+     43.24387
+    ]
+   },
+   "properties": {
+    "id": "EST-ETXEBARRI",
+    "name": "Etxebarri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.87587,
+     43.22762
+    ]
+   },
+   "properties": {
+    "id": "EST-ARIZBASAURI",
+    "name": "Ariz-Basauri",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.85419,
+     43.22878
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUHATZUGALDAKAO",
+    "name": "Zuhatzu-Galdakao",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.82176,
+     43.21774
+    ]
+   },
+   "properties": {
+    "id": "EST-USANSOLO",
+    "name": "Usansolo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.79761,
+     43.20612
+    ]
+   },
+   "properties": {
+    "id": "EST-BEDIA",
+    "name": "Bedia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.77541,
+     43.20714
+    ]
+   },
+   "properties": {
+    "id": "EST-LEMOA",
+    "name": "Lemoa",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.73646,
+     43.21676
+    ]
+   },
+   "properties": {
+    "id": "EST-AMOREBIETAGELTOKIA",
+    "name": "Amorebieta Geltokia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.73499,
+     43.22177
+    ]
+   },
+   "properties": {
+    "id": "EST-AMOREBIETAGERALEKUA",
+    "name": "Amorebieta Geralekua",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68942,
+     43.28679
+    ]
+   },
+   "properties": {
+    "id": "EST-ZUGAZTIETAMUXIKA",
+    "name": "Zugaztieta-Muxika",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.68942,
+     43.28679
+    ]
+   },
+   "properties": {
+    "id": "EST-MUXIKA",
+    "name": "Muxika",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67622,
+     43.31396
+    ]
+   },
+   "properties": {
+    "id": "EST-GERNIKA",
+    "name": "Gernika",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.67367,
+     43.33203
+    ]
+   },
+   "properties": {
+    "id": "EST-FORUA",
+    "name": "Forua",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.69036,
+     43.36796
+    ]
+   },
+   "properties": {
+    "id": "EST-SANKRISTOBALBUSTURIA",
+    "name": "San Kristobal-Busturia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.69367,
+     43.39087
+    ]
+   },
+   "properties": {
+    "id": "EST-AXPEBUSTURIA",
+    "name": "Axpe-Busturia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.69367,
+     43.39087
+    ]
+   },
+   "properties": {
+    "id": "EST-ITSASBEGIBUSTURIA",
+    "name": "Itsasbegi-Busturia",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.70104,
+     43.40889
+    ]
+   },
+   "properties": {
+    "id": "EST-MUNDAKA",
+    "name": "Mundaka",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.72334,
+     43.41787
+    ]
+   },
+   "properties": {
+    "id": "EST-BERMEO",
+    "name": "Bermeo",
+    "province": "Bizkaia",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009FE3"
+   }
+  }
+ ]
+}

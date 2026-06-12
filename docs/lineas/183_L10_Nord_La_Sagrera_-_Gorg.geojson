@@ -1,0 +1,156 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      2.18702,
+      41.42262
+     ],
+     [
+      2.19344,
+      41.42976
+     ],
+     [
+      2.20481,
+      41.43613
+     ],
+     [
+      2.21755,
+      41.4413
+     ],
+     [
+      2.22458,
+      41.44273
+     ],
+     [
+      2.23369,
+      41.44044
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "183",
+    "name": "L10 Nord La Sagrera - Gorg",
+    "type": "Metro",
+    "operator": "TMB",
+    "stroke": "#009EE0",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 6,
+    "coords_sta": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.18702,
+     41.42262
+    ]
+   },
+   "properties": {
+    "id": "EST-LASAGRERA",
+    "name": "La Sagrera",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.19344,
+     41.42976
+    ]
+   },
+   "properties": {
+    "id": "EST-ONZEDESETEMBRE",
+    "name": "Onze de Setembre",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.20481,
+     41.43613
+    ]
+   },
+   "properties": {
+    "id": "EST-BONPASTOR",
+    "name": "Bon Pastor",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.21755,
+     41.4413
+    ]
+   },
+   "properties": {
+    "id": "EST-LLEFIA",
+    "name": "Llefià",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.22458,
+     41.44273
+    ]
+   },
+   "properties": {
+    "id": "EST-LASALUT",
+    "name": "La Salut",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     2.23369,
+     41.44044
+    ]
+   },
+   "properties": {
+    "id": "EST-GORG",
+    "name": "Gorg",
+    "province": "Barcelona",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#009EE0"
+   }
+  }
+ ]
+}

@@ -1,0 +1,200 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -5.964,
+      37.33292
+     ],
+     [
+      -5.97582,
+      37.36281
+     ],
+     [
+      -6.04078,
+      37.41795
+     ],
+     [
+      -6.05688,
+      37.42666
+     ],
+     [
+      -6.12013,
+      37.42084
+     ],
+     [
+      -6.14829,
+      37.40722
+     ],
+     [
+      -6.19374,
+      37.38147
+     ],
+     [
+      -6.20799,
+      37.35711
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "229",
+    "name": "C-5 Jardines de Hércules - Benacazón",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#1B1464",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 9,
+    "coords_sta": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.964,
+     37.33292
+    ]
+   },
+   "properties": {
+    "id": "EST-JARDINESDEHERCULES",
+    "name": "Jardines de Hércules",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.97582,
+     37.36281
+    ]
+   },
+   "properties": {
+    "id": "EST-VIRGENDELROCIO",
+    "name": "Virgen del Rocío",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.04078,
+     37.41795
+    ]
+   },
+   "properties": {
+    "id": "EST-CAMAS",
+    "name": "Camas",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.05688,
+     37.42666
+    ]
+   },
+   "properties": {
+    "id": "EST-VALENCINASANTIPONCE",
+    "name": "Valencina-Santiponce",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.12013,
+     37.42084
+    ]
+   },
+   "properties": {
+    "id": "EST-SALTERAS",
+    "name": "Salteras",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.14829,
+     37.40722
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLANUEVADELARISCALOLIVARES",
+    "name": "Villanueva del Ariscal-Olivares",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.19374,
+     37.38147
+    ]
+   },
+   "properties": {
+    "id": "EST-SANLUCARLAMAYOR",
+    "name": "Sanlúcar la Mayor",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.20799,
+     37.35711
+    ]
+   },
+   "properties": {
+    "id": "EST-BENACAZON",
+    "name": "Benacazón",
+    "province": "Sevilla",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#1B1464"
+   }
+  }
+ ]
+}

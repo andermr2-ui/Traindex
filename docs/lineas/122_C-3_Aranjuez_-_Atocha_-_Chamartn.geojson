@@ -1,0 +1,310 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -3.61825,
+      40.03483
+     ],
+     [
+      -3.61013,
+      40.15906
+     ],
+     [
+      -3.6647,
+      40.19603
+     ],
+     [
+      -3.70384,
+      40.24299
+     ],
+     [
+      -3.70758,
+      40.30551
+     ],
+     [
+      -3.70969,
+      40.31853
+     ],
+     [
+      -3.69938,
+      40.33163
+     ],
+     [
+      -3.68375,
+      40.3422
+     ],
+     [
+      -3.68398,
+      40.35259
+     ],
+     [
+      -3.6886,
+      40.40697
+     ],
+     [
+      -3.70339,
+      40.41694
+     ],
+     [
+      -3.6917,
+      40.44584
+     ],
+     [
+      -3.68271,
+      40.47395
+     ]
+    ]
+   },
+   "properties": {
+    "lid": "122",
+    "name": "C-3 Aranjuez - Atocha - Chamartín",
+    "type": "Cercanías",
+    "operator": "Renfe",
+    "stroke": "#EC1C24",
+    "stroke-width": 3,
+    "stroke-opacity": 0.8,
+    "total_sta": 13,
+    "coords_sta": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61825,
+     40.03483
+    ]
+   },
+   "properties": {
+    "id": "EST-ARANJUEZ",
+    "name": "Aranjuez",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.61013,
+     40.15906
+    ]
+   },
+   "properties": {
+    "id": "EST-CIEMPOZUELOS",
+    "name": "Ciempozuelos",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6647,
+     40.19603
+    ]
+   },
+   "properties": {
+    "id": "EST-VALDEMORO",
+    "name": "Valdemoro",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70384,
+     40.24299
+    ]
+   },
+   "properties": {
+    "id": "EST-PINTO",
+    "name": "Pinto",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70758,
+     40.30551
+    ]
+   },
+   "properties": {
+    "id": "EST-GETAFEINDUSTRIAL",
+    "name": "Getafe Industrial",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70969,
+     40.31853
+    ]
+   },
+   "properties": {
+    "id": "EST-ELCASAR",
+    "name": "El Casar",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.69938,
+     40.33163
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCRISTOBALINDUSTRIAL",
+    "name": "San Cristóbal Industrial",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68375,
+     40.3422
+    ]
+   },
+   "properties": {
+    "id": "EST-SANCRISTOBALDELOSANGELES",
+    "name": "San Cristóbal de los Ángeles",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68398,
+     40.35259
+    ]
+   },
+   "properties": {
+    "id": "EST-VILLAVERDEBAJO",
+    "name": "Villaverde Bajo",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6886,
+     40.40697
+    ]
+   },
+   "properties": {
+    "id": "EST-ATOCHA",
+    "name": "Atocha",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.70339,
+     40.41694
+    ]
+   },
+   "properties": {
+    "id": "EST-SOL",
+    "name": "Sol",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.6917,
+     40.44584
+    ]
+   },
+   "properties": {
+    "id": "EST-NUEVOSMINISTERIOS",
+    "name": "Nuevos Ministerios",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.68271,
+     40.47395
+    ]
+   },
+   "properties": {
+    "id": "EST-CHAMARTIN",
+    "name": "Chamartín",
+    "province": "Madrid",
+    "marker-symbol": "rail",
+    "marker-size": "small",
+    "marker-color": "#EC1C24"
+   }
+  }
+ ]
+}
