@@ -1396,7 +1396,9 @@ try {
       }
       if (typeof CATALOGSTATIONS !== 'undefined') {
         state.catalogStations = CATALOGSTATIONS;
+        loadCatalogStations();
       }
+      updateNetwork();
     } catch(e) {
       console.error("Error al arrancar IndexedDB:", e);
       toast("⚠️ indexedDB falló. Usando modo de memoria local.");
@@ -3110,6 +3112,24 @@ function importGeoJSONAtlasLine(geojson, item) {
 
   toast(`✅ Línea ${item.line} cargada correctamente (${newLineData.km} km)`);
   renderLocalCatalog();
+}
+
+function loadCatalogStations() {
+  if (!state.catalogStations || state.catalogStations.length === 0) return;
+  state.catalogStations.forEach(function(st) {
+    const id = 'catstation_' + st.id;
+    if (!state.customStations[id]) {
+      state.customStations[id] = {
+        id: id,
+        name: st.name,
+        coords: [st.lon, st.lat],
+        type: 'Estaci\u00f3n de Ferrocarril',
+        lines: [],
+        municipio: st.municipio,
+        province: st.province
+      };
+    }
+  });
 }
 
 async function toggleCatalogLineGeoJSON(id) {
