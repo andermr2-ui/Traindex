@@ -1056,7 +1056,7 @@
       <div class="panel-section">
         <div class="panel-title">Catálogo de Líneas</div>
         <div style="font-size: 12px; margin-bottom: 10px; color: var(--text-muted);">
-          Navegá por <strong>CCAA › Provincia › Tipo de Red</strong>. Hacé clic en <strong>＋Cargar</strong> para ver la traza GeoJSON y las estaciones en el mapa.
+          Navegá por <strong>País › CCAA › Provincia › Red</strong>. Hacé clic en <strong>＋Cargar</strong> para ver la traza GeoJSON y las estaciones en el mapa.
         </div>
         <div id="local-catalog" class="local-catalog"></div>
       </div>
@@ -3034,12 +3034,38 @@ function importCatalogLineGeoJSON(geojson, item) {
   toast(`Línea ${item.name} cargada (${newLineData.km} km, ${stopsFeatures.length} estaciones)`);
   renderLocalCatalog();
 }
+
+function createCatalogLineHtml(line) {
+  var lineId = 'catline_' + line.id;
+  var isLoaded = state.lines.some(function(l) { return l.id === lineId; });
+  var color = line.color || '#3b82f6';
+  var operator = line.operator || 'Desconocido';
+  
+  return '<div class="catalog-item-atlas">' +
+    '<div class="atlas-line-header">' +
+      '<span style="width:24px;height:24px;border-radius:6px;background:' + color + ';flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:10px;color:#fff;font-weight:700;box-shadow:inset 0 0 6px rgba(0,0,0,0.3);">' + 
+        (line.name ? line.name.substring(0, 2).toUpperCase() : '??') + 
+      '</span>' +
+      '<div class="atlas-line-info">' +
+        '<div style="font-size:13px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + (line.name || 'Sin nombre') + '</div>' +
+        '<div style="font-size:10px;color:var(--text-muted);display:flex;gap:6px;align-items:center;margin-top:2px;">' +
+          '<span style="display:inline-flex;align-items:center;gap:4px;background:rgba(0,0,0,0.2);padding:2px 6px;border-radius:4px;border:1px solid var(--border);font-size:10px;color:#e2e2e9;">' + operator + '</span>' +
+        '</div>' +
+      '</div>' +
+      '<button class="btn btn-sm ' + (isLoaded ? 'btn-active' : 'btn-primary') + '" ' +
+        'onclick="toggleCatalogLineGeoJSON(' + line.id + ')" style="flex-shrink:0;min-width:70px;">' +
+        (isLoaded ? '✓ Cargada' : '+ Cargar') +
+      '</button>' +
+    '</div>' +
+  '</div>';
+}
+
 function renderLocalCatalog() {
   const container = document.getElementById('local-catalog');
   if (!container) return;
 
   if (!state.catalogLines || state.catalogLines.length === 0) {
-    container.innerHTML = '<div class="empty-state"><div class="empty-icon">\ud83d\udce6</div><div>No hay datos del catálogo.</div></div>';
+    container.innerHTML = '<div class="empty-state"><div class="empty-icon">\ud83d\udce6</div><div>No hay datos del cat\u00e1logo.</div></div>';
     return;
   }
 
@@ -3048,8 +3074,15 @@ function renderLocalCatalog() {
 
   lines.forEach(function(line) {
     if (!line.ccaa || line.ccaa.length === 0) return;
+    var country = line.country || 'Espa\u00f1a';
+    var network = line.network || line.type || 'Otros';
+    
     line.ccaa.forEach(function(cc) {
-      if (!tree[cc]) { tree[cc] = { provinces: [], byProv: {} }; }
+      if (!tree[country]) { tree[country] = { ccaas: [], byCcaa: {} }; }
+      if (!tree[country].byCcaa[cc]) { 
+        tree[country].byCcaa[cc] = { provinces: [], byProv: {} };
+        tree[country].ccaas.push(cc);
+      }
       
       var provsForCC = [];
       if (line.ccaa_prov_map && line.ccaa_prov_map[cc]) {
@@ -3061,11 +3094,11 @@ function renderLocalCatalog() {
       if (provsForCC.length === 0) { provsForCC = ['General']; }
       
       provsForCC.forEach(function(prov) {
-        if (tree[cc].provinces.indexOf(prov) < 0) { tree[cc].provinces.push(prov); }
-        if (!tree[cc].byProv[prov]) { tree[cc].byProv[prov] = {}; }
-        var type = line.type || 'Otros';
-        if (!tree[cc].byProv[prov][type]) { tree[cc].byProv[prov][type] = []; }
-        tree[cc].byProv[prov][type].push(line);
+        var ccaaNode = tree[country].byCcaa[cc];
+        if (ccaaNode.provinces.indexOf(prov) < 0) { ccaaNode.provinces.push(prov); }
+        if (!ccaaNode.byProv[prov]) { ccaaNode.byProv[prov] = {}; }
+        if (!ccaaNode.byProv[prov][network]) { ccaaNode.byProv[prov][network] = []; }
+        ccaaNode.byProv[prov][network].push(line);
       });
     });
   });
@@ -3076,47 +3109,64 @@ function renderLocalCatalog() {
     'Cataluna', 'Comunidad Valenciana', 'Extremadura', 'Galicia',
     'Madrid', 'Region de Murcia', 'Navarra', 'Pais Vasco', 'La Rioja'
   ];
-  var sortedCCAAs = Object.keys(tree).sort(function(a, b) {
-    var ia = ccaaOrder.indexOf(a);
-    var ib = ccaaOrder.indexOf(b);
-    if (ia === -1 && ib === -1) return a.localeCompare(b);
-    if (ia === -1) return 1;
-    if (ib === -1) return -1;
-    return ia - ib;
-  });
 
-  container.innerHTML = sortedCCAAs.map(function(ccaaKey) {
-    var node = tree[ccaaKey];
-    node.provinces.sort();
-    var ccaaCount = 0;
-    Object.keys(node.byProv).forEach(function(pk) {
-      Object.keys(node.byProv[pk]).forEach(function(tk) {
-        ccaaCount += node.byProv[pk][tk].length;
+  container.innerHTML = Object.keys(tree).sort().map(function(countryKey) {
+    var countryNode = tree[countryKey];
+    var countryCount = 0;
+    Object.keys(countryNode.byCcaa).forEach(function(ck) {
+      Object.keys(countryNode.byCcaa[ck].byProv).forEach(function(pk) {
+        Object.keys(countryNode.byCcaa[ck].byProv[pk]).forEach(function(nk) {
+          countryCount += countryNode.byCcaa[ck].byProv[pk][nk].length;
+        });
       });
     });
-    var isCCollapsed = state.collapsedCatalogs[ccaaKey];
+    var isCountryCollapsed = state.collapsedCatalogs[countryKey];
     
-    return '<details class="catalog-group" ' + (!isCCollapsed ? 'open' : '') + 
-      ' ontoggle="state.collapsedCatalogs[\'' + ccaaKey + '\'] = !this.open">' +
-      '<summary class="cat-ccaa-summary">\ud83d\uddfa\ufe0f ' + ccaaKey + ' <span class="group-count">' + ccaaCount + '</span></summary>' +
-      '<div class="cat-ccaa-body">' +
-      node.provinces.map(function(provKey) {
-        var provNode = node.byProv[provKey];
-        var provCount = 0;
-        Object.keys(provNode).forEach(function(tk) { provCount += provNode[tk].length; });
-        var isPCollapsed = state.collapsedProvince[ccaaKey + '_' + provKey];
-        return '<details class="catalog-subgroup" ' + (!isPCollapsed ? 'open' : '') + 
-          ' ontoggle="state.collapsedProvince[\'' + ccaaKey + '_' + provKey + '\'] = !this.open">' +
-          '<summary class="cat-prov-summary">\ud83d\udccd ' + provKey + ' <span class="group-count">' + provCount + '</span></summary>' +
-          '<div class="cat-prov-body">' +
-          Object.keys(provNode).sort().map(function(typeKey) {
-            var typeLines = provNode[typeKey];
-            var isTCollapsed = state.collapsedType[ccaaKey + '_' + provKey + '_' + typeKey];
-            return '<details class="catalog-subgroup" ' + (!isTCollapsed ? 'open' : '') + 
-              ' ontoggle="state.collapsedType[\'' + ccaaKey + '_' + provKey + '_' + typeKey + '\'] = !this.open">' +
-              '<summary class="cat-type-summary">\ud83d\ude86 ' + typeKey + ' <span class="group-count">' + typeLines.length + '</span></summary>' +
-              '<div class="cat-type-body">' +
-              typeLines.map(function(line) { return createCatalogLineHtml(line); }).join('') +
+    return '<details class="catalog-group" ' + (!isCountryCollapsed ? 'open' : '') + 
+      ' ontoggle="state.collapsedCatalogs[\'' + countryKey + '\'] = !this.open">' +
+      '<summary class="cat-ccaa-summary" style="font-size:14px;background:rgba(255,255,255,0.05);border:1px solid rgba(255,255,255,0.12);padding:10px 14px;border-radius:8px;margin-bottom:4px;">\ud83c\udf0d ' + countryKey + ' <span class="group-count">' + countryCount + '</span></summary>' +
+      '<div class="cat-ccaa-body" style="margin-left:4px;">' +
+      countryNode.ccaas.sort(function(a, b) {
+        var ia = ccaaOrder.indexOf(a);
+        var ib = ccaaOrder.indexOf(b);
+        if (ia === -1 && ib === -1) return a.localeCompare(b);
+        if (ia === -1) return 1;
+        if (ib === -1) return -1;
+        return ia - ib;
+      }).map(function(ccaaKey) {
+        var ccaaNode = countryNode.byCcaa[ccaaKey];
+        ccaaNode.provinces.sort();
+        var ccaaCount = 0;
+        Object.keys(ccaaNode.byProv).forEach(function(pk) {
+          Object.keys(ccaaNode.byProv[pk]).forEach(function(nk) {
+            ccaaCount += ccaaNode.byProv[pk][nk].length;
+          });
+        });
+        var isCCollapsed = state.collapsedProvince[countryKey + '_' + ccaaKey];
+        
+        return '<details class="catalog-subgroup" ' + (!isCCollapsed ? 'open' : '') + 
+          ' ontoggle="state.collapsedProvince[\'' + countryKey + '_' + ccaaKey + '\'] = !this.open" style="margin:4px 0 4px 8px;">' +
+          '<summary class="cat-ccaa-summary">\ud83d\uddfa\ufe0f ' + ccaaKey + ' <span class="group-count">' + ccaaCount + '</span></summary>' +
+          '<div class="cat-ccaa-body" style="margin-left:8px;">' +
+          ccaaNode.provinces.map(function(provKey) {
+            var provNode = ccaaNode.byProv[provKey];
+            var provCount = 0;
+            Object.keys(provNode).forEach(function(nk) { provCount += provNode[nk].length; });
+            var isPCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey];
+            return '<details class="catalog-subgroup" ' + (!isPCollapsed ? 'open' : '') + 
+              ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '\'] = !this.open" style="margin:2px 0 2px 8px;">' +
+              '<summary class="cat-prov-summary">\ud83d\udccd ' + provKey + ' <span class="group-count">' + provCount + '</span></summary>' +
+              '<div class="cat-prov-body" style="margin-left:8px;">' +
+              Object.keys(provNode).sort().map(function(networkKey) {
+                var netLines = provNode[networkKey];
+                var isNCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey + '_' + networkKey];
+                return '<details class="catalog-subgroup" ' + (!isNCollapsed ? 'open' : '') + 
+                  ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '_' + networkKey + '\'] = !this.open" style="margin:2px 0;">' +
+                  '<summary class="cat-type-summary">\ud83d\ude86 ' + networkKey + ' <span class="group-count">' + netLines.length + '</span></summary>' +
+                  '<div class="cat-type-body">' +
+                  netLines.map(function(line) { return createCatalogLineHtml(line); }).join('') +
+                  '</div></details>';
+              }).join('') +
               '</div></details>';
           }).join('') +
           '</div></details>';
