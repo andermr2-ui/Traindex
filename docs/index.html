@@ -1015,6 +1015,18 @@
     flex-direction: column;
     gap: 6px;
   }
+  .cat-net-summary {
+    font-size: 10px; font-weight: 500; color: #7aa2e7;
+    padding: 3px 6px; cursor: pointer; letter-spacing: 0.3px;
+  }
+  .cat-net-body {
+    padding: 4px 0 4px 6px;
+    border-left: 1px dotted rgba(122, 162, 231, 0.25);
+    margin-left: 6px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
   .group-count {
     margin-left: auto; font-size: 10px;
     background: rgba(255,255,255,0.08);
@@ -3076,6 +3088,7 @@ function renderLocalCatalog() {
     if (!line.ccaa || line.ccaa.length === 0) return;
     var country = line.country || 'Espa\u00f1a';
     var dispOp = line.display_operator || line.operator || 'Otros';
+    var netKey = line.network || 'Sin red';
     
     line.ccaa.forEach(function(cc) {
       if (!tree[country]) { tree[country] = { ccaas: [], byCcaa: {} }; }
@@ -3096,9 +3109,10 @@ function renderLocalCatalog() {
       provsForCC.forEach(function(prov) {
         var ccaaNode = tree[country].byCcaa[cc];
         if (ccaaNode.provinces.indexOf(prov) < 0) { ccaaNode.provinces.push(prov); }
-        if (!ccaaNode.byProv[prov]) { ccaaNode.byProv[prov] = {}; }
-        if (!ccaaNode.byProv[prov][dispOp]) { ccaaNode.byProv[prov][dispOp] = []; }
-        ccaaNode.byProv[prov][dispOp].push(line);
+        if (!ccaaNode.byProv[prov]) { ccaaNode.byProv[prov] = { byOp: {} }; }
+        if (!ccaaNode.byProv[prov].byOp[dispOp]) { ccaaNode.byProv[prov].byOp[dispOp] = { byNet: {} }; }
+        if (!ccaaNode.byProv[prov].byOp[dispOp].byNet[netKey]) { ccaaNode.byProv[prov].byOp[dispOp].byNet[netKey] = []; }
+        ccaaNode.byProv[prov].byOp[dispOp].byNet[netKey].push(line);
       });
     });
   });
@@ -3110,7 +3124,6 @@ function renderLocalCatalog() {
     'Madrid', 'Region de Murcia', 'Navarra', 'Pais Vasco', 'La Rioja'
   ];
 
-  // Operator priority for ordering (lower = first)
   var opPriority = {
     'Rodalies': 1,
     'FGC': 2,
@@ -3148,8 +3161,10 @@ function renderLocalCatalog() {
     var countryCount = 0;
     Object.keys(countryNode.byCcaa).forEach(function(ck) {
       Object.keys(countryNode.byCcaa[ck].byProv).forEach(function(pk) {
-        Object.keys(countryNode.byCcaa[ck].byProv[pk]).forEach(function(ok) {
-          countryCount += countryNode.byCcaa[ck].byProv[pk][ok].length;
+        Object.keys(countryNode.byCcaa[ck].byProv[pk].byOp).forEach(function(ok) {
+          Object.keys(countryNode.byCcaa[ck].byProv[pk].byOp[ok].byNet).forEach(function(nk) {
+            countryCount += countryNode.byCcaa[ck].byProv[pk].byOp[ok].byNet[nk].length;
+          });
         });
       });
     });
@@ -3171,8 +3186,10 @@ function renderLocalCatalog() {
         ccaaNode.provinces.sort();
         var ccaaCount = 0;
         Object.keys(ccaaNode.byProv).forEach(function(pk) {
-          Object.keys(ccaaNode.byProv[pk]).forEach(function(ok) {
-            ccaaCount += ccaaNode.byProv[pk][ok].length;
+          Object.keys(ccaaNode.byProv[pk].byOp).forEach(function(ok) {
+            Object.keys(ccaaNode.byProv[pk].byOp[ok].byNet).forEach(function(nk) {
+              ccaaCount += ccaaNode.byProv[pk].byOp[ok].byNet[nk].length;
+            });
           });
         });
         var isCCollapsed = state.collapsedProvince[countryKey + '_' + ccaaKey];
@@ -3184,20 +3201,31 @@ function renderLocalCatalog() {
           ccaaNode.provinces.map(function(provKey) {
             var provNode = ccaaNode.byProv[provKey];
             var provCount = 0;
-            Object.keys(provNode).forEach(function(ok) { provCount += provNode[ok].length; });
+            Object.keys(provNode.byOp).forEach(function(ok) {
+              Object.keys(provNode.byOp[ok].byNet).forEach(function(nk) {
+                provCount += provNode.byOp[ok].byNet[nk].length;
+              });
+            });
             var isPCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey];
             return '<details class="catalog-subgroup" ' + (!isPCollapsed ? 'open' : '') + 
               ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '\'] = !this.open" style="margin:2px 0 2px 8px;">' +
               '<summary class="cat-prov-summary">\ud83d\udccd ' + provKey + ' <span class="group-count">' + provCount + '</span></summary>' +
               '<div class="cat-prov-body" style="margin-left:8px;">' +
-              Object.keys(provNode).sort(sortOps).map(function(opKey) {
-                var opLines = provNode[opKey];
-                var isOCollapsed = state.collapsedType[countryKey + '_' + ccaaKey + '_' + provKey + '_' + opKey];
-                return '<details class="catalog-subgroup" ' + (!isOCollapsed ? 'open' : '') + 
+              Object.keys(provNode.byOp).sort(sortOps).map(function(opKey) {
+                var opNode = provNode.byOp[opKey];
+                return '<details class="catalog-subgroup" ' + 
                   ' ontoggle="state.collapsedType[\'' + countryKey + '_' + ccaaKey + '_' + provKey + '_' + opKey + '\'] = !this.open" style="margin:2px 0;">' +
-                  '<summary class="cat-type-summary">\ud83d\ude86 ' + opKey + ' <span class="group-count">' + opLines.length + '</span></summary>' +
+                  '<summary class="cat-type-summary">\ud83d\ude86 ' + opKey + ' <span class="group-count">' + 
+                  Object.keys(opNode.byNet).reduce(function(sum, nk) { return sum + opNode.byNet[nk].length; }, 0) + '</span></summary>' +
                   '<div class="cat-type-body">' +
-                  opLines.sort(function(a, b) { return (a.name || '').localeCompare(b.name || ''); }).map(function(line) { return createCatalogLineHtml(line); }).join('') +
+                  Object.keys(opNode.byNet).sort(function(a, b) { return a.localeCompare(b); }).map(function(netKey) {
+                    var netLines = opNode.byNet[netKey];
+                    return '<details class="catalog-subgroup" style="margin:2px 0 2px 8px;" open>' +
+                      '<summary class="cat-net-summary">\u2699\ufe0f ' + netKey + ' <span class="group-count">' + netLines.length + '</span></summary>' +
+                      '<div class="cat-net-body" style="margin-left:8px;">' +
+                      netLines.sort(function(a, b) { return (a.name || '').localeCompare(b.name || ''); }).map(function(line) { return createCatalogLineHtml(line); }).join('') +
+                      '</div></details>';
+                  }).join('') +
                   '</div></details>';
               }).join('') +
               '</div></details>';
