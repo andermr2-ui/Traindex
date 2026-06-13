@@ -27821,8 +27821,8 @@ const CATALOGSTATIONS =
     "municipio": "Almería",
     "province": "Almería",
     "ccaa": "Andalucía",
-    "lat": 38.09617,
-    "lon": -3.62279
+    "lat": 36.83465568231573,
+    "lon": -2.456067704951168
   },
   {
     "id": "EST-SONCOSTASONFORTESA",
