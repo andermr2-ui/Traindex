@@ -23,7 +23,7 @@
     --text-muted: #8b8ba3;
     --accent: #2563eb;
     --accent-glow: rgba(37, 99, 235, 0.35);
-    --panel-w: 480px;
+    --panel-w: 390px;
     --header-h: 64px;
     --success: #10b981;
     --danger: #ef4444;
@@ -581,8 +581,9 @@
   .line-name {
     font-size: 13px;
     font-weight: 600;
-    line-height: 1.35;
-    word-break: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
 
   .line-meta {
@@ -2485,7 +2486,7 @@ function updateNetwork() {
       if (matchedKey) {
         const ex = mergedStations.get(matchedKey);
         if(!ex.lines.some(l => l.ref === line.ref)) {
-          ex.lines.push({ ref: line.ref, color: line.color, scope: line.scope || 'generic', operator: line.operator });
+          ex.lines.push({ ref: line.ref, name: line.name, color: line.color, scope: line.scope || 'generic', operator: line.operator });
         }
         if (!ex.scope || ex.scope === 'generic') {
           ex.scope = line.scope || ex.scope || 'generic';
@@ -2497,7 +2498,7 @@ function updateNetwork() {
           coords: coords,
           operator: line.operator,
           scope: line.scope || 'generic',
-          lines: [{ ref: line.ref, color: line.color, scope: line.scope || 'generic', operator: line.operator }],
+          lines: [{ ref: line.ref, name: line.name, color: line.color, scope: line.scope || 'generic', operator: line.operator }],
           status: 'activo'
         });
       }
@@ -2602,61 +2603,55 @@ function openStationEditor(e) {
   const opInfo = OPERATORS_LIBRARY[f.operator] || OPERATORS_LIBRARY['desconocido'];
   const linesArr = JSON.parse(f.lines || '[]');
 
-  let badgesHtml = linesArr.map(l => 
-    `<span style="background:${l.color}; color:#fff; padding:2px 6px; border-radius:4px; font-size:10px; font-weight:700; margin-right:4px;">${l.ref}</span>`
-  ).join('');
+  let linesHtml = linesArr.map(l => {
+    const displayName = l.name || l.ref || '—';
+    return `<div style="display:flex; align-items:center; gap:8px; padding:4px 0; border-bottom:1px solid rgba(255,255,255,0.06);">
+      <span style="background:${l.color}; color:#fff; padding:1px 7px; border-radius:4px; font-size:10px; font-weight:700; white-space:nowrap;">${l.ref}</span>
+      <span style="font-size:12px; color:var(--text);">${displayName}</span>
+    </div>`;
+  }).join('') || '<div style="font-size:11px; color:var(--text-muted); padding:4px 0;">No tiene líneas asignadas</div>';
 
   const html = `
-    <div class="popup-editor">
+    <div class="popup-editor" style="min-width:260px;">
       <div class="popup-title">
-        ${opInfo.logo ? `<img src="${opInfo.logo}" style="width:16px; height:16px; object-fit:contain;">` : '🚉'}
-        <span>Detalles de Estación</span>
+        <span style="font-size:16px;">🚉 ${f.name}</span>
+      </div>
+      <div style="font-size:11px; color:var(--text-muted); margin:4px 0 10px 0;">
+        ${opInfo.logo ? `<img src="${opInfo.logo}" style="width:14px; height:14px; object-fit:contain; vertical-align:middle; margin-right:4px;">` : ''}
+        ${f.operator ? (OPERATORS_LIBRARY[f.operator]?.name || f.operator) : ''}
       </div>
       <div class="popup-field">
-        <label>Nombre Comercial</label>
-        <input type="text" id="pop-st-name" class="popup-input" value="${f.name}">
+        <label>Líneas que paran aquí</label>
+        <div style="margin-top:4px; max-height:200px; overflow-y:auto;">${linesHtml}</div>
       </div>
       <div class="popup-field">
-        <label>Operador Primario</label>
-        <select id="pop-st-op" class="popup-select">
-          <option value="rodalies" ${f.operator === 'rodalies' ? 'selected' : ''}>Rodalies de Catalunya</option>
-          <option value="fgc" ${f.operator === 'fgc' ? 'selected' : ''}>FGC</option>
-          <option value="tmb" ${f.operator === 'tmb' ? 'selected' : ''}>Metro TMB</option>
-          <option value="renfe" ${f.operator === 'renfe' ? 'selected' : ''}>Renfe Operadora</option>
-          <option value="sncf" ${f.operator === 'sncf' ? 'selected' : ''}>SNCF</option>
-          <option value="desconocido" ${f.operator === 'desconocido' ? 'selected' : ''}>Otro / Genérico</option>
-        </select>
+        <label>Renombrar estación</label>
+        <input type="text" id="pop-st-name" class="popup-input" value="${f.name}" style="margin-top:4px;">
       </div>
-      <div class="popup-field">
-        <label>Estado del Servicio</label>
-        <select id="pop-st-status" class="popup-select">
-          <option value="activo" ${f.status === 'activo' ? 'selected' : ''}>En Servicio</option>
-          <option value="desuso" ${f.status === 'desuso' ? 'selected' : ''}>Fuera de Servicio</option>
-        </select>
-      </div>
-      ${linesArr.length > 0 ? `<div class="popup-field"><label>Líneas que conectan</label><div style="margin-top:4px;">${badgesHtml}</div></div>` : ''}
-      <button class="btn btn-primary" style="width:100%; justify-content:center; margin-top:8px;" onclick="saveStation('${f.id}', ${geom.coordinates[0]}, ${geom.coordinates[1]})">
-        Guardar Configuración
+      <button class="btn btn-primary" style="width:100%; justify-content:center; margin-top:8px;" onclick="saveStationName('${f.id}', ${geom.coordinates[0]}, ${geom.coordinates[1]})">
+        Guardar Nombre
       </button>
     </div>`;
     
   new maplibregl.Popup({ offset: 10 }).setLngLat(geom.coordinates).setHTML(html).addTo(map);
 }
 
-function saveStation(id, lon, lat) {
+function saveStationName(id, lon, lat) {
   const name = document.getElementById('pop-st-name').value.trim();
-  const operator = document.getElementById('pop-st-op').value;
-  const status = document.getElementById('pop-st-status').value;
 
   if (id.startsWith("osm_")) {
     const osmId = id.replace("osm_", "");
     state.osmStations[osmId].name = name;
-    state.osmStations[osmId].operator = operator;
-    state.osmStations[osmId].status = status;
-  } else {
+  } else if (id.startsWith("manual_")) {
     const manualId = id.replace("manual_", "");
-    state.customStations[manualId] = { id: manualId, name, operator, status, coords: [lon, lat] };
-    saveCustomStationToDB(state.customStations[manualId]);
+    if (state.customStations[manualId]) {
+      state.customStations[manualId].name = name;
+      saveCustomStationToDB(state.customStations[manualId]);
+    }
+  } else {
+    // kml_ stations — save to custom
+    state.customStations[id] = { id, name, operator: 'desconocido', status: 'activo', coords: [lon, lat] };
+    saveCustomStationToDB(state.customStations[id]);
   }
 
   // Cerrar popups activos
@@ -2664,7 +2659,7 @@ function saveStation(id, lon, lat) {
   while(popups[0]) popups[0].remove();
   
   updateNetwork();
-  toast("✓ Estación guardada correctamente.");
+  toast("✓ Nombre de estación guardado.");
 }
 
 // --- CREACIÓN MANUAL DE ESTACIÓN FLOTANTE ---
