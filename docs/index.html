@@ -2503,9 +2503,17 @@ function updateNetwork() {
     });
   });
 
-  // 3. Integrar estaciones creadas manualmente
+  // 3. Integrar estaciones creadas manualmente (sin duplicar las que ya tienen lineas)
   Object.keys(state.customStations).forEach(id => {
     const st = state.customStations[id];
+    // No sobreescribir estaciones que ya tienen asignacion de lineas
+    var alreadyExists = false;
+    mergedStations.forEach(function(val) {
+      if (val.name.toLowerCase() === st.name.toLowerCase()) {
+        alreadyExists = true;
+      }
+    });
+    if (alreadyExists) return;
     mergedStations.set("manual_" + id, {
       name: st.name,
       coords: st.coords,

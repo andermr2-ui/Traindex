@@ -12989,8 +12989,8 @@ const CATALOGSTATIONS =
     "municipio": "Murcia",
     "province": "Murcia",
     "ccaa": "Región de Murcia",
-    "lat": 37.97658,
-    "lon": -1.13346
+    "lat": 37.974498,
+    "lon": -1.130589
   },
   {
     "id": "EST-ALMURADIELVISODELMARQUES",
@@ -13673,8 +13673,8 @@ const CATALOGSTATIONS =
     "municipio": "Librilla",
     "province": "Murcia",
     "ccaa": "Región de Murcia",
-    "lat": 37.88705,
-    "lon": -1.34728
+    "lat": 37.886539,
+    "lon": -1.347137
   },
   {
     "id": "EST-SANFELIZ",
@@ -14663,8 +14663,8 @@ const CATALOGSTATIONS =
     "municipio": "Totana",
     "province": "Murcia",
     "ccaa": "Región de Murcia",
-    "lat": 37.86234,
-    "lon": -1.57478
+    "lat": 37.76354171237058,
+    "lon": -1.4956345927925359
   },
   {
     "id": "EST-CIUDADREAL",
@@ -18861,15 +18861,6 @@ const CATALOGSTATIONS =
     "lon": -0.40836
   },
   {
-    "id": "EST-LAISLA",
-    "name": "La Isla",
-    "municipio": "Málaga",
-    "province": "Málaga",
-    "ccaa": "Andalucía",
-    "lat": 37.67125,
-    "lon": -1.69697
-  },
-  {
     "id": "EST-INGENIEROS",
     "name": "Ingenieros",
     "municipio": "San Cristóbal de La Laguna",
@@ -20189,8 +20180,8 @@ const CATALOGSTATIONS =
     "municipio": "Lorca",
     "province": "Murcia",
     "ccaa": "Región de Murcia",
-    "lat": 36.41124,
-    "lon": -6.13908
+    "lat": 37.703760077189216,
+    "lon": -1.5953652492636616
   },
   {
     "id": "EST-BAKIOLA",
