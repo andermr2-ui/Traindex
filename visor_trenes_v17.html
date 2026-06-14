@@ -3241,10 +3241,16 @@ function importCatalogLineGeoJSON(geojson, item) {
   // Add station points from catalog
   const stopsFeatures = [];
   if (state.catalogStations && item.ccaa && item.provinces) {
+    // Normalizar tildes y diacríticos para comparación
+    function normalizeStr(s) {
+      return (s || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+    }
+    const lineNormCCAA = (item.ccaa || []).map(function(c) { return normalizeStr(c); });
+    const lineNormProvs = (item.provinces || []).map(function(p) { return normalizeStr(p); });
     state.catalogStations.forEach(function(st) {
-      const stProv = st.province;
-      const stCCAA = st.ccaa;
-      if (item.provinces.includes(stProv) && item.ccaa.includes(stCCAA)) {
+      const stNormProv = normalizeStr(st.province);
+      const stNormCCAA = normalizeStr(st.ccaa);
+      if (lineNormProvs.includes(stNormProv) && lineNormCCAA.includes(stNormCCAA)) {
         stopsFeatures.push({
           type: 'Feature',
           geometry: { type: 'Point', coordinates: [st.lon, st.lat] },
