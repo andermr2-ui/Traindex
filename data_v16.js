@@ -12804,15 +12804,6 @@ const CATALOGSTATIONS =
     "lon": 1.67797
   },
   {
-    "id": "EST-CARLOSV",
-    "name": "Carlos V",
-    "municipio": "Zaragoza",
-    "province": "Zaragoza",
-    "ccaa": "Aragón",
-    "lat": 37.39715,
-    "lon": -1.75932
-  },
-  {
     "id": "EST-LOMBERA",
     "name": "Lombera",
     "municipio": "Los Corrales de Buelna",
@@ -15527,8 +15518,8 @@ const CATALOGSTATIONS =
     "municipio": "Águilas",
     "province": "Murcia",
     "ccaa": "Región de Murcia",
-    "lat": 40.38146,
-    "lon": -3.78038
+    "lat": 37.40985424123273,
+    "lon": -1.572525593419774
   },
   {
     "id": "EST-ITSASBEGIBUSTURIA",
@@ -16949,8 +16940,8 @@ const CATALOGSTATIONS =
     "municipio": "Pulpí",
     "province": "Almería",
     "ccaa": "Andalucía",
-    "lat": 37.39464,
-    "lon": -1.6944
+    "lat": 37.39244398925538,
+    "lon": -1.6930073185995167
   },
   {
     "id": "EST-UGENA",
