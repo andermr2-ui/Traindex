@@ -5397,6 +5397,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.779565,
+          37.47475
+        ]
+      },
+      "properties": {
+        "operator": "Renfe",
+        "network": "Cercanías Murcia Alicante",
+        "line": "C2",
+        "route": "cercanias",
+        "type": "cercanias",
+        "gauge": "desconocido",
+        "electrified": "desconocido",
+        "maxspeed": "desconocido",
+        "name": "Almendricos",
+        "source": "Manual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.7495878,
           37.3991527
         ]

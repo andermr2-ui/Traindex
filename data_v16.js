@@ -21048,6 +21048,15 @@ const CATALOGSTATIONS =
     "lon": -6.39953
   },
   {
+    "id": "EST-ALMENDRICOS",
+    "name": "Almendricos",
+    "municipio": "Puerto Lumbreras",
+    "province": "Murcia",
+    "ccaa": "Región de Murcia",
+    "lat": 37.47475,
+    "lon": -1.779565
+  },
+  {
     "id": "EST-HUELVA",
     "name": "Huelva",
     "municipio": "Huelva",
