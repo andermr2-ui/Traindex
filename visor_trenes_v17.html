@@ -3148,6 +3148,14 @@ async function toggleCatalogLineGeoJSON(id) {
 
   toast('Cargando traza para ' + item.name + '...');
   
+  // 1) Intentar desde GEOJSON_CACHE (script tag, funciona desde file://)
+  var cached = window.GEOJSON_CACHE && window.GEOJSON_CACHE[id];
+  if (cached) {
+    importCatalogLineGeoJSON(cached, item);
+    return;
+  }
+
+  // 2) Intentar con fetch (funciona desde servidor http)
   try {
     const geojsonFile = item.geojson;
     const res = await fetch('geojson/' + geojsonFile, { cache: 'no-store' });
@@ -3158,6 +3166,25 @@ async function toggleCatalogLineGeoJSON(id) {
     }
   } catch (err) {}
   
+  // 3) Fallback: cargar via script tag desde geojson/{id}.js
+  try {
+    var loaded = await new Promise(function(resolve) {
+      var s = document.createElement('script');
+      s.src = 'geojson/' + id + '.js';
+      s.onload = function() {
+        var d = window.GEOJSON_CACHE && window.GEOJSON_CACHE[id];
+        resolve(d || null);
+      };
+      s.onerror = function() { resolve(null); };
+      document.head.appendChild(s);
+    });
+    if (loaded) {
+      importCatalogLineGeoJSON(loaded, item);
+      return;
+    }
+  } catch (err) {}
+  
+  // 4) Fallback final: _all_routes.geojson
   try {
     const res = await fetch('geojson/_all_routes.geojson', { cache: 'no-store' });
     if (res.ok) {
